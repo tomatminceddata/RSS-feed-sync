@@ -13,6 +13,12 @@
       "vault_folder": "Microsoft Fabric/Microsoft Fabric - Power BI/Power BI blog"
     },
     {
+      "name": "SonyAlphaRumors",
+      "source": "SonyAlphaRumors",
+      "rss_url": "https://www.sonyalpharumors.com/feed/",
+    "vault_folder": "Tom/SonyAlphaRumors articles"
+    },
+    {
       "name": "MacRumors",
       "source": "MacRumors",
       "rss_url": "https://feeds.macrumors.com/MacRumors-All/",
