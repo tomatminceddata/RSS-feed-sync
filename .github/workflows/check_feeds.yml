@@ -7,6 +7,9 @@ on:
   workflow_dispatch:
     # Manual trigger from GitHub UI — useful during events like FabCon
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   check-feeds:
     runs-on: ubuntu-latest
