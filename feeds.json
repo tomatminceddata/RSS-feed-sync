@@ -1,0 +1,19 @@
+{
+  "feeds": [
+    {
+      "name": "Microsoft Fabric Blog",
+      "source": "MicrosoftFabricBlog",
+      "rss_url": "https://blog.fabric.microsoft.com/en-us/blog/feed/",
+      "vault_folder": "Microsoft Fabric/Microsoft Fabric blog"
+    },
+    {
+      "name": "Power BI Blog",
+      "source": "PowerBIBlog",
+      "rss_url": "https://powerbi.microsoft.com/en-us/blog/feed/",
+      "vault_folder": "Microsoft Fabric/Microsoft Fabric - Power BI/Power BI blog"
+    }
+  ],
+  "settings": {
+    "keep_synced_days": 90
+  }
+}

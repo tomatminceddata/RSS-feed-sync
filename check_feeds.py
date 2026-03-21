@@ -10,30 +10,25 @@ writes updated JSON back. GitHub Actions handles the commit.
 
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from time import mktime
 
 import feedparser
 
 # ---------------------------------------------------------------------------
-# Configuration
+# Configuration — loaded from feeds.json
 # ---------------------------------------------------------------------------
 
-FEEDS = [
-    {
-        "name": "Microsoft Fabric Blog",
-        "source": "MicrosoftFabricBlog",
-        "rss_url": "https://blog.fabric.microsoft.com/en-us/blog/feed/",
-    },
-    {
-        "name": "Power BI Blog",
-        "source": "PowerBIBlog",
-        "rss_url": "https://powerbi.microsoft.com/en-us/blog/feed/",
-    },
-]
+SCRIPT_DIR = Path(__file__).parent
+FEEDS_CONFIG_FILE = SCRIPT_DIR / "feeds.json"
+PENDING_FILE = SCRIPT_DIR / "pending_articles.json"
 
-PENDING_FILE = Path(__file__).parent / "pending_articles.json"
+
+def load_feeds_config() -> dict:
+    """Load feed definitions and settings from feeds.json."""
+    with open(FEEDS_CONFIG_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 
 # ---------------------------------------------------------------------------
@@ -78,14 +73,40 @@ def parse_published(entry) -> str:
 # Main
 # ---------------------------------------------------------------------------
 
+def prune_synced(data: dict, keep_days: int) -> int:
+    """Remove synced articles older than keep_days. Returns count removed."""
+    if keep_days <= 0:
+        return 0
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=keep_days)
+    cutoff_str = format_iso8601(cutoff)
+
+    before = len(data["articles"])
+    data["articles"] = [
+        a for a in data["articles"]
+        if not (a["status"] == "synced" and a.get("synced_at", "") < cutoff_str)
+    ]
+    removed = before - len(data["articles"])
+    if removed:
+        print(f"Pruned {removed} synced articles older than {keep_days} days")
+    return removed
+
+
 def main():
+    config = load_feeds_config()
+    feeds = config["feeds"]
+    keep_days = config.get("settings", {}).get("keep_synced_days", 90)
+
     data = load_pending()
     known_urls = get_known_urls(data)
     now = format_iso8601(datetime.now(timezone.utc))
 
+    # Prune old synced articles
+    prune_synced(data, keep_days)
+
     total_new = 0
 
-    for feed_config in FEEDS:
+    for feed_config in feeds:
         name = feed_config["name"]
         rss_url = feed_config["rss_url"]
         source = feed_config["source"]
