@@ -11,6 +11,12 @@
       "source": "PowerBIBlog",
       "rss_url": "https://powerbi.microsoft.com/en-us/blog/feed/",
       "vault_folder": "Microsoft Fabric/Microsoft Fabric - Power BI/Power BI blog"
+    },
+    {
+      "name": "MacRumors",
+      "source": "MacRumors",
+      "rss_url": "https://feeds.macrumors.com/MacRumors-All/",
+      "vault_folder": "Tom/MacRumors articles"
     }
   ],
   "settings": {
