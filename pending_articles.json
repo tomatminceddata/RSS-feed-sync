@@ -427,7 +427,15 @@
       "feed": "MacRumors",
       "discovered": "2026-03-21T16:10:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/limited-time-deal-10-off-on-the-peakdesogn-roller-pro/",
+      "title": "Limited time deal: 10% off on the PeakDesogn Roller PRO",
+      "published": "2026-03-21T17:03:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-21T20:08:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-21T16:10:09+00:00"
+  "last_checked": "2026-03-21T20:08:50+00:00"
 }
