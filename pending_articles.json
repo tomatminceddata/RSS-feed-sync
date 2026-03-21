@@ -179,7 +179,223 @@
       "discovered": "2026-03-21T08:20:18+00:00",
       "status": "synced",
       "synced_at": "2026-03-21T08:29:24+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-images-of-the-new-typoch-24-50mm-f-2-8-fe-autofocus-lens/",
+      "title": "First images of the new Typoch 24-50mm f/2.8 FE autofocus lens!",
+      "published": "2026-03-21T10:44:51+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1897/",
+      "title": "Sony Tidbits…",
+      "published": "2026-03-21T06:53:05+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/aiarty-image-enhancer-improves-face-restoration-and-denoising-for-old-and-high-iso-images-update/",
+      "title": "Aiarty Image Enhancer Improves Face Restoration and Denoising for Old and High-ISO Images (Update)",
+      "published": "2026-03-21T02:26:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/up-t-o-10-off-on-sirui-gear-with-this-code/",
+      "title": "Sirui spring deals: Up to 70% off!",
+      "published": "2026-03-20T21:06:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/some-wild-rumors-about-new-sony-400mm-and-600mm-fresnel-lenses/",
+      "title": "Some wild rumors about new Sony 400mm and 600mm Fresnel lenses?",
+      "published": "2026-03-20T14:04:38+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx6-gets-massive-6-0-firmware-update/",
+      "title": "Sony FX6 gets massive 6.0 firmware update",
+      "published": "2026-03-20T11:21:20+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1896/",
+      "title": "Sony Tidbits…",
+      "published": "2026-03-20T07:39:19+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/20/ios-26-4-top-10-features/",
+      "title": "iOS 26.4: Top 10 New Features Coming to Your iPhone",
+      "published": "2026-03-20T21:44:41+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/20/nike-powerbeats-pro-2-now-available/",
+      "title": "Apple's Special-Edition Nike Powerbeats Pro 2 Now Available",
+      "published": "2026-03-20T19:55:45+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/20/the-macrumors-show-airpods-max-2-announcement/",
+      "title": "The MacRumors Show: Surprise AirPods Max 2 Announcement",
+      "published": "2026-03-20T16:58:45+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/m5-macbook-air-vs-m5-macbook-pro/",
+      "title": "M5 MacBook Air vs. M5 MacBook Pro Buyer's Guide",
+      "published": "2026-03-20T16:08:16+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/20/macbook-neo-charging-test/",
+      "title": "MacBook Neo Charging Test: Here's Which Apple Charger is the Fastest",
+      "published": "2026-03-20T15:53:31+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/20/openai-super-app-in-development-chatgpt/",
+      "title": "OpenAI 'Superapp' to Merge ChatGPT, Codex, and Atlas Browser",
+      "published": "2026-03-20T15:48:08+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/20/apple-50th-anniversary-australia/",
+      "title": "Apple's 50th Anniversary Celebrations Headed to Australia",
+      "published": "2026-03-20T15:22:46+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/20/apple-made-nearly-900m-from-ai-apps-2025/",
+      "title": "Apple Made Nearly $900 Million From Generative AI Apps Last Year",
+      "published": "2026-03-20T13:23:10+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/",
+      "title": "Apple Announces New Mac Sales Record Following MacBook Neo Launch",
+      "published": "2026-03-20T13:14:34+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/perplexity-apple-health-integration/",
+      "title": "Perplexity Can Now Access Your Apple Health Data to Answer Medical Questions",
+      "published": "2026-03-19T23:30:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/hermes-magsafe-chargers/",
+      "title": "Hermès Now Sells $1,250+ MagSafe Chargers Wrapped in Calfskin Leather",
+      "published": "2026-03-19T23:03:47+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/itc-apple-watch-workaround-valid/",
+      "title": "ITC Judge Rules Apple Watch Blood Oxygen Workaround Does Not Infringe Masimo Patents",
+      "published": "2026-03-19T22:10:08+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/google-native-gemini-mac-app/",
+      "title": "Google Working on Native Gemini AI App for Mac to Rival ChatGPT and Claude",
+      "published": "2026-03-19T20:03:09+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/foldable-iphone-december-shipping-rumor/",
+      "title": "Analyst: Foldable iPhone Likely to Ship in December, iPhone 18 Plus is Possible Next Year",
+      "published": "2026-03-19T19:28:04+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/20/best-apple-deals-of-the-week-3-20-26/",
+      "title": "Best Apple Deals of the Week: AirPods Pro 3 Hit $199.99 Lowest Price on Amazon",
+      "published": "2026-03-19T19:19:39+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/apple-outdated-ios-update-warning/",
+      "title": "Apple Urges iPhone Users Running Outdated iOS Versions to Update Immediately",
+      "published": "2026-03-19T17:41:37+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/vivaldi-7-9-desktop-auto-hide-ui-browsing/",
+      "title": "Vivaldi 7.9 for Desktop Adds Auto-Hide UI for Distraction-Free Browsing",
+      "published": "2026-03-19T16:09:47+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/today-at-apple-50th-anniversary-sessions/",
+      "title": "Apple's 50th Anniversary Celebrations Coming to Three More Countries",
+      "published": "2026-03-19T15:32:47+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/apple-watch-series-11-low-prices-2/",
+      "title": "Apple Watch Series 11 Hits All-Time Low Prices on Amazon With $100 Off Nearly Every Aluminum Model",
+      "published": "2026-03-19T14:37:01+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/19/tim-cook-says-he-is-not-political/",
+      "title": "Apple CEO Tim Cook: 'I'm Not a Political Person'",
+      "published": "2026-03-19T13:26:36+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-21T12:13:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-21T08:20:18+00:00"
+  "last_checked": "2026-03-21T12:13:58+00:00"
 }
