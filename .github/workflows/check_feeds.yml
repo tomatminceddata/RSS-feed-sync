@@ -1,0 +1,40 @@
+name: Check RSS Feeds
+
+on:
+  schedule:
+    # Every 4 hours — 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+    # Manual trigger from GitHub UI — useful during events like FabCon
+
+jobs:
+  check-feeds:
+    runs-on: ubuntu-latest
+
+    # Grant write permission so the job can push commits
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Check RSS feeds
+        id: check
+        run: python check_feeds.py
+
+      - name: Commit and push if changed
+        if: steps.check.outputs.new_articles != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pending_articles.json
+          git diff --staged --quiet || (git commit -m "🆕 $(date -u +%Y-%m-%dT%H:%M:%SZ): new articles found" && git push)
