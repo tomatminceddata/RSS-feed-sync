@@ -1,4 +1,165 @@
 {
-  "articles": [],
-  "last_checked": null
+  "articles": [
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/introducing-bulk-export-and-import-apis-for-ci-cd-in-microsoft-fabric-preview/",
+      "title": "Introducing Bulk Export and Import APIs for CI/CD in Microsoft Fabric (Preview)",
+      "published": "2026-03-20T16:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/introducing-new-git-developer-experiences-in-microsoft-fabric-preview/",
+      "title": "Introducing new Git developer experiences in Microsoft Fabric (Preview)",
+      "published": "2026-03-20T16:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/instantly-run-and-preview-functions-in-microsoft-fabric-eventhouse-no-code-required/",
+      "title": "Instantly Run and Preview Functions in Microsoft Fabric Eventhouse: No Code Required",
+      "published": "2026-03-20T13:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/modernizing-pipelines-new-activities-and-innovations-in-fabric-data-factory-pipelines/",
+      "title": "Modernizing pipelines: New activities and innovations in Fabric Data Factory pipelines",
+      "published": "2026-03-20T11:45:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/fabric-notebook-public-apis-generally-available/",
+      "title": "Fabric Notebook Public APIs (Generally Available)",
+      "published": "2026-03-20T11:40:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/building-real-time-event-driven-applications-with-database-cdc-feeds-and-fabric-eventstreams-deltaflow-preview/",
+      "title": "Building real-time, event-driven applications with Database CDC feeds and Fabric Eventstreams DeltaFlow (Preview)",
+      "published": "2026-03-20T10:40:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/workspace-monitoring-dashboard-templates-in-microsoft-fabric-eventhouse/",
+      "title": "Workspace Monitoring dashboard templates in Microsoft Fabric Eventhouse",
+      "published": "2026-03-20T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/fabric-extensibility-self-service-workload-publishing-generally-available/",
+      "title": "Fabric Extensibility—Self Service Workload Publishing (Generally Available)",
+      "published": "2026-03-20T09:15:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/fabric-extensibility-whats-new-in-workload-management/",
+      "title": "Fabric Extensibility—What&#8217;s new in Workload Management",
+      "published": "2026-03-20T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/maps-in-microsoft-fabric-generally-available/",
+      "title": "Maps in Microsoft Fabric (Generally Available)",
+      "published": "2026-03-19T16:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/tmdl-view-on-the-web-preview/",
+      "title": "TMDL View on the Web (Preview)",
+      "published": "2026-03-20T14:15:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/semantic-layers-the-foundation-of-enterprise-ai/",
+      "title": "Semantic Layers: The foundation of enterprise AI",
+      "published": "2026-03-18T06:08:36+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-modern-visual-defaults-and-customizing-theme-improvements-preview/",
+      "title": "Deep Dive into Modern Visual Defaults and Customizing Theme Improvements (Preview)",
+      "published": "2026-03-18T06:08:15+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-march-2026-feature-summary/",
+      "title": "Power BI March 2026 Feature Summary",
+      "published": "2026-03-18T06:07:49+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/input-slicer-filter-reports-and-collect-user-input-generally-available/",
+      "title": "Input slicer: Filter reports and collect user input (Generally Available)",
+      "published": "2026-02-24T12:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2026-feature-summary/",
+      "title": "Power BI February 2026 Feature Summary",
+      "published": "2026-02-24T09:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/deprecation-of-old-excel-and-csv-import-experience-in-power-bi-service/",
+      "title": "Deprecation of old Excel and CSV import experience in Power BI Service",
+      "published": "2026-02-10T09:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-composite-semantic-models-with-direct-lake-and-import-tables/",
+      "title": "Deep dive into composite semantic models with Direct Lake and import tables",
+      "published": "2026-02-02T09:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/modern-visual-tooltips-in-power-bi-generally-available/",
+      "title": "Modern Visual Tooltips in Power BI (Generally Available)",
+      "published": "2026-01-26T11:59:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2026-feature-summary/",
+      "title": "Power BI Report Server January 2026 Feature Summary",
+      "published": "2026-01-21T10:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-21T08:20:18+00:00",
+      "status": "pending"
+    }
+  ],
+  "last_checked": "2026-03-21T08:20:18+00:00"
 }
