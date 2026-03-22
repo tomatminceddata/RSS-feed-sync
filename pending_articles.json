@@ -467,7 +467,47 @@
       "discovered": "2026-03-21T20:08:50+00:00",
       "status": "synced",
       "synced_at": "2026-03-21T21:27:32+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-look-by-matt-granger-sigmas-unreleased-85mm-f1-2-art/",
+      "title": "First Look by Matt Granger: SIGMA’s Unreleased 85mm F1.2 ART",
+      "published": "2026-03-22T13:54:51+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-22T16:10:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/22/apple-card-walgreens-offer/",
+      "title": "Apple Card Offering New Walgreens Bonus",
+      "published": "2026-03-22T14:58:03+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-22T16:10:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/22/new-apple-products-this-month/",
+      "title": "Apple Has Released More Than 10 Products and Accessories This Month",
+      "published": "2026-03-22T14:37:19+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-22T16:10:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/22/ipad-12-with-a18-chip-this-year/",
+      "title": "iPad 12 With A18 Chip for Apple Intelligence is 'Still Coming This Year'",
+      "published": "2026-03-22T13:49:15+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-22T16:10:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/22/new-apple-tv-and-homepod-mini-remain-ready/",
+      "title": "New Apple TV and HomePod Mini Remain 'Ready' to Launch",
+      "published": "2026-03-22T13:31:40+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-22T16:10:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-21T20:08:50+00:00"
+  "last_checked": "2026-03-22T16:10:26+00:00"
 }
