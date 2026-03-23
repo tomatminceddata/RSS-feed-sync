@@ -691,7 +691,71 @@
       "feed": "MacRumors",
       "discovered": "2026-03-23T16:25:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/public-apis-bulk-import-and-export-items-definition-preview/",
+      "title": "Public APIs &#8211; bulk import and export items definition (Preview)",
+      "published": "2026-03-23T11:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T20:17:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/certificate-and-proxy-support-for-vnet-data-gateway-generally-available/",
+      "title": "Certificate and Proxy Support for VNET Data Gateway (Generally Available)",
+      "published": "2026-03-23T11:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T20:17:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/dataflow-gen2-variable-library-integration-in-microsoft-fabric-generally-available/",
+      "title": "Dataflow Gen2: Variable Library integration in Microsoft Fabric (Generally Available)",
+      "published": "2026-03-23T10:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T20:17:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/amazon-bestsellers-5-out-of-top-10-cameras-are-sonys/",
+      "title": "Amazon Bestsellers: 5 out of top 10 cameras are Sonys",
+      "published": "2026-03-23T20:15:53+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-23T20:17:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/apple-swift-student-challenge-2026-march-26/",
+      "title": "Apple to Announce 2026 Swift Student Challenge Winners on March 26",
+      "published": "2026-03-23T17:31:19+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T20:17:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/wwdc-2026-ai-advancements/",
+      "title": "WWDC 2026 to Showcase Apple's 'AI Advancements'",
+      "published": "2026-03-23T17:16:14+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T20:17:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/apple-announces-wwdc-2026-dates/",
+      "title": "Apple Announces WWDC 2026 Will Take Place June 8 to 12",
+      "published": "2026-03-23T16:55:57+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T20:17:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/gurman-apple-products-incremental-as-ever/",
+      "title": "Gurman: Many of Apple's Latest Products Are 'As Incremental as Ever'",
+      "published": "2026-03-23T16:55:42+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T20:17:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-23T16:25:35+00:00"
+  "last_checked": "2026-03-23T20:17:49+00:00"
 }
