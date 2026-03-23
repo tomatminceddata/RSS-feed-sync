@@ -531,7 +531,15 @@
       "feed": "MacRumors",
       "discovered": "2026-03-23T00:42:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1898/",
+      "title": "Sony Tidbits…",
+      "published": "2026-03-23T07:42:16+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-23T08:26:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-23T00:42:09+00:00"
+  "last_checked": "2026-03-23T08:26:11+00:00"
 }
