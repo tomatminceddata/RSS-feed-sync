@@ -571,7 +571,127 @@
       "feed": "MacRumors",
       "discovered": "2026-03-23T12:23:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/connection-recency-for-improved-audit-and-management-preview/",
+      "title": "Connection Recency for improved audit and management (Preview)",
+      "published": "2026-03-23T09:00:48+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/powershell-module-for-gateways-with-expanded-automation-capabilities-generally-available/",
+      "title": "PowerShell Module for Gateways with Expanded Automation Capabilities (Generally Available)",
+      "published": "2026-03-23T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/batteries-included-database-devops-with-sql-projects/",
+      "title": "Batteries included: Database DevOps with SQL projects",
+      "published": "2026-03-23T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/api-for-graphql-source-control-and-ci-cd-support-generally-available/",
+      "title": "API for GraphQL source control and CI/CD support (Generally Available)",
+      "published": "2026-03-23T08:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/graph-powered-ai-reasoning-preview/",
+      "title": "Graph-powered AI reasoning (Preview)",
+      "published": "2026-03-23T08:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/a-wave-of-new-dataflow-gen2-capabilities-at-fabcon-atlanta-2026/",
+      "title": "A wave of new Dataflow Gen2 capabilities at FabCon Atlanta 2026",
+      "published": "2026-03-23T08:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sigma-patent-discloses-the-designs-for-the-28mm-f-1-2-and-24mm-f-1-2-lenses/",
+      "title": "New Sigma patent discloses the designs for the 28mm f/1.2 and 24mm f/1.2 lenses.",
+      "published": "2026-03-23T14:05:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/apple-small-sensor-for-security-rumor/",
+      "title": "Apple Reportedly Working on 'Small Sensor for Managing Home Security'",
+      "published": "2026-03-23T16:16:36+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/iphone-air-twice-as-popular-as-iphone-16-plus/",
+      "title": "iPhone Air Said to Be Roughly Twice as Popular as iPhone 16 Plus",
+      "published": "2026-03-23T16:11:41+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/airtag-1-major-discount-59-99/",
+      "title": "AirTag 1 Gets Major Amazon Discount With 4-Pack at $59.99",
+      "published": "2026-03-23T15:51:24+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/apple-sports-app-three-improvements/",
+      "title": "Apple Sports App on iPhone Receives Three Improvements",
+      "published": "2026-03-23T15:38:06+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/steve-jobs-talks-ibook-airport-and-more/",
+      "title": "Steve Jobs Talks iBook, AirPort, and More in Newly Surfaced 1999 Video",
+      "published": "2026-03-23T14:18:04+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/biggest-set-of-iphone-revamps-ever/",
+      "title": "Apple Reportedly Preparing 'Biggest Set of iPhone Revamps' Ever",
+      "published": "2026-03-23T13:28:45+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/apple-considered-adding-a-camera-to-the-homepod/",
+      "title": "Apple Considered Adding a Camera to the HomePod Years Ago",
+      "published": "2026-03-23T13:14:20+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/apple-store-external-storage-shortage-ai-demand/",
+      "title": "Apple Store External Storage Prices Spike Amid AI-Driven Shortage",
+      "published": "2026-03-23T12:49:37+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T16:25:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-23T12:23:34+00:00"
+  "last_checked": "2026-03-23T16:25:35+00:00"
 }
