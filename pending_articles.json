@@ -539,7 +539,39 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-23T08:26:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/new-data-protection-capabilities-in-microsoft-fabric-native-security-for-the-modern-data-estate/",
+      "title": "New data protection capabilities in Microsoft Fabric: Native security for the modern data estate",
+      "published": "2026-03-23T04:09:27+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-23T12:23:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-semiconductor-solutions-to-release-4k-image-sensor-for-security-cameras/",
+      "title": "Sony Semiconductor Solutions to Release 4K Image Sensor for Security Cameras",
+      "published": "2026-03-23T10:41:23+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-23T12:23:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/foldable-iphone-layered-glass-reduce-crease/",
+      "title": "Foldable iPhone Uses Layered Glass to Reduce Display Crease",
+      "published": "2026-03-23T11:20:56+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T12:23:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/23/samsung-galaxy-s26-airdrop-support-rollout/",
+      "title": "AirDrop Support Rolling Out to Samsung Galaxy S26 Devices This Week",
+      "published": "2026-03-23T10:13:36+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-23T12:23:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-23T08:26:11+00:00"
+  "last_checked": "2026-03-23T12:23:34+00:00"
 }
