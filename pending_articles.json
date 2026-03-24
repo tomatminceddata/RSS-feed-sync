@@ -845,7 +845,23 @@
       "discovered": "2026-03-24T00:35:09+00:00",
       "status": "synced",
       "synced_at": "2026-03-24T09:52:00+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/curiosity-first-17-price-drop-on-the-sony-rx1riii-in-switzerland/",
+      "title": "Curiosity: First 17% price drop on the Sony RX1rIII in Switzerland",
+      "published": "2026-03-24T10:47:17+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-24T12:24:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/claude-use-mac-remotely-iphone/",
+      "title": "Anthropic's Claude AI Can Now Use Your Mac While You're Away",
+      "published": "2026-03-24T11:44:34+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T12:24:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-24T00:35:09+00:00"
+  "last_checked": "2026-03-24T12:24:42+00:00"
 }
