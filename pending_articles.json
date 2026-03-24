@@ -852,7 +852,8 @@
       "published": "2026-03-24T10:47:17+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-24T12:24:42+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/24/claude-use-mac-remotely-iphone/",
@@ -860,7 +861,8 @@
       "published": "2026-03-24T11:44:34+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-24T12:24:42+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/sony-zv-e1-being-phased-out/",
@@ -868,7 +870,8 @@
       "published": "2026-03-24T13:50:15+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-24T16:29:04+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/24/apple-maps-ads-announced/",
@@ -876,7 +879,8 @@
       "published": "2026-03-24T16:20:56+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-24T16:29:04+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/24/apple-unveils-apple-business/",
@@ -884,7 +888,8 @@
       "published": "2026-03-24T15:53:31+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-24T16:29:04+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/24/ankers-prime-amazon/",
@@ -892,7 +897,8 @@
       "published": "2026-03-24T14:32:38+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-24T16:29:04+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/24/apple-still-far-from-full-screen-iphone/",
@@ -900,7 +906,8 @@
       "published": "2026-03-24T14:15:04+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-24T16:29:04+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/24/mac-os-x-launched-25-years-ago-today/",
@@ -908,7 +915,8 @@
       "published": "2026-03-24T13:24:15+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-24T16:29:04+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/24/apple-tv-targeted-eu-broadcaster-complaint-dma/",
@@ -916,7 +924,8 @@
       "published": "2026-03-24T13:20:44+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-24T16:29:04+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/24/apple-bracing-display-supply-chain-for-new-devices/",
@@ -924,7 +933,8 @@
       "published": "2026-03-24T12:38:05+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-24T16:29:04+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-24T18:57:14+00:00"
     }
   ],
   "last_checked": "2026-03-24T16:29:04+00:00"
