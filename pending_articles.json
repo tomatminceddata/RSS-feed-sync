@@ -935,7 +935,151 @@
       "discovered": "2026-03-24T16:29:04+00:00",
       "status": "synced",
       "synced_at": "2026-03-24T18:57:14+00:00"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/outstanding-connectivity-for-data-movement-in-fabric-data-factory/",
+      "title": "Outstanding connectivity for data movement in Fabric Data Factory",
+      "published": "2026-03-24T13:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/dbt-microsoft-fabric-a-strategic-investment-in-the-modern-analytics-stack/",
+      "title": "dbt+ Microsoft Fabric: A strategic investment in the modern analytics stack",
+      "published": "2026-03-24T13:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/whats-new-with-fabric-activator-more-connected-and-capabilities/",
+      "title": "What’s new with Fabric Activator: more connected and capabilities",
+      "published": "2026-03-24T11:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/incremental-copy-gets-more-flexible-new-watermark-column-types-in-copy-job-in-fabric-data-factory-generally-available/",
+      "title": "Incremental copy gets more flexible—New watermark column types in Copy job in Fabric Data Factory (Generally Available)",
+      "published": "2026-03-24T11:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/dataflow-gen2-dataflow-diagnostics-download-preview/",
+      "title": "Dataflow Gen2 – Dataflow Diagnostics Download (Preview)",
+      "published": "2026-03-24T10:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/support-for-default-arguments-in-fabric-user-data-functions/",
+      "title": "Support for default arguments in Fabric User data functions",
+      "published": "2026-03-24T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/integrating-dynamics-365-business-central-with-microsoft-fabric-using-open-mirroring-with-bc2fab-workload-generally-available/",
+      "title": "Integrating Dynamics 365 Business Central with Microsoft Fabric using Open Mirroring with BC2Fab workload (Generally Available)",
+      "published": "2026-03-24T09:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-releases-airpods-firmware-8b39/",
+      "title": "Apple Releases New Firmware for AirPods Pro 3, AirPods Pro 2 and AirPods 4",
+      "published": "2026-03-24T19:31:29+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/ios-27-siri-overhaul/",
+      "title": "iOS 27 Siri Overhaul: Standalone App, New Design, Dynamic Island Integration and Ask Siri Button",
+      "published": "2026-03-24T19:22:04+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/studio-display-firmware-update-26-4/",
+      "title": "Studio Display and Studio Display XDR Get Firmware Update",
+      "published": "2026-03-24T19:01:12+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/macos-tahoe-26-4-now-available/",
+      "title": "macOS Tahoe 26.4 Now Available With Safari Compact Tab Bar, Battery Charge Limits and More",
+      "published": "2026-03-24T18:54:50+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-releases-ios-26-4/",
+      "title": "Apple Releases iOS 26.4 and iPadOS 26.4 With New Emoji, Playlist Playground, Purchase Sharing Changes and More",
+      "published": "2026-03-24T17:03:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-releases-watchos-26-4/",
+      "title": "watchOS 26.4 Now Available With Workout Update and New Emoji",
+      "published": "2026-03-24T17:02:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-releases-tvos-26-4/",
+      "title": "Apple Releases tvOS 26.4 With Genius Browse",
+      "published": "2026-03-24T17:01:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-releases-visionos-26-4/",
+      "title": "Apple Releases visionOS 26.4",
+      "published": "2026-03-24T17:00:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-releases-homepod-software-26-4/",
+      "title": "Apple Releases HomePod Software 26.4",
+      "published": "2026-03-24T16:58:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-50th-anniversary-events/",
+      "title": "Apple's 50th Anniversary Events Continue in UK, Canada, Mexico, Japan, Thailand, and Beyond",
+      "published": "2026-03-24T16:47:35+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/add-a-volume-slider-to-your-iphone-lock-screen/",
+      "title": "Add a Volume Slider to Your iPhone Lock Screen",
+      "published": "2026-03-24T16:31:38+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T20:17:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-24T16:29:04+00:00"
+  "last_checked": "2026-03-24T20:17:33+00:00"
 }
