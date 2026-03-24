@@ -861,7 +861,71 @@
       "feed": "MacRumors",
       "discovered": "2026-03-24T12:24:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-zv-e1-being-phased-out/",
+      "title": "Is the Sony ZV-E1 being phased out?",
+      "published": "2026-03-24T13:50:15+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-24T16:29:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-maps-ads-announced/",
+      "title": "Apple Announces Ads Are Coming to Apple Maps",
+      "published": "2026-03-24T16:20:56+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T16:29:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-unveils-apple-business/",
+      "title": "Apple Unveils 'Apple Business' All-in-One Platform",
+      "published": "2026-03-24T15:53:31+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T16:29:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/ankers-prime-amazon/",
+      "title": "Anker's New Prime 3-in-1 Foldable Charging Station Hits Low Price on Amazon",
+      "published": "2026-03-24T14:32:38+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T16:29:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-still-far-from-full-screen-iphone/",
+      "title": "Apple Still 'Far From' Full-Screen iPhone as Hidden Face ID Hits Snags",
+      "published": "2026-03-24T14:15:04+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T16:29:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/mac-os-x-launched-25-years-ago-today/",
+      "title": "Mac OS X Launched 25 Years Ago Today: 'The Future of the Mac'",
+      "published": "2026-03-24T13:24:15+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T16:29:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-tv-targeted-eu-broadcaster-complaint-dma/",
+      "title": "Apple TV, Siri Targeted in EU Broadcaster Complaint Citing DMA Rules",
+      "published": "2026-03-24T13:20:44+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T16:29:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-bracing-display-supply-chain-for-new-devices/",
+      "title": "Apple Bracing Display Supply Chain for Wave of New OLED Devices",
+      "published": "2026-03-24T12:38:05+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-24T16:29:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-24T12:24:42+00:00"
+  "last_checked": "2026-03-24T16:29:04+00:00"
 }
