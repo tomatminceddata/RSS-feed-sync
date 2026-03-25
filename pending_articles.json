@@ -1313,7 +1313,47 @@
       "discovered": "2026-03-25T16:32:24+00:00",
       "status": "synced",
       "synced_at": "2026-03-25T19:04:04+00:00"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/industrial-analytics-delivered-at-scale-powered-by-fabric-real-time-intelligence-and-fusion-data-hub/",
+      "title": "Industrial Analytics delivered at-scale: Powered by Fabric Real-Time Intelligence and Fusion Data Hub",
+      "published": "2026-03-25T13:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T20:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/sql-server-management-studio-ssms-22-4-1-and-github-copilot-in-ssms-generally-available/",
+      "title": "SQL Server Management Studio (SSMS) 22.4.1 and GitHub Copilot in SSMS (Generally Available)",
+      "published": "2026-03-25T11:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T20:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/explore-edit-and-organize-item-definitions-and-fabric-mcp-server-in-vs-code/",
+      "title": "Explore, edit, and organize Item definitions and Fabric MCP server in VS Code",
+      "published": "2026-03-25T10:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T20:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/25/chrome-fastest-mobile-platform-web-browsing/",
+      "title": "Google Claims Android Is Now Faster Than iPhone for Web Browsing",
+      "published": "2026-03-25T17:00:48+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T20:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/25/apple-google-gemini-distill-models/",
+      "title": "Apple Can Create Smaller On-Device AI Models From Google's Gemini",
+      "published": "2026-03-25T16:53:40+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T20:16:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-25T16:32:24+00:00"
+  "last_checked": "2026-03-25T20:16:48+00:00"
 }
