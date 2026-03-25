@@ -1079,7 +1079,87 @@
       "feed": "MacRumors",
       "discovered": "2026-03-24T20:17:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/34710/",
+      "title": "Tenant level private link support for Microsoft Fabric API for GraphQL (Generally Available)",
+      "published": "2026-03-24T15:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/configure-and-manage-activator-rules-directly-in-eventstream-preview/",
+      "title": "Configure and manage Activator rules directly in Eventstream (Preview)",
+      "published": "2026-03-24T15:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/sharepoint-site-picker-for-easily-connecting-sharepoint-data-in-microsoft-fabric-preview/",
+      "title": "SharePoint Site Picker for easily connecting SharePoint data in Microsoft Fabric (Preview)",
+      "published": "2026-03-24T14:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/fabric-cli-v1-5-is-here-generally-available/",
+      "title": "Fabric CLI v1.5 is here (Generally Available)",
+      "published": "2026-03-24T14:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/live-connectivity-in-migration-assistant-for-fabric-data-warehouse-preview/",
+      "title": "Live connectivity in Migration Assistant for Fabric Data Warehouse (Preview)",
+      "published": "2026-03-24T13:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/apple-watchos-5-watchos-8-updates/",
+      "title": "Apple Releases watchOS 5 and watchOS 8 Updates to Keep FaceTime and iMessage Running on Older Apple Watches",
+      "published": "2026-03-24T22:30:31+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-26-4-features/",
+      "title": "iOS 26.4 Features: Everything New in iOS 26.4",
+      "published": "2026-03-24T21:39:33+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/openai-discontinuing-sora-ai-video-app/",
+      "title": "OpenAI Discontinuing Sora AI Video App",
+      "published": "2026-03-24T21:12:44+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/24/ios-26-4-adds-two-carplay-features/",
+      "title": "iOS 26.4 Adds Two New Features to CarPlay",
+      "published": "2026-03-24T20:55:13+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/nuki-keypad-2-nfc/",
+      "title": "Nuki Keypad 2 NFC Brings Aliro-Powered Tap-to-Unlock Home Key Support to Nuki Smart Locks",
+      "published": "2026-03-24T20:47:57+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T00:39:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-24T20:17:33+00:00"
+  "last_checked": "2026-03-25T00:39:33+00:00"
 }
