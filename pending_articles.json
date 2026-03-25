@@ -1159,7 +1159,15 @@
       "feed": "MacRumors",
       "discovered": "2026-03-25T00:39:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/whats-next-for-fabric-iq-ontology-the-operational-context-that-powers-your-ai-agents-preview/",
+      "title": "What&#8217;s next for Fabric IQ Ontology: The operational context that powers your AI agents (Preview)",
+      "published": "2026-03-24T11:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T04:43:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-25T00:39:33+00:00"
+  "last_checked": "2026-03-25T04:43:25+00:00"
 }
