@@ -1183,7 +1183,95 @@
       "feed": "MacRumors",
       "discovered": "2026-03-25T12:23:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/find-and-manage-workspaces-faster-with-workspace-tags-generally-available/",
+      "title": "Find and manage workspaces faster with workspace tags (Generally Available)",
+      "published": "2026-03-25T09:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/invoke-ssis-package-activity-in-microsoft-fabric-preview/",
+      "title": "Invoke SSIS Package Activity in Microsoft Fabric (Preview)",
+      "published": "2026-03-25T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/higher-performance-with-copy-job-in-fabric-data-factory-auto-partitioning-preview/",
+      "title": "Higher Performance with Copy job in Fabric Data Factory Auto Partitioning (Preview)",
+      "published": "2026-03-25T08:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/simplifying-data-movement-across-multiple-clouds-with-richer-cdc-in-copy-job-in-fabric-data-factory-oracle-source-fabric-data-warehouse-sink-and-scd-type-2-preview/",
+      "title": "Simplifying data movement across multiple Clouds with richer CDC in Copy job in Fabric Data Factory Oracle source, Fabric Data Warehouse sink and SCD Type 2 (Preview)",
+      "published": "2026-03-25T08:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-new-major-e-mount-camera-release-within-may/",
+      "title": "Confirmed: New MAJOR E-mount Full Frame camera release in May!",
+      "published": "2026-03-25T14:03:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/25/poland-announces-digital-services-tax/",
+      "title": "Poland Announces Digital Services Tax That Could Hit Apple",
+      "published": "2026-03-25T14:35:08+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/25/airpods-pro-3-199-low-price/",
+      "title": "AirPods Pro 3 Hit $199 Record Low Price in Amazon's Big Spring Sale",
+      "published": "2026-03-25T13:53:27+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/25/app-store-connect-receives-new-metrics/",
+      "title": "Apple Updates App Store Connect With More Than 100 New Metrics",
+      "published": "2026-03-25T13:38:24+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/25/airpods-max-2-pre-orders/",
+      "title": "AirPods Max 2 Now Available for Pre-Order With Delivery as Soon as April 1",
+      "published": "2026-03-25T13:01:26+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/25/amazon-big-spring-sale-2026/",
+      "title": "Amazon Prime Day 'Big Spring Sale' Introduces Major Discounts on AirPods, iPads, AirTag, and Much More",
+      "published": "2026-03-25T12:47:23+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/25/chatgpt-revamps-shopping-features/",
+      "title": "ChatGPT Revamps Shopping Features, Drops In-App Checkout",
+      "published": "2026-03-25T12:40:37+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-25T16:32:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-25T12:23:32+00:00"
+  "last_checked": "2026-03-25T16:32:24+00:00"
 }
