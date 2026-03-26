@@ -1401,7 +1401,23 @@
       "feed": "MacRumors",
       "discovered": "2026-03-26T00:42:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-samyang-af-35mm-f1-8-p-fe/",
+      "title": "Just announced: new Samyang AF 35mm F1.8 P FE",
+      "published": "2026-03-26T09:03:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-26T12:27:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-testing-200mp-iphone-camera-for-next-year/",
+      "title": "Apple Testing 200MP Telephoto Lens for iPhone That May Ship Next Year",
+      "published": "2026-03-26T11:04:17+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T12:27:38+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-26T00:42:02+00:00"
+  "last_checked": "2026-03-26T12:27:38+00:00"
 }
