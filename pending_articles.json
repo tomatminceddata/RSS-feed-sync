@@ -1417,7 +1417,103 @@
       "feed": "MacRumors",
       "discovered": "2026-03-26T12:27:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/gain-full-visibility-into-your-copy-jobs-with-workspace-monitoring-in-microsoft-fabric-preview/",
+      "title": "Gain full visibility into your Copy jobs with Workspace Monitoring in Microsoft Fabric (Preview)",
+      "published": "2026-03-26T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/new-migration-experience-from-azure-data-factory-to-fabric-preview/",
+      "title": "New migration experience from Azure Data Factory to Fabric (Preview)",
+      "published": "2026-03-26T08:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/amazon-launched-the-massive-spring-deals/",
+      "title": "Amazon launched the massive Spring deals!",
+      "published": "2026-03-26T14:32:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-interview-with-dpreview-zv-series-does-not-replace-the-rx100-series/",
+      "title": "Sony interview with DPreview: ZV series does not replace the RX100 series",
+      "published": "2026-03-26T13:43:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/new-full-size-homepod-rumor/",
+      "title": "New HomePod Expected Alongside Updated HomePod Mini and Apple TV",
+      "published": "2026-03-26T16:30:50+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-20th-anniversary-iphone-all-screen/",
+      "title": "Apple Still Aiming for 20th Anniversary iPhone With All-Screen Display",
+      "published": "2026-03-26T15:30:17+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/amazon-big-spring-sale-accessory-deals-2/",
+      "title": "Amazon Prime Day 'Big Spring Sale' Accessory Deals on Qi2 Chargers, Monitors, and More",
+      "published": "2026-03-26T15:00:09+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-tv-teases-mysterious-horror-series/",
+      "title": "Apple TV Teases Mysterious New Horror Series With 'No Wi-Fi'",
+      "published": "2026-03-26T14:32:16+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/vivaldis-ios-browser-tab-stacks/",
+      "title": "Vivaldi Browser Brings Two-Level Tab Stacks to iPhone and iPad",
+      "published": "2026-03-26T14:18:25+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/airpods-max-2-first-discount/",
+      "title": "AirPods Max 2 Get First Discount on Amazon",
+      "published": "2026-03-26T14:03:40+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-massively-discounts-iphone-air/",
+      "title": "Apple Massively Discounts iPhone Air on Amazon in UK",
+      "published": "2026-03-26T13:53:52+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-suppliers-to-make-more-iphone-parts-in-usa/",
+      "title": "Apple Announces Plans to Make More iPhone Parts in USA",
+      "published": "2026-03-26T13:48:01+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T16:32:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-26T12:27:38+00:00"
+  "last_checked": "2026-03-26T16:32:05+00:00"
 }
