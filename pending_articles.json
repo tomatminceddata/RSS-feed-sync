@@ -1513,7 +1513,87 @@
       "feed": "MacRumors",
       "discovered": "2026-03-26T16:32:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/fabric-notebooks-support-lakehouse-auto-binding-in-git-preview/",
+      "title": "Fabric notebooks support Lakehouse auto-binding in Git (Preview)",
+      "published": "2026-03-26T13:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/fabric-notebooks-resources-folder-support-in-git/",
+      "title": "Fabric Notebooks: Resources Folder Support in Git",
+      "published": "2026-03-26T11:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/customer-managed-keys-cmk-in-fabric-sql-database-generally-available/",
+      "title": "Customer-managed keys (CMK) in Fabric SQL Database (Generally Available)",
+      "published": "2026-03-26T11:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/unlocking-financial-insights-with-capital-markets-datahub-workload-a-partner-led-innovation-in-microsoft-fabric-preview/",
+      "title": "Unlocking financial insights with Capital Markets DataHub workload—A partner-led innovation in Microsoft Fabric (Preview)",
+      "published": "2026-03-26T10:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/from-restricted-to-ai-ready-preparing-unstructured-data-directly-in-microsoft-fabric-with-tonic-textual-generally-available/",
+      "title": "From restricted to AI-ready: Preparing unstructured data directly in Microsoft Fabric with Tonic Textual (Generally Available)",
+      "published": "2026-03-26T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/netflix-price-increase-2025/",
+      "title": "Netflix Raises Prices Across All Plans, Premium Now Costs $27/Month",
+      "published": "2026-03-26T19:56:25+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-ios-27-siri-chatbot-integration/",
+      "title": "Apple Plans to Let Rival AI Chatbots Integrate With Siri in iOS 27",
+      "published": "2026-03-26T19:13:18+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-swift-student-challenge-winners-2026/",
+      "title": "Apple Notifying WWDC 2026 Swift Student Challenge Winners",
+      "published": "2026-03-26T19:02:23+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/no-major-apple-watch-redesign-this-year-rumor/",
+      "title": "No Major Apple Watch Redesign Expected This Year",
+      "published": "2026-03-26T18:21:11+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/iphone-fold-shipping-after-18-pro/",
+      "title": "iPhone Fold Likely to Ship Later Than iPhone 18 Pro",
+      "published": "2026-03-26T18:05:40+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-26T20:14:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-26T16:32:05+00:00"
+  "last_checked": "2026-03-26T20:14:35+00:00"
 }
