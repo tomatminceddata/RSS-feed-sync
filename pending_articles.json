@@ -1708,7 +1708,31 @@
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-03-27T08:22:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-viltrox-af-35mm-f-1-8-ii-evo-fe-lens-listed-at-fotokoch/",
+      "title": "New Viltrox AF 35mm f/1.8 II EVO FE lens listed at Fotokoch",
+      "published": "2026-03-27T11:23:32+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-27T12:21:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/press-text-sony-electronics-inc-elevates-professional-video-workflows-with-powerful-updates-to-monitor-control-and-catalyst-tools/",
+      "title": "Press text: Sony Electronics Inc. Elevates Professional Video Workflows with Powerful Updates to Monitor & Control and Catalyst Tools",
+      "published": "2026-03-27T10:06:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-27T12:21:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/27/iphone-18-same-bezels-but-smaller-dynamic-island/",
+      "title": "iPhone 18 Series: Same Bezels But Smaller Dynamic Island, Says Leaker",
+      "published": "2026-03-27T11:12:53+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T12:21:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-27T08:22:03+00:00"
+  "last_checked": "2026-03-27T12:21:41+00:00"
 }
