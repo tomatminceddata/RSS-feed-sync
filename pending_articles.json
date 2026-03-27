@@ -1796,7 +1796,63 @@
       "feed": "MacRumors",
       "discovered": "2026-03-27T16:23:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/introducing-capacity-overage-preview-flexibility-when-you-need-it-most/",
+      "title": "Introducing capacity overage flexibility when you need it most (Preview)",
+      "published": "2026-03-27T09:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-27T20:14:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/27/crunchyroll-apple-tv-channels/",
+      "title": "Apple TV Channels Gains Crunchyroll Anime Streaming Service",
+      "published": "2026-03-27T19:09:22+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T20:14:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/27/macbook-neo-review/",
+      "title": "MacBook Neo Review: Can Apple's Cheapest Laptop Handle Real Work?",
+      "published": "2026-03-27T19:03:40+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T20:14:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/27/apple-hires-google-exec-for-ai-marketing/",
+      "title": "Apple Brings On Google Shopping VP to Lead AI Marketing Push",
+      "published": "2026-03-27T18:01:53+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T20:14:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/27/apple-50th-anniversary-washington-dc-tokyo/",
+      "title": "Apple's 50th Anniversary Events Continue in Washington D.C., Shanghai, Tokyo, and Beyond",
+      "published": "2026-03-27T17:01:41+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T20:14:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/27/the-macrumors-show-wwdc-2026-announced/",
+      "title": "The MacRumors Show: Apple Announces WWDC 2026",
+      "published": "2026-03-27T16:51:47+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T20:14:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/27/no-iphone-in-lockdown-mode-has-ever-been-hacked/",
+      "title": "Apple Says No iPhone in Lockdown Mode Has Ever Been Hacked",
+      "published": "2026-03-27T16:33:48+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T20:14:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-27T16:23:28+00:00"
+  "last_checked": "2026-03-27T20:14:49+00:00"
 }
