@@ -1628,7 +1628,79 @@
       "discovered": "2026-03-26T20:14:35+00:00",
       "status": "synced",
       "synced_at": "2026-03-26T21:00:42+00:00"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/upgrade-your-synapse-pipelines-to-microsoft-fabric-with-confidence-preview/",
+      "title": "Upgrade your Synapse pipelines to Microsoft Fabric with confidence (Preview)",
+      "published": "2026-03-26T14:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-27T00:42:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/google-translate-gemini-ai/",
+      "title": "Google Translate Gets Gemini AI for Smarter Translations and Real-Time Headphone Translation",
+      "published": "2026-03-26T23:47:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T00:42:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-iphone-designer-bonuses/",
+      "title": "Apple Gives iPhone Designers Bonuses Up to $400K to Counter OpenAI Poaching",
+      "published": "2026-03-26T23:28:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T00:42:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-releases-safari-technology-preview-240/",
+      "title": "Apple Releases Safari Technology Preview 240 With Bug Fixes and Performance Improvements",
+      "published": "2026-03-26T23:19:11+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T00:42:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/gemini-import-tool/",
+      "title": "Google Launches Gemini Import Tool for Switching From ChatGPT, Claude, and Other AI Apps",
+      "published": "2026-03-26T22:58:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T00:42:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/app-store-medical-device-status/",
+      "title": "Apple Requires App Developers to Declare Regulated Medical Device Status in EEA, UK, and U.S.",
+      "published": "2026-03-26T22:41:16+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T00:42:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/mac-pro-wheels-kit-discontinued/",
+      "title": "Apple's $700 Mac Pro Wheels Kit Discontinued Along With Mac Pro",
+      "published": "2026-03-26T22:24:39+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T00:42:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/apple-discontinues-mac-pro/",
+      "title": "Apple Confirms Mac Pro Is Dead, No Future Models Planned",
+      "published": "2026-03-26T21:04:09+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T00:42:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/26/x-pro-premium-plus-restriction/",
+      "title": "X Moves X Pro Behind $40/Month Premium+ Paywall With No Notice to Users",
+      "published": "2026-03-26T19:26:38+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-27T00:42:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-26T20:14:35+00:00"
+  "last_checked": "2026-03-27T00:42:58+00:00"
 }
