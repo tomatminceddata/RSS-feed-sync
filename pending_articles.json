@@ -1898,7 +1898,47 @@
       "discovered": "2026-03-28T00:39:05+00:00",
       "status": "synced",
       "synced_at": "2026-03-28T08:07:22+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/lol-this-solves-the-battery-anxiety-issue/",
+      "title": "LOL…This solves the battery anxiety issue :)",
+      "published": "2026-03-28T13:04:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-28T16:12:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/christopher-frost-claims-the-sigma-50mm-f-1-2-fe-is-better-than-sonys-50mm-gm-lenses/",
+      "title": "Christopher Frost claims the Sigma 50mm f/1.2 FE is better than Sony’s 50mm GM lenses",
+      "published": "2026-03-28T12:32:38+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-28T16:12:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/28/airpods-pro-3-199-low-price-2/",
+      "title": "AirPods Pro 3 Hit $199 Record Low Price in Amazon's Big Spring Sale",
+      "published": "2026-03-28T15:12:10+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-28T16:12:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/28/top-stories-mac-pro-discontinued/",
+      "title": "Top Stories: Mac Pro Discontinued, iOS 26.4 Out Now, WWDC 2026 Announced, and More",
+      "published": "2026-03-27T19:54:09+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-28T16:12:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/28/ankers-prime-chargers-spring-sale/",
+      "title": "Anker's New Prime 3-in-1 Foldable Charging Station Hits $104.99 Low Price on Amazon",
+      "published": "2026-03-27T13:43:49+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-28T16:12:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-28T00:39:05+00:00"
+  "last_checked": "2026-03-28T16:12:05+00:00"
 }
