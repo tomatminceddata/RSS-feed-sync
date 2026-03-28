@@ -1635,7 +1635,8 @@
       "published": "2026-03-26T14:00:00+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-03-27T00:42:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/26/google-translate-gemini-ai/",
@@ -1643,7 +1644,8 @@
       "published": "2026-03-26T23:47:00+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T00:42:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/26/apple-iphone-designer-bonuses/",
@@ -1651,7 +1653,8 @@
       "published": "2026-03-26T23:28:00+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T00:42:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/26/apple-releases-safari-technology-preview-240/",
@@ -1659,7 +1662,8 @@
       "published": "2026-03-26T23:19:11+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T00:42:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/26/gemini-import-tool/",
@@ -1667,7 +1671,8 @@
       "published": "2026-03-26T22:58:00+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T00:42:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/26/app-store-medical-device-status/",
@@ -1675,7 +1680,8 @@
       "published": "2026-03-26T22:41:16+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T00:42:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/26/mac-pro-wheels-kit-discontinued/",
@@ -1683,7 +1689,8 @@
       "published": "2026-03-26T22:24:39+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T00:42:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/26/apple-discontinues-mac-pro/",
@@ -1691,7 +1698,8 @@
       "published": "2026-03-26T21:04:09+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T00:42:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/26/x-pro-premium-plus-restriction/",
@@ -1699,7 +1707,8 @@
       "published": "2026-03-26T19:26:38+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T00:42:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/on-premises-data-gateway-february-2026-release/",
@@ -1707,7 +1716,8 @@
       "published": "2026-03-27T00:34:53+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-03-27T08:22:03+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/new-viltrox-af-35mm-f-1-8-ii-evo-fe-lens-listed-at-fotokoch/",
@@ -1715,7 +1725,8 @@
       "published": "2026-03-27T11:23:32+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-27T12:21:41+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/press-text-sony-electronics-inc-elevates-professional-video-workflows-with-powerful-updates-to-monitor-control-and-catalyst-tools/",
@@ -1723,7 +1734,8 @@
       "published": "2026-03-27T10:06:24+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-27T12:21:41+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/iphone-18-same-bezels-but-smaller-dynamic-island/",
@@ -1731,7 +1743,8 @@
       "published": "2026-03-27T11:12:53+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T12:21:41+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/microsoft-jdbc-driver-for-microsoft-fabric-data-engineering-generally-available/",
@@ -1739,7 +1752,8 @@
       "published": "2026-03-27T09:00:00+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-03-27T16:23:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/on-premises-data-gateway-march-2026-release/",
@@ -1747,7 +1761,8 @@
       "published": "2026-03-27T08:16:42+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-03-27T16:23:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/mastering-monitoring-in-microsoft-fabric-data-warehouse/",
@@ -1755,7 +1770,8 @@
       "published": "2026-03-27T08:00:00+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-03-27T16:23:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/bhphoto-launches-drives-storage-specials-for-the-world-backup-day/",
@@ -1763,7 +1779,8 @@
       "published": "2026-03-27T16:19:08+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-27T16:23:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/critical-security-alerts-sent-to-ios-17-iphones/",
@@ -1771,7 +1788,8 @@
       "published": "2026-03-27T14:21:51+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T16:23:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/best-apple-deals-of-the-week-3-27-26/",
@@ -1779,7 +1797,8 @@
       "published": "2026-03-27T13:58:06+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T16:23:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/reflecting-on-20-years-of-mac-pro/",
@@ -1787,7 +1806,8 @@
       "published": "2026-03-27T13:39:13+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T16:23:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/apple-immersive-video-bbc-proms-concert-vision-pro/",
@@ -1795,7 +1815,8 @@
       "published": "2026-03-27T13:05:16+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T16:23:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/introducing-capacity-overage-preview-flexibility-when-you-need-it-most/",
@@ -1803,7 +1824,8 @@
       "published": "2026-03-27T09:30:00+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-03-27T20:14:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/crunchyroll-apple-tv-channels/",
@@ -1811,7 +1833,8 @@
       "published": "2026-03-27T19:09:22+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T20:14:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/macbook-neo-review/",
@@ -1819,7 +1842,8 @@
       "published": "2026-03-27T19:03:40+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T20:14:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/apple-hires-google-exec-for-ai-marketing/",
@@ -1827,7 +1851,8 @@
       "published": "2026-03-27T18:01:53+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T20:14:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/apple-50th-anniversary-washington-dc-tokyo/",
@@ -1835,7 +1860,8 @@
       "published": "2026-03-27T17:01:41+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T20:14:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/the-macrumors-show-wwdc-2026-announced/",
@@ -1843,7 +1869,8 @@
       "published": "2026-03-27T16:51:47+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T20:14:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/no-iphone-in-lockdown-mode-has-ever-been-hacked/",
@@ -1851,7 +1878,8 @@
       "published": "2026-03-27T16:33:48+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-27T20:14:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/ios-27-siri-chatbot-features/",
@@ -1859,7 +1887,8 @@
       "published": "2026-03-27T22:13:51+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-28T00:39:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/27/apple-to-launch-15-products-later-this-year/",
@@ -1867,7 +1896,8 @@
       "published": "2026-03-27T20:53:21+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-28T00:39:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-28T08:07:22+00:00"
     }
   ],
   "last_checked": "2026-03-28T00:39:05+00:00"
