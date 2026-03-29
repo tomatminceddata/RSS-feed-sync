@@ -1905,7 +1905,8 @@
       "published": "2026-03-28T13:04:34+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-29T18:57:42+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/christopher-frost-claims-the-sigma-50mm-f-1-2-fe-is-better-than-sonys-50mm-gm-lenses/",
@@ -1913,7 +1914,8 @@
       "published": "2026-03-28T12:32:38+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-29T18:57:42+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/28/airpods-pro-3-199-low-price-2/",
@@ -1921,7 +1923,8 @@
       "published": "2026-03-28T15:12:10+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-29T18:57:42+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/28/top-stories-mac-pro-discontinued/",
@@ -1929,7 +1932,8 @@
       "published": "2026-03-27T19:54:09+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-29T18:57:42+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/28/ankers-prime-chargers-spring-sale/",
@@ -1937,7 +1941,8 @@
       "published": "2026-03-27T13:43:49+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-29T18:57:42+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/29/apples-50th-anniversary-finale-revealed/",
@@ -1945,7 +1950,8 @@
       "published": "2026-03-29T15:35:18+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-29T16:12:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-29T18:57:42+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/29/biggest-iphone-overhaul-ever-rumor/",
@@ -1953,7 +1959,8 @@
       "published": "2026-03-29T15:18:58+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-29T16:12:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-29T18:57:42+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/29/ios-27-siri-app-with-extensions-rumor/",
@@ -1961,7 +1968,8 @@
       "published": "2026-03-29T15:00:37+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-29T16:12:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-29T18:57:42+00:00"
     }
   ],
   "last_checked": "2026-03-29T16:12:28+00:00"
