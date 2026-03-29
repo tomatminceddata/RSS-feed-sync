@@ -1938,7 +1938,31 @@
       "feed": "MacRumors",
       "discovered": "2026-03-28T16:12:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/29/apples-50th-anniversary-finale-revealed/",
+      "title": "Apple's 50th Anniversary Finale Revealed",
+      "published": "2026-03-29T15:35:18+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-29T16:12:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/29/biggest-iphone-overhaul-ever-rumor/",
+      "title": "Apple Preparing 'Most Significant Overhaul in the iPhone's History'",
+      "published": "2026-03-29T15:18:58+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-29T16:12:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/29/ios-27-siri-app-with-extensions-rumor/",
+      "title": "iOS 27 Rumored to Feature All-New Siri App With 'Extensions' Feature",
+      "published": "2026-03-29T15:00:37+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-29T16:12:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-28T16:12:05+00:00"
+  "last_checked": "2026-03-29T16:12:28+00:00"
 }
