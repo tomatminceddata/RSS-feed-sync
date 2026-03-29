@@ -1970,7 +1970,15 @@
       "discovered": "2026-03-29T16:12:28+00:00",
       "status": "synced",
       "synced_at": "2026-03-29T18:57:42+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/15-off-on-ttartisan-lenses/",
+      "title": "15% off on TTartisan lenses",
+      "published": "2026-03-29T18:19:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-29T20:11:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-29T16:12:28+00:00"
+  "last_checked": "2026-03-29T20:11:33+00:00"
 }
