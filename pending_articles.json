@@ -1997,7 +1997,15 @@
       "discovered": "2026-03-30T00:45:02+00:00",
       "status": "synced",
       "synced_at": "2026-03-30T07:44:19+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1899/",
+      "title": "Sony Tidbits…",
+      "published": "2026-03-30T06:16:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-30T08:39:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-30T00:45:02+00:00"
+  "last_checked": "2026-03-30T08:39:31+00:00"
 }
