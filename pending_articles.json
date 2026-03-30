@@ -2069,7 +2069,95 @@
       "feed": "MacRumors",
       "discovered": "2026-03-30T16:27:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/modernize-your-adf-pipelines-to-unlock-fabric/",
+      "title": "Modernize your ADF pipelines to unlock Fabric",
+      "published": "2026-03-30T13:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/compute-auto-scaling-choices-to-better-optimize-price-performance-for-sql-databases-in-microsoft-fabric-preview/",
+      "title": "Compute auto-scaling choices to better optimize price-performance for SQL databases in Microsoft Fabric (Preview)",
+      "published": "2026-03-30T10:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/chat-with-copilot-inside-a-report-on-the-power-bi-mobile-app-preview/",
+      "title": "Chat with Copilot inside a report on the Power BI mobile app (Preview)",
+      "published": "2026-03-30T10:30:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-intelligence-china-mistake/",
+      "title": "Apple Intelligence Accidentally Goes Live in China Before Regulatory Approval",
+      "published": "2026-03-30T19:48:12+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/ios-26-5-no-new-siri-features/",
+      "title": "New Siri Features Absent From iOS 26.5 Beta, Likely Pushed to iOS 27 in September",
+      "published": "2026-03-30T19:06:56+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-discontinued-more-than-mac-pro/",
+      "title": "Apple Discontinued More Than Just the Mac Pro This Month",
+      "published": "2026-03-30T19:05:32+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/ios-26-5-beta-rcs-encryption/",
+      "title": "iOS 26.5 Beta Continues RCS End-to-End Encryption Testing for iPhone and Android Messages",
+      "published": "2026-03-30T18:43:55+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/big-spring-sale-last-chance/",
+      "title": "Amazon Big Spring Sale Last Chance Deals: AirPods Pro 3, MacBook Pro, and More Best-Ever Prices",
+      "published": "2026-03-30T18:14:17+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-seeds-macos-tahoe-26-5-beta-1/",
+      "title": "First macOS Tahoe 26.5 Beta Now Available for Developers",
+      "published": "2026-03-30T17:43:36+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-seeds-first-ios-26-5-beta/",
+      "title": "Apple Seeds First iOS 26.5 and iPadOS 26.5 Betas to Developers",
+      "published": "2026-03-30T17:39:53+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-seeds-watchos-26-5-beta-1/",
+      "title": "Apple Releases First watchOS 26.5, tvOS 26.5 and visionOS 26.5 Betas",
+      "published": "2026-03-30T17:38:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T20:18:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-30T16:27:46+00:00"
+  "last_checked": "2026-03-30T20:18:21+00:00"
 }
