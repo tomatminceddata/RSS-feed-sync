@@ -1977,7 +1977,8 @@
       "published": "2026-03-29T18:19:50+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-29T20:11:33+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-30T07:44:19+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/29/apple-the-first-50-years-30-off-2/",
@@ -1985,7 +1986,8 @@
       "published": "2026-03-29T22:39:00+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-30T00:45:02+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-30T07:44:19+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/29/new-macbook-pro-low-prices/",
@@ -1993,7 +1995,8 @@
       "published": "2026-03-29T21:24:00+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-30T00:45:02+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-30T07:44:19+00:00"
     }
   ],
   "last_checked": "2026-03-30T00:45:02+00:00"
