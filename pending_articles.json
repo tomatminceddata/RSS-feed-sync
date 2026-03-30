@@ -2005,7 +2005,47 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-30T08:39:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-leaked-image-of-the-new-laowa-wide-angle-full-frame-e-mount-zoom-lens/",
+      "title": "First leaked image of the new Laowa wide angle Full Frame E-mount zoom lens!",
+      "published": "2026-03-30T12:06:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-30T12:27:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/typoch-24-50mm-f-2-8-autofocus-fe-lens-will-be-announced-today/",
+      "title": "Typoch 24-50mm f/2.8 Autofocus FE lens will be announced today!",
+      "published": "2026-03-30T10:46:39+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-30T12:27:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-suspends-new-orders-on-their-cards/",
+      "title": "Sony suspends new orders on their cards",
+      "published": "2026-03-30T08:59:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-30T12:27:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-subsidiary-fined-for-breaching-sanctions/",
+      "title": "Apple Subsidiary Fined Over $500,000 for Breaching Russian Sanctions",
+      "published": "2026-03-30T12:19:32+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T12:27:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-planning-to-launch-oled-imac/",
+      "title": "Apple Reportedly Planning to Launch iMac With OLED Display",
+      "published": "2026-03-30T11:59:22+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T12:27:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-30T08:39:31+00:00"
+  "last_checked": "2026-03-30T12:27:23+00:00"
 }
