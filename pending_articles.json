@@ -1978,7 +1978,23 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-29T20:11:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/29/apple-the-first-50-years-30-off-2/",
+      "title": "New Book 'Apple: The First 50 Years' Hits Record Low Price on Amazon",
+      "published": "2026-03-29T22:39:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T00:45:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/29/new-macbook-pro-low-prices/",
+      "title": "Apple's M5 Pro/M5 Max MacBook Pro Reaches New All-Time Low Prices on Amazon",
+      "published": "2026-03-29T21:24:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-30T00:45:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-29T20:11:33+00:00"
+  "last_checked": "2026-03-30T00:45:02+00:00"
 }
