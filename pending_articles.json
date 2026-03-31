@@ -2157,7 +2157,55 @@
       "feed": "MacRumors",
       "discovered": "2026-03-30T20:18:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-tiktok-little-finder-guy/",
+      "title": "Apple Leans Into Little Finder Guy With New TikTok Videos",
+      "published": "2026-03-30T23:47:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T00:42:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/safari-technology-preview-10th-anniversary/",
+      "title": "Safari Technology Preview Turns 10: A Decade of Testing Apple's Web Technologies",
+      "published": "2026-03-30T23:22:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T00:42:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/everything-new-in-ios-26-5-beta-1/",
+      "title": "Everything New in iOS 26.5 Beta 1",
+      "published": "2026-03-30T22:43:50+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T00:42:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-pulls-vibe-coding-app/",
+      "title": "Apple Pulls Vibe Coding App 'Anything' From App Store, Escalating Enforcement",
+      "published": "2026-03-30T21:33:02+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T00:42:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-ios-26-5-maps-ads-groundwork/",
+      "title": "Apple Lays Groundwork for Ads in Maps With iOS 26.5",
+      "published": "2026-03-30T21:05:34+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T00:42:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/30/apple-airpods-like-pairing-notification-forwarding/",
+      "title": "Apple Testing AirPods-Like Pairing, Live Activities and Notification Forwarding for Third-Party Wearables in EU With iOS 26.5",
+      "published": "2026-03-30T20:42:10+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T00:42:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-30T20:18:21+00:00"
+  "last_checked": "2026-03-31T00:42:31+00:00"
 }
