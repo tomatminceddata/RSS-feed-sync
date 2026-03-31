@@ -2271,7 +2271,103 @@
       "feed": "MacRumors",
       "discovered": "2026-03-31T12:27:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/how-stibo-systems-mdm-powers-trusted-data-for-analytics-and-ai-in-microsoft-fabric-preview/",
+      "title": "How Stibo Systems’ MDM powers trusted data for analytics and AI in Microsoft Fabric (Preview)",
+      "published": "2026-03-31T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/sensitivity-labels-in-fabric-for-public-apis-generally-available/",
+      "title": "Sensitivity labels in Fabric for public APIs (Generally Available)",
+      "published": "2026-03-31T08:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/today-is-world-backup-day-and-you-save-big-at-bhphoto/",
+      "title": "Today is World Backup day and you save big at BHphoto!",
+      "published": "2026-03-31T16:15:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-set-to-announce-a-new-67-megapixel-full-frame-sensor-with-10k-video/",
+      "title": "Sony set to announce a new 67 megapixel Full Frame sensor with 10k video!",
+      "published": "2026-03-31T13:16:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/iran-reportedly-warns-apple-potential-target/",
+      "title": "Iran Reportedly Warns Apple is Among Potential Targets",
+      "published": "2026-03-31T15:54:29+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/studio-display-2022-vs-2026/",
+      "title": "Studio Display 2022 vs. Studio Display 2026 Buyer's Guide",
+      "published": "2026-03-31T15:45:05+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/change-your-gmail-email-address/",
+      "title": "Don't Like Your Gmail Email Address? You Can Finally Change It",
+      "published": "2026-03-31T14:31:48+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/apple-tv-teases-new-thriller-series-cape-fear/",
+      "title": "Apple TV Teases New 'Highly Anticipated' Psychological Thriller Series",
+      "published": "2026-03-31T14:25:33+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/apples-studio-display-low-prices/",
+      "title": "New Apple Studio Display Gets $100 Discounts During Amazon's Big Spring Sale",
+      "published": "2026-03-31T13:50:54+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/ios-27-shortcuts-app-custom-actions-ai/",
+      "title": "iOS 27 Shortcuts App May Write Custom Actions for You Using AI",
+      "published": "2026-03-31T13:22:48+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/airpods-max-2-review/",
+      "title": "AirPods Max 2 Review: Better Sound and ANC, Same Design Frustrations",
+      "published": "2026-03-31T13:00:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/iphone-20-rumored-to-feature-radical-curved-design/",
+      "title": "iPhone 20 Rumored to Feature Radical Curved Design",
+      "published": "2026-03-31T12:28:42+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T16:28:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-31T12:27:22+00:00"
+  "last_checked": "2026-03-31T16:28:00+00:00"
 }
