@@ -2384,7 +2384,79 @@
       "discovered": "2026-03-31T16:28:00+00:00",
       "status": "synced",
       "synced_at": "2026-03-31T19:06:04+00:00"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/announcing-the-latest-innovations-in-fabric-data-factory-apache-airflow-jobs-and-pipelines/",
+      "title": "Announcing the latest innovations in Fabric Data Factory: Apache Airflow jobs and pipelines",
+      "published": "2026-03-31T11:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-31T20:18:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/item-recovery-in-microsoft-fabric-preview/",
+      "title": "Item Recovery in Microsoft Fabric (Preview)",
+      "published": "2026-03-31T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-31T20:18:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/dropped-warehouse-recovery-in-microsoft-fabric-preview/",
+      "title": "Dropped warehouse recovery in Microsoft Fabric (Preview)",
+      "published": "2026-03-31T09:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-03-31T20:18:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/openai-chatgpt-carplay/",
+      "title": "OpenAI Brings ChatGPT to CarPlay for Hands-Free Voice Conversations",
+      "published": "2026-03-31T19:34:20+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T20:18:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/apple-50th-anniversary-employee-gifts/",
+      "title": "Apple Celebrates 50th Anniversary With Employee Gifts, Plans Finale Concert at Apple Park",
+      "published": "2026-03-31T18:54:30+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T20:18:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/airpods-max-2-firmware-8e251/",
+      "title": "Apple Releases New Firmware for AirPods Max 2",
+      "published": "2026-03-31T18:33:36+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T20:18:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/airtag-1-major-discount/",
+      "title": "AirTag 1 Hits All-Time Low Price on Amazon With 4-Pack at $59.99 [Update: Expired]",
+      "published": "2026-03-31T17:44:02+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T20:18:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/three-more-apple-products-vintage-or-obsolete/",
+      "title": "Apple Says Three More Products Are Now 'Vintage' or 'Obsolete'",
+      "published": "2026-03-31T17:36:34+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T20:18:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/03/31/siri-ios-27-multiple-requests/",
+      "title": "iOS 27 Siri Update Will Let Users Make Multiple Requests at Once",
+      "published": "2026-03-31T16:43:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-03-31T20:18:06+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-31T16:28:00+00:00"
+  "last_checked": "2026-03-31T20:18:06+00:00"
 }
