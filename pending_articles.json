@@ -2231,7 +2231,15 @@
       "discovered": "2026-03-31T00:42:31+00:00",
       "status": "synced",
       "synced_at": "2026-03-31T04:19:58+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1900/",
+      "title": "Sony Tidbits…",
+      "published": "2026-03-31T06:17:22+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-03-31T08:30:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-03-31T00:42:31+00:00"
+  "last_checked": "2026-03-31T08:30:22+00:00"
 }
