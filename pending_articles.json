@@ -2238,7 +2238,8 @@
       "published": "2026-03-31T06:17:22+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-31T08:30:22+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/new-sony-a7v-reviews/",
@@ -2246,7 +2247,8 @@
       "published": "2026-03-31T10:24:42+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-31T12:27:22+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/amazon-leo-satellite-internet-delta-flights-2028/",
@@ -2254,7 +2256,8 @@
       "published": "2026-03-31T12:01:25+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T12:27:22+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/apple-sets-privacy-rules-live-activities-alerts/",
@@ -2262,7 +2265,8 @@
       "published": "2026-03-31T11:41:56+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T12:27:22+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/ollama-now-runs-faster-apple-silicon-macs/",
@@ -2270,7 +2274,8 @@
       "published": "2026-03-31T10:22:24+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T12:27:22+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/how-stibo-systems-mdm-powers-trusted-data-for-analytics-and-ai-in-microsoft-fabric-preview/",
@@ -2278,7 +2283,8 @@
       "published": "2026-03-31T09:00:00+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/sensitivity-labels-in-fabric-for-public-apis-generally-available/",
@@ -2286,7 +2292,8 @@
       "published": "2026-03-31T08:00:00+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/today-is-world-backup-day-and-you-save-big-at-bhphoto/",
@@ -2294,7 +2301,8 @@
       "published": "2026-03-31T16:15:24+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/sony-set-to-announce-a-new-67-megapixel-full-frame-sensor-with-10k-video/",
@@ -2302,7 +2310,8 @@
       "published": "2026-03-31T13:16:29+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/iran-reportedly-warns-apple-potential-target/",
@@ -2310,7 +2319,8 @@
       "published": "2026-03-31T15:54:29+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/guide/studio-display-2022-vs-2026/",
@@ -2318,7 +2328,8 @@
       "published": "2026-03-31T15:45:05+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/change-your-gmail-email-address/",
@@ -2326,7 +2337,8 @@
       "published": "2026-03-31T14:31:48+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/apple-tv-teases-new-thriller-series-cape-fear/",
@@ -2334,7 +2346,8 @@
       "published": "2026-03-31T14:25:33+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/apples-studio-display-low-prices/",
@@ -2342,7 +2355,8 @@
       "published": "2026-03-31T13:50:54+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/ios-27-shortcuts-app-custom-actions-ai/",
@@ -2350,7 +2364,8 @@
       "published": "2026-03-31T13:22:48+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/airpods-max-2-review/",
@@ -2358,7 +2373,8 @@
       "published": "2026-03-31T13:00:00+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/03/31/iphone-20-rumored-to-feature-radical-curved-design/",
@@ -2366,7 +2382,8 @@
       "published": "2026-03-31T12:28:42+00:00",
       "feed": "MacRumors",
       "discovered": "2026-03-31T16:28:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-03-31T19:06:04+00:00"
     }
   ],
   "last_checked": "2026-03-31T16:28:00+00:00"
