@@ -2528,7 +2528,79 @@
       "feed": "MacRumors",
       "discovered": "2026-04-01T12:27:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-announced-the-new-alpha-7m-camera/",
+      "title": "Sony announced the new Alpha 7M camera!",
+      "published": "2026-04-01T12:34:05+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-01T16:25:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/airpods-max-2-now-at-apple-stores/",
+      "title": "AirPods Max 2 Now Available at Apple Stores",
+      "published": "2026-04-01T16:23:42+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T16:25:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/tim-cook-discusses-trump/",
+      "title": "Apple CEO Tim Cook Explains His Relationship With Trump",
+      "published": "2026-04-01T16:20:07+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T16:25:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/apple-discusses-airpods-max-2/",
+      "title": "Apple Discusses AirPods Max 2, Says H2 Chip Has More to Offer in Future",
+      "published": "2026-04-01T15:44:19+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T16:25:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-17e-vs-iphone-17/",
+      "title": "iPhone 17e vs. iPhone 17 Buyer's Guide: 35+ Differences Compared",
+      "published": "2026-04-01T15:21:40+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T16:25:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/clearer-audio-zoomed-iphone-videos/",
+      "title": "Stop Your iPhone Suppressing Background Audio in Videos",
+      "published": "2026-04-01T15:18:21+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T16:25:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/alogic-edge-5k2k-display/",
+      "title": "Review: Alogic's Edge 5K Display Offers an Ultrawide Big-Screen Experience",
+      "published": "2026-04-01T15:06:42+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T16:25:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/apple-celebrates-50th-anniversary/",
+      "title": "Apple Celebrates 50th Anniversary in Seven Ways",
+      "published": "2026-04-01T14:02:43+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T16:25:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/get-airpods-max-2-on-sale/",
+      "title": "Get AirPods Max 2 on Sale for Launch Day",
+      "published": "2026-04-01T13:41:06+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T16:25:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-01T12:27:48+00:00"
+  "last_checked": "2026-04-01T16:25:48+00:00"
 }
