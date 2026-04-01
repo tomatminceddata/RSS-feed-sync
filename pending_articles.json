@@ -2600,7 +2600,47 @@
       "feed": "MacRumors",
       "discovered": "2026-04-01T16:25:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/apple-ipad-air-3-vintage-product-list/",
+      "title": "Apple Adds Another iPad to Vintage Products List",
+      "published": "2026-04-01T19:37:01+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T20:18:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/apple-refurbished-m5-macbook-pro/",
+      "title": "Apple Now Selling Refurbished M5 MacBook Pro and iPad 11 at Reduced Prices",
+      "published": "2026-04-01T19:13:24+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T20:18:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/ios-27-upgraded-keyboard-rumor/",
+      "title": "iOS 27 Rumored to Feature Keyboard Upgrade",
+      "published": "2026-04-01T18:45:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T20:18:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/siri-ios-27-rumor-recap/",
+      "title": "Siri in iOS 27: Everything We Know",
+      "published": "2026-04-01T18:16:19+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T20:18:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/01/apple-ios-18-darksword-security-update/",
+      "title": "Apple Issues Rare iOS 18 Security Update to Protect Against DarkSword Exploit",
+      "published": "2026-04-01T17:20:46+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-01T20:18:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-01T16:25:48+00:00"
+  "last_checked": "2026-04-01T20:18:59+00:00"
 }
