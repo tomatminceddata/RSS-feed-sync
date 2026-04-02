@@ -2672,7 +2672,31 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-02T08:28:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/you-can-finally-preorder-the-new-sg-image-35mm-f-2-2-e-mount-lens/",
+      "title": "You can finally preorder the new SG Image 35mm f/2.2 E-mount lens!",
+      "published": "2026-04-02T09:41:12+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-02T12:27:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/amazon-buy-apple-satellite-partner-globalstar/",
+      "title": "Amazon Reportedly in Talks to Buy Apple Satellite Partner Globalstar",
+      "published": "2026-04-02T11:45:08+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T12:27:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/iphone-18-pro-wont-come-in-black/",
+      "title": "iPhone 18 Pro Reportedly Won't Come in Black",
+      "published": "2026-04-02T10:16:52+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T12:27:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-02T08:28:05+00:00"
+  "last_checked": "2026-04-02T12:27:26+00:00"
 }
