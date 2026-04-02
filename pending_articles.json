@@ -2696,7 +2696,71 @@
       "feed": "MacRumors",
       "discovered": "2026-04-02T12:27:26+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/dataflows-thank-you-for-eight-years-of-gen1-and-why-gen2-is-the-future/",
+      "title": "Dataflows: Thank you for eight years of Gen1—and why Gen2 is the future",
+      "published": "2026-04-02T09:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-04-02T16:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/exclusive-new-67-megapixel-sony-a7rvi-is-coming-in-may/",
+      "title": "Exclusive: New 67 Megapixel Sony A7rVI is coming in May!!!",
+      "published": "2026-04-02T13:17:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-02T16:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/apple-turns-off-payments-in-russia/",
+      "title": "Apple Turns Off Payments in Russia",
+      "published": "2026-04-02T15:47:30+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T16:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/safaris-compact-tab-bar-back-on-mac-and-ipad/",
+      "title": "Safari's Compact Tab Bar Is Back on Mac and iPad",
+      "published": "2026-04-02T15:11:07+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T16:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/apple-tv-widows-bay-trailer/",
+      "title": "Apple TV Releases Trailer for Mysterious New 'Genre-Bending' Series",
+      "published": "2026-04-02T15:10:33+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T16:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/m5-macbook-air-low-prices/",
+      "title": "M5 MacBook Air Hits New Low Prices on Amazon With Up to $84 Off",
+      "published": "2026-04-02T14:28:08+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T16:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/when-is-the-next-apple-event/",
+      "title": "When is the Next Apple Event?",
+      "published": "2026-04-02T14:08:07+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T16:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/apple-vp-activity-rings-retiring-misconduct-claims/",
+      "title": "Apple VP Behind Activity Rings Retiring After Misconduct Claims",
+      "published": "2026-04-02T12:58:17+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T16:26:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-02T12:27:26+00:00"
+  "last_checked": "2026-04-02T16:26:03+00:00"
 }
