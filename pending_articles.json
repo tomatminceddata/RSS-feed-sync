@@ -2664,7 +2664,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-02T00:40:13+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/today-big-sony-rumors-coming/",
+      "title": "Today big Sony rumors coming!",
+      "published": "2026-04-02T06:24:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-02T08:28:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-02T00:40:13+00:00"
+  "last_checked": "2026-04-02T08:28:05+00:00"
 }
