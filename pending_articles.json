@@ -2760,7 +2760,39 @@
       "feed": "MacRumors",
       "discovered": "2026-04-02T16:26:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/34973/",
+      "title": "Five reasons to attend SQLBits in the UK",
+      "published": "2026-04-02T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-02T20:15:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/super-deal-600-off-on-the-sony-400-800mm-g-lens/",
+      "title": "Super deal: $600 off on the Sony 400-800mm G lens!",
+      "published": "2026-04-02T19:33:43+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-02T20:15:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/anker-nano-power-strip/",
+      "title": "Anker's $70 Nano Power Strip Clamps to Your Desk for Easy Access to 10 Ports",
+      "published": "2026-04-02T19:57:12+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T20:15:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/",
+      "title": "Little Finder Guy Stars in Nine New Apple TikTok and YouTube Videos",
+      "published": "2026-04-02T17:00:18+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-02T20:15:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-02T16:26:03+00:00"
+  "last_checked": "2026-04-02T20:15:00+00:00"
 }
