@@ -2879,7 +2879,15 @@
       "discovered": "2026-04-03T04:50:51+00:00",
       "status": "synced",
       "synced_at": "2026-04-03T07:17:54+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/brightin-stars-lens-launch-teaser/",
+      "title": "Just announced: New Brightin Star 11mm f/2.8 lens",
+      "published": "2026-04-03T09:17:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-03T12:21:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-03T04:50:51+00:00"
+  "last_checked": "2026-04-03T12:21:19+00:00"
 }
