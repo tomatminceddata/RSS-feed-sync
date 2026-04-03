@@ -2792,7 +2792,31 @@
       "feed": "MacRumors",
       "discovered": "2026-04-02T20:15:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/apple-wwdc-2026-invites-lottery-winners/",
+      "title": "Apple Sending WWDC 2026 Invites to Special Event Lottery Winners",
+      "published": "2026-04-02T21:03:30+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-03T00:42:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/unofficial-wwdc-2026-pins/",
+      "title": "Apple Fan Creates Unofficial WWDC 2026 and 50th Anniversary Enamel Pins",
+      "published": "2026-04-02T20:57:37+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-03T00:42:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/02/apple-140w-power-adapter-compatibility-issue/",
+      "title": "Apple's New 16-Inch MacBook Pro Charger Has a Compatibility Issue",
+      "published": "2026-04-02T20:49:43+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-03T00:42:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-02T20:15:00+00:00"
+  "last_checked": "2026-04-03T00:42:44+00:00"
 }
