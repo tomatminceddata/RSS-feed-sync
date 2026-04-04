@@ -2999,7 +2999,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-04T00:39:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1901/",
+      "title": "Sony Tidbits…",
+      "published": "2026-04-04T06:17:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-04T08:18:20+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-04T00:39:33+00:00"
+  "last_checked": "2026-04-04T08:18:20+00:00"
 }
