@@ -3023,7 +3023,39 @@
       "discovered": "2026-04-04T08:18:20+00:00",
       "status": "synced",
       "synced_at": "2026-04-04T11:44:57+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/curiosity-sony-gear-still-working-in-tibet-at-14c-and-an-altitude-of-4624-meters/",
+      "title": "Curiosity: Sony gear still working in Tibet at -14°C and an altitude of 4624 meters!",
+      "published": "2026-04-04T13:04:36+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-04T16:12:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/04/apple-the-first-50-years-hits/",
+      "title": "Get the New Book 'Apple: The First 50 Years' for 31% Off on Amazon",
+      "published": "2026-04-04T13:39:49+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-04T16:12:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/04/apple-carplay-just-got-three-popular-iphone-apps/",
+      "title": "Apple CarPlay Just Got Three Popular iPhone Apps",
+      "published": "2026-04-04T13:19:45+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-04T16:12:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/04/top-stories-foldable-iphone-ios-26-5-beta/",
+      "title": "Top Stories: Foldable iPhone, iOS 26.5 Beta, Apple's 50th, and More",
+      "published": "2026-04-03T13:37:04+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-04T16:12:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-04T08:18:20+00:00"
+  "last_checked": "2026-04-04T16:12:19+00:00"
 }
