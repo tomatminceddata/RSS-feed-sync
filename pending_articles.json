@@ -3030,7 +3030,8 @@
       "published": "2026-04-04T13:04:36+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-04T16:12:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-05T18:42:13+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/04/apple-the-first-50-years-hits/",
@@ -3038,7 +3039,8 @@
       "published": "2026-04-04T13:39:49+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-04T16:12:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-05T18:42:13+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/04/apple-carplay-just-got-three-popular-iphone-apps/",
@@ -3046,7 +3048,8 @@
       "published": "2026-04-04T13:19:45+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-04T16:12:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-05T18:42:13+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/04/top-stories-foldable-iphone-ios-26-5-beta/",
@@ -3054,7 +3057,8 @@
       "published": "2026-04-03T13:37:04+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-04T16:12:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-05T18:42:13+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/05/homepod-mini-now-2000-days-old/",
@@ -3062,7 +3066,8 @@
       "published": "2026-04-05T11:08:07+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-05T12:18:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-05T18:42:13+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/jake-sloan-tested-the-sony-a7v-in-alaska/",
@@ -3070,7 +3075,8 @@
       "published": "2026-04-05T12:50:51+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-05T16:13:34+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-05T18:42:13+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/05/200-off-m5-macbook-air/",
@@ -3078,7 +3084,8 @@
       "published": "2026-04-05T14:27:32+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-05T16:13:34+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-05T18:42:13+00:00"
     }
   ],
   "last_checked": "2026-04-05T16:13:34+00:00"
