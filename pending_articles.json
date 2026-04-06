@@ -3102,7 +3102,15 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-06T08:38:58+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/mitakon-zhongyi-200mm-f-4-1x-macro-lens-review/",
+      "title": "Mitakon Zhongyi 200mm f/4 1x Macro Lens review",
+      "published": "2026-04-06T09:04:20+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-06T12:25:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-06T08:38:58+00:00"
+  "last_checked": "2026-04-06T12:25:26+00:00"
 }
