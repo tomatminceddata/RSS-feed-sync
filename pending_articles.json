@@ -3086,7 +3086,15 @@
       "discovered": "2026-04-05T16:13:34+00:00",
       "status": "synced",
       "synced_at": "2026-04-05T18:42:13+00:00"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/05/nasa-artemis-ii-photos-shot-on-iphone-17-pro-max/",
+      "title": "NASA Shares Photos Shot on iPhone 17 Pro Max During Artemis II Mission to the Moon",
+      "published": "2026-04-06T01:34:58+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-06T05:02:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-05T16:13:34+00:00"
+  "last_checked": "2026-04-06T05:02:03+00:00"
 }
