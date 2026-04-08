@@ -3438,7 +3438,47 @@
       "feed": "MacRumors",
       "discovered": "2026-04-08T12:27:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/tamron-will-make-new-primes-but-only-if-they-are-unique-and-innovative/",
+      "title": "Tamron Will Make New Primes, but Only if They Are Unique and Innovative",
+      "published": "2026-04-08T12:28:52+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-08T16:32:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/2024-ipad-mini-vs-2026-ipad-air/",
+      "title": "2024 iPad Mini vs. 2026 iPad Air Buyer's Guide: 20+ Differences Compared",
+      "published": "2026-04-08T16:22:22+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-08T16:32:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/08/apple-three-year-plan-to-reinvent-iphone/",
+      "title": "Apple's Three-Year Plan to 'Reinvent' the iPhone is Underway",
+      "published": "2026-04-08T15:04:32+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-08T16:32:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/08/iphone-air-2-to-launch-no-matter-what/",
+      "title": "Leaker: Apple Will Release iPhone Air 2 No Matter How Badly It May Sell",
+      "published": "2026-04-08T14:27:12+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-08T16:32:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/08/m5-macbook-air-hits-949/",
+      "title": "Apple's New M5 MacBook Air Hits $949 Record Low Price on Amazon",
+      "published": "2026-04-08T13:46:12+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-08T16:32:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-08T12:27:45+00:00"
+  "last_checked": "2026-04-08T16:32:44+00:00"
 }
