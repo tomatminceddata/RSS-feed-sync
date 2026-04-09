@@ -3698,7 +3698,39 @@
       "discovered": "2026-04-09T16:36:12+00:00",
       "status": "synced",
       "synced_at": "2026-04-09T17:58:36+00:00"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/whats-new-in-fabric-eventstream-2026-q1-edition/",
+      "title": "What’s new in Fabric Eventstream: 2026 Q1 Edition",
+      "published": "2026-04-09T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-09T20:22:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/09/apple-pixelmator-pro-template-update/",
+      "title": "Apple's Pixelmator Pro Update Brings iPhone 17 Mockups, Keyboard Shortcuts, and Expanded Camera Support",
+      "published": "2026-04-09T18:05:56+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-09T20:22:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/09/apple-logic-pro-sound-pack/",
+      "title": "Logic Pro Updated With Step Reflex Sound Pack, Apple's Other Creator Apps Get Bug Fixes",
+      "published": "2026-04-09T17:30:28+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-09T20:22:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/09/apple-releases-macos-tahoe-26-4-1/",
+      "title": "Apple Releases macOS Tahoe 26.4.1 With MacBook Air and MacBook Pro Wi-Fi Fix",
+      "published": "2026-04-09T17:18:45+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-09T20:22:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-09T16:36:12+00:00"
+  "last_checked": "2026-04-09T20:22:33+00:00"
 }
