@@ -3770,7 +3770,31 @@
       "feed": "MacRumors",
       "discovered": "2026-04-10T00:43:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/fstoppers-review-of-the-rx1rrii/",
+      "title": "Fstoppers review of the RX1rRII",
+      "published": "2026-04-10T09:43:39+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-10T12:24:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/10/apple-car-key-support-coming-to-lexus/",
+      "title": "Apple Car Key Support Coming to Lexus Vehicles",
+      "published": "2026-04-10T11:03:15+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T12:24:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/macbook-charge-limit-setting-benefits/",
+      "title": "Make Your MacBook Battery Last Longer With This Setting",
+      "published": "2026-04-10T09:25:34+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T12:24:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-10T00:43:45+00:00"
+  "last_checked": "2026-04-10T12:24:05+00:00"
 }
