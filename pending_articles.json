@@ -3842,7 +3842,23 @@
       "feed": "MacRumors",
       "discovered": "2026-04-10T16:24:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/10/halfbrick-jetpack-joyride-racing/",
+      "title": "Halfbrick Launches Free 'Jetpack Joyride Racing' Game With Multiplayer Support For Up to Six Players",
+      "published": "2026-04-10T18:35:29+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T20:15:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/10/macrumors-giveaway-astropad-iphone-17-april/",
+      "title": "MacRumors Giveaway: Win an iPhone 17 and Astropad Fresh Coat Anti-Reflective Screen Protector",
+      "published": "2026-04-10T17:50:30+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T20:15:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-10T16:24:11+00:00"
+  "last_checked": "2026-04-10T20:15:23+00:00"
 }
