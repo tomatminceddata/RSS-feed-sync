@@ -3730,7 +3730,47 @@
       "feed": "MacRumors",
       "discovered": "2026-04-09T20:22:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/09/openai-pro-subscription-tiers/",
+      "title": "OpenAI Adds New $100/Month ChatGPT Subscription Tier for Heavier Codex Use",
+      "published": "2026-04-09T23:50:05+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T00:43:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/09/mac-os-x-cheetah-nintendo-wii/",
+      "title": "Mac OS X Cheetah Successfully Ported to Nintendo Wii",
+      "published": "2026-04-09T23:25:41+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T00:43:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/09/apple-mac-shipments-q1-2026/",
+      "title": "Apple Mac Shipments Grew 9% in Q1 2026, Outpacing Overall PC Market",
+      "published": "2026-04-09T22:21:27+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T00:43:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/09/europe-apple-museum/",
+      "title": "Europe's Largest Apple Museum Opens in the Netherlands With 50 Years of Products on Display",
+      "published": "2026-04-09T21:25:10+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T00:43:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/09/instagram-edit-comments/",
+      "title": "Instagram Now Lets You Edit Comments for Up to 15 Minutes",
+      "published": "2026-04-09T20:31:39+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T00:43:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-09T20:22:33+00:00"
+  "last_checked": "2026-04-10T00:43:45+00:00"
 }
