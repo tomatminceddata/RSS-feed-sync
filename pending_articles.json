@@ -3794,7 +3794,55 @@
       "feed": "MacRumors",
       "discovered": "2026-04-10T12:24:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-sony-a7rvi-announcement-in-may-and-100-400mm-f-4-0-gm-coming-too/",
+      "title": "Confirmed: Sony A7rVI announcement in May and 100-400mm f/4.0 GM coming too!",
+      "published": "2026-04-10T14:15:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-10T16:24:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/10/the-macrumors-show-foldable-iphone-ultra/",
+      "title": "The MacRumors Show: Apple's Foldable iPhone 'Ultra'",
+      "published": "2026-04-10T16:15:29+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T16:24:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/10/youtube-premium-price-increase/",
+      "title": "YouTube Premium Receives a Price Increase",
+      "published": "2026-04-10T15:26:20+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T16:24:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/10/best-apple-deals-of-the-week-4-10-26/",
+      "title": "Best Apple Deals of the Week: M5 MacBook Air Hits New Record Low Prices at $150 Off, Plus MacBook Pro Deals",
+      "published": "2026-04-10T14:05:40+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T16:24:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/10/gmail-end-to-end-encryption-comes-to-ios/",
+      "title": "Gmail End-to-End Encryption Comes to iOS for Workspace Users",
+      "published": "2026-04-10T12:45:36+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T16:24:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/10/unionized-apple-store-permanently-closing/",
+      "title": "Apple is Closing a Unionized Store in the U.S. and the Union is 'Outraged'",
+      "published": "2026-04-09T18:35:35+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-10T16:24:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-10T12:24:05+00:00"
+  "last_checked": "2026-04-10T16:24:11+00:00"
 }
