@@ -3866,7 +3866,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-11T00:41:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/zeiss-otus-35mm-f-1-4-review-by-petapixel/",
+      "title": "Zeiss Otus 35mm f/1.4 review by PetaPixel",
+      "published": "2026-04-11T11:00:12+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-11T12:18:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-11T00:41:31+00:00"
+  "last_checked": "2026-04-11T12:18:00+00:00"
 }
