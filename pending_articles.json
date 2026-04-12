@@ -3705,7 +3705,8 @@
       "published": "2026-04-09T10:00:00+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-04-09T20:22:33+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/09/apple-pixelmator-pro-template-update/",
@@ -3713,7 +3714,8 @@
       "published": "2026-04-09T18:05:56+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-09T20:22:33+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/09/apple-logic-pro-sound-pack/",
@@ -3721,7 +3723,8 @@
       "published": "2026-04-09T17:30:28+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-09T20:22:33+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/09/apple-releases-macos-tahoe-26-4-1/",
@@ -3729,7 +3732,8 @@
       "published": "2026-04-09T17:18:45+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-09T20:22:33+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/09/openai-pro-subscription-tiers/",
@@ -3737,7 +3741,8 @@
       "published": "2026-04-09T23:50:05+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T00:43:45+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/09/mac-os-x-cheetah-nintendo-wii/",
@@ -3745,7 +3750,8 @@
       "published": "2026-04-09T23:25:41+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T00:43:45+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/09/apple-mac-shipments-q1-2026/",
@@ -3753,7 +3759,8 @@
       "published": "2026-04-09T22:21:27+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T00:43:45+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/09/europe-apple-museum/",
@@ -3761,7 +3768,8 @@
       "published": "2026-04-09T21:25:10+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T00:43:45+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/09/instagram-edit-comments/",
@@ -3769,7 +3777,8 @@
       "published": "2026-04-09T20:31:39+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T00:43:45+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/fstoppers-review-of-the-rx1rrii/",
@@ -3777,7 +3786,8 @@
       "published": "2026-04-10T09:43:39+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-10T12:24:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/10/apple-car-key-support-coming-to-lexus/",
@@ -3785,7 +3795,8 @@
       "published": "2026-04-10T11:03:15+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T12:24:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/how-to/macbook-charge-limit-setting-benefits/",
@@ -3793,7 +3804,8 @@
       "published": "2026-04-10T09:25:34+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T12:24:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/confirmed-sony-a7rvi-announcement-in-may-and-100-400mm-f-4-0-gm-coming-too/",
@@ -3801,7 +3813,8 @@
       "published": "2026-04-10T14:15:50+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-10T16:24:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/10/the-macrumors-show-foldable-iphone-ultra/",
@@ -3809,7 +3822,8 @@
       "published": "2026-04-10T16:15:29+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T16:24:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/10/youtube-premium-price-increase/",
@@ -3817,7 +3831,8 @@
       "published": "2026-04-10T15:26:20+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T16:24:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/10/best-apple-deals-of-the-week-4-10-26/",
@@ -3825,7 +3840,8 @@
       "published": "2026-04-10T14:05:40+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T16:24:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/10/gmail-end-to-end-encryption-comes-to-ios/",
@@ -3833,7 +3849,8 @@
       "published": "2026-04-10T12:45:36+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T16:24:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/10/unionized-apple-store-permanently-closing/",
@@ -3841,7 +3858,8 @@
       "published": "2026-04-09T18:35:35+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T16:24:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/10/halfbrick-jetpack-joyride-racing/",
@@ -3849,7 +3867,8 @@
       "published": "2026-04-10T18:35:29+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T20:15:23+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/10/macrumors-giveaway-astropad-iphone-17-april/",
@@ -3857,7 +3876,8 @@
       "published": "2026-04-10T17:50:30+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-10T20:15:23+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/10/iphone-fold-rumor-recap/",
@@ -3865,7 +3885,8 @@
       "published": "2026-04-10T21:57:17+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-11T00:41:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/zeiss-otus-35mm-f-1-4-review-by-petapixel/",
@@ -3873,7 +3894,8 @@
       "published": "2026-04-11T11:00:12+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-11T12:18:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/11/apple-highlights-artemis-ii-iphone-photos/",
@@ -3881,7 +3903,8 @@
       "published": "2026-04-11T15:17:14+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-11T16:13:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/11/some-mac-mini-mac-studio-currently-unavailable/",
@@ -3889,7 +3912,8 @@
       "published": "2026-04-11T14:35:28+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-11T16:13:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/11/top-stories-iphone-rumors-macbook-neo-dilemma/",
@@ -3897,7 +3921,8 @@
       "published": "2026-04-10T14:10:05+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-11T16:13:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/11/best-apple-deals-of-the-week-4-10-26/",
@@ -3905,7 +3930,8 @@
       "published": "2026-04-10T14:05:40+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-11T16:13:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/petapixel-claims-the-sony-fx100-and-hasselblad-lunar-were-among-the-worse-designed-cameras-they-have-ever-tested/",
@@ -3913,7 +3939,8 @@
       "published": "2026-04-12T12:03:19+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-12T12:19:05+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-12T15:45:48+00:00"
     }
   ],
   "last_checked": "2026-04-12T12:19:05+00:00"
