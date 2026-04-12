@@ -3906,7 +3906,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-11T16:13:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/petapixel-claims-the-sony-fx100-and-hasselblad-lunar-were-among-the-worse-designed-cameras-they-have-ever-tested/",
+      "title": "PetaPixel claims the Sony Fx100 and Hasselblad Lunar were among the worse designed cameras they have ever tested",
+      "published": "2026-04-12T12:03:19+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-12T12:19:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-11T16:13:12+00:00"
+  "last_checked": "2026-04-12T12:19:05+00:00"
 }
