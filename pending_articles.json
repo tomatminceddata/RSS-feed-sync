@@ -3965,7 +3965,47 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-13T08:49:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/ttartisan-is-teasing-the-launch-of-two-new-full-frame-autofocus-lenses/",
+      "title": "TTartisan is teasing the launch of two new full-frame autofocus lenses!",
+      "published": "2026-04-13T10:27:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-13T12:32:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/13/huawei-foldable-similar-foldable-iphone/",
+      "title": "New Huawei Foldable Looks a Lot Like Apple's Rumored iPhone Fold",
+      "published": "2026-04-13T11:40:57+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-13T12:32:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/13/john-giannandrea-departs-apple-this-week/",
+      "title": "Apple's AI Chief John Giannandrea Departs This Week",
+      "published": "2026-04-13T11:23:27+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-13T12:32:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/13/iphone-18-pro-deep-red-color/",
+      "title": "iPhone 18 Pro Deep Red Color Likely as Android Rivals Prep Same Shade",
+      "published": "2026-04-13T10:15:59+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-13T12:32:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/13/apple-smart-glasses-four-styles/",
+      "title": "Apple Testing Four Smart Glasses Styles Made of High-End Materials",
+      "published": "2026-04-13T09:29:03+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-13T12:32:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-13T08:49:48+00:00"
+  "last_checked": "2026-04-13T12:32:03+00:00"
 }
