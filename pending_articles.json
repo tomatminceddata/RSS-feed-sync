@@ -4005,7 +4005,47 @@
       "feed": "MacRumors",
       "discovered": "2026-04-13T12:32:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/manny-ortiz-reviews-the-first-generation-sony-a7rv-and-its-not-a-coincidence/",
+      "title": "Manny Ortiz reviews the first generation Sony A7rV….and it’s not a coincidence :)",
+      "published": "2026-04-13T13:47:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-13T16:33:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/check-who-using-iphone-hotspot-data/",
+      "title": "Check Who's Using Your iPhone Hotspot Data",
+      "published": "2026-04-13T14:17:56+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-13T16:33:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/13/adhesive-is-key-to-crease-free-foldable-iphone/",
+      "title": "Smart Adhesive Is Key to Crease-Free Foldable iPhone Display",
+      "published": "2026-04-13T13:57:18+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-13T16:33:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/13/2026-macbook-pro-low-prices-2/",
+      "title": "Get Up to $200 Off 2026 MacBook Pro With Record Low Prices on Amazon",
+      "published": "2026-04-13T13:32:28+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-13T16:33:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/13/valve-steam-link-apple-vision-pro/",
+      "title": "Valve's Steam Link App Is Coming to Apple Vision Pro",
+      "published": "2026-04-13T13:14:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-13T16:33:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-13T12:32:03+00:00"
+  "last_checked": "2026-04-13T16:33:39+00:00"
 }
