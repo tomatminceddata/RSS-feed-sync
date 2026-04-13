@@ -3957,7 +3957,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-12T16:14:58+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-ttartisan-17mm-f1-8-air-and-7-5mm-f2-aps-c-lenses/",
+      "title": "New TTArtisan 17mm f1.8 Air and 7.5mm F2 APS-C lenses",
+      "published": "2026-04-13T06:26:17+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-13T08:49:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-12T16:14:58+00:00"
+  "last_checked": "2026-04-13T08:49:48+00:00"
 }
