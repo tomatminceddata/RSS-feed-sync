@@ -4181,7 +4181,79 @@
       "feed": "MacRumors",
       "discovered": "2026-04-14T12:30:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/unifying-analyze-data-with-analytics-across-fabric-preview/",
+      "title": "Unifying “Analyze data with” analytics across Fabric (Preview)",
+      "published": "2026-04-14T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-14T16:31:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/one-data-many-insights-how-eventhouse-brings-analytics-together-preview/",
+      "title": "One platform, many insights: How Eventhouse brings analytics together (Preview)",
+      "published": "2026-04-13T13:02:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-14T16:31:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/wild-rumors-about-a-new-sony-200mm-gm-lens/",
+      "title": "Wild rumors about a new Sony 200mm f/2.0 GM lens…",
+      "published": "2026-04-14T12:59:39+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-14T16:31:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/davinci-resolve-21-photo-editing-ai-search/",
+      "title": "DaVinci Resolve 21 Adds Photo Editing and AI Search Tools",
+      "published": "2026-04-14T15:31:18+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-14T16:31:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/studio-display-xdr-record-low/",
+      "title": "Apple's 2026 Studio Display XDR Drops to New Record Low Prices on Expercom",
+      "published": "2026-04-14T14:20:13+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-14T16:31:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/prosser-still-not-cooperating-in-lawsuit/",
+      "title": "Jon Prosser Still Not Fully Cooperating in Apple's iOS 26 Trade Secrets Lawsuit",
+      "published": "2026-04-14T13:57:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-14T16:31:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/apples-m4-ipad-air-drops-2/",
+      "title": "Apple's M4 iPad Air Available for Up to $100 Off on Amazon",
+      "published": "2026-04-14T13:41:39+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-14T16:31:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/new-switzerland-apple-store-planned/",
+      "title": "Apple Plans One of Europe's Biggest Stores in Zurich",
+      "published": "2026-04-14T12:42:03+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-14T16:31:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/apple-and-amazon-ink-satellite-deal-globalstar/",
+      "title": "Apple and Amazon Ink Satellite Deal Amid Globalstar Takeover",
+      "published": "2026-04-14T12:31:40+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-14T16:31:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-14T12:30:03+00:00"
+  "last_checked": "2026-04-14T16:31:17+00:00"
 }
