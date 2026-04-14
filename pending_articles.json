@@ -4165,7 +4165,23 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-14T08:41:04+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/reasons-to-wait-iphone-18-pro-2/",
+      "title": "10 Reasons to Wait for the iPhone 18 Pro",
+      "published": "2026-04-14T11:38:20+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-14T12:30:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/blackmagic-29k-ursa-cine-immersive-100g-vision-pro/",
+      "title": "Blackmagic Debuts $29K+ URSA Cine Immersive 100G for Vision Pro",
+      "published": "2026-04-14T10:30:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-14T12:30:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-14T08:41:04+00:00"
+  "last_checked": "2026-04-14T12:30:03+00:00"
 }
