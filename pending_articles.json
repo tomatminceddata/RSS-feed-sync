@@ -4157,7 +4157,15 @@
       "discovered": "2026-04-14T00:48:18+00:00",
       "status": "synced",
       "synced_at": "2026-04-14T04:29:56+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-viltrox-full-frame-autofocus-lens-will-be-announced-on-april-20/",
+      "title": "New Viltrox Full Frame Autofocus lens will be announced on April 20",
+      "published": "2026-04-14T06:16:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-14T08:41:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-14T00:48:18+00:00"
+  "last_checked": "2026-04-14T08:41:04+00:00"
 }
