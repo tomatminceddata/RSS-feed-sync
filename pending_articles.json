@@ -3948,7 +3948,8 @@
       "published": "2026-04-12T13:52:31+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-12T16:14:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/12/airpods-weekend-deals-2/",
@@ -3956,7 +3957,8 @@
       "published": "2026-04-12T13:33:36+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-12T16:14:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/new-ttartisan-17mm-f1-8-air-and-7-5mm-f2-aps-c-lenses/",
@@ -3964,7 +3966,8 @@
       "published": "2026-04-13T06:26:17+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-13T08:49:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/ttartisan-is-teasing-the-launch-of-two-new-full-frame-autofocus-lenses/",
@@ -3972,7 +3975,8 @@
       "published": "2026-04-13T10:27:03+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/huawei-foldable-similar-foldable-iphone/",
@@ -3980,7 +3984,8 @@
       "published": "2026-04-13T11:40:57+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/john-giannandrea-departs-apple-this-week/",
@@ -3988,7 +3993,8 @@
       "published": "2026-04-13T11:23:27+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/iphone-18-pro-deep-red-color/",
@@ -3996,7 +4002,8 @@
       "published": "2026-04-13T10:15:59+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/apple-smart-glasses-four-styles/",
@@ -4004,7 +4011,8 @@
       "published": "2026-04-13T09:29:03+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/manny-ortiz-reviews-the-first-generation-sony-a7rv-and-its-not-a-coincidence/",
@@ -4012,7 +4020,8 @@
       "published": "2026-04-13T13:47:34+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/how-to/check-who-using-iphone-hotspot-data/",
@@ -4020,7 +4029,8 @@
       "published": "2026-04-13T14:17:56+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/adhesive-is-key-to-crease-free-foldable-iphone/",
@@ -4028,7 +4038,8 @@
       "published": "2026-04-13T13:57:18+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/2026-macbook-pro-low-prices-2/",
@@ -4036,7 +4047,8 @@
       "published": "2026-04-13T13:32:28+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/valve-steam-link-apple-vision-pro/",
@@ -4044,7 +4056,8 @@
       "published": "2026-04-13T13:14:00+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/alter-table-inside-explicit-transactions-in-fabric-data-warehouse-generally-available/",
@@ -4052,7 +4065,8 @@
       "published": "2026-04-13T11:00:00+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/bring-your-local-files-to-onelake-with-onelake-file-explorer-generally-available/",
@@ -4060,7 +4074,8 @@
       "published": "2026-04-13T11:00:00+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://blog.fabric.microsoft.com/en-US/blog/announcing-full-collation-support-for-sql-databases-in-microsoft-fabric-preview/",
@@ -4068,7 +4083,8 @@
       "published": "2026-04-13T10:51:08+00:00",
       "feed": "MicrosoftFabricBlog",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/today-only-save-on-benro-travel-tripod-and-think-tank-traveler-bag-at-bhphoto/",
@@ -4076,7 +4092,8 @@
       "published": "2026-04-13T17:55:10+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/american-airlines-ios-26-boarding-passes/",
@@ -4084,7 +4101,8 @@
       "published": "2026-04-13T19:59:06+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/ios-26-2-beta-2-apple-maps-ads/",
@@ -4092,7 +4110,8 @@
       "published": "2026-04-13T18:09:51+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/apple-watch-series-11-100-off-3/",
@@ -4100,7 +4119,8 @@
       "published": "2026-04-13T17:22:52+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/apple-seeds-ios-26-5-beta-2/",
@@ -4108,7 +4128,8 @@
       "published": "2026-04-13T17:08:38+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/apple-releases-macos-tahoe-26-5-beta-2/",
@@ -4116,7 +4137,8 @@
       "published": "2026-04-13T17:07:58+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/apple-releases-watchos-26-5-beta-2/",
@@ -4124,7 +4146,8 @@
       "published": "2026-04-13T17:06:00+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/04/13/iphone-fold-production-pushed-back/",
@@ -4132,7 +4155,8 @@
       "published": "2026-04-13T20:44:51+00:00",
       "feed": "MacRumors",
       "discovered": "2026-04-14T00:48:18+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-04-14T04:29:56+00:00"
     }
   ],
   "last_checked": "2026-04-14T00:48:18+00:00"
