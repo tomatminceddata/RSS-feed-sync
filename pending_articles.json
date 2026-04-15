@@ -4301,7 +4301,39 @@
       "feed": "MacRumors",
       "discovered": "2026-04-14T20:25:24+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/microsoft-surface-pc-price-hike/",
+      "title": "Microsoft Raises Prices for All Surface PCs, Making Them More Expensive Than Equivalent Macs",
+      "published": "2026-04-14T23:21:37+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-15T00:48:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/apple-pulls-freecash-app/",
+      "title": "Apple Removes Freecash App From App Store After Months of Data Harvesting",
+      "published": "2026-04-14T22:54:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-15T00:48:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/switchbot-s20-and-k11-plus/",
+      "title": "SwitchBot S20 Review: A Budget-Friendly Robot Vacuum and Mop With Matter Support",
+      "published": "2026-04-14T22:27:53+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-15T00:48:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/14/samsung-us-price-increase/",
+      "title": "Samsung's U.S. Price Increases Add to Concerns About Rising Apple Device Costs",
+      "published": "2026-04-14T21:47:16+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-15T00:48:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-14T20:25:24+00:00"
+  "last_checked": "2026-04-15T00:48:01+00:00"
 }
