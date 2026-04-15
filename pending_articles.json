@@ -4333,7 +4333,39 @@
       "feed": "MacRumors",
       "discovered": "2026-04-15T00:48:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/list-of-coolest-lenses-for-each-system-according-to-petapixel-tv/",
+      "title": "List of coolest lenses for each system according to PetaPixel TV",
+      "published": "2026-04-15T10:09:43+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-15T12:30:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/15/report-ipad-air-to-gain-oled-display-next-year/",
+      "title": "Report: iPad Air to Gain OLED Display Next Year",
+      "published": "2026-04-15T11:31:03+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-15T12:30:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/15/anthropic-rebuilds-claude-code-desktop-app/",
+      "title": "Anthropic Rebuilds Claude Code Desktop App Around Parallel Sessions",
+      "published": "2026-04-15T10:32:21+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-15T12:30:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/15/apple-tv-peacock-prime-video-bundle/",
+      "title": "Apple TV and Peacock $20 Monthly Bundle Available on Amazon Prime Video, Offering a 30% Discount",
+      "published": "2026-04-15T09:14:53+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-15T12:30:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-15T00:48:01+00:00"
+  "last_checked": "2026-04-15T12:30:26+00:00"
 }
