@@ -4479,7 +4479,23 @@
       "feed": "MacRumors",
       "discovered": "2026-04-16T00:49:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-images-of-the-new-viltrox-af-35mm-f-1-2-lab-fe-with-no-lcd-screen/",
+      "title": "First images of the new Viltrox AF 35mm f/1.2 LAB FE with NO LCD screen",
+      "published": "2026-04-16T08:19:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-16T08:41:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-firmware-update-for-the-sony-a7c-a7m3-and-a7rm4a/",
+      "title": "New firmware update for the Sony A7C, A7M3 and A7RM4a",
+      "published": "2026-04-16T05:08:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-16T08:41:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-16T00:49:50+00:00"
+  "last_checked": "2026-04-16T08:41:08+00:00"
 }
