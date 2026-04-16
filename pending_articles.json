@@ -4455,7 +4455,31 @@
       "feed": "MacRumors",
       "discovered": "2026-04-15T20:22:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/15/apple-stores-apple-watch-software-restore/",
+      "title": "Apple Stores Will Soon Be Able to Restore Apple Watch Software In-House",
+      "published": "2026-04-16T00:36:01+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-16T00:49:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/15/apple-stops-signing-ios-26-4/",
+      "title": "iOS 26.4 No Longer Signed by Apple, Blocking Downgrades From iOS 26.4.1",
+      "published": "2026-04-15T23:12:26+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-16T00:49:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/",
+      "title": "Here's How Researchers Stole $10,000 From MKBHD's Locked iPhone",
+      "published": "2026-04-15T21:13:27+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-16T00:49:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-15T20:22:52+00:00"
+  "last_checked": "2026-04-16T00:49:50+00:00"
 }
