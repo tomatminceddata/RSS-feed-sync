@@ -4567,7 +4567,39 @@
       "feed": "MacRumors",
       "discovered": "2026-04-16T16:38:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/give-your-ai-agent-the-keys-to-onelake-onelake-mcp-generally-available/",
+      "title": "Give your AI agent the keys to OneLake: OneLake MCP (Generally Available)",
+      "published": "2026-04-16T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-16T20:20:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-usa-launched-new-rebates-on-cameras-and-lenses/",
+      "title": "Sony USA launched new rebates on cameras and lenses",
+      "published": "2026-04-16T18:32:27+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-16T20:20:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/16/perplexity-personal-computer-for-mac/",
+      "title": "Perplexity Launches Personal Computer for Mac, Turning a Mac mini Into an Always-On AI Agent",
+      "published": "2026-04-16T20:03:08+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-16T20:20:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/16/openai-codex-mac-update/",
+      "title": "OpenAI Codex Update Adds Computer Use, Image Generation, and Memory on Mac",
+      "published": "2026-04-16T17:00:25+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-16T20:20:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-16T16:38:52+00:00"
+  "last_checked": "2026-04-16T20:20:55+00:00"
 }
