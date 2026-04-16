@@ -4519,7 +4519,55 @@
       "feed": "MacRumors",
       "discovered": "2026-04-16T12:31:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/answers-to-common-questions-about-fabric-data-factory/",
+      "title": "Answers to common questions about Fabric Data Factory",
+      "published": "2026-04-16T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-16T16:38:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/holy-moly-sigma-will-announce-a-new-65mm-full-frame-lens-in-september-thats-faster-than-f-1-2/",
+      "title": "Holy Moly!!! Sigma will announce a new 65mm Full Frame lens in September that’s FASTER than f/1.2",
+      "published": "2026-04-16T12:46:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-16T16:38:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/16/apple-ad-iphone-17-pro-stickers/",
+      "title": "Apple Covers iPhone 17 Pro in Stickers in New Ad",
+      "published": "2026-04-16T15:25:21+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-16T16:38:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/16/apples-m5-macbook-air-150-off/",
+      "title": "Get Apple's M5 MacBook Air at $150 Off Before Amazon Runs Out",
+      "published": "2026-04-16T13:53:09+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-16T16:38:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/16/apple-offers-discount-for-earth-day/",
+      "title": "Apple Offers 10% Off AirPods and More for Earth Day Device Recycling",
+      "published": "2026-04-16T13:19:20+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-16T16:38:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/16/apple-hits-record-recycled-content/",
+      "title": "Apple Hits Record 30% Recycled Content Across All Products in 2025",
+      "published": "2026-04-16T12:57:11+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-16T16:38:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-16T12:31:57+00:00"
+  "last_checked": "2026-04-16T16:38:52+00:00"
 }
