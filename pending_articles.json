@@ -4760,7 +4760,23 @@
       "discovered": "2026-04-17T16:25:13+00:00",
       "status": "synced",
       "synced_at": "2026-04-17T17:43:30+00:00"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/17/anthropic-claude-design/",
+      "title": "Anthropic Debuts Claude Design for Creating Prototypes, Pitch Decks, and Mockups",
+      "published": "2026-04-17T20:01:35+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-17T20:19:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/17/iphones-to-get-these-new-satellite-features/",
+      "title": "iPhones to Get These New Satellite Features",
+      "published": "2026-04-17T18:48:22+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-17T20:19:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-17T16:25:13+00:00"
+  "last_checked": "2026-04-17T20:19:09+00:00"
 }
