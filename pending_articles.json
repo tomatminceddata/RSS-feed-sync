@@ -4631,7 +4631,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-17T00:47:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-to-be-clear-this-is-not-the-real-image-of-the-sigma-65mm-f-1-0/",
+      "title": "Just to be clear: This is not the REAL image of the Sigma 65mm f/1.0",
+      "published": "2026-04-17T08:03:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-17T08:41:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-17T00:47:36+00:00"
+  "last_checked": "2026-04-17T08:41:27+00:00"
 }
