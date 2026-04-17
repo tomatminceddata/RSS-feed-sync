@@ -4639,7 +4639,39 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-17T08:41:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-a7v-reviews-and-a-give-away/",
+      "title": "New Sony A7V reviews and a give away",
+      "published": "2026-04-17T10:22:44+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-17T12:28:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/17/ipod-marketing-veteran-retires/",
+      "title": "iPod Marketing Veteran Stan Ng Retires After 31 Years at Apple",
+      "published": "2026-04-17T12:18:15+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-17T12:28:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/17/four-iphone-18-pro-colors-revealed/",
+      "title": "iPhone 18 Pro's Four Rumored Colors Revealed, Including 'Dark Cherry'",
+      "published": "2026-04-17T10:50:39+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-17T12:28:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/17/apple-quietly-tweaked-app-store-app/",
+      "title": "Apple Quietly Tweaked the iOS App Store App – Here's What's Changed",
+      "published": "2026-04-17T09:32:36+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-17T12:28:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-17T08:41:27+00:00"
+  "last_checked": "2026-04-17T12:28:59+00:00"
 }
