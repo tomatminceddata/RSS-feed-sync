@@ -4800,7 +4800,39 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-18T12:19:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-viltrox-35mm-and-55mm-f-1-8-images/",
+      "title": "New Viltrox 35mm and 55mm f/1.8 images",
+      "published": "2026-04-18T12:53:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-18T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/18/airpods-weekend-deals-3/",
+      "title": "AirPods Weekend Deals Include AirPods Pro 3 for $199.99 and AirPods 4 for $99",
+      "published": "2026-04-18T14:54:11+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-18T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/18/apple-released-12-new-products-this-year/",
+      "title": "Apple Has Released These 12 New Products This Year",
+      "published": "2026-04-18T13:24:16+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-18T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/18/top-stories-iphone-ultra-rumors/",
+      "title": "Top Stories: 'iPhone Ultra' Rumors, Mac Mini and Mac Studio Shortages, and More",
+      "published": "2026-04-17T17:50:14+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-18T16:16:16+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-18T12:19:08+00:00"
+  "last_checked": "2026-04-18T16:16:16+00:00"
 }
