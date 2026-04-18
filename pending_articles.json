@@ -4792,7 +4792,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-18T00:43:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/robin-wong-sony-r1-what-an-amazing-innovation-from-20-years-ago/",
+      "title": "Robin Wong: Sony R1, What An Amazing Innovation From 20 years Ago!",
+      "published": "2026-04-18T10:48:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-18T12:19:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-18T00:43:27+00:00"
+  "last_checked": "2026-04-18T12:19:08+00:00"
 }
