@@ -4832,7 +4832,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-18T16:16:16+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/thypoch-24-50mm-f2-8-af-voyager-lens-hands-on-by-matti-haapoja/",
+      "title": "Thypoch 24-50mm f2.8 AF Voyager Lens hands-on by Matti Haapoja",
+      "published": "2026-04-19T04:45:43+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-19T08:26:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-18T16:16:16+00:00"
+  "last_checked": "2026-04-19T08:26:15+00:00"
 }
