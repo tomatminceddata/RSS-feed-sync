@@ -4992,7 +4992,71 @@
       "feed": "MacRumors",
       "discovered": "2026-04-20T16:32:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/evolving-agentic-applications-on-microsoft-fabric-from-automated-deployment-to-integrating-data-agents/",
+      "title": "Evolving Agentic Applications on Microsoft Fabric: From Automated Deployment to Integrating Data Agents",
+      "published": "2026-04-20T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-20T20:19:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/orchestrate-dbt-jobs-activity-in-your-fabric-pipelines-preview/",
+      "title": "Orchestrate dbt jobs activity in your Fabric pipelines (Preview)",
+      "published": "2026-04-20T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-20T20:19:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/20/the-savant-apple-tv-july/",
+      "title": "Apple TV Series 'The Savant' Set for July Premiere After Delay",
+      "published": "2026-04-20T20:00:30+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T20:19:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/20/apple-music-outage-april-20/",
+      "title": "Apple Music Is Down for Some Users",
+      "published": "2026-04-20T19:18:42+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T20:19:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/20/paul-mccartney-apple-park-tour/",
+      "title": "Paul McCartney Gives Inside Look at Apple Park 50th Anniversary Performance",
+      "published": "2026-04-20T18:53:47+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T20:19:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/20/apple-seeds-macos-tahoe-26-5-beta-3/",
+      "title": "Third macOS Tahoe 26.5 Beta Now Available for Developers",
+      "published": "2026-04-20T17:11:09+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T20:19:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/20/apple-seeds-ios-26-5-beta-3/",
+      "title": "Apple Seeds Third iOS 26.5 and iPadOS 26.5 Betas to Developers",
+      "published": "2026-04-20T17:04:43+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T20:19:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/20/apple-seeds-watchos-26-5-beta-3/",
+      "title": "Apple Releases Third watchOS 26.5, tvOS 26.5 and visionOS 26.5 Betas",
+      "published": "2026-04-20T17:03:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T20:19:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-20T16:32:21+00:00"
+  "last_checked": "2026-04-20T20:19:22+00:00"
 }
