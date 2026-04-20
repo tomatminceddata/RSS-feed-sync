@@ -4872,7 +4872,31 @@
       "feed": "MacRumors",
       "discovered": "2026-04-20T05:08:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/20/apple-car-key-support-india-tata-vehicles/",
+      "title": "Apple Set to Add Car Key Support for India's Tata Vehicles",
+      "published": "2026-04-20T12:16:58+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T12:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/20/apple-withholds-data-india-antitrust-case/",
+      "title": "Apple Withholds Data as India Antitrust Case Advances to Final Hearing",
+      "published": "2026-04-20T11:55:34+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T12:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/20/iphone-18-pro-may-come-in-these-four-colors/",
+      "title": "iPhone 18 Pro May Come in These Four Colors",
+      "published": "2026-04-20T10:47:38+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T12:34:20+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-20T05:08:41+00:00"
+  "last_checked": "2026-04-20T12:34:20+00:00"
 }
