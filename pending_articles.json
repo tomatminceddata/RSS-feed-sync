@@ -4856,7 +4856,23 @@
       "feed": "MacRumors",
       "discovered": "2026-04-20T00:48:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/kinefinity-vista-full-frame-cine-camera-with-interchangeable-e-mount/",
+      "title": "Kinefinity Vista Full Frame Cine camera with E-mount AF adapter",
+      "published": "2026-04-20T04:51:35+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-20T05:08:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/19/when-to-expect-next-macbook-pro-and-mac-studio/",
+      "title": "MacBook Pro With Touch Screen and New Mac Studio Likely 'Postponed'",
+      "published": "2026-04-20T02:00:41+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-20T05:08:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-20T00:48:40+00:00"
+  "last_checked": "2026-04-20T05:08:41+00:00"
 }
