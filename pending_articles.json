@@ -5088,7 +5088,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-21T00:48:39+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-brightin-star-12mm-f-2-8-full-frame-af-e-mount-lens/",
+      "title": "Just announced: New Brightin Star 12mm f/2.8 Full Frame AF E-mount lens",
+      "published": "2026-04-21T06:22:20+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-21T08:44:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-21T00:48:39+00:00"
+  "last_checked": "2026-04-21T08:44:53+00:00"
 }
