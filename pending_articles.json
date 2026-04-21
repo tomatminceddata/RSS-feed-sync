@@ -5096,7 +5096,31 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-21T08:44:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-images-of-the-new-7artisans-135mm-f-1-8-fe-lens/",
+      "title": "First images of the new 7Artisans 135mm f/1.8 FE lens",
+      "published": "2026-04-21T10:18:53+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-21T12:31:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/21/ternus-apple-ceo-jobs-style-decisiveness/",
+      "title": "Report: Ternus to Bring Jobs-Era Decisiveness Back to Apple",
+      "published": "2026-04-21T10:51:49+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-21T12:31:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/21/200mp-telephoto-iphone-lens-unlikely-before-2028/",
+      "title": "200MP Telephoto iPhone Lens Unlikely to Arrive Before 2028",
+      "published": "2026-04-21T09:15:58+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-21T12:31:36+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-21T08:44:53+00:00"
+  "last_checked": "2026-04-21T12:31:36+00:00"
 }
