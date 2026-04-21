@@ -5176,7 +5176,47 @@
       "feed": "MacRumors",
       "discovered": "2026-04-21T16:30:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/21/apple-cal-ai-app-store-removal/",
+      "title": "Apple Pulled Cal AI for Deceptive Billing Design, Not External Payments",
+      "published": "2026-04-21T19:54:30+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-21T20:23:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/21/apple-teases-incredible-road-map-ahead/",
+      "title": "Apple Teases 'Incredible Road Map Ahead'",
+      "published": "2026-04-21T19:10:36+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-21T20:23:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/21/tim-cook-executive-chairman-role/",
+      "title": "Tim Cook Says He's 'Healthy,' Plans to Remain at Apple 'for a Long Time'",
+      "published": "2026-04-21T18:04:54+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-21T20:23:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/21/apple-releases-ios-26-5-public-beta-3/",
+      "title": "Apple Releases New iOS 26.5, iPadOS 26.5 and macOS Tahoe 26.5 Public Betas",
+      "published": "2026-04-21T17:17:43+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-21T20:23:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/21/sony-wf1000xm6-vs-airpods-pro-3/",
+      "title": "AirPods Pro 3 vs. Sony WF-1000XM6: Which Flagship Earbuds Should You Buy?",
+      "published": "2026-04-21T16:44:45+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-21T20:23:13+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-21T16:30:08+00:00"
+  "last_checked": "2026-04-21T20:23:13+00:00"
 }
