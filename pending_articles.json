@@ -5280,7 +5280,71 @@
       "feed": "MacRumors",
       "discovered": "2026-04-22T12:30:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2026-feature-summary/",
+      "title": "Power BI April 2026 Feature Summary",
+      "published": "2026-04-22T08:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "discovered": "2026-04-22T16:29:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-info-and-images-of-the-typoch-24-50mm-lens/",
+      "title": "Typoch will launch five more E-mount AF lenses this year including a 24-70mm zoom!",
+      "published": "2026-04-22T12:51:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-22T16:29:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/openai-chatgpt-images-2-0/",
+      "title": "OpenAI Launches ChatGPT Images 2.0 With Thinking Capabilities and Better Text Rendering",
+      "published": "2026-04-22T16:19:54+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-22T16:29:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/leaker-apple-downgrade-iphone-18-two-ways/",
+      "title": "Leaker: Apple to Downgrade iPhone 18 in Two Ways",
+      "published": "2026-04-22T15:01:52+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-22T16:29:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/opera-one-volume-booster-video-popout/",
+      "title": "Opera Browser Gains Per-Tab Volume Booster, Video Popout",
+      "published": "2026-04-22T14:29:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-22T16:29:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/iphone-18-pro-special-color-rumor/",
+      "title": "iPhone 18 Pro's Special Color Rumored Yet Again",
+      "published": "2026-04-22T14:25:55+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-22T16:29:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/apple-watch-series-11-100-off-4/",
+      "title": "Apple Watch Series 11 Hits $100 Off on Amazon, Starting at $299",
+      "published": "2026-04-22T14:12:41+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-22T16:29:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/vision-pro-creator-considered-leaving-apple/",
+      "title": "Vision Pro Creator Mike Rockwell Has Considered Leaving Apple",
+      "published": "2026-04-22T13:10:07+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-22T16:29:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-22T12:30:28+00:00"
+  "last_checked": "2026-04-22T16:29:30+00:00"
 }
