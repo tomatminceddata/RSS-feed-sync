@@ -5240,7 +5240,47 @@
       "feed": "MacRumors",
       "discovered": "2026-04-22T00:45:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/nik-collection-9-announced/",
+      "title": "Nik Collection 9 announced",
+      "published": "2026-04-22T12:09:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-22T12:30:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-smallrig-cooling-system-for-sony-cameras/",
+      "title": "New SmallRig cooling system for Sony cameras",
+      "published": "2026-04-22T09:03:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-22T12:30:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/iphone-18-pro-4-part-camera-upgrade-plan/",
+      "title": "iPhone 18 Pro to Kick Off Apple's Four-Part Camera Upgrade Plan",
+      "published": "2026-04-22T11:55:54+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-22T12:30:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/x-custom-timelines-for-premium-users/",
+      "title": "X Rolls Out AI-Powered Custom Timelines for Premium Users",
+      "published": "2026-04-22T09:45:04+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-22T12:30:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/apple-tap-to-pay-on-iphone-in-malaysia/",
+      "title": "Apple Launches Tap to Pay on iPhone in Malaysia",
+      "published": "2026-04-22T08:51:31+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-22T12:30:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-22T00:45:34+00:00"
+  "last_checked": "2026-04-22T12:30:28+00:00"
 }
