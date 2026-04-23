@@ -5424,7 +5424,55 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-23T08:43:39+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-info-about-the-100-400mm-f-4-5-gm-internal-zoom-and-higher-price/",
+      "title": "New info about the 100-400mm f/4.5 GM: internal zoom and higher price!",
+      "published": "2026-04-23T11:34:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-23T12:29:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7v-still-the-hotseller-in-japan/",
+      "title": "Sony A7V still the hotseller in Japan!",
+      "published": "2026-04-23T10:27:43+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-23T12:29:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/23/tim-cook-apple-maps-launch-his-really-big-mistake/",
+      "title": "Tim Cook Calls Apple Maps Launch His 'First Really Big Mistake' as CEO",
+      "published": "2026-04-23T12:27:06+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T12:29:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/23/iphone-18-pro-max-dummies-thicker-camera-plateau/",
+      "title": "Latest iPhone 18 Pro Max Dummies Suggest Thicker Camera Plateau, More Protruding Lenses",
+      "published": "2026-04-23T12:04:05+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T12:29:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/23/apple-maps-gains-miami-f1-grand-prix/",
+      "title": "Apple Maps Gains Immersive 3D Experience of Miami F1 Grand Prix",
+      "published": "2026-04-23T11:20:28+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T12:29:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/23/iphone-ultra-dummy-apple-device-comparison/",
+      "title": "Here's How the iPhone Ultra Compares to Other Apple Devices",
+      "published": "2026-04-23T10:39:11+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T12:29:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-23T08:43:39+00:00"
+  "last_checked": "2026-04-23T12:29:55+00:00"
 }
