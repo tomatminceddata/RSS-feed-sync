@@ -5392,7 +5392,31 @@
       "feed": "MacRumors",
       "discovered": "2026-04-22T20:24:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/stream-sql-change-events-to-microsoft-fabric-eventstream-with-change-event-streaming-for-real-time-analytics/",
+      "title": "Stream SQL Change Events to Microsoft Fabric Eventstream with Change Event Streaming for Real-Time Analytics",
+      "published": "2026-04-22T14:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-23T00:50:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/base-mac-mini-sold-out-from-apple-online-store/",
+      "title": "Base Mac Mini Sold Out From Apple Online Store",
+      "published": "2026-04-22T21:59:44+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T00:50:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/22/airpods-pro-cameras-2026/",
+      "title": "What to Expect From the Next AirPods Pro, Launching as Soon as This Year",
+      "published": "2026-04-22T21:34:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T00:50:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-22T20:24:52+00:00"
+  "last_checked": "2026-04-23T00:50:03+00:00"
 }
