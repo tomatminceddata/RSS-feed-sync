@@ -5416,7 +5416,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-23T00:50:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-launched-on-kickstarter-prowrapp-impact-gear-wrapper-with-max-shock-resistance/",
+      "title": "Just launched on Kickstarter: ProWrapp Impact+ | Gear Wrapper with max shock resistance",
+      "published": "2026-04-23T07:12:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-23T08:43:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-23T00:50:03+00:00"
+  "last_checked": "2026-04-23T08:43:39+00:00"
 }
