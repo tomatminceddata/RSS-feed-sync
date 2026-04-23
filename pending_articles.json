@@ -5472,7 +5472,63 @@
       "feed": "MacRumors",
       "discovered": "2026-04-23T12:29:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/monitor-your-eventstreams-with-workspace-monitoring-preview/",
+      "title": "Monitor your Eventstreams with workspace monitoring (Preview)",
+      "published": "2026-04-23T12:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-23T20:25:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/resource-instance-rules-for-onelake-in-microsoft-fabric-preview/",
+      "title": "Resource instance rules for OneLake in Microsoft Fabric (Preview)",
+      "published": "2026-04-23T10:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-23T20:25:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/cross-workspace-logging-for-mlflow-in-microsoft-fabric-build-mlops-workflows-with-confidence-generally-available/",
+      "title": "Cross-workspace logging for MLflow in Microsoft Fabric: Build MLOps workflows with confidence (Generally Available)",
+      "published": "2026-04-23T10:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-23T20:25:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/23/apple-tv-4k-2026-rumors/",
+      "title": "Here's What's Coming in the 2026 Apple TV",
+      "published": "2026-04-23T19:08:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T20:25:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/23/apple-iphone-apple-watch-health-ad/",
+      "title": "New Apple Ad Sells the iPhone and Apple Watch Health Pairing",
+      "published": "2026-04-23T18:18:55+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T20:25:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/23/apple-ecosystem-now-costs-less-than-macbook-pro/",
+      "title": "A Full Apple Ecosystem Now Costs Less Than a MacBook Pro",
+      "published": "2026-04-23T17:00:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T20:25:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/23/apple-lowers-savings-account-rate-apple-card/",
+      "title": "Apple Lowers Savings Account Rate for Apple Card Users",
+      "published": "2026-04-23T15:07:45+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-23T20:25:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-23T12:29:55+00:00"
+  "last_checked": "2026-04-23T20:25:34+00:00"
 }
