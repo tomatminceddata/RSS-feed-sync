@@ -5697,7 +5697,39 @@
       "feed": "MacRumors",
       "discovered": "2026-04-24T16:26:26+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/behind-the-scenes-look-at-macbook-neo-intro-video/",
+      "title": "Apple Shares Behind-the-Scenes Look at MacBook Neo Intro Video",
+      "published": "2026-04-24T18:52:39+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-24T20:20:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/iphone-ultra-could-be-missing-5-features/",
+      "title": "Foldable 'iPhone Ultra' Could Be Missing These 5 Key Features Despite $2,000 Price Tag",
+      "published": "2026-04-24T17:41:52+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-24T20:20:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/macbook-ultra-up-to-six-new-features/",
+      "title": "Apple to Launch 'MacBook Ultra' With These Six New Features",
+      "published": "2026-04-24T17:32:22+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-24T20:20:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/best-apple-deals-of-the-week-4-24-26/",
+      "title": "Best Apple Deals of the Week: Low Prices on Apple Watch, MacBook Air, AirTag 1, and More",
+      "published": "2026-04-24T14:32:02+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-24T20:20:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-24T16:26:26+00:00"
+  "last_checked": "2026-04-24T20:20:17+00:00"
 }
