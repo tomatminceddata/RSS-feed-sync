@@ -5528,7 +5528,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-23T20:25:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/nested-folders-support-in-shortcut-transformations-generally-available/",
+      "title": "Nested folders support in shortcut transformations (Generally Available)",
+      "published": "2026-04-23T14:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-24T00:50:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-23T20:25:34+00:00"
+  "last_checked": "2026-04-24T00:50:31+00:00"
 }
