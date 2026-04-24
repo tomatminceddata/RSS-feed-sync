@@ -5657,7 +5657,47 @@
       "feed": "MacRumors",
       "discovered": "2026-04-24T12:30:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/fabric-influencers-spotlight-april-2026/",
+      "title": "Fabric Influencers Spotlight April 2026",
+      "published": "2026-04-24T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-24T16:26:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-images-of-the-new-viltrox-26mm-f-2-8-fe-pancake-lens/",
+      "title": "First images of the new Viltrox 26mm f/2.8 FE pancake lens!",
+      "published": "2026-04-24T13:17:09+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-24T16:26:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/the-macrumors-show-tim-cook-to-step-down/",
+      "title": "The MacRumors Show: Tim Cook to Step Down as Apple CEO",
+      "published": "2026-04-24T16:06:47+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-24T16:26:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/2026-macbook-pro-1999-price/",
+      "title": "Get the 2026 MacBook Pro for New Record Low $1,999 Price",
+      "published": "2026-04-24T14:19:46+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-24T16:26:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/openai-gpt-5-5-research-gains/",
+      "title": "OpenAI Debuts GPT-5.5 Claiming Agentic Coding and Research Gains",
+      "published": "2026-04-24T12:32:38+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-24T16:26:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-24T12:30:12+00:00"
+  "last_checked": "2026-04-24T16:26:26+00:00"
 }
