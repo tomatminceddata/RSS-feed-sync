@@ -5761,7 +5761,15 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-25T08:25:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/two-new-sony-cameras-registered-in-china-probably-the-new-fx3ii-and-a-new-rx100-camera/",
+      "title": "Two new Sony cameras registered in China! Probably the new FX3II and a new RX100 camera?",
+      "published": "2026-04-25T11:25:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-25T12:21:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-25T08:25:56+00:00"
+  "last_checked": "2026-04-25T12:21:11+00:00"
 }
