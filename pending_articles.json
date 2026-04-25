@@ -5729,7 +5729,31 @@
       "feed": "MacRumors",
       "discovered": "2026-04-24T20:20:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/apple-maps-ads-what-to-expect/",
+      "title": "Ads Are Coming to Apple Maps This Summer: Here's What to Expect",
+      "published": "2026-04-24T20:58:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-25T00:45:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/xchat-app-now-available/",
+      "title": "XChat App Now Available",
+      "published": "2026-04-24T20:46:27+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-25T00:45:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/24/iphone-18-could-come-with-12gb-ram/",
+      "title": "iPhone 18 Could Come With 12GB of RAM",
+      "published": "2026-04-24T20:21:57+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-25T00:45:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-24T20:20:17+00:00"
+  "last_checked": "2026-04-25T00:45:52+00:00"
 }
