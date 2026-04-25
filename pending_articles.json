@@ -5769,7 +5769,23 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-25T12:21:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/25/airpods-4-99-airpods-max-2/",
+      "title": "Get AirPods 4 for $99 and AirPods Max 2 for $529.99 on Amazon",
+      "published": "2026-04-25T12:52:41+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-25T16:17:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/25/top-stories-tim-cook-stepping-down/",
+      "title": "Top Stories: Tim Cook Stepping Down, iPhone 18 Pro Colors, and More",
+      "published": "2026-04-24T14:34:09+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-25T16:17:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-25T12:21:11+00:00"
+  "last_checked": "2026-04-25T16:17:37+00:00"
 }
