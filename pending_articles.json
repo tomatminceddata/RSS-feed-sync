@@ -5785,7 +5785,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-25T16:17:37+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/curious-catch-from-arthur-r-theyre-cloning-sony-cameras-now/",
+      "title": "Curious catch from Arthur R: They’re Cloning Sony Cameras Now?",
+      "published": "2026-04-26T10:57:54+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-26T12:22:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-25T16:17:37+00:00"
+  "last_checked": "2026-04-26T12:22:25+00:00"
 }
