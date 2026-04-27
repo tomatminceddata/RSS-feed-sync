@@ -5841,7 +5841,63 @@
       "feed": "MacRumors",
       "discovered": "2026-04-27T16:38:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/bring-your-dremio-data-into-onelake-preview/",
+      "title": "Bring your Dremio data into OneLake (Preview)",
+      "published": "2026-04-27T12:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-27T20:30:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/app-store-monthly-subscriptions-12-month-commitment/",
+      "title": "Apple Introduces App Store Monthly Subscriptions With 12-Month Commitment",
+      "published": "2026-04-27T19:52:02+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T20:30:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/spotify-launches-fitness-hub/",
+      "title": "Spotify Launches Fitness Hub With 1,400+ Peloton Workouts",
+      "published": "2026-04-27T18:05:57+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T20:30:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/apple-seeds-macos-tahoe-26-5-beta-4/",
+      "title": "Fourth macOS Tahoe 26.5 Beta Now Available for Developers",
+      "published": "2026-04-27T17:07:18+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T20:30:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/apple-seeds-ios-26-5-beta-4/",
+      "title": "Apple Seeds Fourth iOS 26.5 and iPadOS 26.5 Betas to Developers",
+      "published": "2026-04-27T17:03:01+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T20:30:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/apple-seeds-watchos-26-5-beta-4/",
+      "title": "Apple Releases Fourth watchOS 26.5, tvOS 26.5 and visionOS 26.5 Betas",
+      "published": "2026-04-27T17:01:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T20:30:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/apple-towson-unfair-labor-practice-charge/",
+      "title": "Apple Hit With Unfair Labor Practice Charge for Refusing to Transfer Unionized Towson Workers",
+      "published": "2026-04-27T16:56:26+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T20:30:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-27T16:38:14+00:00"
+  "last_checked": "2026-04-27T20:30:14+00:00"
 }
