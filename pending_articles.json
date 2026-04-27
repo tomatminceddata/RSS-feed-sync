@@ -5801,7 +5801,47 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-27T12:42:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/here-is-the-first-leaked-image-of-the-new-sony-100-400mm-f-4-5-gm-lens/",
+      "title": "Here is the first leaked image of the new Sony 100-400mm f/4.5 GM lens!",
+      "published": "2026-04-27T12:51:23+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-27T16:38:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/macbook-neo-amazon-walmart/",
+      "title": "MacBook Neo Still Seeing Extended Delivery Estimates at Apple, But Amazon and Walmart Have Stock",
+      "published": "2026-04-27T14:56:47+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T16:38:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/apple-planning-to-launch-two-new-ultra-products/",
+      "title": "Apple Planning to Launch Two New 'Ultra' Products in the Next Year",
+      "published": "2026-04-27T14:34:42+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T16:38:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/",
+      "title": "OpenAI Reportedly Working on an AI Smartphone to Rival iPhone",
+      "published": "2026-04-27T13:53:17+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T16:38:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/27/m5-macbook-air-949-return/",
+      "title": "Apple's M5 MacBook Air Returns to $949.99 Low Price on Amazon",
+      "published": "2026-04-27T13:32:10+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-27T16:38:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-27T12:42:12+00:00"
+  "last_checked": "2026-04-27T16:38:14+00:00"
 }
