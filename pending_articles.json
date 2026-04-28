@@ -5948,7 +5948,39 @@
       "discovered": "2026-04-28T12:45:22+00:00",
       "status": "synced",
       "synced_at": "2026-04-28T13:08:49+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7rvi-and-100-400mm-gm-lens-to-be-announced-on-may-13/",
+      "title": "Sony A7rVI and 100-400mm GM lens to be announced on May 13?",
+      "published": "2026-04-28T13:16:36+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-28T16:41:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/28/apple-vision-pro-cataract-surgery/",
+      "title": "Apple Vision Pro Used in World-First Cataract Surgery",
+      "published": "2026-04-28T14:51:18+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-28T16:41:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/28/apple-tv-ted-lasso-season-four-release-date/",
+      "title": "Apple Shares 'Ted Lasso' Season Four Streaming Date and Teaser Trailer",
+      "published": "2026-04-28T14:10:14+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-28T16:41:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/28/airpods-pro-3-to-199-99/",
+      "title": "AirPods Pro 3 Return to $199.99 Low Price on Amazon",
+      "published": "2026-04-28T13:55:14+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-28T16:41:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-28T12:45:22+00:00"
+  "last_checked": "2026-04-28T16:41:33+00:00"
 }
