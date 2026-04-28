@@ -5980,7 +5980,71 @@
       "feed": "MacRumors",
       "discovered": "2026-04-28T16:41:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/simplify-real-time-pipelines-with-the-fabric-eventstreams-sql-operator-generally-available/",
+      "title": "Simplify Real-Time Pipelines with the Fabric Eventstreams SQL Operator (Generally Available)",
+      "published": "2026-04-28T09:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-28T20:34:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/join-our-sonyalpharumors-whatsapp-group-to-not-miss-any-upcoming-hot-rumors-about-the-sony-a7rvi/",
+      "title": "Join our SonyAlphaRumors Whatsapp group to not miss any upcoming hot rumors about the Sony A7rVI",
+      "published": "2026-04-28T18:27:32+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-28T20:34:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7v-still-among-hotseller-at-bhphoto/",
+      "title": "Sony A7V still among hotseller at BHphoto",
+      "published": "2026-04-28T18:24:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-28T20:34:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/28/ask-youtube-search-feature/",
+      "title": "YouTube Tests AI-Powered 'Ask YouTube' Conversational Search Feature",
+      "published": "2026-04-28T20:12:16+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-28T20:34:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/28/ios-27-apple-intelligence-photo-editing-tools/",
+      "title": "iOS 27 to Add New Apple Intelligence Photo Editing Tools",
+      "published": "2026-04-28T18:37:59+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-28T20:34:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/28/apple-weather-app-outage/",
+      "title": "Apple Weather App Experiencing Outage [Update: Fixed]",
+      "published": "2026-04-28T18:00:35+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-28T20:34:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/28/tim-cook-white-house-meetings/",
+      "title": "Tim Cook Meets With Commerce Secretary Howard Lutnick Ahead of CEO Transition",
+      "published": "2026-04-28T17:42:48+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-28T20:34:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/m4-vs-m5-macbook-air/",
+      "title": "M4 vs. M5 MacBook Air Buyer's Guide",
+      "published": "2026-04-28T17:07:26+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-28T20:34:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-28T16:41:33+00:00"
+  "last_checked": "2026-04-28T20:34:08+00:00"
 }
