@@ -5897,7 +5897,15 @@
       "feed": "MacRumors",
       "discovered": "2026-04-27T20:30:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/thypoch-voyager-af-24-50mm-f-28-available-for-preorder-in-europe/",
+      "title": "Thypoch Voyager AF 24–50mm f/2,8 available for preorder in Europe",
+      "published": "2026-04-28T07:14:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-28T08:56:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-27T20:30:14+00:00"
+  "last_checked": "2026-04-28T08:56:56+00:00"
 }
