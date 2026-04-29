@@ -6092,7 +6092,31 @@
       "feed": "MacRumors",
       "discovered": "2026-04-29T12:42:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/allegedly-sony-managers-at-the-nab-show-told-some-visitors-to-wait-for-the-sony-fx3ii/",
+      "title": "Allegedly Sony managers at the NAB show told some visitors to wait for the Sony FX3II",
+      "published": "2026-04-29T12:58:36+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-29T16:38:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/",
+      "title": "Apple Reportedly Questioning Whether iPhone Should Drop MagSafe",
+      "published": "2026-04-29T15:26:49+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-29T16:38:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/29/100-off-the-m4-ipad-air-on-amazon/",
+      "title": "Get Up to $100 Off the M4 iPad Air on Amazon",
+      "published": "2026-04-29T13:42:40+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-29T16:38:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-29T12:42:08+00:00"
+  "last_checked": "2026-04-29T16:38:23+00:00"
 }
