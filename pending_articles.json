@@ -6068,7 +6068,31 @@
       "feed": "MacRumors",
       "discovered": "2026-04-29T08:53:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/some-people-really-believe-sony-announced-this-14-800mm-gm-lens/",
+      "title": "Some people really believe Sony announced this 14-800mm GM lens :)",
+      "published": "2026-04-29T09:46:19+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-29T12:42:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/29/epic-games-wins-reversal-app-store-fee-battle/",
+      "title": "Epic Games Wins Reversal of Stay in App Store Fee Legal Battle",
+      "published": "2026-04-29T12:05:50+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-29T12:42:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/29/iphone-memory-costs-quadruple-2027/",
+      "title": "Report: iPhone Memory Costs Set to Quadruple by 2027",
+      "published": "2026-04-29T09:57:42+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-29T12:42:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-29T08:53:40+00:00"
+  "last_checked": "2026-04-29T12:42:08+00:00"
 }
