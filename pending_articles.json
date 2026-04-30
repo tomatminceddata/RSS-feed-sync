@@ -6156,7 +6156,23 @@
       "feed": "MacRumors",
       "discovered": "2026-04-29T20:31:06+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/29/youtube-picture-in-picture-expands/",
+      "title": "YouTube Bringing Free Picture-in-Picture to iPhone Users Outside the U.S.",
+      "published": "2026-04-30T00:01:14+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-30T00:54:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/29/google-photos-ai-wardrobe/",
+      "title": "Google Photos to Get AI 'Wardrobe' Feature",
+      "published": "2026-04-29T22:50:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-30T00:54:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-29T20:31:06+00:00"
+  "last_checked": "2026-04-30T00:54:12+00:00"
 }
