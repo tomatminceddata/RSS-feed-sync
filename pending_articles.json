@@ -6180,7 +6180,55 @@
       "feed": "SonyAlphaRumors",
       "discovered": "2026-04-30T08:53:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/fabric-april-2026-feature-summary/",
+      "title": "Fabric April 2026 Feature Summary",
+      "published": "2026-04-30T09:01:26+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-04-30T16:37:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/big-news-sony-a7rvi-is-a-sony-a1ii-killer-with-67mp-fully-stacked-sensor-and-5000-euro-dollars/",
+      "title": "Big news: Sony A7rVI is a Sony A1II killer with 67MP fully stacked sensor and 5000 Euro/Dollars!",
+      "published": "2026-04-30T14:13:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-04-30T16:37:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/30/airpods-ultra-major-upgrade-rumor/",
+      "title": "'AirPods Ultra' Rumored to Feature a Major Upgrade Over AirPods Pro",
+      "published": "2026-04-30T15:41:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-30T16:37:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/30/apple-leads-market-for-satellite-smartphones/",
+      "title": "Apple Leads Global Market for Satellite-Connected Smartphones",
+      "published": "2026-04-30T15:28:04+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-30T16:37:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/30/apple-watch-series-11-100-off-5/",
+      "title": "Apple Watch Series 11 Hits $100 Off Nearly Every GPS Aluminum Model, Plus $130 Off Cellular",
+      "published": "2026-04-30T14:11:57+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-30T16:37:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/30/apple-launched-airtag-5-years-ago-today/",
+      "title": "Apple Launched AirTag 5 Years Ago Today",
+      "published": "2026-04-30T12:51:11+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-04-30T16:37:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-30T08:53:29+00:00"
+  "last_checked": "2026-04-30T16:37:34+00:00"
 }
