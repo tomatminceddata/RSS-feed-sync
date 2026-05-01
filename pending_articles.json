@@ -6276,7 +6276,63 @@
       "feed": "MacRumors",
       "discovered": "2026-04-30T20:30:06+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/discover-fabric-items-across-workspaces-with-the-onelake-catalog-search-api-mcp-and-cli-tools-preview/",
+      "title": "Discover Fabric items across workspaces with the OneLake Catalog Search API, MCP and CLI tools (Preview)",
+      "published": "2026-04-30T14:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-05-01T00:58:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.fabric.microsoft.com/en-US/blog/azure-data-studio-to-vs-code-what-it-means-for-sql-database-in-fabric-developers/",
+      "title": "Azure Data Studio to VS Code: What it means for SQL database in Fabric developers",
+      "published": "2026-04-30T13:27:04+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "discovered": "2026-05-01T00:58:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/30/apple-q2-2026-earnings-call/",
+      "title": "Apple's Q2 2026 Earnings Call: 11 Key Takeaways",
+      "published": "2026-04-30T22:39:20+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T00:58:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+      "published": "2026-04-30T21:59:58+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T00:58:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/30/apple-memory-costs-significantly-higher/",
+      "title": "Apple Expects 'Significantly Higher Memory Costs' in June Quarter and Beyond",
+      "published": "2026-04-30T21:48:39+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T00:58:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/30/iphone-17-is-apples-most-popular-lineup-ever/",
+      "title": "iPhone 17 Is Apple's Most Popular Lineup Ever",
+      "published": "2026-04-30T21:01:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T00:58:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/04/30/apple-2q-2026-earnings/",
+      "title": "Apple Reports Record-Breaking 2Q 2026 Results: $29.6B Profit on $111.2B Revenue",
+      "published": "2026-04-30T20:38:46+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T00:58:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-04-30T20:30:06+00:00"
+  "last_checked": "2026-05-01T00:58:09+00:00"
 }
