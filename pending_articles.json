@@ -6378,7 +6378,55 @@
       "discovered": "2026-05-01T00:58:09+00:00",
       "status": "synced",
       "synced_at": "2026-05-01T05:15:41+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/after-15-years-and-82-lenses-sony-still-has-to-make-those-5/",
+      "title": "After 15 years and 82 lenses Sony still has to make those 5",
+      "published": "2026-05-01T13:34:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-01T16:25:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/01/the-macrumors-show-your-tech-questions-answered/",
+      "title": "The MacRumors Show: Your Tech Questions Answered",
+      "published": "2026-05-01T16:07:37+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T16:25:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/",
+      "title": "Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand",
+      "published": "2026-05-01T16:06:10+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T16:25:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/01/ipad-12-with-apple-intelligence-timing/",
+      "title": "Here's When to Expect an iPad 12 With Apple Intelligence",
+      "published": "2026-05-01T15:14:12+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T16:25:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/01/iphone-air-sales-spook-rivals-into-ditching-plans/",
+      "title": "iPhone Air's Poor Sales Spook Rivals Into Ditching Ultra-Thin Phone Plans",
+      "published": "2026-05-01T14:34:47+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T16:25:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/01/macrumors-2026-blood-drive/",
+      "title": "MacRumors 2026 Blood Drive",
+      "published": "2026-05-01T13:30:58+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-01T16:25:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-01T00:58:09+00:00"
+  "last_checked": "2026-05-01T16:25:57+00:00"
 }
