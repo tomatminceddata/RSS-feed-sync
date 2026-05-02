@@ -6458,7 +6458,23 @@
       "feed": "MacRumors",
       "discovered": "2026-05-01T20:23:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/01/macbook-ultra-rumor-recap/",
+      "title": "Why You Might Want to Wait to Buy a MacBook Pro",
+      "published": "2026-05-01T22:43:16+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-02T00:51:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/01/airtag-stalking-lawsuits-apple/",
+      "title": "Apple Faces Dozens of Lawsuits Over AirTag Stalking After Class Action Denied",
+      "published": "2026-05-01T21:39:59+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-02T00:51:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-01T20:23:18+00:00"
+  "last_checked": "2026-05-02T00:51:43+00:00"
 }
