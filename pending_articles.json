@@ -6514,7 +6514,15 @@
       "feed": "MacRumors",
       "discovered": "2026-05-03T16:20:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/bhdealzone-save-big-on-smallrig-batteries-for-sony-and-lexar-disk/",
+      "title": "BHdealzone: Save big on Smallrig batteries for Sony and Lexar disk",
+      "published": "2026-05-03T20:00:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-03T20:17:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-03T16:20:32+00:00"
+  "last_checked": "2026-05-03T20:17:48+00:00"
 }
