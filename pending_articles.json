@@ -6498,7 +6498,15 @@
       "feed": "MacRumors",
       "discovered": "2026-05-02T16:21:37+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/curiosity-rodenstock-tv-heligon-50mm-f-0-75-on-the-sony-nex-5/",
+      "title": "Curiosity: Rodenstock TV-Heligon 50mm f/0.75 on the Sony NEX-5",
+      "published": "2026-05-03T07:48:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-03T08:40:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-02T16:21:37+00:00"
+  "last_checked": "2026-05-03T08:40:04+00:00"
 }
