@@ -6661,7 +6661,39 @@
       "feed": "MacRumors",
       "discovered": "2026-05-05T00:49:58+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/fieldmade-launched-new-stealth-kits-for-sony-cameras/",
+      "title": "Fieldmade launched new Stealth Kits for Sony cameras",
+      "published": "2026-05-05T10:20:57+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-05T12:34:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/05/openai-fast-tracking-ai-phone-2027/",
+      "title": "OpenAI Fast-Tracking AI Phone for 2027 Launch, Says Kuo",
+      "published": "2026-05-05T12:13:26+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-05T12:34:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/05/20th-anniversary-iphone-haptic-buttons/",
+      "title": "20th Anniversary iPhone Could Blend Haptic Buttons Into Curved Edges",
+      "published": "2026-05-05T10:49:52+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-05T12:34:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/",
+      "title": "Apple Eyes Intel and Samsung as Backup US Chipmakers",
+      "published": "2026-05-05T09:31:34+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-05T12:34:06+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-05T00:49:58+00:00"
+  "last_checked": "2026-05-05T12:34:06+00:00"
 }
