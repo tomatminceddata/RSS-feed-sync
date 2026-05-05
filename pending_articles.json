@@ -6556,7 +6556,8 @@
       "published": "2026-05-04T14:40:57+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-05-04T16:39:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/ios-26-5-coming-soon-with-these-new-features/",
@@ -6564,7 +6565,8 @@
       "published": "2026-05-04T15:40:55+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T16:39:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/m4-ipad-air-hits-low-prices/",
@@ -6572,7 +6574,8 @@
       "published": "2026-05-04T13:52:39+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T16:39:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/apple-watch-2026-pride-band/",
@@ -6580,7 +6583,8 @@
       "published": "2026-05-04T13:50:50+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T16:39:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/watchos-27-expected-to-have-new-watch-faces/",
@@ -6588,7 +6592,8 @@
       "published": "2026-05-04T12:58:12+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T16:39:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/bhphoto-launched-the-mothers-day-specials/",
@@ -6596,7 +6601,8 @@
       "published": "2026-05-04T19:07:03+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-05-04T20:34:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/t-mobile-satellite-canada-nz/",
@@ -6604,7 +6610,8 @@
       "published": "2026-05-04T20:09:08+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T20:34:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/ios-26-5-rcs-encryption/",
@@ -6612,7 +6619,8 @@
       "published": "2026-05-04T18:14:02+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T20:34:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/ios-27-custom-wallet-passes/",
@@ -6620,7 +6628,8 @@
       "published": "2026-05-04T18:01:57+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T20:34:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/macos-tahoe-26-4-rc/",
@@ -6628,7 +6637,8 @@
       "published": "2026-05-04T17:14:01+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T20:34:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/ios-26-5-rc/",
@@ -6636,7 +6646,8 @@
       "published": "2026-05-04T17:12:07+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T20:34:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/apple-seeds-watchos-26-5-rc/",
@@ -6644,7 +6655,8 @@
       "published": "2026-05-04T17:11:00+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T20:34:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/notepad-plus-plus-trademark-violation/",
@@ -6652,7 +6664,8 @@
       "published": "2026-05-04T16:46:19+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-04T20:34:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/04/apple-supreme-court-app-store-fee-pause/",
@@ -6660,7 +6673,8 @@
       "published": "2026-05-04T23:08:37+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-05T00:49:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/fieldmade-launched-new-stealth-kits-for-sony-cameras/",
@@ -6668,7 +6682,8 @@
       "published": "2026-05-05T10:20:57+00:00",
       "feed": "SonyAlphaRumors",
       "discovered": "2026-05-05T12:34:06+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/05/openai-fast-tracking-ai-phone-2027/",
@@ -6676,7 +6691,8 @@
       "published": "2026-05-05T12:13:26+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-05T12:34:06+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/05/20th-anniversary-iphone-haptic-buttons/",
@@ -6684,7 +6700,8 @@
       "published": "2026-05-05T10:49:52+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-05T12:34:06+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/05/apple-talks-intel-samsung-us-chipmakers/",
@@ -6692,7 +6709,8 @@
       "published": "2026-05-05T09:31:34+00:00",
       "feed": "MacRumors",
       "discovered": "2026-05-05T12:34:06+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-05T16:17:22+00:00"
     }
   ],
   "last_checked": "2026-05-05T12:34:06+00:00"
