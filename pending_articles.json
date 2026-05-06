@@ -6871,7 +6871,39 @@
       "feed": "MacRumors",
       "discovered": "2026-05-06T12:46:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-claims-it-is-committed-to-aps-c-and-that-demand-has-increased/",
+      "title": "Sony claims it is committed to APS-C, and that demand has increased",
+      "published": "2026-05-06T13:10:01+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-06T16:37:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/this-is-why-apple-is-delaying-the-iphone-18/",
+      "title": "Leaker: This Is Why Apple Is Delaying the iPhone 18",
+      "published": "2026-05-06T14:56:56+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-06T16:37:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/150-off-every-m5-macbook-air/",
+      "title": "Amazon Takes $150 Off Every M5 MacBook Air, Starting at $949",
+      "published": "2026-05-06T13:51:08+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-06T16:37:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/iphone-ultra-could-be-most-repairable-foldable/",
+      "title": "'iPhone Ultra' Could Be Industry's Most Repairable Foldable",
+      "published": "2026-05-06T12:52:01+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-06T16:37:29+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-06T12:46:52+00:00"
+  "last_checked": "2026-05-06T16:37:29+00:00"
 }
