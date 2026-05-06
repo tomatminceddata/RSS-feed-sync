@@ -6903,7 +6903,31 @@
       "feed": "MacRumors",
       "discovered": "2026-05-06T16:37:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/big-lexar-card-deals-at-bhphoto-and-amazon/",
+      "title": "Big Lexar card deals at BHphoto and Amazon",
+      "published": "2026-05-06T20:07:08+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-06T20:36:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/samsung-1-trillion-valuation/",
+      "title": "Samsung Hits $1 Trillion Valuation Amid Apple Chip Diversification Talks",
+      "published": "2026-05-06T20:03:00+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-06T20:36:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/apple-eu-trademark-challenge-citrus-logo/",
+      "title": "Apple Wins EU Challenge Over Keyboard Maker's Citrus Logo",
+      "published": "2026-05-06T18:44:19+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-06T20:36:06+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-06T16:37:29+00:00"
+  "last_checked": "2026-05-06T20:36:06+00:00"
 }
