@@ -6839,7 +6839,39 @@
       "feed": "MacRumors",
       "discovered": "2026-05-06T00:50:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7v-review-by-christopher-frost-a-dream-to-use/",
+      "title": "Sony A7V review by Christopher Frost: “a dream to use”",
+      "published": "2026-05-06T10:01:51+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-06T12:46:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/iphone-18-pro-ltpo-display-upgrade-samsung/",
+      "title": "iPhone 18 Pro's LTPO+ Display Upgrade to Come From Samsung, LG",
+      "published": "2026-05-06T12:33:36+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-06T12:46:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/iphone-18-pro-cad-smaller-dynamic-island/",
+      "title": "iPhone 18 Pro CAD Leak Reignites the Dynamic Island Debate",
+      "published": "2026-05-06T11:13:43+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-06T12:46:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/iphone-17-best-selling-smartphone-q1-2026/",
+      "title": "iPhone 17 Outselling Every Other Phone Worldwide So Far This Year",
+      "published": "2026-05-06T09:51:24+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-06T12:46:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-06T00:50:07+00:00"
+  "last_checked": "2026-05-06T12:46:52+00:00"
 }
