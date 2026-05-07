@@ -6951,7 +6951,31 @@
       "feed": "MacRumors",
       "discovered": "2026-05-07T00:53:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-viltrox-will-soon-announce-the-new-35mm-f-1-4-fe-lens/",
+      "title": "Confirmed: Viltrox will soon announce the new 35mm f/1.4 FE lens",
+      "published": "2026-05-07T10:12:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-07T12:47:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/apple-drop-base-macbook-neo-costs-climb/",
+      "title": "Apple May Drop Base $599 MacBook Neo as Chip, DRAM Costs Climb",
+      "published": "2026-05-07T11:49:07+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T12:47:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/macbook-neo-new-colors-cushion-price-hike/",
+      "title": "MacBook Neo Could Get New Colors to Cushion Potential Price Hike",
+      "published": "2026-05-07T11:48:51+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T12:47:38+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-07T00:53:49+00:00"
+  "last_checked": "2026-05-07T12:47:38+00:00"
 }
