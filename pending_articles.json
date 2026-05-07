@@ -7471,7 +7471,17 @@
       "parser": "default",
       "discovered": "2026-05-07T19:30:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/apple-tim-cook-trump-china/",
+      "title": "Apple's Tim Cook Among CEOs Invited on Trump's Trip to China",
+      "author": "Juli Clover",
+      "published": "2026-05-07T19:46:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-07T20:32:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-07T19:30:57+00:00"
+  "last_checked": "2026-05-07T20:32:39+00:00"
 }
