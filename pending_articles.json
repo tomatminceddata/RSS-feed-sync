@@ -6927,7 +6927,31 @@
       "feed": "MacRumors",
       "discovered": "2026-05-06T20:36:06+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/google-search-ai-mode-expert-advice/",
+      "title": "Google Search AI Mode Gets 'Expert Advice' From Reddit and Social Media",
+      "published": "2026-05-06T22:33:48+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T00:53:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/energizer-airtag-child-safe-batteries/",
+      "title": "Energizer Launches AirTag-Compatible Batteries That Prevent Ingestion Burns",
+      "published": "2026-05-06T21:24:37+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T00:53:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/06/google-pixel-no-liquid-glass/",
+      "title": "Google Says Pixel Phones Won't Get Apple's Liquid Glass Design",
+      "published": "2026-05-06T20:57:31+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T00:53:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-06T20:36:06+00:00"
+  "last_checked": "2026-05-07T00:53:49+00:00"
 }
