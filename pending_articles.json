@@ -6975,7 +6975,63 @@
       "feed": "MacRumors",
       "discovered": "2026-05-07T12:47:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-launches-the-official-sony-a7rvi-teaser/",
+      "title": "Sony launches the official Sony A7rVI teaser!!!",
+      "published": "2026-05-07T15:20:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-07T16:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/the-impossible-65mm-sigma-f-1-0-and-faster-lenses/",
+      "title": "The impossible 65mm Sigma f/1.0 and faster lenses!",
+      "published": "2026-05-07T13:05:31+00:00",
+      "feed": "SonyAlphaRumors",
+      "discovered": "2026-05-07T16:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/apple-working-on-spatial-iphone/",
+      "title": "Apple Could Be Working on 'Spatial iPhone' With Holographic Display",
+      "published": "2026-05-07T16:08:23+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T16:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/apple-watch-education-store/",
+      "title": "Apple Adds Apple Watch to Education Store in Australia, China, Japan, and More",
+      "published": "2026-05-07T15:44:39+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T16:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/a16-ipad-for-just-299/",
+      "title": "Get the A16 iPad for Just $299 This Week on Amazon",
+      "published": "2026-05-07T15:01:10+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T16:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/wwdc-2026-distinguished-winners/",
+      "title": "WWDC 2026 is a Month Away: Apple Highlights 'Distinguished Winners'",
+      "published": "2026-05-07T14:31:08+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T16:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/apple-siri-lawsuit-settlement/",
+      "title": "Siri Lawsuit: Apple Agrees to Pay Owners of These iPhone Models",
+      "published": "2026-05-06T15:42:29+00:00",
+      "feed": "MacRumors",
+      "discovered": "2026-05-07T16:39:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-07T12:47:38+00:00"
+  "last_checked": "2026-05-07T16:39:35+00:00"
 }
