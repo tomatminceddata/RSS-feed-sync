@@ -7461,7 +7461,17 @@
       "parser": "default",
       "discovered": "2026-05-07T19:11:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/apple-still-working-on-pendant-report/",
+      "title": "Apple Reportedly Working on All-New AirTag-Sized Wearable With iPhone Integration",
+      "author": "Joe Rossignol",
+      "published": "2026-05-07T19:16:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-07T19:30:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-07T19:11:19+00:00"
+  "last_checked": "2026-05-07T19:30:57+00:00"
 }
