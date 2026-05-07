@@ -1,5 +1,9 @@
 # RSS Feed Sync
 
+**Edit 2026-05-07
+Updated the feeds.json and check_feeds.py to honor the new home of the Fabric and Power BI blog.
+The localizer Python scripts are not updated, but I will do this over the coming weeken or early next week.**
+
 Automated RSS feed monitoring for Microsoft Fabric Blog and Power BI Blog.
 
 ## How It Works
