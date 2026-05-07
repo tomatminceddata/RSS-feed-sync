@@ -69,6 +69,19 @@ def parse_published(entry) -> str:
     return getattr(entry, "published", "")
 
 
+def extract_author(entry) -> str:
+    """Extract author name from feed entry.
+
+    Khoros feeds populate dc:creator → entry.author cleanly (e.g. 'TwinkleCyril').
+    WordPress feeds usually leave it empty. SonyAlphaRumors / MacRumors vary.
+    """
+    if hasattr(entry, "author") and entry.author:
+        return entry.author
+    if hasattr(entry, "authors") and entry.authors:
+        return entry.authors[0].get("name", "")
+    return ""
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -110,6 +123,7 @@ def main():
         name = feed_config["name"]
         rss_url = feed_config["rss_url"]
         source = feed_config["source"]
+        parser_name = feed_config.get("parser", "wordpress")
 
         print(f"Checking: {name}")
         feed = feedparser.parse(rss_url)
@@ -128,12 +142,15 @@ def main():
 
             title = getattr(entry, "title", "Untitled")
             published = parse_published(entry)
+            author = extract_author(entry)
 
             data["articles"].append({
                 "url": url,
                 "title": title,
+                "author": author,
                 "published": published,
                 "feed": source,
+                "parser": parser_name,
                 "discovered": now,
                 "status": "pending",
             })

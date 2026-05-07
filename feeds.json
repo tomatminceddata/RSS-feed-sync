@@ -1,26 +1,44 @@
 {
   "feeds": [
     {
-      "name": "Microsoft Fabric Blog",
+      "name": "Microsoft Fabric Blog (legacy WordPress)",
       "source": "MicrosoftFabricBlog",
+      "parser": "wordpress",
       "rss_url": "https://blog.fabric.microsoft.com/en-us/blog/feed/",
       "vault_folder": "Microsoft Fabric/Microsoft Fabric blog"
     },
     {
-      "name": "Power BI Blog",
+      "name": "Microsoft Fabric Blog (Khoros community)",
+      "source": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "rss_url": "https://community.fabric.microsoft.com/oxcrx34285/rss/board?board.id=fbc_fabricupdatesblogs",
+      "vault_folder": "Microsoft Fabric/Microsoft Fabric blog"
+    },
+    {
+      "name": "Power BI Blog (legacy WordPress)",
       "source": "PowerBIBlog",
+      "parser": "wordpress",
       "rss_url": "https://powerbi.microsoft.com/en-us/blog/feed/",
+      "vault_folder": "Microsoft Fabric/Microsoft Fabric - Power BI/Power BI blog"
+    },
+    {
+      "name": "Power BI Blog (Khoros community)",
+      "source": "PowerBIBlog",
+      "parser": "khoros",
+      "rss_url": "https://community.fabric.microsoft.com/oxcrx34285/rss/board?board.id=fbc_pbiupdatesblog",
       "vault_folder": "Microsoft Fabric/Microsoft Fabric - Power BI/Power BI blog"
     },
     {
       "name": "SonyAlphaRumors",
       "source": "SonyAlphaRumors",
+      "parser": "default",
       "rss_url": "https://www.sonyalpharumors.com/feed/",
-    "vault_folder": "Tom/SonyAlphaRumors articles"
+      "vault_folder": "Tom/SonyAlphaRumors articles"
     },
     {
       "name": "MacRumors",
       "source": "MacRumors",
+      "parser": "default",
       "rss_url": "https://feeds.macrumors.com/MacRumors-All/",
       "vault_folder": "Tom/MacRumors articles"
     }

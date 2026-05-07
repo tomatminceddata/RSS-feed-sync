@@ -7031,7 +7031,437 @@
       "feed": "MacRumors",
       "discovered": "2026-05-07T16:39:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/High-Concurrency-Support-for-the-Fabric-Livy-API-Scalable-Spark/ba-p/5178390",
+      "title": "High Concurrency Support for the Fabric Livy API— Scalable Spark Automation (Preview)",
+      "author": "avinandac",
+      "published": "2026-05-06T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/OneLake-catalog-is-now-natively-available-in-Foundry-Generally/ba-p/5178376",
+      "title": "OneLake catalog is now natively available in Foundry (Generally Available)",
+      "author": "miquelladeboer",
+      "published": "2026-05-06T17:37:02+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/OneLake-security-Generally-Available/ba-p/5176756",
+      "title": "OneLake security (Generally Available)",
+      "author": "aonelakeuser",
+      "published": "2026-05-06T20:29:33+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Direct-Lake-on-SQL-with-Fabric-Data-Warehouse/ba-p/5177641",
+      "title": "Direct Lake on SQL with Fabric Data Warehouse",
+      "author": "jbarry15",
+      "published": "2026-05-05T18:04:47+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/From-repetition-to-reuse-accelerate-data-prep-with-My-queries-in/ba-p/5176763",
+      "title": "From repetition to reuse: accelerate data prep with My queries in Dataflow Gen2",
+      "author": "miguel",
+      "published": "2026-05-05T18:06:28+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Simplify-Schema-Changes-in-Fabric-Data-Warehouse-with-ALTER/ba-p/5177593",
+      "title": "Simplify Schema Changes in Fabric Data Warehouse with ALTER COLUMN (Preview)",
+      "author": "TwinkleCyril",
+      "published": "2026-05-05T18:08:11+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Providing-more-insights-amp-tools-Capacity-health-timepoint/ba-p/5176753",
+      "title": "Providing more insights & tools: Capacity health, timepoint summary, timepoint detail, chargeback now generally available",
+      "author": "pankajarora",
+      "published": "2026-05-05T19:00:59+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Pipelines-are-evolving-beyond-ETL/ba-p/5177527",
+      "title": "Pipelines are evolving beyond ETL",
+      "author": "conxu-ms",
+      "published": "2026-05-05T18:09:38+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Discover-items-across-workspaces-with-the-OneLake-Catalog-Search/ba-p/5176768",
+      "title": "Discover items across workspaces with the OneLake Catalog Search API, MCP and CLI tools (Preview)",
+      "author": "nschachter",
+      "published": "2026-05-05T18:10:44+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Fabric-April-2026-Feature-Summary/ba-p/5176490",
+      "title": "Fabric April 2026 Feature Summary",
+      "author": "kamurray",
+      "published": "2026-05-05T18:12:02+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Monitor-your-Eventstreams-with-workspace-monitoring-Preview/ba-p/5161116",
+      "title": "Monitor your Eventstreams with workspace monitoring (Preview)",
+      "author": "anboisve",
+      "published": "2026-05-05T18:21:33+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/On-premises-data-gateway-April-2026-release/ba-p/5171981",
+      "title": "On-premises data gateway April 2026 release",
+      "author": "lrtoyou1223",
+      "published": "2026-05-05T18:24:04+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Manage-failure-notifications-from-the-monitoring-hub-in-Fabric/ba-p/5160381",
+      "title": "Manage failure notifications from the monitoring hub in Fabric (Preview)",
+      "author": "mibruhje",
+      "published": "2026-05-06T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Simplify-Real-Time-Pipelines-with-the-Fabric-Eventstreams-SQL/ba-p/5171983",
+      "title": "Simplify Real-Time Pipelines with the Fabric Eventstreams SQL Operator (Generally Available)",
+      "author": "vashriva",
+      "published": "2026-05-06T13:56:19+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Bring-your-Dremio-data-into-OneLake-Preview/ba-p/5171986",
+      "title": "Bring your Dremio data into OneLake (Preview)",
+      "author": "Matthew_Hicks",
+      "published": "2026-05-05T18:27:58+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Fabric-Influencers-Spotlight-April-2026/ba-p/5171993",
+      "title": "Fabric Influencers Spotlight April 2026",
+      "author": "Marisa_Mathews",
+      "published": "2026-05-01T14:49:06+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Nested-folders-support-in-shortcut-transformations-Generally/ba-p/5171995",
+      "title": "Nested folders support in shortcut transformations (Generally Available)",
+      "author": "preshah",
+      "published": "2026-04-23T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Resource-instance-rules-for-OneLake-in-Microsoft-Fabric-Preview/ba-p/5171998",
+      "title": "Resource instance rules for OneLake in Microsoft Fabric (Preview)",
+      "author": "HARMEETGILL",
+      "published": "2026-04-23T16:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Cross-workspace-logging-for-MLflow-in-Microsoft-Fabric-Build/ba-p/5172000",
+      "title": "Cross-workspace logging for MLflow in Microsoft Fabric: Build MLOps workflows with confidence (Generally Available)",
+      "author": "ruxu",
+      "published": "2026-04-23T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Stream-SQL-Change-Events-to-Microsoft-Fabric-Eventstream-with/ba-p/5172004",
+      "title": "Stream SQL Change Events to Microsoft Fabric Eventstream with Change Event Streaming for Real-Time Analytics",
+      "author": "xujiang1",
+      "published": "2026-05-06T13:56:23+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Execute-DAX-Queries-REST-API-Preview/ba-p/5177697",
+      "title": "Execute DAX Queries REST API (Preview)",
+      "author": "kayu",
+      "published": "2026-05-07T16:47:39+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Semantic-model-settings-pane-Preview/ba-p/5177694",
+      "title": "Semantic model settings pane (Preview)",
+      "author": "kayu",
+      "published": "2026-05-06T17:04:07+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-April-2026-Feature-Summary/ba-p/5173904",
+      "title": "Power BI April 2026 Feature Summary",
+      "author": "kamurray",
+      "published": "2026-04-22T14:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Translytical-Task-Flows-Generally-Available/ba-p/5173907",
+      "title": "Translytical Task Flows (Generally Available)",
+      "author": "DataZoe",
+      "published": "2026-04-20T15:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Dataflows-Thank-you-for-eight-years-of-Gen1-and-why-Gen2-is-the/ba-p/5173910",
+      "title": "Dataflows: Thank you for eight years of Gen1—and why Gen2 is the future",
+      "author": "millopis",
+      "published": "2026-04-02T15:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Chat-with-Copilot-inside-a-report-on-the-Power-BI-mobile-app/ba-p/5173913",
+      "title": "Chat with Copilot inside a report on the Power BI mobile app (Preview)",
+      "author": "emininberg",
+      "published": "2026-03-30T16:30:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/TMDL-View-on-the-Web-Preview/ba-p/5173917",
+      "title": "TMDL View on the Web (Preview)",
+      "author": "saralam",
+      "published": "2026-03-20T20:15:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Semantic-Layers-The-foundation-of-enterprise-AI/ba-p/5173921",
+      "title": "Semantic Layers: The foundation of enterprise AI",
+      "author": "mohaali1",
+      "published": "2026-03-18T12:08:36+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-Dive-into-Modern-Visual-Defaults-and-Customizing-Theme/ba-p/5173925",
+      "title": "Deep Dive into Modern Visual Defaults and Customizing Theme Improvements (Preview)",
+      "author": "DataZoe",
+      "published": "2026-03-18T12:08:15+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-March-2026-Feature-Summary/ba-p/5173928",
+      "title": "Power BI March 2026 Feature Summary",
+      "author": "kamurray",
+      "published": "2026-03-18T12:07:49+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Input-slicer-Filter-reports-and-collect-user-input-Generally/ba-p/5173933",
+      "title": "Input slicer: Filter reports and collect user input (Generally Available)",
+      "author": "DataZoe",
+      "published": "2026-02-24T18:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-February-2026-Feature-Summary/ba-p/5173936",
+      "title": "Power BI February 2026 Feature Summary",
+      "author": "kamurray",
+      "published": "2026-02-24T15:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deprecation-of-old-Excel-and-CSV-import-experience-in-Power-BI/ba-p/5173941",
+      "title": "Deprecation of old Excel and CSV import experience in Power BI Service",
+      "author": "msgracegong",
+      "published": "2026-02-10T15:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-composite-semantic-models-with-Direct-Lake-and/ba-p/5173943",
+      "title": "Deep dive into composite semantic models with Direct Lake and import tables",
+      "author": "DataZoe",
+      "published": "2026-04-30T06:36:58+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Modern-Visual-Tooltips-in-Power-BI-Generally-Available/ba-p/5173946",
+      "title": "Modern Visual Tooltips in Power BI (Generally Available)",
+      "author": "jacindaeng",
+      "published": "2026-04-30T06:37:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Report-Server-January-2026-Feature-Summary/ba-p/5173949",
+      "title": "Power BI Report Server January 2026 Feature Summary",
+      "author": "dniwenshuti",
+      "published": "2026-01-21T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Introducing-Markers-in-Azure-Maps-for-Power-BI/ba-p/5173958",
+      "title": "Introducing Markers in Azure Maps for Power BI",
+      "author": "Sharlkaur",
+      "published": "2026-01-20T15:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-January-2026-Feature-Summary/ba-p/5173952",
+      "title": "Power BI January 2026 Feature Summary",
+      "author": "kamurray",
+      "published": "2026-01-20T15:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/The-Power-BI-Dataviz-World-Champs-is-back/ba-p/5173961",
+      "title": "The Power BI Dataviz World Champs is back!",
+      "author": "slindsay",
+      "published": "2026-01-08T17:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-2025-holiday-recap-A-decade-of-innovation-and-impact/ba-p/5173964",
+      "title": "Power BI 2025 holiday recap: A decade of innovation and impact",
+      "author": "alpowers",
+      "published": "2025-12-16T15:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/airpods-pro-built-in-cameras-advanced-testing/",
+      "title": "AirPods Pro With AI Cameras Reach 'Advanced' Testing Stage",
+      "author": "Juli Clover",
+      "published": "2026-05-07T17:53:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/apple-rave-app-store-lawsuit/",
+      "title": "Apple Sued for Pulling Co-Viewing App Rave From the App Store",
+      "author": "Juli Clover",
+      "published": "2026-05-07T16:41:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/samsung-new-monitor-tv-sale/",
+      "title": "Samsung Kicks Off New Monitor and TV Sale With Early Savings on Upcoming 2026 Monitors",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-07T16:02:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-07T19:11:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-07T16:39:35+00:00"
+  "last_checked": "2026-05-07T19:11:19+00:00"
 }
