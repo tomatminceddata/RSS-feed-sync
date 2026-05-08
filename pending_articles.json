@@ -7521,7 +7521,17 @@
       "parser": "default",
       "discovered": "2026-05-08T00:54:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7rvi-preorders-already-available-at-fotoerhardt/",
+      "title": "Sony A7rVI preorders already available at Fotoerhardt",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-08T04:54:43+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T05:06:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-08T00:54:12+00:00"
+  "last_checked": "2026-05-08T05:06:12+00:00"
 }
