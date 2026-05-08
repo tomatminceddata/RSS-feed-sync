@@ -7571,7 +7571,37 @@
       "parser": "default",
       "discovered": "2026-05-08T12:38:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/08/the-macrumors-show-is-apple-downgrading-iphone-18/",
+      "title": "The MacRumors Show: Is Apple Downgrading iPhone 18 Due to Memory Shortage?",
+      "author": "Hartley Charlton",
+      "published": "2026-05-08T14:47:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T16:37:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/08/best-apple-deals-of-the-week-5-8-26/",
+      "title": "Best Apple Deals of the Week: Shop Popular Mother's Day Accessory Deals, Plus AirPods Max 2 for $509.99",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-08T14:37:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T16:37:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/08/grok-ai-voice-mode-apple-carplay/",
+      "title": "Grok AI Voice Mode Arrives on Apple CarPlay",
+      "author": "Tim Hardwick",
+      "published": "2026-05-08T12:41:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T16:37:07+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-08T12:38:54+00:00"
+  "last_checked": "2026-05-08T16:37:07+00:00"
 }
