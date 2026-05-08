@@ -7601,7 +7601,57 @@
       "parser": "default",
       "discovered": "2026-05-08T16:37:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/50-off-on-topaz-labs/",
+      "title": "50% off on Topaz Labs!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-08T19:55:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T20:27:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/08/apple-intel-preliminary-chip-deal/",
+      "title": "Apple Could Soon Be Buying iPhone and Mac Chips From Old Frenemy Intel",
+      "author": "Juli Clover",
+      "published": "2026-05-08T19:44:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T20:27:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/08/instagram-end-to-end-encryption/",
+      "title": "Warning: Instagram DMs Lose End-to-End Encryption Starting Today",
+      "author": "Juli Clover",
+      "published": "2026-05-08T19:37:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T20:27:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/08/apple-seeds-ios-26-5-rc-2/",
+      "title": "Apple Seeds Second iOS 26.5 and iPadOS 26.5 Release Candidates to Developers",
+      "author": "Juli Clover",
+      "published": "2026-05-08T17:16:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T20:27:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/08/macrumors-giveaway-plugable-may-2026/",
+      "title": "MacRumors Giveaway: Win a MacBook Neo and Accessory Kit From Plugable",
+      "author": "Juli Clover",
+      "published": "2026-05-08T16:58:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T20:27:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-08T16:37:07+00:00"
+  "last_checked": "2026-05-08T20:27:26+00:00"
 }
