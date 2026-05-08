@@ -7481,7 +7481,47 @@
       "parser": "default",
       "discovered": "2026-05-07T20:32:39+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/openai-codex-chrome-extension/",
+      "title": "OpenAI's Codex Now Works in Chrome With New Extension",
+      "author": "Juli Clover",
+      "published": "2026-05-08T00:42:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T00:54:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/perplexity-mac-app-personal-computer/",
+      "title": "Perplexity's New Mac App Brings Personal Computer to Pro Users",
+      "author": "Juli Clover",
+      "published": "2026-05-07T21:56:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T00:54:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/apple-releases-safari-technology-preview-243/",
+      "title": "Apple Releases Safari Technology Preview 243 With Bug Fixes and Performance Improvements",
+      "author": "Juli Clover",
+      "published": "2026-05-07T21:03:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T00:54:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/07/apple-icloud-lock-in-uk-lawsuit/",
+      "title": "Apple Faces £3 Billion UK Trial Over iCloud Lock-In Claims",
+      "author": "Juli Clover",
+      "published": "2026-05-07T20:57:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-08T00:54:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-07T20:32:39+00:00"
+  "last_checked": "2026-05-08T00:54:12+00:00"
 }
