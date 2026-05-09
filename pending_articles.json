@@ -7701,7 +7701,27 @@
       "parser": "default",
       "discovered": "2026-05-09T12:27:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/09/airpods-max-2-for-509-all-colors/",
+      "title": "AirPods Max 2 Available for $509 in All Colors on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-09T14:51:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-09T16:23:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/09/top-stories-ios-26-5-coming-soon/",
+      "title": "Top Stories: iOS 26.5 Coming Soon, Goodbye $599 Mac Mini, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-05-09T02:14:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-09T16:23:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-09T12:27:05+00:00"
+  "last_checked": "2026-05-09T16:23:11+00:00"
 }
