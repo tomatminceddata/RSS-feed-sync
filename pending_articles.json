@@ -7741,7 +7741,27 @@
       "parser": "default",
       "discovered": "2026-05-10T16:23:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/today-only-at-bh-save-215-on-the-1tb-and-2tb-lexar-sl500-portable-ssd-with-magnetic-set/",
+      "title": "Today only at BH: Save $215 on the 1Tb and 2Tb Lexar SL500 Portable SSD with Magnetic Set",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-10T19:00:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-10T20:20:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/10/two-macos-27-changes-rumored/",
+      "title": "macOS 27: Two More Changes Leaked Ahead of WWDC Next Month",
+      "author": "Joe Rossignol",
+      "published": "2026-05-10T16:45:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-10T20:20:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-10T16:23:56+00:00"
+  "last_checked": "2026-05-10T20:20:42+00:00"
 }
