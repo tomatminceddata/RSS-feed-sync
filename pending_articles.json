@@ -7974,7 +7974,117 @@
       "parser": "default",
       "discovered": "2026-05-11T17:00:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/today-only-at-bh-save-big-on-macbook-pro-and-pelican-cases/",
+      "title": "Today only at BH: Save big on Macbook Pro and Pelican cases",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-11T18:39:01+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-security-fixes/",
+      "title": "Apple's iOS 26.5 Update Patches More Than 50 Security Flaws",
+      "author": "Juli Clover",
+      "published": "2026-05-11T19:29:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-developer-app-wwdc-2026-stickers/",
+      "title": "Apple Developer App Gets Liquid Glass Makeover and New WWDC 2026 Stickers",
+      "author": "Juli Clover",
+      "published": "2026-05-11T18:26:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-watch-series-11-130-off/",
+      "title": "Amazon Takes Up to $130 Off Apple Watch Series 11",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-11T18:07:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-rcs-e2ee-launch/",
+      "title": "iPhone-Android RCS Conversations Are End-to-End Encrypted in iOS 26.5",
+      "author": "Juli Clover",
+      "published": "2026-05-11T17:25:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-releases-ios-26-5/",
+      "title": "Apple Releases iOS 26.5 and iPadOS 26.5 With End-to-End Encrypted RCS, New Wallpaper, and Maps Updates",
+      "author": "Juli Clover",
+      "published": "2026-05-11T17:06:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-releases-macos-tahoe-26-5/",
+      "title": "macOS Tahoe 26.5 Now Available",
+      "author": "Juli Clover",
+      "published": "2026-05-11T17:04:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-releases-watchos-26-5/",
+      "title": "Apple Releases watchOS 26.5 With New Pride Luminance Watch Face",
+      "author": "Juli Clover",
+      "published": "2026-05-11T17:03:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-releases-tvos-26-5/",
+      "title": "Apple Releases tvOS 26.5",
+      "author": "Juli Clover",
+      "published": "2026-05-11T17:02:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-releases-visionos-26-5/",
+      "title": "Apple Releases visionOS 26.5",
+      "author": "Juli Clover",
+      "published": "2026-05-11T17:01:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-releases-homepod-software-26-5/",
+      "title": "Apple Releases HomePod Software 26.5",
+      "author": "Juli Clover",
+      "published": "2026-05-11T16:59:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T20:40:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-11T17:00:25+00:00"
+  "last_checked": "2026-05-11T20:40:32+00:00"
 }
