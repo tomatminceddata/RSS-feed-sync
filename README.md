@@ -2,6 +2,8 @@
 
 Automated RSS feed monitoring for Microsoft Fabric Blog, Power BI Blog, and other technical sources Tom follows. Articles land in his Obsidian vault as full markdown notes — frontmatter, tags, body, and locally-stored images — ready for reading and downstream knowledge tooling.
 
+**Scope note.** This repo holds the RSS-feed-sync half of Tom's knowledge-hub tooling. The webcrawlers that feed the same vault folders from other sources live in separate, private repositories and will not be published. References to webcrawlers in this README and in `KnowledgeHub_Helper.py` exist because the helper is shared infrastructure — they're not an invitation to look for the webcrawler code here.
+
 ## How It Works
 
 **GitHub Actions** checks all configured RSS feeds every 4 hours (or on manual trigger). When new articles are found, their URLs are appended to `pending_articles.json` and committed to this repo. Synced articles older than `keep_synced_days` are automatically pruned.
@@ -22,7 +24,9 @@ Adding a new parser means writing a `fetch_article_html_<name>(url) -> (html, ta
 
 ### Image localization
 
-Image-heavy blogs (Microsoft Fabric, Power BI, Chris Webb, Nikola Ilic, Sandeep Pawar, and several others) have their embedded images downloaded into per-blog `articleassets/<article-title>/` folders next to the article notes, with markdown image links rewritten to local relative paths. This is handled by `KnowledgeHub_Helper.py` — the shared utility layer that sits beneath all knowledge-hub pipelines (RSS sync today, webcrawl and others later). A blog opts into image localization by being listed in `ASSET_CONFIG` inside that helper.
+Image-heavy blogs (Microsoft Fabric, Power BI, Chris Webb, Nikola Ilic, Sandeep Pawar, and several others) have their embedded images downloaded into per-blog `articleassets/<article-title>/` folders next to the article notes, with markdown image links rewritten to local relative paths. This is handled by `KnowledgeHub_Helper.py` — the shared utility layer that sits beneath all knowledge-hub pipelines (RSS sync today, others later). A blog opts into image localization by being listed in `ASSET_CONFIG` inside that helper.
+
+**A note on copyright.** Image localization copies images and article text into Tom's private Obsidian vault for personal reading, study, and offline access. Nothing here is republished, redistributed, or made public. All article text and images remain the property of their original authors and publishers — the markdown frontmatter preserves the source URL and author so attribution is never lost, and the publishers' original pages remain the authoritative copies. Anyone reusing this code on their own machine is responsible for staying within the terms of the sites they fetch from.
 
 ## Usage
 
