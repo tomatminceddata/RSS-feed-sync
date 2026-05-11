@@ -5,10 +5,20 @@ Pulls pending articles from the GitHub repo, processes them using
 rss_sync.py's article fetching logic, creates Obsidian notes,
 marks articles as synced, and pushes the updated JSON back.
 
+Each article in pending_articles.json carries `feed` (source_tag) and
+`parser` (parser name) — together they identify which feed config to
+use. This is needed because the same source_tag can appear under
+multiple parsers (e.g. MicrosoftFabricBlog appears under both
+'wordpress' and 'khoros' during the parallel-run migration).
+
 Usage:
     python rss_pull_and_sync.py              # process all pending articles
     python rss_pull_and_sync.py --dry-run    # preview without writing files or pushing
     python rss_pull_and_sync.py --no-git     # skip git pull/push (for testing)
+    python rss_pull_and_sync.py --feed-kind khoros           # process only Khoros articles
+    python rss_pull_and_sync.py --feed-kind khoros --dry-run # preview only Khoros articles
+    python rss_pull_and_sync.py --max-articles 3             # process at most 3 pending articles (total)
+    python rss_pull_and_sync.py --feed-kind khoros --max-articles 1  # one Khoros article only (surgical testing)
 """
 
 import argparse
@@ -33,23 +43,53 @@ sys.path.insert(0, str(SCRIPT_DIR))
 from rss_sync import (
     VAULT_ROOT,
     FEEDS,
+    PARSERS,
     SYNC_LOG,
     sanitize_title,
     get_existing_urls,
-    fetch_article_html,
+    fetch_article,
     html_to_markdown,
     extract_categories_from_markdown,
     build_note,
     write_sync_log,
     _format_iso8601,
 )
+from KnowledgeHub_Helper import download_and_localize_images, should_download_assets
 
 
 # ---------------------------------------------------------------------------
 # Feed config lookup
 # ---------------------------------------------------------------------------
 
-FEED_LOOKUP = {f["source_tag"]: f for f in FEEDS}
+# Keyed by (source_tag, parser_name) — the same source_tag can appear
+# under multiple parsers during parallel-run migrations (e.g. WordPress
+# legacy + Khoros community both producing MicrosoftFabricBlog articles).
+FEED_LOOKUP: dict[tuple[str, str], dict] = {
+    (f["source_tag"], f.get("parser", "wordpress")): f for f in FEEDS
+}
+
+
+def lookup_feed(source_tag: str, parser_name: str) -> dict | None:
+    """
+    Find the feed config matching the given source_tag and parser.
+    Falls back to the source_tag-only match if the exact pair is not
+    found — this handles old pending_articles.json entries that don't
+    yet have a `parser` field.
+    """
+    exact = FEED_LOOKUP.get((source_tag, parser_name))
+    if exact is not None:
+        return exact
+    # Back-compat fallback: old entries without `parser` get matched
+    # against any feed with the same source_tag. If multiple feeds share
+    # the source_tag (the parallel-run case) we prefer 'wordpress' to
+    # match the historical behaviour.
+    for (st, pn), cfg in FEED_LOOKUP.items():
+        if st == source_tag and pn == "wordpress":
+            return cfg
+    for (st, pn), cfg in FEED_LOOKUP.items():
+        if st == source_tag:
+            return cfg
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -129,13 +169,51 @@ def save_pending(data: dict) -> None:
 # Main sync logic
 # ---------------------------------------------------------------------------
 
-def process_pending(data: dict, dry_run: bool) -> int:
-    """Process all pending articles. Returns count of newly synced articles."""
+def process_pending(
+    data: dict,
+    dry_run: bool,
+    feed_kind: str | None = None,
+    max_articles: int | None = None,
+) -> int:
+    """Process pending articles. Returns count of newly synced articles.
+
+    If feed_kind is set (e.g. 'khoros'), only articles whose parser matches
+    are processed. Useful for draining one feed kind at a time during
+    testing or migration windows.
+
+    If max_articles is set, processing stops after that many articles
+    (TOTAL across the run, not per-feed). The cap is applied AFTER the
+    feed_kind filter, so `--feed-kind khoros --max-articles 1` yields
+    one Khoros article — ideal for surgical testing where a bad result
+    can be unwound with a single vault deletion and a single
+    pending_articles.json edit.
+    """
     clipped_ts = _format_iso8601(datetime.now(timezone.utc))
     synced_count = 0
     sync_results = {}  # feed_name -> list of (title, rel_path)
 
     pending = [a for a in data["articles"] if a["status"] == "pending"]
+
+    # Filter by parser kind if requested. We do this BEFORE counting so
+    # the displayed totals reflect what will actually be processed, not
+    # what's in the queue overall.
+    if feed_kind is not None:
+        before = len(pending)
+        pending = [
+            a for a in pending
+            if a.get("parser", "wordpress") == feed_kind
+        ]
+        skipped = before - len(pending)
+        if skipped:
+            print(f"\n🎯 Filter --feed-kind {feed_kind}: skipping {skipped} "
+                  f"non-matching pending article(s)")
+
+    # Apply the total cap AFTER the feed_kind filter so the two flags
+    # compose intuitively.
+    if max_articles is not None and len(pending) > max_articles:
+        print(f"\n🔒 Limiting to {max_articles} article(s) (--max-articles); "
+              f"{len(pending) - max_articles} will remain pending for next run")
+        pending = pending[:max_articles]
 
     if not pending:
         print("\n✅ No pending articles to process.")
@@ -147,11 +225,14 @@ def process_pending(data: dict, dry_run: bool) -> int:
         url = article["url"]
         title = article["title"]
         feed_source = article["feed"]
+        # Default to 'wordpress' for back-compat with entries created
+        # before check_feeds.py started writing the parser field.
+        parser_name = article.get("parser", "wordpress")
 
         # Look up the feed configuration
-        feed_config = FEED_LOOKUP.get(feed_source)
+        feed_config = lookup_feed(feed_source, parser_name)
         if not feed_config:
-            print(f"  [{i}/{len(pending)}] ⚠ Unknown feed source: {feed_source}")
+            print(f"  [{i}/{len(pending)}] ⚠ Unknown feed: source={feed_source} parser={parser_name}")
             print(f"    Skipping: {title}")
             continue
 
@@ -161,6 +242,7 @@ def process_pending(data: dict, dry_run: bool) -> int:
         print(f"  [{i}/{len(pending)}] {title}")
         print(f"    🔗 {url}")
         print(f"    📂 {vault_folder.relative_to(VAULT_ROOT)}")
+        print(f"    ⚙  Parser: {parser_name}")
 
         # Check if already in vault (dedup against existing notes)
         existing_urls = get_existing_urls(vault_folder)
@@ -176,8 +258,8 @@ def process_pending(data: dict, dry_run: bool) -> int:
             print(f"    ✅ Would create: {safe_name}.md")
             continue
 
-        # Fetch full article
-        article_html = fetch_article_html(url)
+        # Fetch full article via the configured parser
+        article_html, parser_tags = fetch_article(url, parser_name)
         if article_html:
             article_md = html_to_markdown(article_html)
             print(f"    📥 Fetched full article ({len(article_md)} chars)")
@@ -185,22 +267,35 @@ def process_pending(data: dict, dry_run: bool) -> int:
             print(f"    ❌ Failed to fetch article — leaving as pending")
             continue
 
-        # Extract category tags
-        categories, article_md = extract_categories_from_markdown(article_md)
+        # Tag extraction: combine parser-supplied tags (Khoros: from page)
+        # and markdown-extracted tags (WordPress: category breadcrumbs).
+        # De-duplicate while preserving order.
+        markdown_tags, article_md = extract_categories_from_markdown(article_md)
+        seen = set()
+        categories: list[str] = []
+        for t in list(parser_tags) + list(markdown_tags):
+            key = t.strip().lower()
+            if key and key not in seen:
+                seen.add(key)
+                categories.append(t.strip())
         if categories:
             print(f"    🏷  Tags: {', '.join(categories)}")
 
-        # Build a minimal entry object that build_note expects
+        # Build a minimal entry object that build_note expects.
+        # We carry author through from the JSON (Khoros feeds populate
+        # this; WordPress feeds typically leave it empty).
         class EntryStub:
             pass
 
         entry = EntryStub()
         entry.link = url
-        entry.author = ""
+        entry.author = article.get("author", "")
         entry.published = article.get("published", "")
         entry.published_parsed = None  # we already have the formatted string
 
-        note_text = build_note(entry, article_md, source_tag, clipped_ts, categories)
+        note_text = build_note(
+            entry, article_md, source_tag, parser_name, clipped_ts, categories
+        )
 
         # Write to vault
         safe_name = sanitize_title(title)
@@ -208,6 +303,16 @@ def process_pending(data: dict, dry_run: bool) -> int:
 
         if note_path.exists():
             note_path = vault_folder / f"{safe_name} (2).md"
+
+        # Download images locally if configured for this source
+        if should_download_assets(source_tag):
+            note_text = download_and_localize_images(
+                markdown=note_text,
+                article_title=safe_name,
+                source_tag=source_tag,
+                article_note_path=note_path,
+                dry_run=dry_run,
+            )
 
         vault_folder.mkdir(parents=True, exist_ok=True)
         note_path.write_text(note_text, encoding="utf-8")
@@ -258,12 +363,35 @@ def main():
         action="store_true",
         help="Skip git pull/push (for testing)",
     )
+    parser.add_argument(
+        "--feed-kind",
+        choices=sorted(PARSERS.keys()),
+        default=None,
+        help=(
+            "Process only pending articles whose parser matches this kind "
+            "(e.g. 'khoros'). Useful for testing one parser in isolation."
+        ),
+    )
+    parser.add_argument(
+        "--max-articles",
+        type=int,
+        default=None,
+        help=(
+            "Limit total number of articles processed in this run (applied "
+            "after --feed-kind filter). Useful for surgical testing: a bad "
+            "result is one vault deletion away from a retry."
+        ),
+    )
     args = parser.parse_args()
 
     print("🚀 RSS Pull & Sync")
     print(f"   Repo: {REPO_DIR}")
     print(f"   Mode: {'DRY RUN' if args.dry_run else 'LIVE'}")
     print(f"   Git:  {'disabled' if args.no_git else 'auto pull/push'}")
+    if args.feed_kind:
+        print(f"   Filter: --feed-kind {args.feed_kind} (only matching articles)")
+    if args.max_articles:
+        print(f"   Limit: --max-articles {args.max_articles} (total cap)")
 
     # Step 1: git pull
     if not args.no_git:
@@ -276,7 +404,7 @@ def main():
     print(f"\n📊 {total_count} articles tracked, {pending_count} pending")
 
     # Step 3: Process pending articles
-    synced = process_pending(data, args.dry_run)
+    synced = process_pending(data, args.dry_run, args.feed_kind, args.max_articles)
 
     # Step 4: Save updated JSON
     if not args.dry_run:

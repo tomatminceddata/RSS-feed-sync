@@ -1,14 +1,25 @@
 #!/usr/bin/env python3
 """
 RSS Feed Sync — Layer 1
-Fetches Microsoft Fabric Blog and Power BI Blog RSS feeds,
-deduplicates by URL, clips full articles as markdown notes
-into Tom's Obsidian vault.
+Fetches RSS feeds (Microsoft Fabric Blog, Power BI Blog, MacRumors, etc.),
+deduplicates by URL, clips full articles as markdown notes into Tom's
+Obsidian vault.
+
+Architecture:
+    Each feed declares a `parser` in feeds.json. The parser drives:
+      - how the article body is extracted from the page
+      - how tags are extracted (sometimes from the page, sometimes from
+        markdown after extraction)
+    Supported parsers:
+      - "wordpress" : the legacy blog.fabric.microsoft.com WordPress structure
+      - "khoros"    : the new community.fabric.microsoft.com Khoros/Lithium
+                      structure (replaces wordpress for Microsoft blogs)
+      - "default"   : generic fallback (used by MacRumors, SonyAlphaRumors)
 
 Usage:
-    python rss_sync.py                  # sync both feeds
+    python rss_sync.py                  # sync all feeds
     python rss_sync.py --dry-run        # preview without writing files
-    python rss_sync.py --max-articles 3 # limit to 3 articles per feed (for testing)
+    python rss_sync.py --max-articles 3 # limit to 3 articles per feed (testing)
 """
 
 import argparse
@@ -24,12 +35,15 @@ from markdownify import markdownify as md
 
 import json
 
+from KnowledgeHub_Helper import download_and_localize_images, should_download_assets
+
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
 
 VAULT_ROOT = Path(
-    "PathtoyourVault/YourVault"
+    "/Users/thomasmartens/Library/CloudStorage/"
+    "OneDrive-tommartens/TomsVault"
 )
 
 # Feed config is loaded from feeds.json in the GitHub repo (single source of
@@ -42,15 +56,23 @@ FEEDS_CONFIG_FILE = (
 
 _DEFAULT_FEEDS = [
     {
-        "name": "Microsoft Fabric Blog",
+        "name": "Microsoft Fabric Blog (Khoros community)",
         "source_tag": "MicrosoftFabricBlog",
-        "rss_url": "https://blog.fabric.microsoft.com/en-us/blog/feed/",
+        "parser": "khoros",
+        "rss_url": (
+            "https://community.fabric.microsoft.com/oxcrx34285/rss/board"
+            "?board.id=fbc_fabricupdatesblogs"
+        ),
         "vault_folder": VAULT_ROOT / "Microsoft Fabric" / "Microsoft Fabric blog",
     },
     {
-        "name": "Power BI Blog",
+        "name": "Power BI Blog (Khoros community)",
         "source_tag": "PowerBIBlog",
-        "rss_url": "https://powerbi.microsoft.com/en-us/blog/feed/",
+        "parser": "khoros",
+        "rss_url": (
+            "https://community.fabric.microsoft.com/oxcrx34285/rss/board"
+            "?board.id=fbc_pbiupdatesblog"
+        ),
         "vault_folder": VAULT_ROOT
         / "Microsoft Fabric"
         / "Microsoft Fabric - Power BI"
@@ -60,7 +82,11 @@ _DEFAULT_FEEDS = [
 
 
 def _load_feeds() -> list[dict]:
-    """Load feed definitions from feeds.json, or fall back to defaults."""
+    """Load feed definitions from feeds.json, or fall back to defaults.
+
+    The `parser` field is read from the JSON; if missing it defaults to
+    'wordpress' (the original behaviour, for back-compat with old configs).
+    """
     if FEEDS_CONFIG_FILE.exists():
         with open(FEEDS_CONFIG_FILE, "r", encoding="utf-8") as f:
             config = json.load(f)
@@ -69,6 +95,7 @@ def _load_feeds() -> list[dict]:
             feeds.append({
                 "name": fc["name"],
                 "source_tag": fc["source"],
+                "parser": fc.get("parser", "wordpress"),
                 "rss_url": fc["rss_url"],
                 "vault_folder": VAULT_ROOT / fc["vault_folder"],
             })
@@ -87,11 +114,16 @@ USER_AGENT = (
     "Chrome/124.0.0.0 Safari/537.36"
 )
 
-# Pattern to match blog category links in markdown output
+# Pattern to match WordPress blog category links in markdown output
 # e.g. "- [Real-Time Intelligence](/en-us/blog/category/real-time-intelligence)"
 CATEGORY_LINK_RE = re.compile(
     r"^- \[.*?\]\(/[\w-]+/blog/category/([\w-]+)\)\s*$", re.MULTILINE
 )
+
+# Pattern to match empty heading lines (e.g. "# " on a line by itself).
+# Khoros pages occasionally render as `<h1></h1>` followed by a real heading,
+# producing `# \n# Real Title` after markdownify. We strip the empty ones.
+EMPTY_HEADING_RE = re.compile(r"^#+\s*$\n?", re.MULTILINE)
 
 
 # ---------------------------------------------------------------------------
@@ -106,12 +138,16 @@ def sanitize_title(raw_title: str) -> str:
     """
     Turn an RSS entry title into a safe, Unicode-clean filename (no extension).
 
+    - Fixes malformed HTML entities (e.g. &8211; → &#8211;) before decoding
     - Decodes HTML entities to proper Unicode (& → &, ' → ', – → –)
     - Strips characters unsafe for filesystems
     - Collapses multiple spaces / leading-trailing whitespace
     """
+    # Fix malformed numeric entities: &8211; → &#8211; (missing #)
+    # Also handles hex entities: &x2F; → &#x2F;
+    clean = re.sub(r"&(x?[0-9A-Fa-f]+;)", r"&#\1", raw_title)
     # Decode HTML entities → proper Unicode
-    clean = html.unescape(raw_title)
+    clean = html.unescape(clean)
     # Replace unsafe filesystem characters with a dash
     clean = UNSAFE_FILENAME_CHARS.sub("–", clean)
     # Collapse whitespace
@@ -160,13 +196,13 @@ def get_existing_urls(folder: Path) -> set[str]:
 
 
 # ---------------------------------------------------------------------------
-# Helpers — article fetching & conversion
+# Helpers — HTTP and HTML cleanup
 # ---------------------------------------------------------------------------
 
 def fix_protocol_relative_urls(soup: BeautifulSoup) -> None:
     """
     Fix protocol-relative URLs (//example.com/...) in src and href attributes.
-    Microsoft blog pages use these; Obsidian needs full https:// URLs.
+    Some Microsoft pages use these; Obsidian needs full https:// URLs.
     """
     for tag in soup.find_all(src=True):
         if tag["src"].startswith("//"):
@@ -176,21 +212,86 @@ def fix_protocol_relative_urls(soup: BeautifulSoup) -> None:
             tag["href"] = "https:" + tag["href"]
 
 
-def fetch_article_html(url: str) -> str | None:
-    """
-    Fetch the full article page and return the article body HTML.
-    Returns None if the fetch fails.
-    """
+def http_get(url: str, allow_redirects: bool = True) -> requests.Response | None:
+    """Plain HTTP GET with the configured user agent and timeout."""
     try:
         resp = requests.get(
             url,
             timeout=REQUESTS_TIMEOUT,
             headers={"User-Agent": USER_AGENT},
+            allow_redirects=allow_redirects,
         )
         resp.raise_for_status()
+        return resp
+    except requests.HTTPError as e:
+        print(f"  ⚠ HTTP error fetching {url}: {e}")
+        return None
     except requests.RequestException as e:
         print(f"  ⚠ Failed to fetch {url}: {e}")
         return None
+
+
+# ---------------------------------------------------------------------------
+# Parser — wordpress (legacy blog.fabric.microsoft.com / powerbi.microsoft.com)
+# ---------------------------------------------------------------------------
+
+def fetch_article_html_wordpress(url: str) -> tuple[str | None, list[str]]:
+    """
+    Fetch a WordPress-hosted blog article. Returns (article_html, tags).
+    For WordPress, tags are NOT extracted here — they live in the body
+    markdown as category breadcrumbs and are extracted later via
+    extract_categories_from_markdown(). So this returns ([]) for tags.
+
+    Handles the blog.fabric.microsoft.com → community.fabric.microsoft.com
+    redirect issue: some articles redirect to a community URL that returns
+    404 because Microsoft's redirect mapping is incomplete. In that case,
+    we detect the broken redirect and report it clearly rather than
+    silently failing.
+    """
+    headers = {"User-Agent": USER_AGENT}
+
+    try:
+        resp = requests.get(
+            url,
+            timeout=REQUESTS_TIMEOUT,
+            headers=headers,
+            allow_redirects=True,
+        )
+        resp.raise_for_status()
+    except requests.HTTPError as e:
+        # Check if this is a 404 caused by a bad redirect
+        if (
+            e.response is not None
+            and e.response.status_code == 404
+            and "community.fabric.microsoft.com" in e.response.url
+            and "blog.fabric.microsoft.com" in url
+        ):
+            print(f"  ⚠ Redirect to community domain returned 404, retrying on original domain...")
+            # Retry: don't follow the redirect, fetch from the original domain directly
+            try:
+                resp2 = requests.get(
+                    url,
+                    timeout=REQUESTS_TIMEOUT,
+                    headers=headers,
+                    allow_redirects=False,
+                )
+                # If we get a 3xx, the content isn't served from the original domain either
+                if resp2.status_code in (301, 302, 303, 307, 308):
+                    redirect_target = resp2.headers.get("Location", "unknown")
+                    print(f"  ⚠ Article redirects to {redirect_target} (which 404s)")
+                    print(f"    Microsoft redirect mapping issue — article not yet available at the new URL.")
+                    return None, []
+                resp2.raise_for_status()
+                resp = resp2  # use the non-redirected response
+            except requests.RequestException as e2:
+                print(f"  ⚠ Retry also failed: {e2}")
+                return None, []
+        else:
+            print(f"  ⚠ Failed to fetch {url}: {e}")
+            return None, []
+    except requests.RequestException as e:
+        print(f"  ⚠ Failed to fetch {url}: {e}")
+        return None, []
 
     soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -218,7 +319,7 @@ def fetch_article_html(url: str) -> str | None:
             )
         ):
             tag.decompose()
-        return str(article)
+        return str(article), []
 
     # Fallback: return the whole body (stripped of obvious junk)
     body = soup.find("body")
@@ -227,16 +328,153 @@ def fetch_article_html(url: str) -> str | None:
             ["nav", "header", "footer", "aside", "script", "style", "noscript"]
         ):
             tag.decompose()
-        return str(body)
+        return str(body), []
 
-    return None
+    return None, []
 
+
+# ---------------------------------------------------------------------------
+# Parser — khoros (new community.fabric.microsoft.com)
+# ---------------------------------------------------------------------------
+
+def fetch_article_html_khoros(url: str) -> tuple[str | None, list[str]]:
+    """
+    Fetch a Khoros community article. Returns (article_html, tags).
+
+    Khoros pages have a clean structure:
+      - Article body: <div class="lia-message-body"> (id="bodyDisplay")
+      - Tags ("Labels:" block): <div class="LabelsForArticle"> containing
+        <a class="label-link"> per label
+    Tags live OUTSIDE the article body, so we extract them from the full
+    page soup before narrowing down to the body.
+    """
+    resp = http_get(url)
+    if resp is None:
+        return None, []
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+    fix_protocol_relative_urls(soup)
+
+    # Tags first — they're in the full-page soup, not the article body.
+    tags: list[str] = []
+    labels_container = soup.find("div", class_="LabelsForArticle")
+    if labels_container:
+        for a in labels_container.find_all("a", class_=re.compile(r"label-link")):
+            text = a.get_text(strip=True)
+            if text:
+                tags.append(text)
+
+    # Article body
+    article = soup.find("div", class_="lia-message-body")
+    if article is None:
+        # Defensive fallback — Khoros HTML may evolve. Caller will fall
+        # back to the RSS summary if we return None.
+        print(f"  ⚠ Khoros parser: <div class='lia-message-body'> not found")
+        return None, tags
+
+    # Strip anything we don't want in the article body. Khoros bodies
+    # tend to be clean already, but let's be defensive against future
+    # additions of share/related widgets.
+    for tag in article.find_all(
+        ["nav", "aside", "footer", "script", "style", "noscript"]
+    ):
+        tag.decompose()
+    for tag in article.find_all(
+        class_=re.compile(
+            r"(share|social|related|sidebar|comment|newsletter|author-bio)",
+            re.IGNORECASE,
+        )
+    ):
+        tag.decompose()
+
+    return str(article), tags
+
+
+# ---------------------------------------------------------------------------
+# Parser — default (generic feeds: MacRumors, SonyAlphaRumors)
+# ---------------------------------------------------------------------------
+
+def fetch_article_html_default(url: str) -> tuple[str | None, list[str]]:
+    """
+    Generic fallback parser for feeds without a specific implementation.
+    Tries common article containers; if none match, returns the cleaned body.
+    Tags are not extracted here — third-party feeds typically expose tags
+    via the RSS entry (entry.tags) and our caller can read them directly.
+    """
+    resp = http_get(url)
+    if resp is None:
+        return None, []
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+    fix_protocol_relative_urls(soup)
+
+    article = (
+        soup.find("article")
+        or soup.find("div", class_=re.compile(r"(post|entry|article)[-_]content"))
+        or soup.find("main")
+    )
+
+    if article:
+        for tag in article.find_all(
+            ["nav", "aside", "footer", "script", "style", "noscript"]
+        ):
+            tag.decompose()
+        for tag in article.find_all(
+            class_=re.compile(
+                r"(share|social|related|sidebar|comment|newsletter|author-bio)",
+                re.IGNORECASE,
+            )
+        ):
+            tag.decompose()
+        return str(article), []
+
+    body = soup.find("body")
+    if body:
+        for tag in body.find_all(
+            ["nav", "header", "footer", "aside", "script", "style", "noscript"]
+        ):
+            tag.decompose()
+        return str(body), []
+
+    return None, []
+
+
+# ---------------------------------------------------------------------------
+# Parser registry — dispatcher
+# ---------------------------------------------------------------------------
+
+PARSERS = {
+    "wordpress": fetch_article_html_wordpress,
+    "khoros": fetch_article_html_khoros,
+    "default": fetch_article_html_default,
+}
+
+
+def fetch_article(url: str, parser_name: str) -> tuple[str | None, list[str]]:
+    """Dispatch to the named parser. Falls back to 'default' if unknown."""
+    parser_fn = PARSERS.get(parser_name, fetch_article_html_default)
+    return parser_fn(url)
+
+
+# Backwards-compat shim: rss_backfill.py imports `fetch_article_html` from
+# this module. The new dispatcher splits that name into parser-specific
+# variants. Keep the old name pointing at the WordPress parser since that's
+# what backfill was originally written against.
+def fetch_article_html(url: str) -> str | None:
+    html, _tags = fetch_article_html_wordpress(url)
+    return html
+
+
+# ---------------------------------------------------------------------------
+# Helpers — markdown post-processing
+# ---------------------------------------------------------------------------
 
 def extract_categories_from_markdown(markdown: str) -> tuple[list[str], str]:
     """
-    Extract blog category tags from markdown and remove them from content.
+    Extract WordPress blog category tags from markdown and remove them
+    from content.
 
-    Microsoft blog articles contain category links like:
+    Microsoft WordPress blog articles contain category links like:
         - [Real-Time Intelligence](/en-us/blog/category/real-time-intelligence)
 
     These are navigation breadcrumbs, not article content. We extract the
@@ -251,6 +489,17 @@ def extract_categories_from_markdown(markdown: str) -> tuple[list[str], str]:
     return tags, cleaned
 
 
+def strip_empty_headings(markdown: str) -> str:
+    """Remove empty heading lines (e.g. '# ' alone on a line).
+
+    Khoros pages occasionally produce empty H1s right before real ones,
+    yielding `# \\n# Real Heading` in markdownify output. Strip them.
+    """
+    cleaned = EMPTY_HEADING_RE.sub("", markdown)
+    cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
+    return cleaned
+
+
 def html_to_markdown(html_content: str) -> str:
     """Convert HTML to clean markdown, keeping images as external links."""
     markdown = md(
@@ -260,6 +509,8 @@ def html_to_markdown(html_content: str) -> str:
     )
     # Clean up excessive blank lines
     markdown = re.sub(r"\n{3,}", "\n\n", markdown)
+    # Drop empty heading lines (Khoros artefact, harmless elsewhere)
+    markdown = strip_empty_headings(markdown)
     return markdown.strip()
 
 
@@ -292,7 +543,11 @@ def format_published_date(entry) -> str:
 
 
 def extract_author(entry) -> str:
-    """Extract author name from feed entry."""
+    """Extract author name from feed entry.
+
+    Khoros feeds populate dc:creator → entry.author cleanly (e.g. 'TwinkleCyril').
+    WordPress feeds usually leave it empty.
+    """
     if hasattr(entry, "author") and entry.author:
         return entry.author
     if hasattr(entry, "authors") and entry.authors:
@@ -304,6 +559,7 @@ def build_note(
     entry,
     article_markdown: str,
     source_tag: str,
+    feed_kind: str,
     clipped_timestamp: str,
     categories: list[str] | None = None,
 ) -> str:
@@ -329,6 +585,7 @@ def build_note(
         f"published: {published}\n"
         f"clipped: {clipped_timestamp}\n"
         f"source: {source_tag}\n"
+        f"feed_kind: {feed_kind}\n"
         f"{tags_lines}\n"
         f"---\n"
     )
@@ -391,11 +648,13 @@ def sync_feed(
     rss_url = feed_config["rss_url"]
     vault_folder = feed_config["vault_folder"]
     source_tag = feed_config["source_tag"]
+    parser_name = feed_config.get("parser", "wordpress")
 
     print(f"\n{'='*60}")
     print(f"📡 Fetching: {name}")
     print(f"   URL: {rss_url}")
     print(f"   Target: {vault_folder.relative_to(VAULT_ROOT)}")
+    print(f"   Parser: {parser_name}")
     print(f"{'='*60}")
 
     # Step 1 — Fetch RSS feed
@@ -442,8 +701,8 @@ def sync_feed(
             print(f"    ✅ Would create: {safe_name}.md")
             continue
 
-        # Fetch full article
-        article_html = fetch_article_html(url)
+        # Fetch full article via the configured parser
+        article_html, parser_tags = fetch_article(url, parser_name)
         if article_html:
             article_md = html_to_markdown(article_html)
             print(f"    📥 Fetched full article ({len(article_md)} chars)")
@@ -455,14 +714,23 @@ def sync_feed(
             article_md = html_to_markdown(raw_content)
             print(f"    ⚠ Using RSS excerpt as fallback ({len(article_md)} chars)")
 
-        # Extract category tags and clean them from the article body
-        categories, article_md = extract_categories_from_markdown(article_md)
+        # Tag extraction: combine parser-supplied tags (from page) and
+        # markdown-extracted tags (WordPress category breadcrumbs).
+        # Both can be empty; we de-duplicate while preserving order.
+        markdown_tags, article_md = extract_categories_from_markdown(article_md)
+        seen = set()
+        categories = []
+        for t in list(parser_tags) + list(markdown_tags):
+            key = t.strip().lower()
+            if key and key not in seen:
+                seen.add(key)
+                categories.append(t.strip())
         if categories:
             print(f"    🏷  Tags: {', '.join(categories)}")
 
         # Build note
         note_text = build_note(
-            entry, article_md, source_tag, clipped_ts, categories
+            entry, article_md, source_tag, parser_name, clipped_ts, categories
         )
 
         # Write to vault
@@ -472,6 +740,16 @@ def sync_feed(
         # Handle filename collision (unlikely but possible)
         if note_path.exists():
             note_path = vault_folder / f"{safe_name} (2).md"
+
+        # Download images locally if configured for this source
+        if should_download_assets(source_tag):
+            note_text = download_and_localize_images(
+                markdown=note_text,
+                article_title=safe_name,
+                source_tag=source_tag,
+                article_note_path=note_path,
+                dry_run=dry_run,
+            )
 
         vault_folder.mkdir(parents=True, exist_ok=True)
         note_path.write_text(note_text, encoding="utf-8")
