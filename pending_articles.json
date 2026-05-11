@@ -7040,7 +7040,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "khoros",
       "discovered": "2026-05-07T19:11:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-05-11T04:19:39+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/OneLake-catalog-is-now-natively-available-in-Foundry-Generally/ba-p/5178376",
