@@ -7864,7 +7864,17 @@
       "discovered": "2026-05-10T20:20:42+00:00",
       "status": "synced",
       "synced_at": "2026-05-11T04:27:26+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-brightin-star-7-5mm-f-2-8-vi-fisheye-lens/",
+      "title": "Just announced: New Brightin Star 7.5mm f/2.8 VI Fisheye Lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-11T08:48:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T09:19:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-10T20:20:42+00:00"
+  "last_checked": "2026-05-11T09:19:15+00:00"
 }
