@@ -7914,7 +7914,67 @@
       "parser": "default",
       "discovered": "2026-05-11T13:10:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Data-Warehouse-Monitor-A-Unified-Monitoring-Experience-for/ba-p/5180024",
+      "title": "Data Warehouse Monitor: A Unified Monitoring Experience for Fabric Data Warehouse (Preview)",
+      "author": "TwinkleCyril",
+      "published": "2026-05-11T16:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-11T17:00:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/reasons-to-wait-for-the-iphone-18-pro-max/",
+      "title": "11 Reasons to Wait for the iPhone 18 Pro",
+      "author": "Tim Hardwick",
+      "published": "2026-05-11T16:01:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T17:00:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/foldable-iphone-to-launch-in-just-two-colors/",
+      "title": "Foldable iPhone 'Ultra' Rumored to Launch in Just Two Colors",
+      "author": "Hartley Charlton",
+      "published": "2026-05-11T14:31:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T17:00:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-says-mac-is-best-choice-for-college/",
+      "title": "Apple Says Mac is 'Best Choice for College' in New Ad Aimed at Students",
+      "author": "Joe Rossignol",
+      "published": "2026-05-11T13:51:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T17:00:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/bh-new-low-prices-macbook-pro-macbook-air/",
+      "title": "B&H Introduces New Low Prices On 2026 MacBook Pro and MacBook Air",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-11T13:46:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T17:00:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/reddit-starts-blocking-mobile-website/",
+      "title": "Reddit Starts Blocking Mobile Website, Pushing Users to App Instead",
+      "author": "Tim Hardwick",
+      "published": "2026-05-11T13:09:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-11T17:00:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-11T13:10:15+00:00"
+  "last_checked": "2026-05-11T17:00:25+00:00"
 }
