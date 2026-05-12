@@ -8084,7 +8084,57 @@
       "parser": "default",
       "discovered": "2026-05-11T20:40:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-features/",
+      "title": "iOS 26.5 Features: Everything New in iOS 26.5",
+      "author": "Juli Clover",
+      "published": "2026-05-12T00:09:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T00:52:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/google-maps-carplay-gemini-ai/",
+      "title": "Google Maps for CarPlay Getting Gemini AI",
+      "author": "Juli Clover",
+      "published": "2026-05-11T23:23:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T00:52:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/apple-color-io-acquisition/",
+      "title": "Apple Bought Color Grading Tool Color.io in January",
+      "author": "Juli Clover",
+      "published": "2026-05-11T23:09:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T00:52:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/openai-launches-daybreak/",
+      "title": "OpenAI's New Daybreak Platform Uses GPT-5.5 to Find Software Vulnerabilities",
+      "author": "Juli Clover",
+      "published": "2026-05-11T22:08:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T00:52:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/",
+      "title": "EU iPhone Users Get AirPods-Like Pairing and Notification Forwarding for Third-Party Wearables in iOS 26.5",
+      "author": "Juli Clover",
+      "published": "2026-05-11T20:50:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T00:52:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-11T20:40:32+00:00"
+  "last_checked": "2026-05-12T00:52:52+00:00"
 }
