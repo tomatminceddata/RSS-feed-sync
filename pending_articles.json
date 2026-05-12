@@ -8254,7 +8254,77 @@
       "parser": "default",
       "discovered": "2026-05-12T16:49:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Optimize-your-storage-costs-with-OneLake-storage-tiers-and/ba-p/5179295",
+      "title": "Optimize your storage costs with OneLake storage tiers and lifecycle management (Preview)",
+      "author": "Mabasile_MSFT",
+      "published": "2026-05-12T17:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-12T20:38:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Configurable-Data-Retention-in-Microsoft-Fabric-Warehouse/ba-p/5181211",
+      "title": "Configurable Data Retention in Microsoft Fabric Warehouse (Preview)",
+      "author": "ajagadish",
+      "published": "2026-05-12T17:26:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-12T20:38:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/ios-27-siri-redesign/",
+      "title": "iOS 27 Getting Major Siri Redesign With Chat Interface and Dedicated App",
+      "author": "Juli Clover",
+      "published": "2026-05-12T20:38:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T20:38:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/ios-27-customizable-camera-app/",
+      "title": "iOS 27 to Bring Customizable Camera App, Tweaks to Weather, Safari and Liquid Glass",
+      "author": "Juli Clover",
+      "published": "2026-05-12T20:12:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T20:38:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/google-previews-android-17/",
+      "title": "Google Previews Android 17 With 'Gemini Intelligence' a Month Before Apple's iOS 27 Reveal",
+      "author": "Juli Clover",
+      "published": "2026-05-12T19:21:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T20:38:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/apple-health-features-more-countries/",
+      "title": "Apple Watch Hypertension Alerts and AirPods Hearing Aid Feature Expand to More Countries",
+      "author": "Juli Clover",
+      "published": "2026-05-12T17:53:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T20:38:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/m5-macbook-pro-hits-discount/",
+      "title": "M5 MacBook Pro Hits Record Low Price With Major $300 Discount at Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-12T17:16:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T20:38:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-12T16:49:42+00:00"
+  "last_checked": "2026-05-12T20:38:12+00:00"
 }
