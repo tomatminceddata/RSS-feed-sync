@@ -8134,7 +8134,17 @@
       "parser": "default",
       "discovered": "2026-05-12T00:52:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-leaked-sony-a7rvi-images/",
+      "title": "New leaked Sony A7rVI images!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-12T05:08:11+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T05:19:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-12T00:52:52+00:00"
+  "last_checked": "2026-05-12T05:19:25+00:00"
 }
