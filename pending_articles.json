@@ -8154,7 +8154,27 @@
       "parser": "default",
       "discovered": "2026-05-12T09:05:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-info-about-the-new-sony-a7rvi-battery/",
+      "title": "First info about the new Sony A7rVI battery: +15% capacity and more expensive",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-12T11:24:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T12:50:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/tap-to-pay-on-iphone-launches-in-south-africa/",
+      "title": "Tap to Pay on iPhone Launches in South Africa",
+      "author": "Hartley Charlton",
+      "published": "2026-05-12T11:15:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T12:50:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-12T09:05:30+00:00"
+  "last_checked": "2026-05-12T12:50:21+00:00"
 }
