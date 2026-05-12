@@ -8174,7 +8174,87 @@
       "parser": "default",
       "discovered": "2026-05-12T12:50:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-May-2026-Feature-Summary/ba-p/5180905",
+      "title": "Power BI May 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-05-12T16:20:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-12T16:49:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/poll-will-you-buy-the-new-sony-a7rvi/",
+      "title": "POLL: Will you buy the new Sony A7rVI ?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-12T15:00:12+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T16:49:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/bluey-taking-over-apple-arcade/",
+      "title": "Bluey is Taking Over Apple Arcade Next Week",
+      "author": "Joe Rossignol",
+      "published": "2026-05-12T16:02:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T16:49:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/stop-chrome-downloading-hidden-4gb-file/",
+      "title": "Stop Chrome Browser From Downloading a Hidden 4GB AI File",
+      "author": "Tim Hardwick",
+      "published": "2026-05-12T14:59:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T16:49:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/iphone-18-pro-aggressive-pricing-rumor/",
+      "title": "iPhone 18 Pro May Have 'Aggressive' Starting Price Despite RAM Crisis",
+      "author": "Joe Rossignol",
+      "published": "2026-05-12T14:54:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T16:49:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/apple-sales-coach-will-use-ai-generated-presenters/",
+      "title": "Apple Sales Coach Will Use AI-Generated Video Presenters",
+      "author": "Hartley Charlton",
+      "published": "2026-05-12T14:43:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T16:49:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/classic-apple-watch-bands-woot/",
+      "title": "Missed Out on Classic Apple Watch Bands? Woot's Latest Sale Revives Discontinued Colors at Steep Discounts",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-12T14:15:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T16:49:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/brighter-iphone-display-still-years-away/",
+      "title": "Much Brighter iPhone Display Still Years Away, Leaker Suggests",
+      "author": "Hartley Charlton",
+      "published": "2026-05-12T14:14:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-12T16:49:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-12T12:50:21+00:00"
+  "last_checked": "2026-05-12T16:49:42+00:00"
 }
