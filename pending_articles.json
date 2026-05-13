@@ -8354,7 +8354,17 @@
       "parser": "default",
       "discovered": "2026-05-13T00:57:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-leaked-image-of-the-sony-a7rvii-side-shows-it-has-dual-usb-c/",
+      "title": "New leaked image of the Sony A7rVII side shows it has dual USB-C",
+      "author": "Andreapazzo",
+      "published": "2026-05-13T04:41:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T05:23:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-13T00:57:19+00:00"
+  "last_checked": "2026-05-13T05:23:05+00:00"
 }
