@@ -8494,7 +8494,257 @@
       "parser": "default",
       "discovered": "2026-05-13T16:53:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Agent-Now-Supports-Eventhouse-Functions-Materialized-Views/ba-p/5181801",
+      "title": "Data Agent Now Supports Eventhouse Functions, Materialized Views, and Shortcuts (Preview)",
+      "author": "msft-shreyas",
+      "published": "2026-05-13T19:07:12+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Eventstream-can-now-publish-Business-Events-Preview/ba-p/5180050",
+      "title": "Fabric Eventstream can now publish Business Events (Preview)",
+      "author": "robece-msft",
+      "published": "2026-05-13T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Why-your-database-schema-belongs-in-Git/ba-p/5179521",
+      "title": "Why your database schema belongs in Git",
+      "author": "iqrashaikh",
+      "published": "2026-05-13T16:41:11+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Service-Principal-Support-for-Data-Agents-in-Fabric-Preview/ba-p/5181634",
+      "title": "Service Principal Support for Data Agents in Fabric (Preview)",
+      "author": "AmirJafari",
+      "published": "2026-05-13T18:45:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Optimize-your-storage-costs-with-OneLake-storage-tiers-and/ba-p/5179295",
+      "title": "Optimize your storage costs with OneLake storage tiers and lifecycle management (Preview)",
+      "author": "Mabasile_MSFT",
+      "published": "2026-05-12T17:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Configurable-Data-Retention-in-Microsoft-Fabric-Warehouse/ba-p/5181211",
+      "title": "Configurable Data Retention in Microsoft Fabric Warehouse (Preview)",
+      "author": "ajagadish",
+      "published": "2026-05-12T17:26:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Warehouse-Monitor-A-Unified-Monitoring-Experience-for/ba-p/5180024",
+      "title": "Data Warehouse Monitor: A Unified Monitoring Experience for Fabric Data Warehouse (Preview)",
+      "author": "TwinkleCyril",
+      "published": "2026-05-11T16:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/High-Concurrency-Support-for-the-Fabric-Livy-API-Scalable-Spark/ba-p/5178390",
+      "title": "High Concurrency Support for the Fabric Livy API— Scalable Spark Automation (Preview)",
+      "author": "avinandac",
+      "published": "2026-05-06T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-catalog-is-now-natively-available-in-Foundry-Generally/ba-p/5178376",
+      "title": "OneLake catalog is now natively available in Foundry (Generally Available)",
+      "author": "miquelladeboer",
+      "published": "2026-05-06T18:37:02+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-security-Generally-Available/ba-p/5176756",
+      "title": "OneLake security (Generally Available)",
+      "author": "aonelakeuser",
+      "published": "2026-05-06T21:29:33+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Direct-Lake-on-SQL-with-Fabric-Data-Warehouse/ba-p/5177641",
+      "title": "Direct Lake on SQL with Fabric Data Warehouse",
+      "author": "jbarry15",
+      "published": "2026-05-05T19:04:47+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-repetition-to-reuse-accelerate-data-prep-with-My-queries-in/ba-p/5176763",
+      "title": "From repetition to reuse: accelerate data prep with My queries in Dataflow Gen2",
+      "author": "miguel",
+      "published": "2026-05-05T19:06:28+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Schema-Changes-in-Fabric-Data-Warehouse-with-ALTER/ba-p/5177593",
+      "title": "Simplify Schema Changes in Fabric Data Warehouse with ALTER COLUMN (Preview)",
+      "author": "TwinkleCyril",
+      "published": "2026-05-05T19:08:11+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Providing-more-insights-amp-tools-Capacity-health-timepoint/ba-p/5176753",
+      "title": "Providing more insights & tools: Capacity health, timepoint summary, timepoint detail, chargeback now generally available",
+      "author": "pankajarora",
+      "published": "2026-05-05T20:00:59+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Pipelines-are-evolving-beyond-ETL/ba-p/5177527",
+      "title": "Pipelines are evolving beyond ETL",
+      "author": "conxu-ms",
+      "published": "2026-05-05T19:09:38+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Discover-items-across-workspaces-with-the-OneLake-Catalog-Search/ba-p/5176768",
+      "title": "Discover items across workspaces with the OneLake Catalog Search API, MCP and CLI tools (Preview)",
+      "author": "nschachter",
+      "published": "2026-05-05T19:10:44+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490",
+      "title": "Fabric April 2026 Feature Summary",
+      "author": "kamurray",
+      "published": "2026-05-12T22:19:20+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Monitor-your-Eventstreams-with-workspace-monitoring-Preview/ba-p/5161116",
+      "title": "Monitor your Eventstreams with workspace monitoring (Preview)",
+      "author": "anboisve",
+      "published": "2026-05-05T19:21:33+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-April-2026-release/ba-p/5171981",
+      "title": "On-premises data gateway April 2026 release",
+      "author": "lrtoyou1223",
+      "published": "2026-05-05T19:24:04+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-failure-notifications-from-the-monitoring-hub-in-Fabric/ba-p/5160381",
+      "title": "Manage failure notifications from the monitoring hub in Fabric (Preview)",
+      "author": "mibruhje",
+      "published": "2026-05-06T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/meta-ai-incognito-chat/",
+      "title": "Meta AI App Gets 'Incognito Chat' as OpenAI Faces Lawsuits Over Stored Chat Logs",
+      "author": "Juli Clover",
+      "published": "2026-05-13T20:23:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/samsung-ai-smart-glasses-july/",
+      "title": "Samsung Set to Beat Apple to AI Smart Glasses With July Launch",
+      "author": "Juli Clover",
+      "published": "2026-05-13T19:51:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/meta-instants-app/",
+      "title": "Meta Launches 'Instants' App for Sharing Disappearing Photos on Instagram",
+      "author": "Juli Clover",
+      "published": "2026-05-13T19:10:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/apple-ai-agent-apps-app-store/",
+      "title": "Apple Working on Plan to Allow AI Agent Apps on the App Store",
+      "author": "Juli Clover",
+      "published": "2026-05-13T18:02:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/macbook-neo-vs-lenovo-ideapad-slim-3x/",
+      "title": "New Study Highlights Advantages of $549 Windows Laptop Over MacBook Neo",
+      "author": "Joe Rossignol",
+      "published": "2026-05-13T17:38:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T20:38:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-13T16:53:28+00:00"
+  "last_checked": "2026-05-13T20:38:56+00:00"
 }
