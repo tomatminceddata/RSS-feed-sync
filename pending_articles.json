@@ -8364,7 +8364,27 @@
       "parser": "default",
       "discovered": "2026-05-13T05:23:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/is-the-16-28mm-f-2-0-going-to-be-announced-too/",
+      "title": "Is the 16-28mm f/2.0 going to be announced too?",
+      "author": "Andreapazzo",
+      "published": "2026-05-13T10:55:12+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T12:53:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/apple-files-stolen-foxconn-ransomware-attack/",
+      "title": "Apple Project Files Allegedly Stolen in Foxconn Ransomware Attack",
+      "author": "Tim Hardwick",
+      "published": "2026-05-13T10:18:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T12:53:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-13T05:23:05+00:00"
+  "last_checked": "2026-05-13T12:53:46+00:00"
 }
