@@ -8324,7 +8324,37 @@
       "parser": "default",
       "discovered": "2026-05-12T20:38:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/google-unveils-googlebook/",
+      "title": "Google Unveils Googlebook, a New AI Laptop Built Around Gemini",
+      "author": "Juli Clover",
+      "published": "2026-05-13T00:00:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T00:57:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/bartender-pro/",
+      "title": "Bartender Pro Brings Widgets, Clipboard, and File Storage to the MacBook Notch",
+      "author": "Juli Clover",
+      "published": "2026-05-12T23:24:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T00:57:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/12/google-quick-share-android/",
+      "title": "Google Makes It Easier to Share Files Between Android and iPhone",
+      "author": "Juli Clover",
+      "published": "2026-05-12T20:56:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T00:57:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-12T20:38:12+00:00"
+  "last_checked": "2026-05-13T00:57:19+00:00"
 }
