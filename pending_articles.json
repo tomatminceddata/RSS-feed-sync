@@ -8384,7 +8384,117 @@
       "parser": "default",
       "discovered": "2026-05-13T12:53:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Why-your-database-schema-belongs-in-Git/ba-p/5179521",
+      "title": "Why your database schema belongs in Git",
+      "author": "iqrashaikh",
+      "published": "2026-05-13T16:41:11+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blogs/Service-Principal-Support-for-Data-Agents-in-Fabric-Preview/ba-p/5181634",
+      "title": "Service Principal Support for Data Agents in Fabric (Preview)",
+      "author": "AmirJafari",
+      "published": "2026-05-13T16:06:48+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7rvi-officially-announced-preorders-now-open/",
+      "title": "Sony A7rVI officially announced…preorders now open!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-13T14:08:05+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/press-text-sony-electronics-accelerates-high-resolution-photography-with-the-alpha-7r-vi/",
+      "title": "Press text: Sony Electronics Accelerates High-Resolution Photography with the Alpha 7R VI",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-13T13:53:02+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/press-text-sony-electronics-unveils-the-fe-100-400mm-f4-5-gm-oss-g-master/",
+      "title": "Press text: Sony Electronics Unveils the FE 100-400mm F4.5 GM OSS G Master™",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-13T13:34:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/now-live-sony-a7rvi-announcement/",
+      "title": "Now live: Sony A7rVI announcement!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-13T13:01:15+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/apple-defends-google-against-eu-proposal/",
+      "title": "Apple Defends Google Against EU Proposal to Give AI Rivals Access to Services",
+      "author": "Hartley Charlton",
+      "published": "2026-05-13T16:08:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/notepad-plus-plus-mac-nextpad-dispute-settlement/",
+      "title": "Notepad++ Mac Port Renamed Nextpad++ After Trademark Row",
+      "author": "Tim Hardwick",
+      "published": "2026-05-13T15:37:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/ankers-new-prime-charging-deals/",
+      "title": "Anker's New Prime Charging Station Returns to Low Price on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-13T14:17:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/few-users-care-about-foldables-or-ai/",
+      "title": "Few Smartphone Owners Care About Foldables or AI, Survey Suggests",
+      "author": "Hartley Charlton",
+      "published": "2026-05-13T14:04:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/13/you-might-want-to-wait-to-buy-a-new-iphone/",
+      "title": "You Might Want to Wait to Buy a New iPhone",
+      "author": "Joe Rossignol",
+      "published": "2026-05-13T13:37:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-13T16:53:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-13T12:53:46+00:00"
+  "last_checked": "2026-05-13T16:53:28+00:00"
 }
