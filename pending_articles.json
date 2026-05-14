@@ -8915,7 +8915,47 @@
       "parser": "default",
       "discovered": "2026-05-14T12:46:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/is-the-sony-a7rvi-a-sony-a1ii-killer-nope-but-most-people-will-now-buy-the-a7rvi-instead-of-the-a1ii/",
+      "title": "Is the Sony A7rVI a Sony A1II killer? Nope…but most people will now buy the A7rVI instead of the A1II",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-14T12:48:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T16:46:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/macos-security-vulnerability-found-with-ai/",
+      "title": "Apple Alerted to macOS Security Vulnerability Uncovered With AI Tool",
+      "author": "Joe Rossignol",
+      "published": "2026-05-14T16:04:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T16:46:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/spotify-to-adopt-apples-tech-for-video-podcasts/",
+      "title": "Spotify to Adopt Apple's Technology for Video Podcasts",
+      "author": "Hartley Charlton",
+      "published": "2026-05-14T16:02:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T16:46:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/m5-macbook-pro-1499/",
+      "title": "Get the M5 MacBook Pro for Record Low Price of $1,499.99 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-14T14:00:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T16:46:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-14T12:46:08+00:00"
+  "last_checked": "2026-05-14T16:46:11+00:00"
 }
