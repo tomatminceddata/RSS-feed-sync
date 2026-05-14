@@ -8764,7 +8764,17 @@
       "parser": "default",
       "discovered": "2026-05-14T00:58:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/better-late-than-never-sony-a7rvi-now-on-preorder-at-amazon-us-too/",
+      "title": "Better late than never: the Sony A7rVI is now available for preorder at Amazon US too.",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-14T03:40:14+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T05:22:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-14T00:58:43+00:00"
+  "last_checked": "2026-05-14T05:22:56+00:00"
 }
