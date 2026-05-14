@@ -8885,7 +8885,37 @@
       "discovered": "2026-05-14T09:04:17+00:00",
       "status": "synced",
       "synced_at": "2026-05-14T11:25:09+00:00"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/2027-curved-display-iphone-two-stage-rollout/",
+      "title": "20th Anniversary iPhone's Curved Display to Improve a Year Later",
+      "author": "Tim Hardwick",
+      "published": "2026-05-14T12:25:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T12:46:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/oled-ipad-mini-release-date-pricing-what-expect/",
+      "title": "OLED iPad Mini: Release Date, Pricing, and What to Expect",
+      "author": "Tim Hardwick",
+      "published": "2026-05-14T12:09:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T12:46:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/apple-f1-ambitions-hit-wall-sky-european-rights/",
+      "title": "Apple's F1 Streaming Ambitions Hit Wall as Sky Renews European Rights",
+      "author": "Tim Hardwick",
+      "published": "2026-05-14T11:29:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T12:46:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-14T09:04:17+00:00"
+  "last_checked": "2026-05-14T12:46:08+00:00"
 }
