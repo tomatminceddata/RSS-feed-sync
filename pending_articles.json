@@ -8774,7 +8774,17 @@
       "parser": "default",
       "discovered": "2026-05-14T05:22:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-alpha-7r-vi-shipping-out-end-of-may-in-europe-with-discounts-on-bundles/",
+      "title": "Sony Alpha 7R VI shipping out End of May in Europe with discounts on bundles!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-14T07:33:12+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T09:04:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-14T05:22:56+00:00"
+  "last_checked": "2026-05-14T09:04:17+00:00"
 }
