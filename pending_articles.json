@@ -8955,7 +8955,37 @@
       "parser": "default",
       "discovered": "2026-05-14T16:46:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/kuo-intel-iphone-ipad-mac-chips/",
+      "title": "Report: Intel is Testing Production of Some iPhone, iPad, and Mac Chips",
+      "author": "Joe Rossignol",
+      "published": "2026-05-14T18:48:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T20:36:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/nimble-wally-stretch/",
+      "title": "Nimble Wally Stretch Review: A Colorful Charger With a Retractable USB-C Cable",
+      "author": "Juli Clover",
+      "published": "2026-05-14T18:47:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T20:36:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/openai-considering-legal-action-against-apple/",
+      "title": "OpenAI Considering Legal Action Against Apple Over 'Strained' Siri Partnership",
+      "author": "Joe Rossignol",
+      "published": "2026-05-14T17:52:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-14T20:36:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-14T16:46:11+00:00"
+  "last_checked": "2026-05-14T20:36:03+00:00"
 }
