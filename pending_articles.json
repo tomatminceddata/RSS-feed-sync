@@ -9015,7 +9015,17 @@
       "parser": "default",
       "discovered": "2026-05-15T00:55:58+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-images-of-three-new-laowa-lenses-including-their-first-autofocus-zoom/",
+      "title": "First images of three new Laowa lenses including their first autofocus zoom!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-15T06:46:11+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T09:12:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-15T00:55:58+00:00"
+  "last_checked": "2026-05-15T09:12:35+00:00"
 }
