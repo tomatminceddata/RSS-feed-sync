@@ -8985,7 +8985,37 @@
       "parser": "default",
       "discovered": "2026-05-14T20:36:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-authorization-for-API-for-GraphQL-in-Microsoft-Fabric/ba-p/5182352",
+      "title": "Custom authorization for API for GraphQL in Microsoft Fabric (Preview)",
+      "author": "mk_sunitha",
+      "published": "2026-05-14T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-15T00:55:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/iphone-18-pro-modem-benefits/",
+      "title": "Apple's iPhone 18 Modem Switch Comes With a Quiet Privacy Benefit",
+      "author": "Juli Clover",
+      "published": "2026-05-14T20:16:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T00:55:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/14/low-cost-ipad-dont-buy/",
+      "title": "It's a Bad Time to Buy the Low-Cost iPad",
+      "author": "Juli Clover",
+      "published": "2026-05-14T20:15:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T00:55:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-14T20:36:03+00:00"
+  "last_checked": "2026-05-15T00:55:58+00:00"
 }
