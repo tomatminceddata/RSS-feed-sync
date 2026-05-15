@@ -9125,7 +9125,57 @@
       "parser": "default",
       "discovered": "2026-05-15T16:40:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/cats-lock-mac-app/",
+      "title": "Cats Lock for Mac Stops Your Cat From Causing Keyboard Havoc",
+      "author": "Juli Clover",
+      "published": "2026-05-15T20:29:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T20:30:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/best-apple-deals-of-the-week-5-15-26/",
+      "title": "Best Apple Deals of the Week: Anker Accessories on Sale Plus AirPods Max 2 for $509 and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-15T17:20:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T20:30:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/chatgpt-personal-finance/",
+      "title": "ChatGPT Can Now Connect to Your Financial Accounts for Budgeting Advice",
+      "author": "Juli Clover",
+      "published": "2026-05-15T17:13:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T20:30:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/ivanky-fusiondock-ultra/",
+      "title": "Review: iVANKY's FusionDock Ultra is a Premium 26-Port Thunderbolt 5 Dock for Your Mac",
+      "author": "Eric Slivka",
+      "published": "2026-05-15T17:05:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T20:30:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/macrumors-giveaway-lululook-apple-watch-ultra-3/",
+      "title": "MacRumors Giveaway: Win an Apple Watch Ultra 3 and 25W 3-in-1 Charging Station From Lululook",
+      "author": "Juli Clover",
+      "published": "2026-05-15T16:51:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T20:30:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-15T16:40:53+00:00"
+  "last_checked": "2026-05-15T20:30:46+00:00"
 }
