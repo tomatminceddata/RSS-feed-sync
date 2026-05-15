@@ -9065,7 +9065,67 @@
       "parser": "default",
       "discovered": "2026-05-15T12:45:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/cined-tested-the-sony-a7rvi-highest-dr-ever-tested-with-a-caveat-and-promising-prospects-for-the-a7siv/",
+      "title": "CineD tested the Sony A7rVI:  Highest DR ever tested (with a caveat) and promising prospects for the A7sIV  :)",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-15T14:49:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T16:40:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/apple-card-promo-free-airpods-pro-3/",
+      "title": "Apple Card Promo to Offer Free AirPods Pro 3",
+      "author": "Joe Rossignol",
+      "published": "2026-05-15T15:59:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T16:40:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/iphone-17-pro-named-fastest-charging-smartphone/",
+      "title": "iPhone 17 Pro Named Fastest-Charging Smartphone",
+      "author": "Hartley Charlton",
+      "published": "2026-05-15T15:49:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T16:40:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/the-macrumors-show-gemini-announcements/",
+      "title": "The MacRumors Show: Gemini Announcements and Apple Watch Series 12 Rumors",
+      "author": "Hartley Charlton",
+      "published": "2026-05-15T14:30:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T16:40:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/2026-16-inch-macbook-pro-at-249-off/",
+      "title": "Amazon Discounts 2026 16-Inch MacBook Pro by $249 Across All Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-15T14:16:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T16:40:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/apple-slashes-iphone-17-prices-china/",
+      "title": "Apple Slashes iPhone 17 Prices in China for Annual 618 Festival",
+      "author": "Tim Hardwick",
+      "published": "2026-05-15T13:58:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T16:40:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-15T12:45:51+00:00"
+  "last_checked": "2026-05-15T16:40:53+00:00"
 }
