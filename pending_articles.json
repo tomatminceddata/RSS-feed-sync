@@ -9025,7 +9025,47 @@
       "parser": "default",
       "discovered": "2026-05-15T09:12:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-thypoch-voyager-24-50mm-f-2-8-fe-lens/",
+      "title": "Just announced: new Thypoch Voyager 24-50mm f/2.8 FE lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-15T12:13:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T12:45:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/more-sony-a7rvi-youtube-reviews/",
+      "title": "More Sony A7rVI youtube reviews",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-15T09:31:47+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T12:45:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/apple-watch-15-tips-need-to-know/",
+      "title": "Apple Watch: 15 Tips Every Owner Needs to Know",
+      "author": "Tim Hardwick",
+      "published": "2026-05-15T11:07:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T12:45:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/15/openai-brings-codex-chatgpt-mobile-app/",
+      "title": "OpenAI brings Codex Remote Access to ChatGPT Mobile App",
+      "author": "Tim Hardwick",
+      "published": "2026-05-15T10:43:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-15T12:45:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-15T09:12:35+00:00"
+  "last_checked": "2026-05-15T12:45:51+00:00"
 }
