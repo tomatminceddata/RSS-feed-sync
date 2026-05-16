@@ -9205,7 +9205,37 @@
       "parser": "default",
       "discovered": "2026-05-16T08:40:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/all-images-of-the-upcoming-new-viltrox-lenses/",
+      "title": "All images of the upcoming new Viltrox lenses!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-16T14:42:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-16T16:24:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/16/top-stories-iphone-18-pro-rumors/",
+      "title": "Top Stories: iPhone 18 Pro Rumors, iOS 26.5 Released, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-05-15T18:01:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-16T16:24:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/16/best-apple-deals-of-the-week-5-15-26/",
+      "title": "Best Apple Deals of the Week: Anker Accessories on Sale Plus AirPods Max 2 for $509 and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-15T17:20:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-16T16:24:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-16T08:40:18+00:00"
+  "last_checked": "2026-05-16T16:24:14+00:00"
 }
