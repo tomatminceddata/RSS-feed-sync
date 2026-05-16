@@ -9195,7 +9195,17 @@
       "parser": "default",
       "discovered": "2026-05-16T00:52:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/here-are-the-new-sg-image-lenses-displayed-at-the-beijing-photo-show/",
+      "title": "Here are the new SG-image lenses displayed at the Beijing Photo show!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-16T07:20:25+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-16T08:40:18+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-16T00:52:54+00:00"
+  "last_checked": "2026-05-16T08:40:18+00:00"
 }
