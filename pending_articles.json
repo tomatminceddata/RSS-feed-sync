@@ -9255,7 +9255,17 @@
       "parser": "default",
       "discovered": "2026-05-17T12:27:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/17/109-off-new-m4-ipad-air/",
+      "title": "Amazon Offers Up to $109 Off New M4 iPad Air Models This Weekend",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-17T14:20:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-17T16:25:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-17T12:27:56+00:00"
+  "last_checked": "2026-05-17T16:25:47+00:00"
 }
