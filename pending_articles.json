@@ -9235,7 +9235,17 @@
       "parser": "default",
       "discovered": "2026-05-16T16:24:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-indonesia-posted-this-new-teaser-for-an-alpha-event-in-late-june/",
+      "title": "Sony Indonesia posted this new “teaser” for an Alpha event in late June",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-17T06:36:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-17T08:48:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-16T16:24:14+00:00"
+  "last_checked": "2026-05-17T08:48:34+00:00"
 }
