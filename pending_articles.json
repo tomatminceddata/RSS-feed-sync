@@ -9245,7 +9245,17 @@
       "parser": "default",
       "discovered": "2026-05-17T08:48:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-viltrox-23mm-f-3-5-pancake-is-coming-soon/",
+      "title": "New Ttartisan 23mm f/3.5 pancake is coming soon",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-17T09:45:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-17T12:27:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-17T08:48:34+00:00"
+  "last_checked": "2026-05-17T12:27:56+00:00"
 }
