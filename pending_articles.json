@@ -9265,7 +9265,67 @@
       "parser": "default",
       "discovered": "2026-05-17T16:25:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-and-tsmc-announced-plans-to-create-next-generation-image-sensors/",
+      "title": "Sony and TSMC announced plans to create next-generation image sensors!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-18T12:24:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T13:25:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/more-100-400mm-gm-lens-reviews/",
+      "title": "More 100-400mm GM lens reviews",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-18T10:31:08+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T13:25:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/images-of-two-new-ttartisan-af-e-mount-primes/",
+      "title": "Images of two new TTartisan AF E-mount primes",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-18T09:27:02+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T13:25:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/airtag-4-pack-below-50/",
+      "title": "First Gen AirTag 4-Pack Drops Below $50 for the First Time Ever",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-18T12:28:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T13:25:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/suggested-genmoji-ios-27-apple/",
+      "title": "'Suggested Genmoji' Are Coming to an iPhone Near You",
+      "author": "Tim Hardwick",
+      "published": "2026-05-18T11:51:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T13:25:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/ios-27-siri-app-auto-deleting-chats-feature/",
+      "title": "iOS 27: Dedicated Siri App to Include Auto-Deleting Chats Feature",
+      "author": "Tim Hardwick",
+      "published": "2026-05-18T11:00:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T13:25:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-17T16:25:47+00:00"
+  "last_checked": "2026-05-18T13:25:12+00:00"
 }
