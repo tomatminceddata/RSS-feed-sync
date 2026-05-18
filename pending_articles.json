@@ -9405,7 +9405,67 @@
       "parser": "default",
       "discovered": "2026-05-18T17:03:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Why-Fabric-Data-Warehouse-is-the-Modernization-Path-for-Synapse/ba-p/5178874",
+      "title": "Why Fabric Data Warehouse is the Modernization Path for Synapse Dedicated SQL Pool Customers",
+      "author": "msjohnphoang",
+      "published": "2026-05-18T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-18T20:37:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7rvi-tops-the-bh-best-seller-chart/",
+      "title": "Sony A7rVI Tops the B&H Best Seller Chart",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-18T18:35:39+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T20:37:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/apple-design-award-finalists-2026/",
+      "title": "Apple Design Award Finalists Announced Ahead of WWDC 2026",
+      "author": "Juli Clover",
+      "published": "2026-05-18T19:38:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T20:37:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/ios-27-ai-wallpaper-shortcuts/",
+      "title": "iOS 27 to Let Users Generate Wallpapers and Build Shortcuts With AI",
+      "author": "Juli Clover",
+      "published": "2026-05-18T18:13:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T20:37:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/wwdc-2026-schedule-invites/",
+      "title": "Apple Announces WWDC 2026 Schedule, Sends Media Invites",
+      "author": "Juli Clover",
+      "published": "2026-05-18T18:03:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T20:37:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/ios-27-writing-tools-grammar-checker/",
+      "title": "Apple Expanding AI Writing Tools With Grammar Checker in iOS 27",
+      "author": "Juli Clover",
+      "published": "2026-05-18T17:53:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T20:37:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-18T17:03:45+00:00"
+  "last_checked": "2026-05-18T20:37:05+00:00"
 }
