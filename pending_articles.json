@@ -9325,7 +9325,87 @@
       "parser": "default",
       "discovered": "2026-05-18T13:25:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/The-new-Copilot-tooling-format-Preview/ba-p/5183129",
+      "title": "The new Copilot tooling format (Preview)",
+      "author": "Sharlkaur",
+      "published": "2026-05-18T17:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-18T17:03:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/ilce-7m5-system-software-firmware-update-ver-2-00/",
+      "title": "ILCE-7M5 System Software (Firmware) Update Ver. 2.00",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-18T15:05:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T17:03:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/apple-watch-ultra-4-redesign-and-blood-pressure/",
+      "title": "Apple Watch Ultra 4 Could Get Redesign and Blood Pressure Monitoring",
+      "author": "Hartley Charlton",
+      "published": "2026-05-18T16:08:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T17:03:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/apple-card-holders-can-now-get-free-airpods-pro/",
+      "title": "New Apple Card Holders Can Get Free AirPods Pro 3, But There's a Catch",
+      "author": "Hartley Charlton",
+      "published": "2026-05-18T15:11:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T17:03:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/amazon-ankers-prime-chargers-3/",
+      "title": "Anker's Newest Prime Chargers Hit Their Lowest-Ever Prices on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-18T14:45:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T17:03:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/foldable-iphone-production-stalls/",
+      "title": "Foldable iPhone Production Stalls Amid Hinge Issues",
+      "author": "Hartley Charlton",
+      "published": "2026-05-18T14:29:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T17:03:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/amc-premium-for-29-99/",
+      "title": "AMC+ Premium for $29.99: Stream Shudder, BBC America, and More for a Year",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-18T14:08:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T17:03:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/18/sony-10th-anniversary-collexion-headphones-leaked/",
+      "title": "Sony's 10th Anniversary 'Collexion' Over-Ear Headphones Leaked",
+      "author": "Tim Hardwick",
+      "published": "2026-05-18T13:32:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-18T17:03:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-18T13:25:12+00:00"
+  "last_checked": "2026-05-18T17:03:45+00:00"
 }
