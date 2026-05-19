@@ -9465,7 +9465,17 @@
       "parser": "default",
       "discovered": "2026-05-18T20:37:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Resource-Profiles-in-Microsoft-Fabric-Data-Engineering-Preview/ba-p/5182862",
+      "title": "Resource Profiles in Microsoft Fabric Data Engineering (Preview)",
+      "author": "Santhosh_Ravin1",
+      "published": "2026-05-18T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-19T01:00:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-18T20:37:05+00:00"
+  "last_checked": "2026-05-19T01:00:35+00:00"
 }
