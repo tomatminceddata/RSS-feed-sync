@@ -9485,7 +9485,67 @@
       "parser": "default",
       "discovered": "2026-05-19T09:19:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/yongnuo-announced-two-new-f-1-4-ff-primes-and-says-f-1-2-fast-lenses-are-coming-later-this-year/",
+      "title": "Yongnuo announced two new f/1.4 FF primes and says f/1.2 fast lenses are coming later this year!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-19T12:33:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-19T13:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/19/fortnite-returns-to-app-store-worldwide/",
+      "title": "Fortnite Returns to the App Store Worldwide as Epic Signals 'Final Battle' With Apple",
+      "author": "Hartley Charlton",
+      "published": "2026-05-19T13:08:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-19T13:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/19/new-accessibility-features-with-apple-intelligence/",
+      "title": "Apple Previews New Accessibility Features Powered by Apple Intelligence",
+      "author": "Hartley Charlton",
+      "published": "2026-05-19T12:26:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-19T13:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/19/india-refuses-to-let-apple-pause-app-store-case/",
+      "title": "India Refuses to Let Apple Pause App Store Antitrust Case",
+      "author": "Hartley Charlton",
+      "published": "2026-05-19T11:49:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-19T13:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/19/apple-liquid-metal-future-iphone-frames/",
+      "title": "Apple Still Developing Liquid Metal for Future iPhone Pro Frames",
+      "author": "Tim Hardwick",
+      "published": "2026-05-19T11:13:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-19T13:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/19/foldable-ipad-crease-free-design-iphone-ultra/",
+      "title": "Foldable iPad Said to Share Hinge Design With Upcoming iPhone Ultra",
+      "author": "Tim Hardwick",
+      "published": "2026-05-19T09:38:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-19T13:17:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-19T09:19:03+00:00"
+  "last_checked": "2026-05-19T13:17:25+00:00"
 }
