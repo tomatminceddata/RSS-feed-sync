@@ -9475,7 +9475,17 @@
       "parser": "wordpress",
       "discovered": "2026-05-19T01:00:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/coming-soon-new-brightin-star-12mm-f-2-8-fe-lens/",
+      "title": "Coming soon: New Brightin Star 12mm f/2.8 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-19T08:21:37+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-19T09:19:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-19T01:00:35+00:00"
+  "last_checked": "2026-05-19T09:19:03+00:00"
 }
