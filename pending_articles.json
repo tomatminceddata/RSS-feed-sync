@@ -9785,7 +9785,107 @@
       "parser": "default",
       "discovered": "2026-05-20T13:02:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Notebook-export-controls-in-Microsoft-Fabric/ba-p/5183984",
+      "title": "Notebook export controls in Microsoft Fabric",
+      "author": "Santhosh_Ravin1",
+      "published": "2026-05-20T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connection-string-changes-in-Fabric-Warehouse-What-to-expect-for/ba-p/5185022",
+      "title": "Connection string changes in Fabric Warehouse: What to expect for auditing (Generally Available)",
+      "author": "pradeepsvs",
+      "published": "2026-05-20T16:31:36+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Share-Copilot-exploration-insights-in-Real-Time-Dashboards/ba-p/5184081",
+      "title": "Share Copilot exploration insights in Real-Time Dashboards (Preview)",
+      "author": "MichalBar",
+      "published": "2026-05-20T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-May-2026-Feature-Summary/ba-p/5182174",
+      "title": "Power BI May 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-05-20T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/20/ios-27-automatic-captions-for-personal-videos/",
+      "title": "Apple Says iOS 27 Can Automatically Add Captions to Your Personal iPhone Videos",
+      "author": "Joe Rossignol",
+      "published": "2026-05-20T16:40:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/20/samsung-overtakes-apple-for-customer-satisfaction/",
+      "title": "Samsung Overtakes Apple for Top Smartphone Customer Satisfaction",
+      "author": "Hartley Charlton",
+      "published": "2026-05-20T15:45:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/20/apple-shares-app-store-safety-stats/",
+      "title": "Apple Provides Update on App Store, Highlights Key 2025 Safety Stats",
+      "author": "Joe Rossignol",
+      "published": "2026-05-20T15:12:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/20/ugreen-65w-charger-macbook-air/",
+      "title": "Ugreen Debuts Pocket-Sized Chargers for Your Apple Devices",
+      "author": "Tim Hardwick",
+      "published": "2026-05-20T14:03:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/20/eddy-cue-entertainment-person-of-the-year/",
+      "title": "Apple's Eddy Cue to Receive 'Entertainment Person of the Year' Award",
+      "author": "Hartley Charlton",
+      "published": "2026-05-20T13:57:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/20/150-off-m5-macbook-air/",
+      "title": "Amazon Takes $150 Off Every 15-Inch M5 MacBook Air",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-20T13:39:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T17:11:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-20T13:02:59+00:00"
+  "last_checked": "2026-05-20T17:11:19+00:00"
 }
