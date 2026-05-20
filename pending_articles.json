@@ -9685,7 +9685,47 @@
       "parser": "default",
       "discovered": "2026-05-19T20:40:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Create-support-tickets-from-within-Microsoft-Fabric-Generally/ba-p/5183100",
+      "title": "Create support tickets from within Microsoft Fabric (Generally Available)",
+      "author": "royr",
+      "published": "2026-05-19T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-20T01:02:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/19/lifetime-plex-pass-price-increase/",
+      "title": "Plex Tripling Lifetime Plex Pass Price to $750 in July",
+      "author": "Juli Clover",
+      "published": "2026-05-19T22:53:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T01:02:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/19/google-ai-smart-glasses-iphone-support/",
+      "title": "Google's First AI Smart Glasses Launching This Fall With iPhone Support",
+      "author": "Juli Clover",
+      "published": "2026-05-19T21:34:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T01:02:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/19/apple-acquires-animato/",
+      "title": "Apple Taps Virtual Avatar Firm Animato's Expertise and Intellectual Property",
+      "author": "Tim Hardwick",
+      "published": "2026-05-19T16:07:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T01:02:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-19T20:40:07+00:00"
+  "last_checked": "2026-05-20T01:02:25+00:00"
 }
