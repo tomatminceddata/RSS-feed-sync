@@ -9885,7 +9885,37 @@
       "parser": "default",
       "discovered": "2026-05-20T17:11:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Understand-your-storage-with-OneLake-item-size-reporting-Preview/ba-p/5183716",
+      "title": "Understand your storage with OneLake item-size reporting (Preview)",
+      "author": "Mabasile_MSFT",
+      "published": "2026-05-20T17:19:32+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-20T20:48:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/New-Power-Query-experience-in-Power-BI-Desktop-Preview/ba-p/5181129",
+      "title": "New Power Query experience in Power BI Desktop (Preview)",
+      "author": "miguel",
+      "published": "2026-05-20T17:30:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-20T20:48:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/20/ios-27-ai-voice-control-hints-at-siri-revamp/",
+      "title": "iOS 27's New AI Voice Control Feature Hints at Major Siri Upgrade Coming Soon",
+      "author": "Joe Rossignol",
+      "published": "2026-05-20T19:20:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-20T20:48:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-20T17:11:19+00:00"
+  "last_checked": "2026-05-20T20:48:43+00:00"
 }
