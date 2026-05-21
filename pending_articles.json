@@ -9995,7 +9995,37 @@
       "parser": "default",
       "discovered": "2026-05-21T16:59:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/New-metadata-sync-and-more-in-SQL-Analytics-Endpoint-Preview/ba-p/5183137",
+      "title": "New metadata sync and more in SQL Analytics Endpoint (Preview)",
+      "author": "rakrish75",
+      "published": "2026-05-21T19:03:58+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-21T20:41:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Tenant-Migration-Trade-offs-risks-and-realities/ba-p/5187013",
+      "title": "Power BI Tenant Migration: Trade-offs, risks, and realities",
+      "author": "WinnieLi",
+      "published": "2026-05-21T19:01:58+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-21T20:41:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-memorial-day-savings-at-bh-amazon-adorama/",
+      "title": "New Memorial Day Savings at BH, Amazon, Adorama",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-21T18:25:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-21T20:41:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-21T16:59:32+00:00"
+  "last_checked": "2026-05-21T20:41:09+00:00"
 }
