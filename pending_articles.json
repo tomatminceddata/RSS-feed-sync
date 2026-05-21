@@ -9935,7 +9935,27 @@
       "parser": "default",
       "discovered": "2026-05-21T09:16:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/21/iphone-19-pro-prototype-quad-curved-display/",
+      "title": "iPhone 19 Pro Prototype in Testing Allegedly Has Quad-Curved Display",
+      "author": "Tim Hardwick",
+      "published": "2026-05-21T12:35:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-21T13:17:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/21/apple-watch-sleep-apnea-alerts-india/",
+      "title": "Apple Debuts Sleep Apnea Alerts and Hearing Test Features in India",
+      "author": "Tim Hardwick",
+      "published": "2026-05-21T11:54:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-21T13:17:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-21T09:16:34+00:00"
+  "last_checked": "2026-05-21T13:17:55+00:00"
 }
