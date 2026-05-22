@@ -10195,7 +10195,47 @@
       "parser": "default",
       "discovered": "2026-05-22T16:50:16+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/22/google-search-monopoly-appeal/",
+      "title": "Google Appeals Antitrust Ruling, Says Apple Chose Its Search Engine 'Fair and Square'",
+      "author": "Juli Clover",
+      "published": "2026-05-22T20:23:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-22T20:37:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/aqara-camera-hub-g350/",
+      "title": "Aqara Camera Hub G350 Review: 4K Recording, Dual Lenses, Pan-and-Tilt Tracking, and AI Subject Detection",
+      "author": "Juli Clover",
+      "published": "2026-05-22T20:07:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-22T20:37:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/22/google-search-disregard/",
+      "title": "Searching for 'Disregard' Breaks Google",
+      "author": "Juli Clover",
+      "published": "2026-05-22T18:17:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-22T20:37:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/22/macrumors-giveaway-iphone-17-digiarty-videoproc/",
+      "title": "MacRumors Giveaway: Win an iPhone 17 and a Lifetime Copy of VideoProc Converter AI",
+      "author": "Juli Clover",
+      "published": "2026-05-22T17:02:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-22T20:37:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-22T16:50:16+00:00"
+  "last_checked": "2026-05-22T20:37:25+00:00"
 }
