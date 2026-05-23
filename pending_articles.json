@@ -10255,7 +10255,17 @@
       "parser": "default",
       "discovered": "2026-05-23T16:25:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-brightin-star-12mm-f-2-8-fe-autofocus-lens/",
+      "title": "Just announced: New Brightin Star 12mm f/2.8 FE autofocus lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-23T18:17:09+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-23T20:21:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-23T16:25:52+00:00"
+  "last_checked": "2026-05-23T20:21:59+00:00"
 }
