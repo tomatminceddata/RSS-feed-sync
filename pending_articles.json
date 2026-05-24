@@ -10275,7 +10275,27 @@
       "parser": "default",
       "discovered": "2026-05-24T01:01:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/thypoch-voyager-24-50mm-f-2-8-fe-review-by-philip-reeve-i-surely-didnt-see-this-coming/",
+      "title": "Thypoch Voyager 24-50mm f/2.8 FE review by Philip Reeve: “I surely didn’t see this coming”",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-24T11:43:41+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-24T12:31:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/24/anker-3-in-1-prime-104/",
+      "title": "Anker 3-in-1 Prime Wireless Charging Station Drops to $104.99 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-24T12:28:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-24T12:31:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-24T01:01:32+00:00"
+  "last_checked": "2026-05-24T12:31:46+00:00"
 }
