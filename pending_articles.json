@@ -10265,7 +10265,17 @@
       "parser": "default",
       "discovered": "2026-05-23T20:21:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/23/apple-gen-ai-subdomain/",
+      "title": "Apple Preparing New 'Gen AI' Website Ahead of WWDC",
+      "author": "Joe Rossignol",
+      "published": "2026-05-23T21:41:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-24T01:01:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-23T20:21:59+00:00"
+  "last_checked": "2026-05-24T01:01:32+00:00"
 }
