@@ -10295,7 +10295,27 @@
       "parser": "default",
       "discovered": "2026-05-24T12:31:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/24/new-ios-27-details-ahead-of-wwdc/",
+      "title": "New iOS 27 Rumors Include Revamped AirPods Settings Menu and More",
+      "author": "Joe Rossignol",
+      "published": "2026-05-24T20:02:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-24T20:25:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/24/watchos-27-rumored-features/",
+      "title": "watchOS 27 Will Add These New Features to Your Apple Watch",
+      "author": "Joe Rossignol",
+      "published": "2026-05-24T18:53:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-24T20:25:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-24T12:31:46+00:00"
+  "last_checked": "2026-05-24T20:25:22+00:00"
 }
