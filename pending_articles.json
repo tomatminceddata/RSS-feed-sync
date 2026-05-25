@@ -10315,7 +10315,37 @@
       "parser": "default",
       "discovered": "2026-05-24T20:25:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-japans-best-seller-list-sony-a7cii-still-selling-hot/",
+      "title": "New Japans Best Seller list: Sony A7cII still selling hot",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-25T09:23:05+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-25T09:29:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1907/",
+      "title": "Sony Tidbits…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-25T06:39:16+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-25T09:29:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/25/macbook-ultra-rumored-features-justify-the-name/",
+      "title": "MacBook Ultra: 5 Features That Could Justify the Name",
+      "author": "Tim Hardwick",
+      "published": "2026-05-25T06:40:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-25T09:29:10+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-24T20:25:22+00:00"
+  "last_checked": "2026-05-25T09:29:10+00:00"
 }
