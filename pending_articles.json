@@ -10502,7 +10502,17 @@
       "discovered": "2026-05-25T13:18:39+00:00",
       "status": "synced",
       "synced_at": "2026-05-25T15:15:51+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/ending-soon-memorial-day-savings-at-bh-amazon-adorama/",
+      "title": "Ending soon: Memorial Day Savings at BH, Amazon, Adorama",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-25T20:13:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-25T20:35:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-25T13:18:39+00:00"
+  "last_checked": "2026-05-25T20:35:19+00:00"
 }
