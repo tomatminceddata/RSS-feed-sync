@@ -10345,7 +10345,17 @@
       "parser": "default",
       "discovered": "2026-05-25T09:29:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7rvi-vs-sony-a7v-which-one-is-best-for-you/",
+      "title": "Sony A7rVI vs Sony A7V: Which one is best for you?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-25T13:03:17+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-25T13:18:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-25T09:29:10+00:00"
+  "last_checked": "2026-05-25T13:18:39+00:00"
 }
