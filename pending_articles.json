@@ -10662,7 +10662,37 @@
       "parser": "default",
       "discovered": "2026-05-26T17:15:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/apple-passeig-de-gracia-renovated/",
+      "title": "Apple's Beautiful Barcelona Store Reopens With Pickup Station and More",
+      "author": "Joe Rossignol",
+      "published": "2026-05-26T19:10:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T20:45:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/apple-watch-activity-award-running-day/",
+      "title": "Earn a Running Day Apple Watch Activity Award on June 3",
+      "author": "Juli Clover",
+      "published": "2026-05-26T18:46:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T20:45:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/ios-26-6-contact-blocking-alert/",
+      "title": "iOS 26.6 Will Alert You When You've Maxed Out Blocked Contacts",
+      "author": "Juli Clover",
+      "published": "2026-05-26T18:26:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T20:45:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-26T17:15:22+00:00"
+  "last_checked": "2026-05-26T20:45:30+00:00"
 }
