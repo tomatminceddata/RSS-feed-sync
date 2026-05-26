@@ -10562,7 +10562,107 @@
       "parser": "default",
       "discovered": "2026-05-26T13:10:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-Live-Pools-for-Fabric-Data-Engineering-Preview/ba-p/5187356",
+      "title": "Custom Live Pools for Fabric Data Engineering (Preview)",
+      "author": "Santhosh_Ravin1",
+      "published": "2026-05-26T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-data-movement-with-Copy-job-more-control-more/ba-p/5184219",
+      "title": "Simplify data movement with Copy job: more control, more flexibility",
+      "author": "yexu",
+      "published": "2026-05-26T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/two-more-sony-cameras-and-new-lenses-will-be-announced-within-the-next-2-3-months/",
+      "title": "Two more Sony cameras and new lenses will be announced within the next 2-3 months!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-26T13:28:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-macos-tahoe-26-6-beta-1/",
+      "title": "First macOS Tahoe 26.6 Beta Now Available for Developers",
+      "author": "Juli Clover",
+      "published": "2026-05-26T17:09:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
+      "title": "Apple Seeds First iOS 26.6 and iPadOS 26.6 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-05-26T17:07:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-watchos-26-6-beta-1/",
+      "title": "Apple Releases First watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
+      "author": "Juli Clover",
+      "published": "2026-05-26T17:03:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/android-brands-may-copy-iphone-launch-strategy/",
+      "title": "Android Brands May Copy Apple's New Split iPhone Launch Strategy",
+      "author": "Hartley Charlton",
+      "published": "2026-05-26T16:42:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/apple-watch-non-invasive-blood-sugar-plans/",
+      "title": "Apple Watch for Diabetes: The Latest on Apple's Plans for Non-Invasive Blood Sugar Monitoring",
+      "author": "Joe Rossignol",
+      "published": "2026-05-26T16:09:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/leaker-pushes-back-on-titanium-iphone-return/",
+      "title": "Leaker Pushes Back on Rumors of Pro iPhone's Return to Titanium",
+      "author": "Hartley Charlton",
+      "published": "2026-05-26T14:47:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/iphone-18-pro-10-rumored-features/",
+      "title": "iPhone 18 Pro Launching Later This Year With These 10 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-05-26T13:32:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T17:15:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-26T13:10:38+00:00"
+  "last_checked": "2026-05-26T17:15:22+00:00"
 }
