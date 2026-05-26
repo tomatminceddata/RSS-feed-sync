@@ -10522,7 +10522,27 @@
       "parser": "default",
       "discovered": "2026-05-26T05:27:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/7artisans-is-about-to-release-three-new-wide-angle-af-e-mount-lenses/",
+      "title": "7Artisans is about to release three new wide angle AF E-mount lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-26T09:02:31+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T09:19:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1906/",
+      "title": "Sony Tidbits…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-26T06:39:14+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T09:19:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-26T05:27:11+00:00"
+  "last_checked": "2026-05-26T09:19:58+00:00"
 }
