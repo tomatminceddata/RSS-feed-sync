@@ -10512,7 +10512,17 @@
       "parser": "default",
       "discovered": "2026-05-25T20:35:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/25/ferrari-luce-jony-ive-photos/",
+      "title": "Ferrari Reveals $640,000 EV Co-Designed by Jony Ive",
+      "author": "Joe Rossignol",
+      "published": "2026-05-26T02:18:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-26T05:27:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-25T20:35:19+00:00"
+  "last_checked": "2026-05-26T05:27:11+00:00"
 }
