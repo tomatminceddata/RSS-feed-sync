@@ -10732,7 +10732,17 @@
       "parser": "default",
       "discovered": "2026-05-27T01:02:20+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/more-all-black-apple-vision-pro-parts/",
+      "title": "More All-Black Apple Vision Pro Parts Surface Online",
+      "author": "Tim Hardwick",
+      "published": "2026-05-27T06:35:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T09:17:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-27T01:02:20+00:00"
+  "last_checked": "2026-05-27T09:17:45+00:00"
 }
