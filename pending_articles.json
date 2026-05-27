@@ -10792,7 +10792,77 @@
       "parser": "default",
       "discovered": "2026-05-27T13:21:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Unlock-IoT-Hub-event-metadata-in-Fabric-Eventstream-with-the/ba-p/5184735",
+      "title": "Unlock IoT Hub event metadata in Fabric Eventstream with the enhanced IoT Hub connector (Preview)",
+      "author": "xujx",
+      "published": "2026-05-27T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-27T17:15:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sigma-will-soon-announce-a-funny-full-frame-e-l-lens/",
+      "title": "Sigma will soon announce a “funny” Full Frame E/L lens…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-27T13:57:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T17:15:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/samsungs-2026-monitors-discounts/",
+      "title": "Samsung's 2026 Monitors Launch With $50 Discounts and Credit Towards Future Purchases",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-27T17:08:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T17:15:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/apple-wallet-ids-14th-state/",
+      "title": "Apple Just Expanded iPhone Driver's License Feature to 14th U.S. State",
+      "author": "Joe Rossignol",
+      "published": "2026-05-27T16:32:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T17:15:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/atlanta-marta-breeze-card-apple-wallet/",
+      "title": "Atlanta's MARTA Breeze Card Now Available in Apple Wallet",
+      "author": "Joe Rossignol",
+      "published": "2026-05-27T15:06:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T17:15:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/ases-for-foldable-iphone-surface-online/",
+      "title": "First Cases for Apple's Foldable iPhone Surface Online",
+      "author": "Hartley Charlton",
+      "published": "2026-05-27T14:25:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T17:15:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/iphone-air-magsafe-battery-59/",
+      "title": "iPhone Air MagSafe Battery is Just $59",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-27T14:23:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T17:15:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-27T13:21:59+00:00"
+  "last_checked": "2026-05-27T17:15:26+00:00"
 }
