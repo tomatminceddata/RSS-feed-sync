@@ -10742,7 +10742,57 @@
       "parser": "default",
       "discovered": "2026-05-27T09:17:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Excel-to-Delta-Tables-Simplifying-Excel-Data-Ingestion-with/ba-p/5185370",
+      "title": "From Excel to Delta Tables - Simplifying Excel Data Ingestion with Shortcut Transformations (Preview)",
+      "author": "hareshgowri",
+      "published": "2026-05-27T12:31:59+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-27T13:21:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/more-sony-a7rvi-youtube-reviews-2/",
+      "title": "More Sony A7rVI youtube reviews",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-27T09:54:47+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T13:21:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/apple-updates-trade-in-values-may-2026/",
+      "title": "Apple Updates Trade-In Values for iPhone, iPad, Mac, and Apple Watch",
+      "author": "Hartley Charlton",
+      "published": "2026-05-27T10:54:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T13:21:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/after-the-whistle-podcast-to-return/",
+      "title": "Apple's 'After the Whistle' Podcast to Return for World Cup",
+      "author": "Hartley Charlton",
+      "published": "2026-05-27T10:39:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T13:21:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/apple-document-to-help-tell-studio-apps-apart/",
+      "title": "Apple Publishes Document to Help Users Tell Creator Studio Apps Apart",
+      "author": "Hartley Charlton",
+      "published": "2026-05-27T10:22:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T13:21:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-27T09:17:45+00:00"
+  "last_checked": "2026-05-27T13:21:59+00:00"
 }
