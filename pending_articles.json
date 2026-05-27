@@ -10862,7 +10862,37 @@
       "parser": "default",
       "discovered": "2026-05-27T17:15:26+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Incremental-Liquid-Clustering-in-Microsoft-Fabric-Faster-smarter/ba-p/5189122",
+      "title": "Incremental Liquid Clustering in Microsoft Fabric: Faster, smarter, and truly incremental",
+      "author": "milescole-msft",
+      "published": "2026-05-27T19:37:15+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-27T20:48:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-reviews-of-the-unique-kase-150mm-reflex-e-mount-lens/",
+      "title": "First reviews of the unique Kase 150mm Reflex E-mount lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-27T19:04:37+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T20:48:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/meta-paid-plans-facebook-instagram/",
+      "title": "Meta Wants You to Pay for Instagram, Facebook, and WhatsApp Now",
+      "author": "Juli Clover",
+      "published": "2026-05-27T19:53:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T20:48:16+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-27T17:15:26+00:00"
+  "last_checked": "2026-05-27T20:48:16+00:00"
 }
