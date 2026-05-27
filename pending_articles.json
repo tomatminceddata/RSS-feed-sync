@@ -10692,7 +10692,47 @@
       "parser": "default",
       "discovered": "2026-05-26T20:45:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-your-data-movement-with-Copy-job-CDC-with-SQL-estate/ba-p/5184211",
+      "title": "Simplify your data movement with Copy job: CDC with SQL estate (Generally Available)",
+      "author": "yexu",
+      "published": "2026-05-26T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-27T01:02:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/airtag-2-firmware-3049/",
+      "title": "Apple Releases New Firmware for AirTag 2",
+      "author": "Juli Clover",
+      "published": "2026-05-26T22:46:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T01:02:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/26/ios-27-siri-dark-colors/",
+      "title": "iOS 27 Siri Redesign Will Use Dark Color Scheme, Matching Apple's WWDC Art",
+      "author": "Juli Clover",
+      "published": "2026-05-26T21:30:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T01:02:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/level-lock-pro/",
+      "title": "Level Lock Pro Review: An Apple Home Key Smart Lock That Doesn't Look Like One",
+      "author": "Juli Clover",
+      "published": "2026-05-26T21:22:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-27T01:02:20+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-26T20:45:30+00:00"
+  "last_checked": "2026-05-27T01:02:20+00:00"
 }
