@@ -10892,7 +10892,47 @@
       "parser": "default",
       "discovered": "2026-05-27T20:48:16+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/amazon-apple-globalstar-deal/",
+      "title": "Amazon to Acquire Apple's Globalstar Stake in Satellite Deal",
+      "author": "Juli Clover",
+      "published": "2026-05-27T23:32:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T00:56:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/youtube-automatic-ai-video-labeling/",
+      "title": "YouTube Will Now Automatically Label AI Videos Even When Creators Don't",
+      "author": "Juli Clover",
+      "published": "2026-05-27T23:26:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T00:56:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/roku-unveils-redesigned-home-screen/",
+      "title": "Roku Unveils Redesigned Home Screen",
+      "author": "Joe Rossignol",
+      "published": "2026-05-27T21:40:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T00:56:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/27/apple-anti-theft-iphone-feature/",
+      "title": "Apple Developing iPhone Anti-Snatching Feature That Locks Stolen Phones Instantly",
+      "author": "Juli Clover",
+      "published": "2026-05-27T21:00:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T00:56:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-27T20:48:16+00:00"
+  "last_checked": "2026-05-28T00:56:14+00:00"
 }
