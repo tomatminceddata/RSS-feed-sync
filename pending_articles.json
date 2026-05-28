@@ -10932,7 +10932,27 @@
       "parser": "default",
       "discovered": "2026-05-28T00:56:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-image-of-the-upcoming-viltrox-26mm-f-2-8-compact-fe-lens/",
+      "title": "New image of the upcoming Viltrox 26mm f/2.8 compact FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-28T09:31:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T13:26:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/28/ios-27-siri-app-and-search-or-ask-leaked/",
+      "title": "iOS 27's New Siri App and 'Search or Ask' Feature Leaked in Screenshots",
+      "author": "Joe Rossignol",
+      "published": "2026-05-28T12:54:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T13:26:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-28T00:56:14+00:00"
+  "last_checked": "2026-05-28T13:26:00+00:00"
 }
