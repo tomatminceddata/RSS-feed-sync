@@ -11012,7 +11012,37 @@
       "parser": "default",
       "discovered": "2026-05-28T17:22:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/28/apple-back-to-school-sale-2026-coming/",
+      "title": "Hold Off on Purchases, Students: Apple's Back to School Sale Is Coming Soon",
+      "author": "Juli Clover",
+      "published": "2026-05-28T18:44:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T20:52:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/28/anthropic-claude-opus-4-8/",
+      "title": "Anthropic Launches Claude Opus 4.8 With Gains in Coding and Honesty",
+      "author": "Juli Clover",
+      "published": "2026-05-28T18:29:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T20:52:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/",
+      "title": "Apple Seeds First Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
+      "author": "Juli Clover",
+      "published": "2026-05-28T17:46:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T20:52:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-28T17:22:33+00:00"
+  "last_checked": "2026-05-28T20:52:50+00:00"
 }
