@@ -10952,7 +10952,67 @@
       "parser": "default",
       "discovered": "2026-05-28T13:26:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/rumors-about-a-new-sony-camera-with-dual-processor-and-global-shutter-fx3ii/",
+      "title": "Rumors about a new Sony camera with dual processor and global shutter: FX3II?",
+      "author": "Andreapazzo",
+      "published": "2026-05-28T13:52:44+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T17:22:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/28/rivian-software-chief-on-carplay/",
+      "title": "Rivian Explains Why CarPlay Debate Will Become 'Completely Obsolete'",
+      "author": "Joe Rossignol",
+      "published": "2026-05-28T16:47:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T17:22:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/28/oura-ring-5-unveiled-with-smaller-design/",
+      "title": "Oura Ring 5 Unveiled With Smaller Design and Blood Pressure Tracking",
+      "author": "Hartley Charlton",
+      "published": "2026-05-28T16:13:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T17:22:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/28/apple-to-make-on-device-ai-key-focus/",
+      "title": "Report: Apple Plans to Make On-Device AI a Key WWDC Focus",
+      "author": "Hartley Charlton",
+      "published": "2026-05-28T14:16:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T17:22:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/28/amazon-m5-macbook-air-199-off/",
+      "title": "Amazon Takes $199 Off Nearly Every M5 MacBook Air, Starting at $899.99",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-28T13:59:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T17:22:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/28/ios-27-ai-camera-and-photos-features/",
+      "title": "First Look at AI Camera and Photos Features in iOS 27 Revealed",
+      "author": "Hartley Charlton",
+      "published": "2026-05-28T13:24:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-28T17:22:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-28T13:26:00+00:00"
+  "last_checked": "2026-05-28T17:22:33+00:00"
 }
