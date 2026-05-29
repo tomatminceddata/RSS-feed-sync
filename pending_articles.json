@@ -11072,7 +11072,67 @@
       "parser": "default",
       "discovered": "2026-05-29T13:17:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-May-2026/ba-p/5185408",
+      "title": "Fabric Influencers Spotlight: May 2026",
+      "author": "mamathews",
+      "published": "2026-05-29T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-05-29T17:16:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sidney-diongzon-this-is-sonys-next-move/",
+      "title": "Sidney Diongzon: This is Sony’s Next Move…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-29T14:13:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-29T17:16:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/29/apple-wallet-ids-coming-to-15th-state/",
+      "title": "iPhone Driver's License Feature Set to Expand to a 15th U.S. State",
+      "author": "Joe Rossignol",
+      "published": "2026-05-29T16:19:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-29T17:16:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/29/everything-we-know-about-openai-iphone-rival/",
+      "title": "Everything We Know About OpenAI's Planned iPhone Rival",
+      "author": "Hartley Charlton",
+      "published": "2026-05-29T16:16:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-29T17:16:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/29/windows-pc-industry-reacts-to-macbook-neo/",
+      "title": "Windows PC Industry Reacts to Apple's Most Affordable MacBook Ever",
+      "author": "Joe Rossignol",
+      "published": "2026-05-29T15:30:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-29T17:16:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/29/best-apple-deals-of-the-week-5-29-26/",
+      "title": "Best Apple Deals of the Week: M5 MacBook Air Gets $199 Discounts, Plus Save on Samsung's New Monitors",
+      "author": "Mitchel Broussard",
+      "published": "2026-05-29T14:15:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-29T17:16:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-29T13:17:12+00:00"
+  "last_checked": "2026-05-29T17:16:55+00:00"
 }
