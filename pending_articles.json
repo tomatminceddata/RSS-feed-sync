@@ -11132,7 +11132,17 @@
       "parser": "default",
       "discovered": "2026-05-29T17:16:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/29/lg-39-inch-5k2k-oled-display-shipping/",
+      "title": "LG's 39-Inch Ultrawide 5K2K OLED Display Officially Begins Shipping Next Week",
+      "author": "Eric Slivka",
+      "published": "2026-05-29T17:26:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-29T20:53:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-29T17:16:55+00:00"
+  "last_checked": "2026-05-29T20:53:40+00:00"
 }
