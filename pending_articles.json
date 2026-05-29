@@ -11042,7 +11042,37 @@
       "parser": "default",
       "discovered": "2026-05-28T20:52:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/more-100-400mm-gm-lens-reviews-2/",
+      "title": "More 100-400mm GM lens reviews",
+      "author": "SonyAlpha Admin",
+      "published": "2026-05-29T09:39:22+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-05-29T13:17:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/29/first-look-at-iphone-18-pro-color-options-revealed/",
+      "title": "First Look at iPhone 18 Pro Color Options Revealed by Dummy Models",
+      "author": "Hartley Charlton",
+      "published": "2026-05-29T11:50:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-29T13:17:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/",
+      "title": "iPhone 18 Pro's Camera Upgrade Will Cost Apple 50% More",
+      "author": "Hartley Charlton",
+      "published": "2026-05-29T10:44:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-29T13:17:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-28T20:52:50+00:00"
+  "last_checked": "2026-05-29T13:17:12+00:00"
 }
