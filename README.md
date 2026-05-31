@@ -127,3 +127,9 @@ Each entry in `pending_articles.json` looks like:
 ```
 
 `feed` + `parser` together identify the originating feed (the same `source_tag` can appear under multiple parsers during a parallel-run migration). Old entries written before `check_feeds.py` started capturing `parser` and `author` are still processable — the local script falls back to `wordpress` and an empty author when those fields are missing.
+
+## Authentication
+
+`rss_pull_and_sync.py` finishes by committing and pushing `pending_articles.json` back to this repo. That `git push` relies on a credential stored in the macOS Keychain (an `inet` entry for `github.com`). If that credential is missing, the push fails with `remote: Invalid username or token` even though the local sync itself succeeded — the articles are in the vault, only the push didn't go up.
+
+To recover, re-seed the credential (the next push will prompt, or trigger one manually), then push again. The full mechanism — how the credential is seeded, and the difference between GitHub Desktop's OAuth token and a classic PAT — is documented in the vault at `Getting social/Blog/Way of working/git authentication.md`.
