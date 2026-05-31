@@ -11260,7 +11260,27 @@
       "parser": "default",
       "discovered": "2026-05-31T12:37:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/31/apple-glasses-late-2027-report/",
+      "title": "Apple Glasses Reportedly Launching in 'Late 2027' With These Features",
+      "author": "Joe Rossignol",
+      "published": "2026-05-31T16:21:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-31T16:31:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/05/31/new-apple-tv-and-homepod-mini-nearly-ready/",
+      "title": "New Apple TV and HomePod Mini Are 'Nearly Ready' to Launch, New Siri Remote Also Rumored",
+      "author": "Joe Rossignol",
+      "published": "2026-05-31T15:47:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-05-31T16:31:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-05-31T12:37:32+00:00"
+  "last_checked": "2026-05-31T16:31:53+00:00"
 }
