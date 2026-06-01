@@ -11294,7 +11294,27 @@
       "discovered": "2026-06-01T01:08:45+00:00",
       "status": "synced",
       "synced_at": "2026-06-01T04:13:05+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/a-love-letter-to-the-most-hated-camera-on-the-internet-sony-rx1r-iii/",
+      "title": "A Love Letter to the Most Hated Camera on the Internet (Sony RX1R III)",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-01T09:52:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T09:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/slimmer-lighter-apple-vision-pro-late-2028/",
+      "title": "Cheaper, Lighter Apple Vision Pro Successor Could Arrive in Late 2028",
+      "author": "Tim Hardwick",
+      "published": "2026-06-01T09:29:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T09:57:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-01T01:08:45+00:00"
+  "last_checked": "2026-06-01T09:57:50+00:00"
 }
