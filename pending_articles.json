@@ -11360,7 +11360,107 @@
       "discovered": "2026-06-01T14:12:23+00:00",
       "status": "synced",
       "synced_at": "2026-06-01T14:18:11+00:00"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-new-in-Fabric-Business-Events/ba-p/5189137",
+      "title": "What’s new in Fabric Business Events",
+      "author": "robece-msft",
+      "published": "2026-06-01T18:04:09+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Solving-Power-BI-in-report-alerts-with-translytical-task-flows/ba-p/5190667",
+      "title": "Solving Power BI in-report alerts with translytical task flows",
+      "author": "v-ksheldon",
+      "published": "2026-06-01T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/apple-releases-macos-tahoe-26-5-1/",
+      "title": "Apple Releases macOS Tahoe 26.5.1 to Fix Shutdown Issue Affecting Enterprise Users on M5 Macs",
+      "author": "Juli Clover",
+      "published": "2026-06-01T17:28:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/apple-releases-ios-26-5-1/",
+      "title": "Apple Releases iOS 26.5.1 to Fix Charging Issue on iPhone Air and iPhone 17 Models",
+      "author": "Juli Clover",
+      "published": "2026-06-01T17:22:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/dell-xps-13-vs-macbook-neo/",
+      "title": "Dell Says Its New $699 Laptop Has Features 'You Won't Find on a MacBook Neo'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-01T17:05:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/wwdc-2026-youtube-livestream/",
+      "title": "One Week to Go: Apple Gets Ready for WWDC 2026 With YouTube Placeholder",
+      "author": "Juli Clover",
+      "published": "2026-06-01T16:39:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/apple-shares-wwdc-2026-wallpaper/",
+      "title": "Apple Shares WWDC26 Wallpaper, Playlist, 'Get Ready' Video, and More",
+      "author": "Joe Rossignol",
+      "published": "2026-06-01T16:21:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/apple-wwdc-2026-all-systems-glow/",
+      "title": "Apple Teases Next Week's WWDC 2026 Event: 'All Systems Glow'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-01T15:29:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/",
+      "title": "Foldable 'iPhone Ultra' Rumored to Feature Vapor Chamber Cooling Despite Thin Design",
+      "author": "Hartley Charlton",
+      "published": "2026-06-01T15:13:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/airpods-pro-3-hit-199-99/",
+      "title": "AirPods Pro 3 Available for $199.99 Low Price on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-01T14:24:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-01T18:08:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-01T14:12:23+00:00"
+  "last_checked": "2026-06-01T18:08:31+00:00"
 }
