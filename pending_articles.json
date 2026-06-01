@@ -11303,7 +11303,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-01T09:57:50+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T11:28:19+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/slimmer-lighter-apple-vision-pro-late-2028/",
@@ -11313,7 +11314,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T09:57:50+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T11:28:19+00:00"
     }
   ],
   "last_checked": "2026-06-01T09:57:50+00:00"
