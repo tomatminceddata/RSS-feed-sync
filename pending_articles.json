@@ -11259,7 +11259,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-05-31T12:37:32+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T04:13:05+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/31/apple-glasses-late-2027-report/",
@@ -11269,7 +11270,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-05-31T16:31:53+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T04:13:05+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/31/new-apple-tv-and-homepod-mini-nearly-ready/",
@@ -11279,7 +11281,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-05-31T16:31:53+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T04:13:05+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/",
@@ -11289,7 +11292,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T01:08:45+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T04:13:05+00:00"
     }
   ],
   "last_checked": "2026-06-01T01:08:45+00:00"
