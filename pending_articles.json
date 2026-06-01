@@ -11325,7 +11325,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-01T14:12:23+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T14:18:11+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/apple-car-key-support-mahindra-vehicles/",
@@ -11335,7 +11336,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T14:12:23+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T14:18:11+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/",
@@ -11345,7 +11347,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T14:12:23+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T14:18:11+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/nvidia-challenges-apple-rtx-spark-pc-chip/",
@@ -11355,7 +11358,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T14:12:23+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-01T14:18:11+00:00"
     }
   ],
   "last_checked": "2026-06-01T14:12:23+00:00"
