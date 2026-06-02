@@ -11680,7 +11680,97 @@
       "parser": "default",
       "discovered": "2026-06-02T17:39:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690",
+      "title": "Fabric June 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-06-02T20:24:10+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-02T21:10:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-research-to-product-Microsoft-Fabric-wins-best-industry/ba-p/5191608",
+      "title": "From research to product: Microsoft Fabric wins best industry paper at SIGMOD 2026 for GPU‑accelerated data warehousing",
+      "author": "maraki",
+      "published": "2026-06-02T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-02T21:10:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-2026-From-data-to-intelligence-Faster-with-Fabric-Data/ba-p/5191636",
+      "title": "Build 2026: From data to intelligence—Faster with Fabric Data Factory",
+      "author": "FaisalMohamood",
+      "published": "2026-06-02T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-02T21:10:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-Era-of-the-Agentic-Database-Developer-Microsoft-SQL/ba-p/5190062",
+      "title": "The Era of the Agentic Database Developer: Microsoft SQL announcements at Build 2026",
+      "author": "analyticanna",
+      "published": "2026-06-02T21:05:35+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-02T21:10:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-IQ-The-semantic-layer-powering-trusted-AI-agents-at/ba-p/5190739",
+      "title": "Fabric IQ: The semantic layer powering trusted AI agents at enterprise scale",
+      "author": "Chafia_Aouissi",
+      "published": "2026-06-02T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-02T21:10:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Building-in-the-Agentic-Era-with-Power-BI-and-Fabric/ba-p/5190754",
+      "title": "Building in the Agentic Era with Power BI and Fabric",
+      "author": "SujataNarayana",
+      "published": "2026-06-02T19:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-02T21:10:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Microsoft-Build-2026-The-Agentic-Era-of-analytics/ba-p/5191671",
+      "title": "Power BI at Microsoft Build 2026: The Agentic Era of analytics",
+      "author": "mohammadali",
+      "published": "2026-06-02T19:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-02T21:10:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/02/google-airdrop-support-more-android-phones/",
+      "title": "Google Expands AirDrop Support to More Android Phones",
+      "author": "Juli Clover",
+      "published": "2026-06-02T19:24:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-02T21:10:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/02/nintendo-music-carplay/",
+      "title": "Nintendo Music Now Available on iPad and CarPlay",
+      "author": "Joe Rossignol",
+      "published": "2026-06-02T17:44:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-02T21:10:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-02T17:39:44+00:00"
+  "last_checked": "2026-06-02T21:10:58+00:00"
 }
