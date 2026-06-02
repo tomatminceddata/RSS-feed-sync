@@ -11510,7 +11510,27 @@
       "parser": "default",
       "discovered": "2026-06-02T01:07:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/brightin-star-af-12mm-f-2-8-full-frame-lens-review-from-christopher-frost/",
+      "title": "Brightin Star AF 12mm f/2.8 (full-frame) lens review from Christopher Frost",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-02T08:15:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-02T09:35:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
+      "title": "iPhone 18 Pro Battery Capacities Allegedly Leaked",
+      "author": "Tim Hardwick",
+      "published": "2026-06-02T08:44:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-02T09:35:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-02T01:07:43+00:00"
+  "last_checked": "2026-06-02T09:35:37+00:00"
 }
