@@ -11490,7 +11490,27 @@
       "parser": "default",
       "discovered": "2026-06-01T21:15:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/",
+      "title": "iOS 27: What We Know About the New Siri App",
+      "author": "Juli Clover",
+      "published": "2026-06-01T23:25:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-02T01:07:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/01/meta-ai-instagram-attack/",
+      "title": "Meta AI Support Bot Helped Hackers Hijack Instagram Accounts",
+      "author": "Juli Clover",
+      "published": "2026-06-01T22:19:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-02T01:07:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-01T21:15:09+00:00"
+  "last_checked": "2026-06-02T01:07:43+00:00"
 }
