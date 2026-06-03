@@ -11920,7 +11920,107 @@
       "parser": "default",
       "discovered": "2026-06-03T17:47:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Graph-in-Fabric-Generally-Available/ba-p/5190748",
+      "title": "Graph in Fabric (Generally Available)",
+      "author": "IgalAmster",
+      "published": "2026-06-03T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Analyze-Your-Business-Events-in-Eventhouse-and-Real-Time/ba-p/5190245",
+      "title": "Analyze Your Business Events in Eventhouse and Real-Time Dashboards (Preview)",
+      "author": "GEGUIRGU",
+      "published": "2026-06-03T18:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Turn-insights-into-signals-with-Activator-as-a-Business-Event/ba-p/5190248",
+      "title": "Turn insights into signals with Activator as a Business Event Publisher (Preview)",
+      "author": "GEGUIRGU",
+      "published": "2026-06-03T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/tomorrow-is-the-big-day-sony-a7rvi-is-shipping-out-in-the-usa/",
+      "title": "Tomorrow is the BIG day: Sony A7rVI is shipping out in the USA!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-03T18:16:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/ios-27-wishlist/",
+      "title": "What's on Your iOS 27 Wishlist Ahead of WWDC 2026?",
+      "author": "Juli Clover",
+      "published": "2026-06-03T21:04:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/apple-app-store-texas-sb-2420/",
+      "title": "Apple Bringing App Store Age Verification to Texas as SB 2420 Takes Effect June 4",
+      "author": "Juli Clover",
+      "published": "2026-06-03T20:07:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/three-apple-stores-closing-this-month/",
+      "title": "Apple is Permanently Closing Three U.S. Stores This Month",
+      "author": "Joe Rossignol",
+      "published": "2026-06-03T20:00:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/",
+      "title": "Kuo: Apple's Vision Pro Successors Off the Table as Focus Shifts to Smart Glasses",
+      "author": "Juli Clover",
+      "published": "2026-06-03T19:54:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/beats-pill-ad-love-island-usa/",
+      "title": "Apple's New Beats Pill Ad Leans Into Reality TV Show 'Love Island USA'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-03T19:38:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/amazon-macbook-neo/",
+      "title": "Amazon Undercuts Apple With Quicker MacBook Neo Delivery and Discounted Price",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-03T17:47:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T21:10:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-03T17:47:12+00:00"
+  "last_checked": "2026-06-03T21:10:55+00:00"
 }
