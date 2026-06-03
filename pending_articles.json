@@ -11840,7 +11840,87 @@
       "parser": "default",
       "discovered": "2026-06-03T13:49:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-analytics-frontier-GPU-accelerated-Fabric-Data-Warehouse/ba-p/5191598",
+      "title": "A new analytics frontier: GPU-accelerated Fabric Data Warehouse (Early Access Preview)",
+      "author": "maraki",
+      "published": "2026-06-03T17:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-03T17:47:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Skills-for-GitHub-Copilot-Claude-and-CLI-built-by/ba-p/5190188",
+      "title": "Fabric Skills for GitHub Copilot, Claude, and CLI: built by Microsoft, open for contribution",
+      "author": "Teddyb",
+      "published": "2026-06-03T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-03T17:47:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-real-time-event-driven-applications-on-Mirrored/ba-p/5190893",
+      "title": "Building real-time, event-driven applications on Mirrored Database Change Feeds with Fabric Eventstreams (Preview)",
+      "author": "arindamc",
+      "published": "2026-06-03T16:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-03T17:47:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Copilot-in-web-modeling-Preview/ba-p/5182287",
+      "title": "Copilot in web modeling (Preview)",
+      "author": "jacindaeng",
+      "published": "2026-06-03T17:37:14+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-03T17:47:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+      "title": "MacBook Neo is So Popular That Apple Reportedly Doubled Production",
+      "author": "Joe Rossignol",
+      "published": "2026-06-03T16:24:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T17:47:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/macos-27-wont-run-on-these-macs/",
+      "title": "Apple Says macOS 27 Won't Be Compatible With These Macs",
+      "author": "Joe Rossignol",
+      "published": "2026-06-03T15:29:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T17:47:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/lg-kicks-off-summer-sale/",
+      "title": "LG Kicks Off Summer Sale With Big Deals on Monitors, TVs, and Appliances",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-03T14:27:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T17:47:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/apple-tv-lucky-trailer/",
+      "title": "Apple TV Shares Trailer for New Heist Series Starring Anya Taylor-Joy",
+      "author": "Joe Rossignol",
+      "published": "2026-06-03T14:18:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T17:47:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-03T13:49:29+00:00"
+  "last_checked": "2026-06-03T17:47:12+00:00"
 }
