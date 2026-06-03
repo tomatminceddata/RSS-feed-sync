@@ -11770,7 +11770,17 @@
       "parser": "default",
       "discovered": "2026-06-02T21:10:58+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/02/ios-27-siri-features/",
+      "title": "Siri in iOS 27: Every New Feature and Change to Expect",
+      "author": "Juli Clover",
+      "published": "2026-06-02T19:24:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-03T01:14:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-02T21:10:58+00:00"
+  "last_checked": "2026-06-03T01:14:27+00:00"
 }
