@@ -11369,7 +11369,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Solving-Power-BI-in-report-alerts-with-translytical-task-flows/ba-p/5190667",
@@ -11379,7 +11380,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/apple-releases-macos-tahoe-26-5-1/",
@@ -11389,7 +11391,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/apple-releases-ios-26-5-1/",
@@ -11399,7 +11402,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/dell-xps-13-vs-macbook-neo/",
@@ -11409,7 +11413,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/wwdc-2026-youtube-livestream/",
@@ -11419,7 +11424,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/apple-shares-wwdc-2026-wallpaper/",
@@ -11429,7 +11435,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/apple-wwdc-2026-all-systems-glow/",
@@ -11439,7 +11446,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/foldable-iphone-rumored-to-feature-vapor-chamber/",
@@ -11449,7 +11457,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/airpods-pro-3-hit-199-99/",
@@ -11459,7 +11468,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T18:08:31+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/apple-the-mandalorian-screening/",
@@ -11469,7 +11479,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T21:15:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/apple-card-promo-uber-eats/",
@@ -11479,7 +11490,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T21:15:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/apple-cash-ios-27-bill-split/",
@@ -11489,7 +11501,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-01T21:15:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/ios-27-siri-app-rumors/",
@@ -11499,7 +11512,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T01:07:43+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/01/meta-ai-instagram-attack/",
@@ -11509,7 +11523,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T01:07:43+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/brightin-star-af-12mm-f-2-8-full-frame-lens-review-from-christopher-frost/",
@@ -11519,7 +11534,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-02T09:35:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/iphone-18-pro-battery-capacities-allegedly-leaked/",
@@ -11529,7 +11545,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T09:35:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/viltrox-is-about-to-release-new-products-the-af-75mm-f1-8-and-af-90mm-f2-2-e-mount-lenses/",
@@ -11539,7 +11556,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-02T13:28:10+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/foldable-iphone-will-feature-liquid-metal-hinge/",
@@ -11549,7 +11567,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T13:28:10+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/2027-apple-watch-efficient-oled-display-tech/",
@@ -11559,7 +11578,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T13:28:10+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-the-agentic-analytics-stack-Fabric-Analytics-at-Build/ba-p/5191634",
@@ -11569,7 +11589,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-Rayfin-A-new-AI-first-way-to-build-deploy-and-govern/ba-p/5191676",
@@ -11579,7 +11600,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-IQ-The-shared-context-layer-for-AI-agents-and-real-time/ba-p/5191678",
@@ -11589,7 +11611,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-May-2026-release/ba-p/5190820",
@@ -11599,7 +11622,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/DAX-User-Defined-Functions-Generally-Available/ba-p/5185738",
@@ -11609,7 +11633,8 @@
       "feed": "PowerBIBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/apple-design-award-winners-2026/",
@@ -11619,7 +11644,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/macbook-neo-outsold-every-other-mac/",
@@ -11629,7 +11655,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/",
@@ -11639,7 +11666,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/macos-27-name-possibilities/",
@@ -11649,7 +11677,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/apple-tv-silo-season-three-trailer/",
@@ -11659,7 +11688,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/amazon-early-prime-day-deals-2/",
@@ -11669,7 +11699,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/microsoft-office-2019-for-mac-no-edit-documents/",
@@ -11679,7 +11710,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T17:39:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690",
@@ -11689,7 +11721,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T21:10:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-research-to-product-Microsoft-Fabric-wins-best-industry/ba-p/5191608",
@@ -11699,7 +11732,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T21:10:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-2026-From-data-to-intelligence-Faster-with-Fabric-Data/ba-p/5191636",
@@ -11709,7 +11743,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T21:10:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-Era-of-the-Agentic-Database-Developer-Microsoft-SQL/ba-p/5190062",
@@ -11719,7 +11754,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T21:10:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-IQ-The-semantic-layer-powering-trusted-AI-agents-at/ba-p/5190739",
@@ -11729,7 +11765,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T21:10:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Building-in-the-Agentic-Era-with-Power-BI-and-Fabric/ba-p/5190754",
@@ -11739,7 +11776,8 @@
       "feed": "PowerBIBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T21:10:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Microsoft-Build-2026-The-Agentic-Era-of-analytics/ba-p/5191671",
@@ -11749,7 +11787,8 @@
       "feed": "PowerBIBlog",
       "parser": "wordpress",
       "discovered": "2026-06-02T21:10:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/google-airdrop-support-more-android-phones/",
@@ -11759,7 +11798,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T21:10:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/nintendo-music-carplay/",
@@ -11769,7 +11809,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-02T21:10:58+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/02/ios-27-siri-features/",
@@ -11779,7 +11820,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T01:14:27+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/next-sony-camera-to-be-announced-uses-the-sony-npfz100-and-not-the-new-np-sa100-battery/",
@@ -11789,7 +11831,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-03T13:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/apple-store-yokohama-japan-job-listings/",
@@ -11799,7 +11842,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T13:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/macbook-neo-disrupts-a-pc-market-in-decline/",
@@ -11809,7 +11853,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T13:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/apple-announces-first-developer-center-in-europe/",
@@ -11819,7 +11864,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T13:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/apple-music-classical-wigmore-hall-partnership/",
@@ -11829,7 +11875,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T13:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/apple-agrees-to-hand-over-financial-data-to-india/",
@@ -11839,7 +11886,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T13:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-analytics-frontier-GPU-accelerated-Fabric-Data-Warehouse/ba-p/5191598",
@@ -11849,7 +11897,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-03T17:47:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Skills-for-GitHub-Copilot-Claude-and-CLI-built-by/ba-p/5190188",
@@ -11859,7 +11908,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-03T17:47:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-real-time-event-driven-applications-on-Mirrored/ba-p/5190893",
@@ -11869,7 +11919,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-03T17:47:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Copilot-in-web-modeling-Preview/ba-p/5182287",
@@ -11879,7 +11930,8 @@
       "feed": "PowerBIBlog",
       "parser": "wordpress",
       "discovered": "2026-06-03T17:47:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
@@ -11889,7 +11941,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T17:47:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/macos-27-wont-run-on-these-macs/",
@@ -11899,7 +11952,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T17:47:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/lg-kicks-off-summer-sale/",
@@ -11909,7 +11963,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T17:47:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/apple-tv-lucky-trailer/",
@@ -11919,7 +11974,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T17:47:12+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Graph-in-Fabric-Generally-Available/ba-p/5190748",
@@ -11929,7 +11985,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Analyze-Your-Business-Events-in-Eventhouse-and-Real-Time/ba-p/5190245",
@@ -11939,7 +11996,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Turn-insights-into-signals-with-Activator-as-a-Business-Event/ba-p/5190248",
@@ -11949,7 +12007,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/tomorrow-is-the-big-day-sony-a7rvi-is-shipping-out-in-the-usa/",
@@ -11959,7 +12018,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/ios-27-wishlist/",
@@ -11969,7 +12029,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/apple-app-store-texas-sb-2420/",
@@ -11979,7 +12040,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/three-apple-stores-closing-this-month/",
@@ -11989,7 +12051,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/",
@@ -11999,7 +12062,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/beats-pill-ad-love-island-usa/",
@@ -12009,7 +12073,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/amazon-macbook-neo/",
@@ -12019,7 +12084,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-03T21:10:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/03/ios-27-app-rumors/",
@@ -12029,7 +12095,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-04T01:13:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.macrumors.com/review/bluetti-elite-10-power-station/",
@@ -12039,7 +12106,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-04T01:13:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/sony-just-announced-the-development-of-a-new-65mm-medium-format-sensor-for-the-venice-2/",
@@ -12049,7 +12117,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-04T05:42:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-04T09:18:44+00:00"
     }
   ],
   "last_checked": "2026-06-04T05:42:55+00:00"
