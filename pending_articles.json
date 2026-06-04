@@ -12119,7 +12119,77 @@
       "discovered": "2026-06-04T05:42:55+00:00",
       "status": "synced",
       "synced_at": "2026-06-04T09:18:44+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7rvi-dynamic-range-measured-by-bill-claff-a-1-stop-improvement-at-low-iso-compared-to-the-previous-sony-a7rv/",
+      "title": "Sony A7rVI Dynamic Range measured by Bill Claff: a 1-stop improvement at low ISO compared to the previous Sony A7rV.",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-04T11:51:39+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T13:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/apple-card-savings-rate-lower/",
+      "title": "Apple Card Savings Account's Interest Rate Lowered",
+      "author": "Joe Rossignol",
+      "published": "2026-06-04T13:12:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T13:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/airpods-max-2-low-price-499/",
+      "title": "AirPods Max 2 Hit New Low Price of $499",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-04T13:06:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T13:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
+      "title": "iPhone 18 Pro: Dark Cherry, Light Blue, and Dark Gray Chassis Leaked",
+      "author": "Tim Hardwick",
+      "published": "2026-06-04T12:12:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T13:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/apples-ad-safari-more-private-than-chrome/",
+      "title": "Apple's New Ad Pitches Safari as a More Private Alternative to Chrome",
+      "author": "Tim Hardwick",
+      "published": "2026-06-04T11:24:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T13:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-max-device-thickness-revealed/",
+      "title": "iPhone 18 Pro Max Device Thickness Allegedly Revealed",
+      "author": "Tim Hardwick",
+      "published": "2026-06-04T10:39:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T13:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/",
+      "title": "Apple's Overhauled Siri Will Reportedly Run on Nvidia's Blackwell Chips",
+      "author": "Tim Hardwick",
+      "published": "2026-06-04T09:31:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T13:16:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-04T05:42:55+00:00"
+  "last_checked": "2026-06-04T13:16:57+00:00"
 }
