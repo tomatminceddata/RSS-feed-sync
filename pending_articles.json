@@ -12020,7 +12020,27 @@
       "parser": "default",
       "discovered": "2026-06-03T21:10:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/03/ios-27-app-rumors/",
+      "title": "iOS 27: All the Rumored App Features",
+      "author": "Juli Clover",
+      "published": "2026-06-03T22:48:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T01:13:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/bluetti-elite-10-power-station/",
+      "title": "Bluetti Elite 10 Mini Power Station Review: Small, Capable, and Apple-Friendly",
+      "author": "Juli Clover",
+      "published": "2026-06-03T20:56:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T01:13:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-03T21:10:55+00:00"
+  "last_checked": "2026-06-04T01:13:55+00:00"
 }
