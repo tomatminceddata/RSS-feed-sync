@@ -12189,7 +12189,97 @@
       "parser": "default",
       "discovered": "2026-06-04T13:16:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Dataflow-Gen2-and-Power-Query-innovations-at-Microsoft-Build-Low/ba-p/5189028",
+      "title": "Dataflow Gen2 and Power Query innovations at Microsoft Build: Low-code data transformation with standout scale, performance, and reuse",
+      "author": "miguel",
+      "published": "2026-06-04T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-04T17:09:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-autonomous-action-with-operations-agent-Generally/ba-p/5192046",
+      "title": "Advancing autonomous action with operations agent (Generally Available)",
+      "author": "WillT",
+      "published": "2026-06-04T16:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-04T17:09:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Orchestration-in-Fabric-Data-Factory-Build-2026-recap/ba-p/5185775",
+      "title": "Orchestration in Fabric Data Factory: Build 2026 recap",
+      "author": "makromer",
+      "published": "2026-06-04T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-04T17:09:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7rvi-finally-in-stock-and-shipping/",
+      "title": "Sony A7rVI finally in Stock and shipping!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-04T15:09:18+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T17:09:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/apple-tv-friday-night-baseball-july/",
+      "title": "Apple TV and MLB Release July Schedule for 'Friday Night Baseball'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-04T16:15:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T17:09:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/apple-highlights-2025-app-store-study/",
+      "title": "Apple Highlights App Store Study: $1.4 Trillion in Sales Last Year, More Than 90% Commission-Free",
+      "author": "Joe Rossignol",
+      "published": "2026-06-04T15:08:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T17:09:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/apple-arcade-adding-nine-new-games/",
+      "title": "Apple Arcade Adding Nine New Games, Including 'Family Feud Pocket'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-04T14:48:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T17:09:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/apple-watch-series-11-100-off-6/",
+      "title": "Apple Watch Series 11 Drops to $299 at Amazon, $100 Off Select Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-04T14:24:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T17:09:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/macbook-ultra-hybrid-oled-laptop-displays/",
+      "title": "'MacBook Ultra' May Drive Industry Shift to Hybrid OLED Laptop Displays",
+      "author": "Tim Hardwick",
+      "published": "2026-06-04T12:54:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T17:09:29+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-04T13:16:57+00:00"
+  "last_checked": "2026-06-04T17:09:29+00:00"
 }
