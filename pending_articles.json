@@ -12279,7 +12279,57 @@
       "parser": "default",
       "discovered": "2026-06-04T17:09:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-query-acceleration-to-cache-cooldown-Everything-new-in/ba-p/5191621",
+      "title": "From query acceleration to cache cooldown: Everything new in Fabric Data Warehouse at Build 2026",
+      "author": "tinotereshko",
+      "published": "2026-06-04T18:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-04T20:48:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Benchmarking-Dataflow-Gen2-Faster-data-transformation-at-lower/ba-p/5189072",
+      "title": "Benchmarking Dataflow Gen2: Faster data transformation at lower cost",
+      "author": "miguel",
+      "published": "2026-06-04T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-04T20:48:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Migration-Assistant-Enhancements-for-Fabric-Data-Warehouse/ba-p/5190675",
+      "title": "Migration Assistant Enhancements for Fabric Data Warehouse",
+      "author": "prl",
+      "published": "2026-06-04T17:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-04T20:48:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/apple-park-visitor-center-wwdc-2026-merch/",
+      "title": "Apple Park Visitor Center Gets New Merch Ahead of WWDC 2026",
+      "author": "Juli Clover",
+      "published": "2026-06-04T19:35:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T20:48:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/satechi-cubedock/",
+      "title": "Satechi CubeDock Review: A Thunderbolt 5 Dock That Doubles as an SSD Enclosure",
+      "author": "Juli Clover",
+      "published": "2026-06-04T19:28:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T20:48:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-04T17:09:29+00:00"
+  "last_checked": "2026-06-04T20:48:01+00:00"
 }
