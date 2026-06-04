@@ -12040,7 +12040,17 @@
       "parser": "default",
       "discovered": "2026-06-04T01:13:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-just-announced-the-development-of-a-new-65mm-medium-format-sensor-for-the-venice-2/",
+      "title": "Sony just announced the development of a new 65mm medium format sensor for the Venice 2",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-04T05:26:23+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-04T05:42:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-04T01:13:55+00:00"
+  "last_checked": "2026-06-04T05:42:55+00:00"
 }
