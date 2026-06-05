@@ -12329,7 +12329,47 @@
       "parser": "default",
       "discovered": "2026-06-04T20:48:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/macos-27-features/",
+      "title": "5+ New Features Coming in macOS 27",
+      "author": "Juli Clover",
+      "published": "2026-06-04T23:27:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T01:04:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/macos-27-wwdc-2026-wishlist/",
+      "title": "macOS 27 Wishlist: What Do You Want From Apple at WWDC 2026?",
+      "author": "Juli Clover",
+      "published": "2026-06-04T21:54:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T01:04:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/04/beats-headphones-lamine-yamal/",
+      "title": "Upcoming Beats Headphones Teased in a Second Color by Lamine Yamal",
+      "author": "Eric Slivka",
+      "published": "2026-06-04T21:29:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T01:04:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/ugreen-magflow-air-nexode-air/",
+      "title": "Ugreen MagFlow Air and Nexode Air Review: A Power Bank and Charger Built for iPhone",
+      "author": "Juli Clover",
+      "published": "2026-06-04T21:28:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T01:04:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-04T20:48:01+00:00"
+  "last_checked": "2026-06-05T01:04:52+00:00"
 }
