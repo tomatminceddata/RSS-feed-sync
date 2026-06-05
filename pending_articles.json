@@ -12399,7 +12399,67 @@
       "parser": "default",
       "discovered": "2026-06-05T13:11:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/caldigit-ts5-element-5/",
+      "title": "CalDigit TS5 and Element 5 Hub Review: Two Thunderbolt 5 Docks for Apple's Latest Macs",
+      "author": "Juli Clover",
+      "published": "2026-06-05T16:30:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T16:53:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/05/foldable-iphone-may-not-come-in-black/",
+      "title": "Foldable iPhone May Not Come in Black, Leaker Suggests",
+      "author": "Hartley Charlton",
+      "published": "2026-06-05T15:19:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T16:53:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/05/will-apple-launch-new-hardware-at-wwdc-next-week/",
+      "title": "Will Apple Launch New Hardware at WWDC Next Week?",
+      "author": "Tim Hardwick",
+      "published": "2026-06-05T14:56:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T16:53:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/05/best-apple-deals-of-the-week-6-5-26/",
+      "title": "$499 AirPods Max 2? The Best Apple Deals of the Week Are Here",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-05T14:32:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T16:53:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/05/ios-27-longer-battery-life-report/",
+      "title": "iOS 27 Will Reportedly Give Your iPhone 'Longer Battery Life'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-05T14:20:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T16:53:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/05/ios-27-notifications-slide-in-from-left/",
+      "title": "iOS 27 Notifications Will Slide in From Left Side of Your iPhone's Screen",
+      "author": "Joe Rossignol",
+      "published": "2026-06-05T14:16:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-05T16:53:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-05T13:11:44+00:00"
+  "last_checked": "2026-06-05T16:53:44+00:00"
 }
