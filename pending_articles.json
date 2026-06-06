@@ -12547,7 +12547,27 @@
       "parser": "default",
       "discovered": "2026-06-06T12:36:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/06/top-stories-all-systems-glow-wwdc-2026/",
+      "title": "Top Stories: 'All Systems Glow' for WWDC, MacBook Neo Popularity, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-06-05T21:47:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-06T16:30:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/06/best-apple-deals-of-the-week-6-5-26/",
+      "title": "$499 AirPods Max 2? The Best Apple Deals of the Week Are Here",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-05T14:32:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-06T16:30:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-06T12:36:15+00:00"
+  "last_checked": "2026-06-06T16:30:08+00:00"
 }
