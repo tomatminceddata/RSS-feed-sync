@@ -12479,7 +12479,27 @@
       "parser": "default",
       "discovered": "2026-06-05T20:41:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/wwdc-2026-what-to-expect/",
+      "title": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More",
+      "author": "Juli Clover",
+      "published": "2026-06-05T21:15:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-06T01:00:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/05/apple-watch-series-11-refurbished/",
+      "title": "Apple Starts Selling Refurbished Apple Watch Series 11, Ultra 3, and SE 3",
+      "author": "Juli Clover",
+      "published": "2026-06-05T21:14:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-06T01:00:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-05T20:41:10+00:00"
+  "last_checked": "2026-06-06T01:00:52+00:00"
 }
