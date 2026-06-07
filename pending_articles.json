@@ -12546,7 +12546,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-06T12:36:15+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-07T21:01:50+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/06/top-stories-all-systems-glow-wwdc-2026/",
@@ -12556,7 +12557,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-06T16:30:08+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-07T21:01:50+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/06/best-apple-deals-of-the-week-6-5-26/",
@@ -12566,7 +12568,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-06T16:30:08+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-07T21:01:50+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
@@ -12576,7 +12579,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-07T12:41:00+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-07T21:01:50+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/full-specs-of-the-upcoming-viltrox-75mm-and-90mm-aps-c-lenses/",
@@ -12586,7 +12590,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-07T16:35:50+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-07T21:01:50+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/07/ankers-prime-chargers-low/",
@@ -12596,7 +12601,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-07T16:35:50+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-07T21:01:50+00:00"
     }
   ],
   "last_checked": "2026-06-07T16:35:50+00:00"
