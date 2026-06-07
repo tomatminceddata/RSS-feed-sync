@@ -12577,7 +12577,27 @@
       "parser": "default",
       "discovered": "2026-06-07T12:41:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/full-specs-of-the-upcoming-viltrox-75mm-and-90mm-aps-c-lenses/",
+      "title": "Full specs of the upcoming Viltrox 75mm and 90mm APS-C lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-07T12:49:59+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-07T16:35:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/07/ankers-prime-chargers-low/",
+      "title": "Anker 3-in-1 Wireless Charging Station Now $40 Off Ahead of Amazon Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-07T14:00:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-07T16:35:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-07T12:41:00+00:00"
+  "last_checked": "2026-06-07T16:35:50+00:00"
 }
