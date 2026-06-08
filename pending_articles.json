@@ -12603,7 +12603,27 @@
       "discovered": "2026-06-07T16:35:50+00:00",
       "status": "synced",
       "synced_at": "2026-06-07T21:01:50+00:00"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-swag-bag-little-finder-guy/",
+      "title": "WWDC 2026 Swag Bag Includes Little Finder Guy",
+      "author": "Tim Hardwick",
+      "published": "2026-06-08T09:38:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T09:44:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/how-to-watch-apple-wwdc-2026/",
+      "title": "How to Watch Apple's WWDC 2026 Keynote on June 8",
+      "author": "Tim Hardwick",
+      "published": "2026-06-05T08:49:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T09:44:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-07T16:35:50+00:00"
+  "last_checked": "2026-06-08T09:44:57+00:00"
 }
