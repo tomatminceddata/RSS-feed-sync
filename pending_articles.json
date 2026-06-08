@@ -12693,7 +12693,57 @@
       "parser": "default",
       "discovered": "2026-06-08T13:37:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/AI-Powered-Power-BI-reporting-From-design-to-deployment-with/ba-p/5190703",
+      "title": "AI-Powered Power BI reporting: From design to deployment with agent skills (Preview)",
+      "author": "Sharlkaur",
+      "published": "2026-06-08T16:18:27+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-08T17:12:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/",
+      "title": "Apple's Beta Website Says 'We'll Be Back Soon' Just Ahead of WWDC",
+      "author": "Joe Rossignol",
+      "published": "2026-06-08T16:20:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T17:12:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-live-coverage/",
+      "title": "WWDC 2026 Apple Event Live Keynote Coverage: iOS 27, Revamped Siri, and More",
+      "author": "Jordan Golson",
+      "published": "2026-06-08T16:01:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T17:12:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/tim-cook-apple-event-good-morning-video/",
+      "title": "Apple Event Today: Tim Cook Kicks Things Off With 'Good Morning' Video",
+      "author": "Joe Rossignol",
+      "published": "2026-06-08T15:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T17:12:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-spoiler-free/",
+      "title": "WWDC 2026 Spoiler-Free Video Stream",
+      "author": "Eric Slivka",
+      "published": "2026-06-08T14:55:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T17:12:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-08T13:37:29+00:00"
+  "last_checked": "2026-06-08T17:12:59+00:00"
 }
