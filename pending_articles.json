@@ -12743,7 +12743,217 @@
       "parser": "default",
       "discovered": "2026-06-08T17:12:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/AI-Powered-Power-BI-reporting-From-design-to-deployment-with/ba-p/5190703",
+      "title": "AI-Powered Power BI reporting: From design to deployment with agent skills (Preview)",
+      "author": "Sharlkaur",
+      "published": "2026-06-08T17:29:20+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/siri-ai-gains-customizable-voice/",
+      "title": "Siri AI Gains Customizable Voice Expressiveness and Pace",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T20:48:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-wallet-create-pass/",
+      "title": "iOS 27 Wallet App Gets 'Create a Pass' Feature",
+      "author": "Juli Clover",
+      "published": "2026-06-08T20:46:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-intelligence-gains-smarter-writing-tools/",
+      "title": "Apple Intelligence Gains Smarter Writing Tools in iOS 27",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T20:35:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-camera-siri-mode/",
+      "title": "iOS 27 Camera App Gets Siri Mode, Updated UI",
+      "author": "Juli Clover",
+      "published": "2026-06-08T20:31:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/safari-tab-organization-and-ai-generated-extensions/",
+      "title": "Apple Brings AI Tab Organization and AI-Generated Extensions to Safari",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T20:18:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-passwords-can-now-automatically-fix-passwords-with-agentic-ai/",
+      "title": "Apple Passwords Can Now Automatically Fix Weak and Compromised Passwords With Agentic AI",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T20:05:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-calendar-reminders/",
+      "title": "iOS 27 Calendar and Reminders Apps Get New AI Features and Natural Language Support",
+      "author": "Juli Clover",
+      "published": "2026-06-08T20:00:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/siri-ai-compatible-iphone-models/",
+      "title": "Apple Says New Siri is Compatible With These iPhones, iPads, and Macs",
+      "author": "Joe Rossignol",
+      "published": "2026-06-08T19:53:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-intelligence-contextual-call-messages-features/",
+      "title": "Apple Intelligence Introduces Contextual Call and Messages Features",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T19:49:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-adds-ai-descriptions-and-smarter-notifications-to-home/",
+      "title": "Apple to Add AI Video Descriptions and Smarter Notifications to Home App",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T19:32:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-parental-controls/",
+      "title": "iOS 27 Adds New Parental Controls: Ask to Browse, Time Allowances, and a Redesigned Screen Time",
+      "author": "Juli Clover",
+      "published": "2026-06-08T19:27:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-revamps-image-playground/",
+      "title": "Apple Revamps Image Playground With Photorealistic Generation and New Editing Tools",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T19:22:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-unveils-xcode-and-models-improvements/",
+      "title": "Apple Unveils Xcode and Foundation Models Framework Improvements",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T19:05:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-siri-ai-waitlist/",
+      "title": "How to Get iOS 27's New Siri AI: Join the Waitlist First",
+      "author": "Juli Clover",
+      "published": "2026-06-08T19:02:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-releases-ios-27-beta-1/",
+      "title": "Apple Releases First iOS 27, iPadOS 27, and macOS 27 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-06-08T19:01:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ipados-27-drops-support-for-a-wave-of-ipads/",
+      "title": "iPadOS 27 Drops Support for a Wave of iPads",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T18:50:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-and-siri-ai-release-date/",
+      "title": "Apple Announces When iOS 27 and Revamped 'Siri AI' Will Be Released",
+      "author": "Joe Rossignol",
+      "published": "2026-06-08T18:37:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/watchos-27-drops-support-for-apple-watch-series-9-ultra-se-2/",
+      "title": "watchOS 27 Drops Support for Apple Watch Series 9, Ultra 1, SE 2, and Older",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T18:37:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/macs-compatible-macos-golden-gate/",
+      "title": "Here Are the Macs Compatible With macOS Golden Gate",
+      "author": "Tim Hardwick",
+      "published": "2026-06-08T18:35:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/siri-ai-not-available-eu-china/",
+      "title": "New Siri AI Features Won't Be Available in EU Later This Year",
+      "author": "Tim Hardwick",
+      "published": "2026-06-08T18:16:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-08T20:57:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-08T17:12:59+00:00"
+  "last_checked": "2026-06-08T20:57:50+00:00"
 }
