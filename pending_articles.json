@@ -13403,7 +13403,47 @@
       "parser": "default",
       "discovered": "2026-06-09T17:01:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Power-up-in-SSMS-22-7-Schema-compare-and-SQL-formatting/ba-p/5193417",
+      "title": "Power-up in SSMS 22.7: Schema compare and SQL formatting",
+      "author": "drew-sk",
+      "published": "2026-06-09T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-09T20:46:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-June-2026-Feature-Summary/ba-p/5193264",
+      "title": "Power BI June 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-06-09T19:48:16+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-09T20:46:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/macos-golden-gate-liquid-glass/",
+      "title": "All the Liquid Glass Changes in macOS Golden Gate",
+      "author": "Juli Clover",
+      "published": "2026-06-09T19:11:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T20:46:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/airpods-ios-27-beta-firmware/",
+      "title": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
+      "author": "Juli Clover",
+      "published": "2026-06-09T18:31:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T20:46:13+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-09T17:01:22+00:00"
+  "last_checked": "2026-06-09T20:46:13+00:00"
 }
