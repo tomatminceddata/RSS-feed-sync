@@ -13133,7 +13133,157 @@
       "parser": "default",
       "discovered": "2026-06-09T09:16:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-viltrox-af-75mm-f-1-8-and-90mm-f-2-2-available-for-preorder/",
+      "title": "New Viltrox AF 75mm f/1.8 and 90mm f/2.2 available for preorder",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-09T11:31:42+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/petapixel-review-of-the-new-thypoch-voyager-af-24-50mm-f-2-8-fe-lens/",
+      "title": "PetaPixel review of the new Thypoch Voyager AF 24-50mm f/2.8 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-09T09:38:18+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/icloud-subscribers-get-higher-apple-intelligence-usage-limits/",
+      "title": "iCloud+ Subscribers to Get Higher Apple Intelligence Usage Limits in iOS 27",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T13:05:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/apple-music-gains-automix-upgrades-and-more-in-ios-27/",
+      "title": "Apple Music Gains AutoMix Upgrades and More in iOS 27",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T12:49:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/ios-27-overhauled-airpods-settings-menu/",
+      "title": "iOS 27 Introduces Overhauled AirPods Settings Menu",
+      "author": "Tim Hardwick",
+      "published": "2026-06-09T12:42:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/macos-27-golden-gate-gains-ultrawide-support/",
+      "title": "macOS 27 Golden Gate Gains Native Ultrawide Display Support",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T11:53:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/apple-unifies-wallpapers-for-the-first-time/",
+      "title": "Apple Unifies iOS 27, macOS, and Even CarPlay Wallpapers for First Time",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T11:44:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/macos-27-lets-you-resize-iphone-mirroring/",
+      "title": "macOS 27 Lets You Resize iPhone Mirroring in New Aspect Ratios",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T11:25:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/ios-27-find-my-app-hide-location/",
+      "title": "iOS 27: Find My App Lets You Hide Location From Others Temporarily",
+      "author": "Tim Hardwick",
+      "published": "2026-06-09T11:15:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/apple-outlines-major-ai-and-developer-tool-updates/",
+      "title": "Apple Outlines Major AI and Developer Tool Updates at 2026 Platforms State of the Union",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T11:07:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/ios-27-dismiss-now-playing-lock-screen-widget/",
+      "title": "iOS 27 Lets You Dismiss the 'Now Playing' Lock Screen Widget",
+      "author": "Tim Hardwick",
+      "published": "2026-06-09T11:00:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/watchos-27-gains-consolidated-and-redesigned-find-my-app/",
+      "title": "watchOS 27 Gains a Consolidated and Redesigned Find My App",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T10:15:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/instagram-now-lets-users-reorder-posts/",
+      "title": "Instagram Now Lets Users Reorder Posts on Their Profile Grid",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T09:51:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/visionos-27-new-icelandic-environment/",
+      "title": "visionOS 27 Gains New Icelandic Environment Called 'Thórsmörk'",
+      "author": "Tim Hardwick",
+      "published": "2026-06-09T09:48:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/apple-expands-gymkit-to-iphone-and-airpods-pro-3/",
+      "title": "Apple Expands GymKit to iPhone and AirPods Pro 3",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T09:26:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T13:09:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-09T09:16:55+00:00"
+  "last_checked": "2026-06-09T13:09:08+00:00"
 }
