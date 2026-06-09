@@ -13283,7 +13283,127 @@
       "parser": "default",
       "discovered": "2026-06-09T13:09:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/apple-highlights-ios-27-features/",
+      "title": "Apple Says iOS 27 Adds These 12 New Features to Your iPhone",
+      "author": "Joe Rossignol",
+      "published": "2026-06-09T16:41:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/macos-27-brings-direct-touch-control-to-sidecar/",
+      "title": "macOS 27 Finally Brings Direct Touch Control to Sidecar",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T16:17:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/nomad-stellar-orange-charger/",
+      "title": "Nomad's New Stellar Orange Charger and Find My Card Match the iPhone 17 Pro",
+      "author": "Juli Clover",
+      "published": "2026-06-09T16:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/ios-27-fixes-justin-bieber-problem/",
+      "title": "iOS 27 Fixes Justin Bieber's Problem in Messages App",
+      "author": "Joe Rossignol",
+      "published": "2026-06-09T15:53:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/visionos-27-siri-ai-eye-aware-notifications/",
+      "title": "visionOS 27: Siri AI, Eye-Aware Notifications, Curved Windows, and More",
+      "author": "Tim Hardwick",
+      "published": "2026-06-09T15:44:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/macos-27-golden-gate-pull-to-refresh-support/",
+      "title": "macOS 27 Golden Gate Adopts iPhone-Like Pull-to-Refresh Support",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T15:36:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/apple-shares-state-of-the-union-recap-video/",
+      "title": "Apple Shares 5-Minute WWDC Platforms State of the Union Recap Video",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T15:16:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/ios-26-adoption-stats-wwdc/",
+      "title": "Apple Reveals How Many iPhones Were Running iOS 26 Before WWDC",
+      "author": "Joe Rossignol",
+      "published": "2026-06-09T14:43:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/apple-podcasts-gets-video-on-mac-and-apple-tv/",
+      "title": "Apple Podcasts Gets Video on Mac and Apple TV, Plus New Search Feature",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T14:40:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/eu-says-decision-not-to-launch-siri-ai-in-europe-is-apples/",
+      "title": "EU Says Decision Not to Launch Siri AI in Europe Is Apple's Alone",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T14:07:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/apples-new-ai-contains-no-gemini/",
+      "title": "Apple's New AI Models Contain 'None' of Google's Gemini Assistant",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T13:46:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/benq-ma320ug-display/",
+      "title": "BenQ MA320UG Review: A 32-Inch 4K 120Hz Display Made for Macs",
+      "author": "Juli Clover",
+      "published": "2026-06-09T12:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T17:01:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-09T13:09:08+00:00"
+  "last_checked": "2026-06-09T17:01:22+00:00"
 }
