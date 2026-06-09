@@ -12953,7 +12953,177 @@
       "parser": "default",
       "discovered": "2026-06-08T20:57:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/wwdc-2026-recap/",
+      "title": "Everything Apple Announced at WWDC 2026 in 10 Minutes",
+      "author": "Juli Clover",
+      "published": "2026-06-09T00:46:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/watchos-27-features-dynamic-app-grid-new-and-more/",
+      "title": "watchOS 27 Features Dynamic App Grid, New Gesture Control, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T00:16:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-photos-finally-gets-a-slideshow-maker/",
+      "title": "Apple Photos Finally Gets a Slideshow Maker",
+      "author": "Hartley Charlton",
+      "published": "2026-06-09T00:04:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/watchos-27-workout-buddy-upgrades-better-sleep-tracking/",
+      "title": "watchOS 27 Introduces Workout Buddy Upgrades, Better Sleep Tracking, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T23:49:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-adds-perimenopause-and-menopause-tracking/",
+      "title": "iOS 27 Adds Perimenopause and Menopause Tracking to Health App",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T23:33:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-maps-flyover-ios-27/",
+      "title": "Apple Maps Flyover Gets a Visual Upgrade in iOS 27",
+      "author": "Juli Clover",
+      "published": "2026-06-08T23:29:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/new-apple-carplay-features-ios-27/",
+      "title": "Apple Announces New CarPlay Features on iOS 27, Including Video Apps",
+      "author": "Joe Rossignol",
+      "published": "2026-06-08T23:17:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-watch-series-9-mistakenly-off-watchos-27-list/",
+      "title": "Apple Watch Series 9 Mistakenly Left Off watchOS 27 Compatibility List",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T23:17:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-private-cloud-compute-google/",
+      "title": "Apple's Private AI Will Run on Google's Servers",
+      "author": "Juli Clover",
+      "published": "2026-06-08T23:00:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-brings-icloud-shared-albums-to-android/",
+      "title": "Apple Brings Full-Resolution iCloud Shared Albums to Android and Windows",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T22:57:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-tidbits/",
+      "title": "iOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More",
+      "author": "Juli Clover",
+      "published": "2026-06-08T22:23:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/tim-cook-delivers-remarks-at-his-last-keynote/",
+      "title": "Tim Cook Delivers Farewell Remarks at His Last Apple Keynote as CEO",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T21:42:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-overhauls-genmoji-in-ios-27/",
+      "title": "Apple Overhauls Genmoji in iOS 27",
+      "author": "Juli Clover",
+      "published": "2026-06-08T21:29:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/ios-27-hints-at-foldable-iphone-with-app-resizability-push/",
+      "title": "iOS 27 Hints at Foldable iPhone With App Resizability Push and New Framework Strings",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T21:24:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/",
+      "title": "tvOS 27 Drops Support for Two Apple TV Models",
+      "author": "Joe Rossignol",
+      "published": "2026-06-08T21:17:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/most-powerful-on-device-ai-now-requires-iphone-17-pro-or-air/",
+      "title": "Apple's Most Powerful On-Device AI Now Requires iPhone 17 Pro or iPhone Air",
+      "author": "Hartley Charlton",
+      "published": "2026-06-08T21:00:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/08/apple-announces-tvos-27/",
+      "title": "Apple Announces tvOS 27 With These New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-06-08T20:55:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-09T01:00:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-08T20:57:50+00:00"
+  "last_checked": "2026-06-09T01:00:09+00:00"
 }
