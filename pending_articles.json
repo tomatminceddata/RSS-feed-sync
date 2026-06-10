@@ -13483,7 +13483,27 @@
       "parser": "default",
       "discovered": "2026-06-10T01:06:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/iphone-17s-8gb-limit-loses-siri-ai-features/",
+      "title": "iPhone 17's 8GB Limit Costs It These Two Siri AI Features in iOS 27",
+      "author": "Tim Hardwick",
+      "published": "2026-06-10T09:12:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T09:22:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/tvos-27-apple-music-hi-res-lossless-audio-apple-tv/",
+      "title": "tvOS 27: Apple Music Gains Hi-Res Lossless Audio on Apple TV 4K",
+      "author": "Tim Hardwick",
+      "published": "2026-06-10T08:43:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T09:22:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-10T01:06:34+00:00"
+  "last_checked": "2026-06-10T09:22:52+00:00"
 }
