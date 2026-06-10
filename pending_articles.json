@@ -13443,7 +13443,47 @@
       "parser": "default",
       "discovered": "2026-06-09T20:46:13+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/viltrox-af-90mm-f2-2-evo-hands-on-review-aiarty-image-video-cleanup-workflow/",
+      "title": "Viltrox AF 90mm F2.2 EVO Hands-on Review + Aiarty Image & Video Cleanup Workflow",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-09T23:27:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T01:06:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/app-store-guidelines-low-quality-apps/",
+      "title": "Apple Updates App Store Guidelines With Stricter Rules for Low-Quality Apps",
+      "author": "Juli Clover",
+      "published": "2026-06-09T22:52:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T01:06:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/anthropic-fable-5/",
+      "title": "Anthropic Launches Claude Fable 5, Its First Public Mythos-Class Model",
+      "author": "Juli Clover",
+      "published": "2026-06-09T22:08:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T01:06:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/09/telegram-apple-watch-app/",
+      "title": "Telegram Gets Native Apple Watch App",
+      "author": "Juli Clover",
+      "published": "2026-06-09T21:37:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T01:06:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-09T20:46:13+00:00"
+  "last_checked": "2026-06-10T01:06:34+00:00"
 }
