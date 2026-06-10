@@ -13573,7 +13573,97 @@
       "parser": "default",
       "discovered": "2026-06-10T13:21:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Cross-workspace-role-management-in-the-OneLake-catalog-Preview/ba-p/5192072",
+      "title": "Cross-workspace role management in the OneLake catalog (Preview)",
+      "author": "aonelakeuser",
+      "published": "2026-06-10T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-10T17:12:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/this-e-mount-film-camera-looks-like-to-be-death/",
+      "title": "This E-mount film camera seems to be a dead project",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-10T13:51:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T17:12:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/the-macrumors-show-siri-ai-wwdc-2026/",
+      "title": "The MacRumors Show: Siri AI, Apple Intelligence in Apps, and More at WWDC 2026",
+      "author": "Hartley Charlton",
+      "published": "2026-06-10T16:41:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T17:12:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/how-liquid-glass-is-changing-in-ios-27/",
+      "title": "Here's How Liquid Glass Is Changing in iOS 27",
+      "author": "Hartley Charlton",
+      "published": "2026-06-10T15:17:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T17:12:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/macos-27-hints-at-macbook-ultra/",
+      "title": "macOS 27 Hints at 'MacBook Ultra' in Three Ways",
+      "author": "Joe Rossignol",
+      "published": "2026-06-10T15:00:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T17:12:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/early-prime-day-deals-expand/",
+      "title": "Amazon's Early Prime Day Deals Expand With New Sales on Desktop NAS and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-10T14:32:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T17:12:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/apple-seemingly-discontinuing-vision-pro-case/",
+      "title": "Apple Seemingly Discontinuing Vision Pro Travel Case Around the World",
+      "author": "Hartley Charlton",
+      "published": "2026-06-10T13:44:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T17:12:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/ios-27-new-apple-wallet-features/",
+      "title": "iOS 27 Adds Six New Features to Apple Wallet on Your iPhone",
+      "author": "Joe Rossignol",
+      "published": "2026-06-10T13:21:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T17:12:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/ios-27-five-new-features-iphone-lock-screen/",
+      "title": "iOS 27 Brings These Five New Features to Your iPhone Lock Screen",
+      "author": "Tim Hardwick",
+      "published": "2026-06-10T13:12:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T17:12:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-10T13:21:12+00:00"
+  "last_checked": "2026-06-10T17:12:46+00:00"
 }
