@@ -13663,7 +13663,47 @@
       "parser": "default",
       "discovered": "2026-06-10T17:12:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/",
+      "title": "Apple Shares Massive List of Over 250 Changes Across iOS 27, macOS Golden Gate, and More",
+      "author": "Joe Rossignol",
+      "published": "2026-06-10T20:34:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T20:58:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/ios-27-siri-ai-hands-on/",
+      "title": "Hands-On With iOS 27's Siri AI",
+      "author": "Juli Clover",
+      "published": "2026-06-10T19:48:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T20:58:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/ios-27-tap-to-share-feature/",
+      "title": "iOS 27 Introduces New 'Tap to Share' Feature, But Not Available in EU",
+      "author": "Joe Rossignol",
+      "published": "2026-06-10T17:51:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T20:58:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/sonos-summer-sale/",
+      "title": "Sonos Summer Sale Takes Up to 25% Off Speakers, Headphones, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-10T17:14:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T20:58:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-10T17:12:46+00:00"
+  "last_checked": "2026-06-10T20:58:54+00:00"
 }
