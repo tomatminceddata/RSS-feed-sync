@@ -13503,7 +13503,77 @@
       "parser": "default",
       "discovered": "2026-06-10T09:22:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/pmr-tv-answered-28-questions-about-the-new-100-400mm-gm/",
+      "title": "PMR-TV answered 28 Questions about the new 100-400mm GM",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-10T09:40:59+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T13:21:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/airpods-pro-3-low-price-of-179/",
+      "title": "AirPods Pro 3 Hit New Low Price of $179",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-10T12:43:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T13:21:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/macos-golden-gate-last-to-support-intel-apps/",
+      "title": "macOS 27 Golden Gate Is the Last to Support Intel Apps via Rosetta 2",
+      "author": "Hartley Charlton",
+      "published": "2026-06-10T12:39:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T13:21:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/federighi-explains-why-apple-pivoted-to-siri-chatbot/",
+      "title": "Craig Federighi Explains Why Apple Pivoted to a Siri Chatbot App",
+      "author": "Hartley Charlton",
+      "published": "2026-06-10T12:07:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T13:21:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/watchos-27-removes-walkie-talkie/",
+      "title": "Apple Removes Walkie-Talkie From Apple Watch in watchOS 27 Beta",
+      "author": "Hartley Charlton",
+      "published": "2026-06-10T11:31:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T13:21:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/everything-new-messages-ios-27/",
+      "title": "14 Ways Apple Is Improving Messages in iOS 27",
+      "author": "Tim Hardwick",
+      "published": "2026-06-10T10:45:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T13:21:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/10/ios-27-new-functionality-to-homepod/",
+      "title": "iOS 27 Brings New Functionality to HomePod",
+      "author": "Tim Hardwick",
+      "published": "2026-06-10T10:00:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-10T13:21:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-10T09:22:52+00:00"
+  "last_checked": "2026-06-10T13:21:12+00:00"
 }
