@@ -13723,7 +13723,97 @@
       "parser": "default",
       "discovered": "2026-06-11T05:42:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-100-400mm-gm-is-now-shipping-out-in-the-usa/",
+      "title": "New Sony 100-400mm GM is now shipping out in the USA!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-11T13:21:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T13:31:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-samyang-schneider-fe-lens-is-coming-on-june-25-is-it-the-new-28-135mm-f-2-8-or-60-180mm-f-2-8/",
+      "title": "New Samyang/Schneider FE lens is coming on June 25: Is it the new 28-135mm f/2.8 or 60-180mm f/2.8?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-11T11:58:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T13:31:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/ios-27-improves-facetime-in-three-ways/",
+      "title": "iOS 27 Improves FaceTime in Three Ways",
+      "author": "Joe Rossignol",
+      "published": "2026-06-11T13:27:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T13:31:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/wwdc-2026-keynote-major-departure/",
+      "title": "WWDC 2026 Keynote Marked a Major Departure From Previous Years",
+      "author": "Hartley Charlton",
+      "published": "2026-06-11T12:52:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T13:31:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/apple-maps-to-get-these-10-new-features-in-ios-27/",
+      "title": "Apple Maps to Get These 10 New Features in iOS 27",
+      "author": "Hartley Charlton",
+      "published": "2026-06-11T12:45:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T13:31:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/apple-fights-back-against-epic/",
+      "title": "Apple Fights Back Against Epic's Bid to Kill Supreme Court Appeal",
+      "author": "Hartley Charlton",
+      "published": "2026-06-11T12:01:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T13:31:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/deezer-launches-ai-music-detector/",
+      "title": "Deezer Launches AI Music Detector for Apple Music, Spotify, and More",
+      "author": "Tim Hardwick",
+      "published": "2026-06-11T11:33:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T13:31:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/these-older-iphones-update-keep-running-whatsapp/",
+      "title": "These Older iPhones Will Need an Update to Keep Running WhatsApp",
+      "author": "Tim Hardwick",
+      "published": "2026-06-11T10:27:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T13:31:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/bypass-siri-ai-waitlist-macos-27-beta/",
+      "title": "Bypass Siri AI Waitlist on macOS 27 Golden Gate Beta: Here's How",
+      "author": "Tim Hardwick",
+      "published": "2026-06-11T09:46:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T13:31:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-11T05:42:01+00:00"
+  "last_checked": "2026-06-11T13:31:02+00:00"
 }
