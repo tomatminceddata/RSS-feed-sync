@@ -13813,7 +13813,117 @@
       "parser": "default",
       "discovered": "2026-06-11T13:31:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Time-Series-Visualization-in-Real-Time-Dashboard-Preview/ba-p/5194571",
+      "title": "Time Series Visualization in Real-Time Dashboard (Preview)",
+      "author": "MichalBar",
+      "published": "2026-06-11T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Live-refresh-for-Real-Time-Dashboards-Generally-Available/ba-p/5194911",
+      "title": "Live refresh for Real-Time Dashboards (Generally Available)",
+      "author": "MichalBar",
+      "published": "2026-06-11T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Beyond-markdown-Shareable-sites-with-Rayfin-Preview/ba-p/5196072",
+      "title": "Beyond markdown: Shareable sites with Rayfin (Preview)",
+      "author": "analyticanna",
+      "published": "2026-06-11T14:40:40+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/ios-27-connectivity-assist/",
+      "title": "iOS 27's Wi-Fi Settings Include Rebranded 'Connectivity Assist' Feature",
+      "author": "Joe Rossignol",
+      "published": "2026-06-11T17:12:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/aapl-stock-slides-following-wwdc/",
+      "title": "AAPL Stock Slides Following WWDC, But Analysts Broadly Raise Targets",
+      "author": "Hartley Charlton",
+      "published": "2026-06-11T15:51:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/apple-agrees-to-let-jon-prosser-contest-lawsuit/",
+      "title": "Apple Agrees to Let Jon Prosser Formally Contest iOS 26 Leak Lawsuit",
+      "author": "Hartley Charlton",
+      "published": "2026-06-11T14:57:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/apple-bucks-smartphone-slump-with-production-surge/",
+      "title": "Apple Bucks Smartphone Slump With Production Surge",
+      "author": "Hartley Charlton",
+      "published": "2026-06-11T14:28:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/touchscreen-macbook-confirmed-leaker/",
+      "title": "Touchscreen MacBook '100% Confirmed,' Says Reputable Leaker",
+      "author": "Tim Hardwick",
+      "published": "2026-06-11T14:24:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/macos-27-golden-gate-menu-items/",
+      "title": "macOS 27 Golden Gate Reverses a Divisive Tahoe Design Choice",
+      "author": "Tim Hardwick",
+      "published": "2026-06-11T14:19:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/lowest-prices-ever-airpods-pro-3-max-2/",
+      "title": "These Are the Lowest Prices Ever on AirPods Pro 3 and AirPods Max 2",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-11T13:57:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/apple-introduces-app-store-subscription-overhaul/",
+      "title": "Apple Introduces Major App Store Subscription Overhaul at WWDC 2026",
+      "author": "Hartley Charlton",
+      "published": "2026-06-11T13:50:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T17:21:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-11T13:31:02+00:00"
+  "last_checked": "2026-06-11T17:21:19+00:00"
 }
