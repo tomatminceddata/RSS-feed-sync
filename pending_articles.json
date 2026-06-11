@@ -13923,7 +13923,47 @@
       "parser": "default",
       "discovered": "2026-06-11T17:21:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-way-to-create-visuals-on-Real-Time-Dashboards-Preview/ba-p/5194484",
+      "title": "A new way to create visuals on Real-Time Dashboards – (Preview)",
+      "author": "MichalBar",
+      "published": "2026-06-11T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-11T20:54:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/ios-27-weather-app-forecast-views/",
+      "title": "iOS 27's Weather App Has a New Way to View Forecasts",
+      "author": "Joe Rossignol",
+      "published": "2026-06-11T20:10:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T20:54:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/ios-27-apple-tv-remote-app/",
+      "title": "iOS 27 Lets You Add Apple TV Remote to Your iPhone's Home Screen",
+      "author": "Joe Rossignol",
+      "published": "2026-06-11T18:51:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T20:54:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/apple-airpods-pro-3-anc-ad/",
+      "title": "Apple Touts 'World's Best' AirPods Pro 3 Noise Cancellation in New Vini Jr. Ad",
+      "author": "Juli Clover",
+      "published": "2026-06-11T17:25:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T20:54:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-11T17:21:19+00:00"
+  "last_checked": "2026-06-11T20:54:52+00:00"
 }
