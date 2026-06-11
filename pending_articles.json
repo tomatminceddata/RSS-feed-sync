@@ -13713,7 +13713,17 @@
       "parser": "wordpress",
       "discovered": "2026-06-11T01:06:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/viltrox-will-announce-a-new-pancake-lens-on-june-16/",
+      "title": "Viltrox will announce a new pancake lens on June 16",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-11T04:23:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-11T05:42:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-11T01:06:54+00:00"
+  "last_checked": "2026-06-11T05:42:01+00:00"
 }
