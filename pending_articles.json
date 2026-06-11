@@ -13703,7 +13703,17 @@
       "parser": "default",
       "discovered": "2026-06-10T20:58:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Migrating-Azure-Data-Factory-pipelines-to-Fabric-directly-from/ba-p/5190801",
+      "title": "Migrating Azure Data Factory pipelines to Fabric directly from your Fabric workspace",
+      "author": "SindhuBharadwaj",
+      "published": "2026-06-10T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-11T01:06:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-10T20:58:54+00:00"
+  "last_checked": "2026-06-11T01:06:54+00:00"
 }
