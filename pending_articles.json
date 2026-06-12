@@ -14123,7 +14123,47 @@
       "parser": "default",
       "discovered": "2026-06-12T17:06:24+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/lots-of-new-fathers-day-deals-at-bhphoto/",
+      "title": "Lot’s of new Fathers Day Deals at BHphoto",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-12T20:19:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T20:50:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/apple-watch-close-your-rings-band/",
+      "title": "Apple's Limited-Edition 2026 'Close Your Rings' Watch Band Revealed",
+      "author": "Joe Rossignol",
+      "published": "2026-06-12T20:30:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T20:50:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/macos-golden-gate-hands-on/",
+      "title": "macOS 27 Golden Gate Hands-On: Every Major New Feature",
+      "author": "Juli Clover",
+      "published": "2026-06-12T18:47:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T20:50:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/last-chance-apple-card-airpods-pro-3-promo/",
+      "title": "Last Chance: Apple Card Sign-Up Promo Can Earn You Free AirPods Pro 3",
+      "author": "Joe Rossignol",
+      "published": "2026-06-12T18:26:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T20:50:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-12T17:06:24+00:00"
+  "last_checked": "2026-06-12T20:50:23+00:00"
 }
