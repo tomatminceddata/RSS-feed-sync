@@ -14003,7 +14003,17 @@
       "parser": "default",
       "discovered": "2026-06-12T01:10:04+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-samyang-60-180mm-f-2-8-fe-lens-already-listed-at-aliexpress/",
+      "title": "New Samyang 60-180mm f/2.8 FE lens already listed at Aliexpress",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-12T07:35:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T09:32:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-12T01:10:04+00:00"
+  "last_checked": "2026-06-12T09:32:44+00:00"
 }
