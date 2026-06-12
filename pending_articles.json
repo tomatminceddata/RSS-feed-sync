@@ -14013,7 +14013,47 @@
       "parser": "default",
       "discovered": "2026-06-12T09:32:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/many-influencers-and-youtubers-spotted-testing-new-gear-is-it-the-next-new-aps-c-e-mount-camera/",
+      "title": "Many influencers and youtubers spotted testing new gear: Is it the next new APS-C E-mount camera?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-12T12:00:52+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T13:19:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/federighi-swipes-at-ai-rivals/",
+      "title": "Craig Federighi Swipes at AI Rivals Who Are 'Racing Forward' Without Regard for Users",
+      "author": "Hartley Charlton",
+      "published": "2026-06-12T13:10:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T13:19:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/watchos-27-improves-apple-watch-performance/",
+      "title": "watchOS 27 Improves Apple Watch Performance in Seven Ways",
+      "author": "Tim Hardwick",
+      "published": "2026-06-12T11:34:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T13:19:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/audible-launches-connected-apple-podcasts/",
+      "title": "Audible Launches Connected Subscription for Apple Podcasts",
+      "author": "Hartley Charlton",
+      "published": "2026-06-12T10:59:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T13:19:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-12T09:32:44+00:00"
+  "last_checked": "2026-06-12T13:19:56+00:00"
 }
