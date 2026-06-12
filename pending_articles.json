@@ -13963,7 +13963,47 @@
       "parser": "default",
       "discovered": "2026-06-11T20:54:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-health-app/",
+      "title": "iOS 27: All the New Health and Fitness Features",
+      "author": "Juli Clover",
+      "published": "2026-06-11T23:35:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T01:10:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/apple-siri-ai-interview/",
+      "title": "Apple's Craig Federighi: Siri Won't Be Your AI Girlfriend",
+      "author": "Juli Clover",
+      "published": "2026-06-11T22:26:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T01:10:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/11/apple-aicoa-reintroduction-criticism/",
+      "title": "Apple Criticizes U.S. Antitrust Bill That Targets the App Store",
+      "author": "Juli Clover",
+      "published": "2026-06-11T21:49:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T01:10:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-photos-app/",
+      "title": "What's New in the iOS 27 Photos App",
+      "author": "Juli Clover",
+      "published": "2026-06-11T21:05:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T01:10:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-11T20:54:52+00:00"
+  "last_checked": "2026-06-12T01:10:04+00:00"
 }
