@@ -14053,7 +14053,77 @@
       "parser": "default",
       "discovered": "2026-06-12T13:19:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/ios-27-macos-27-drawing-tools/",
+      "title": "iOS 27 and macOS 27 Golden Gate Expand Drawing Tools to Three Apps",
+      "author": "Joe Rossignol",
+      "published": "2026-06-12T16:41:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T17:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/notion-is-migrating-to-swiftui/",
+      "title": "Notion Is Migrating to SwiftUI, Apple Confirms at WWDC",
+      "author": "Hartley Charlton",
+      "published": "2026-06-12T15:10:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T17:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/15-new-apple-products-rumored/",
+      "title": "Apple to Release These 15 New Products Later This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-06-12T14:45:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T17:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/best-apple-deals-of-the-week-6-12-26/",
+      "title": "Record AirPods Price Drops and a Rare Switch 2 Sale: This Week's Top Tech Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-12T14:33:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T17:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/apple-highlights-new-fitness-content/",
+      "title": "Apple Highlights New Fitness+ Content",
+      "author": "Hartley Charlton",
+      "published": "2026-06-12T14:16:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T17:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/ios-27-landscape-mode-apps/",
+      "title": "iOS 27 Adds Landscape Mode to More Apple Apps Ahead of 'iPhone Ultra'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-12T13:55:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T17:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/12/apple-cut-frequencies-to-prevent-siri-activations/",
+      "title": "Apple Cut Frequencies in WWDC Keynote to Prevent Siri Activations",
+      "author": "Hartley Charlton",
+      "published": "2026-06-12T13:23:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-12T17:06:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-12T13:19:56+00:00"
+  "last_checked": "2026-06-12T17:06:24+00:00"
 }
