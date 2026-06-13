@@ -14193,7 +14193,37 @@
       "parser": "default",
       "discovered": "2026-06-13T12:45:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/13/these-16-apple-devices-lose-software-support-this-fall/",
+      "title": "Have One of These 16 Apple Devices? Software Support Ends This Fall",
+      "author": "Hartley Charlton",
+      "published": "2026-06-13T15:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-13T16:36:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/13/top-stories-wwdc-2026-recap/",
+      "title": "Top Stories: WWDC 2026 Recap With Siri AI, iOS 27, macOS Golden Gate, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-06-12T17:23:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-13T16:36:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/13/best-apple-deals-of-the-week-6-12-26/",
+      "title": "Record AirPods Price Drops and a Rare Switch 2 Sale: This Week's Top Tech Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-12T14:33:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-13T16:36:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-13T12:45:00+00:00"
+  "last_checked": "2026-06-13T16:36:19+00:00"
 }
