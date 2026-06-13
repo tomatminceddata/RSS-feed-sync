@@ -14183,7 +14183,17 @@
       "parser": "default",
       "discovered": "2026-06-13T01:08:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/christopher-frost-tokina-35-70mm-f-2-8-vintage-lens-review-on-the-sony-a7riii/",
+      "title": "Christopher Frost Tokina 35-70mm f/2.8 (Vintage) lens review on the Sony A7rIII",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-13T11:29:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-13T12:45:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-13T01:08:41+00:00"
+  "last_checked": "2026-06-13T12:45:00+00:00"
 }
