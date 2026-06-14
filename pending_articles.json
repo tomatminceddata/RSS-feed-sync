@@ -14223,7 +14223,17 @@
       "parser": "default",
       "discovered": "2026-06-13T16:36:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/13/antonee-robinson-beats-headphones/",
+      "title": "Antonee Robinson Shows Off Unreleased Two-Tone Beats Over-Ear Headphones at the World Cup",
+      "author": "Eric Slivka",
+      "published": "2026-06-13T22:13:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-14T01:10:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-13T16:36:19+00:00"
+  "last_checked": "2026-06-14T01:10:01+00:00"
 }
