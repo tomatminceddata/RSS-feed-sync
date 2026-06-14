@@ -14243,7 +14243,17 @@
       "parser": "default",
       "discovered": "2026-06-14T12:48:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-meike-85mm-f-1-4-fe-lens-available-for-preorder/",
+      "title": "New Meike 85mm f/1.4 FE lens available for preorder",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-14T20:16:53+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-14T20:34:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-14T12:48:18+00:00"
+  "last_checked": "2026-06-14T20:34:30+00:00"
 }
