@@ -14343,7 +14343,77 @@
       "parser": "default",
       "discovered": "2026-06-15T14:16:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Simplified-Oracle-connectivity-in-Power-BI-Preview/ba-p/5193366",
+      "title": "Simplified Oracle connectivity in Power BI (Preview)",
+      "author": "kayu",
+      "published": "2026-06-15T17:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-15T17:42:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Migrating-from-embedded-ODBC-drivers-to-ADBC-in-Power-BI-and/ba-p/5195167",
+      "title": "Migrating from embedded ODBC drivers to ADBC in Power BI and Fabric",
+      "author": "MichaelaIsaacs",
+      "published": "2026-06-15T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-15T17:42:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/apple-seeds-macos-tahoe-26-6-beta-2/",
+      "title": "Second macOS Tahoe 26.6 Beta Now Available for Developers",
+      "author": "Juli Clover",
+      "published": "2026-06-15T17:09:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T17:42:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/apple-releases-ios-26-6-beta-2/",
+      "title": "Apple Seeds Second iOS 26.6 and iPadOS 26.6 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-06-15T17:07:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T17:42:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/apple-seeds-watchos-26-6-beta-2/",
+      "title": "Apple Releases Second watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
+      "author": "Juli Clover",
+      "published": "2026-06-15T17:06:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T17:42:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/apple-preparing-ios-26-5-2/",
+      "title": "iOS 26.5.2 Coming Soon Alongside the iOS 26.6 and iOS 27 Betas",
+      "author": "Joe Rossignol",
+      "published": "2026-06-15T17:03:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T17:42:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/philips-hue-and-wiz-launch-sports-live-feature/",
+      "title": "Philips Hue and WiZ Launch Sports Live Feature for the 2026 World Cup",
+      "author": "Hartley Charlton",
+      "published": "2026-06-15T15:38:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T17:42:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-15T14:16:43+00:00"
+  "last_checked": "2026-06-15T17:42:09+00:00"
 }
