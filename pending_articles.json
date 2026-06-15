@@ -14253,7 +14253,27 @@
       "parser": "default",
       "discovered": "2026-06-14T20:34:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/this-crappy-camera-could-be-the-future-of-photography/",
+      "title": "This crappy camera could be the future of photography",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-15T09:32:23+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T10:15:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/uk-ban-social-media-under-16s/",
+      "title": "UK to Ban Social Media for Under-16s Starting in 2027",
+      "author": "Tim Hardwick",
+      "published": "2026-06-15T09:09:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T10:15:07+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-14T20:34:30+00:00"
+  "last_checked": "2026-06-15T10:15:07+00:00"
 }
