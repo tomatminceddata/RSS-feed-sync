@@ -14273,7 +14273,77 @@
       "parser": "default",
       "discovered": "2026-06-15T10:15:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/message-to-the-source-who-just-sent-me-information-about-a-new-sony-camera/",
+      "title": "Message to the source who just sent me information about a new Sony camera…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-15T13:16:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T14:16:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/this-patent-suggest-the-new-zeiss-otus-lenses-have-been-designed-by-cosina/",
+      "title": "This patent suggest the new Zeiss Otus lenses have been designed by Cosina",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-15T12:18:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T14:16:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/apple-watch-ultra-3-drops-699/",
+      "title": "Apple Watch Ultra 3 Drops to $699.99 Ahead of Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-15T13:52:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T14:16:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/iphone-18-pro-may-face-same-durability-issues/",
+      "title": "Leaker Warns iPhone 18 Pro New Colors May Face Same Durability Issues",
+      "author": "Hartley Charlton",
+      "published": "2026-06-15T12:56:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T14:16:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/app-store-gains-personalized-recommendations/",
+      "title": "Apple Adds Personalized Recommendations and New Marketing Tools to the App Store",
+      "author": "Hartley Charlton",
+      "published": "2026-06-15T12:18:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T14:16:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/three-unannounced-ios-27-features-are-still-coming/",
+      "title": "These Three Unannounced iOS 27 Features Are Still Coming",
+      "author": "Hartley Charlton",
+      "published": "2026-06-15T11:26:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T14:16:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/apple-could-build-an-openclaw-competitor/",
+      "title": "Apple Could Build an OpenClaw Competitor Eventually",
+      "author": "Hartley Charlton",
+      "published": "2026-06-15T10:47:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T14:16:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-15T10:15:07+00:00"
+  "last_checked": "2026-06-15T14:16:43+00:00"
 }
