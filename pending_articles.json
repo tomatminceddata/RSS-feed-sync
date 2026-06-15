@@ -14594,7 +14594,37 @@
       "discovered": "2026-06-15T17:42:09+00:00",
       "status": "synced",
       "synced_at": "2026-06-15T19:53:10+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/thew-new-friedman-archives-guide-to-sonys-a7-v/",
+      "title": "Thew new Friedman Archives Guide to Sony’s A7 V",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-15T19:42:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T21:05:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/chase-sapphire-preferred-card-new-apple-perk/",
+      "title": "Chase Sapphire Preferred Card Introduces New Perk for Apple Customers",
+      "author": "Joe Rossignol",
+      "published": "2026-06-15T18:56:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T21:05:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
+      "title": "No iPhone 18 This Year, Apple Supplier Comments Seemingly Confirm",
+      "author": "Tim Hardwick",
+      "published": "2026-06-15T17:47:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-15T21:05:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-15T17:42:09+00:00"
+  "last_checked": "2026-06-15T21:05:43+00:00"
 }
