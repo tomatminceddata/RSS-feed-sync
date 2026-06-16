@@ -14624,7 +14624,37 @@
       "parser": "default",
       "discovered": "2026-06-15T21:05:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-siri/",
+      "title": "Siri AI in iOS 27: Features, Requirements, and How It Works",
+      "author": "Juli Clover",
+      "published": "2026-06-15T23:17:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T01:15:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/apple-private-icloud-email-domain/",
+      "title": "Apple to Unify Sign in With Apple and Hide My Email on One Domain",
+      "author": "Juli Clover",
+      "published": "2026-06-15T22:56:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T01:15:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/15/apple-card-nike-promo-2026/",
+      "title": "Apple Card Promo Doubles Daily Cash Back on Nike Purchases",
+      "author": "Juli Clover",
+      "published": "2026-06-15T21:45:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T01:15:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-15T21:05:43+00:00"
+  "last_checked": "2026-06-16T01:15:02+00:00"
 }
