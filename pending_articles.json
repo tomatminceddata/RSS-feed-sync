@@ -14854,7 +14854,87 @@
       "parser": "default",
       "discovered": "2026-06-16T17:46:37+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Spark-History-Server-performance-improvement-Snapshot-based/ba-p/5196953",
+      "title": "Spark History Server performance improvement: Snapshot-based loading (Preview)",
+      "author": "jiang_jenny1",
+      "published": "2026-06-16T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-16T21:06:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Stay-informed-about-Microsoft-Fabric-service-issues-Preview/ba-p/5194037",
+      "title": "Stay informed about Microsoft Fabric service issues (Preview)",
+      "author": "royr",
+      "published": "2026-06-16T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-16T21:06:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Org-apps-with-audiences-for-Power-BI-and-Fabric-Generally/ba-p/5196326",
+      "title": "Org apps with audiences for Power BI and Fabric (Generally Available)",
+      "author": "dustinaskinpbi",
+      "published": "2026-06-16T19:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-16T21:06:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/beats-studio-buds-bluetooth-vulnerability/",
+      "title": "Beats Studio Buds Firmware Update Patches Bluetooth Vulnerability",
+      "author": "Juli Clover",
+      "published": "2026-06-16T20:19:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T21:06:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/airpods-pro-firmware-8b41/",
+      "title": "Apple Releases New Firmware for AirPods Pro 2, AirPods Pro 3 and Beats Studio Buds",
+      "author": "Juli Clover",
+      "published": "2026-06-16T20:08:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T21:06:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/snap-specs-ar-glasses/",
+      "title": "Snap Launches $2,195 'Specs' Augmented Reality Glasses",
+      "author": "Juli Clover",
+      "published": "2026-06-16T19:56:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T21:06:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/apple-just-added-new-accessories/",
+      "title": "Apple Just Added New Accessories, Including Thinnest-Ever PopSockets",
+      "author": "Joe Rossignol",
+      "published": "2026-06-16T19:42:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T21:06:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/apple-watch-challenge-yoga-day-2026/",
+      "title": "Apple Watch Activity Challenge for International Day of Yoga Coming June 21",
+      "author": "Juli Clover",
+      "published": "2026-06-16T18:55:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T21:06:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-16T17:46:37+00:00"
+  "last_checked": "2026-06-16T21:06:50+00:00"
 }
