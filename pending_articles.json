@@ -14764,7 +14764,97 @@
       "parser": "default",
       "discovered": "2026-06-16T13:57:37+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Copy-job-for-SAP-with-ABAP-Add-On-in-Microsoft-Fabric-Preview/ba-p/5196120",
+      "title": "Copy job for SAP with ABAP Add-On in Microsoft Fabric (Preview)",
+      "author": "UlrichChrist",
+      "published": "2026-06-16T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-16T17:46:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/schlage-sense-pro-release-date/",
+      "title": "Schlage Launching Sense Pro Door Lock With Hands-Free Unlocking via iPhone or Apple Watch",
+      "author": "Joe Rossignol",
+      "published": "2026-06-16T17:18:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T17:46:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/apple-ios-26-6-public-beta-2/",
+      "title": "Apple Seeds Second Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
+      "author": "Juli Clover",
+      "published": "2026-06-16T17:18:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T17:46:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/2028-iphones-a22-pro-chips/",
+      "title": "Apple's 2028 iPhones to Use 1.4nm A22 Pro Chips",
+      "author": "Juli Clover",
+      "published": "2026-06-16T17:15:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T17:46:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/20th-anniversary-iphone-size-options/",
+      "title": "Apple's 20th Anniversary iPhones to Come in Two Sizes, Will Launch Alongside Gen 2 Foldable iPhone",
+      "author": "Juli Clover",
+      "published": "2026-06-16T16:50:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T17:46:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/airpods-camera-late-2027/",
+      "title": "Apple's Camera-Equipped AirPods Coming in Late 2027 Alongside 20th Anniversary iPhone",
+      "author": "Juli Clover",
+      "published": "2026-06-16T16:25:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T17:46:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/ios-27-revamps-app-icons/",
+      "title": "iOS 27 Revamps App Icons With Sharper Liquid Glass Layers",
+      "author": "Hartley Charlton",
+      "published": "2026-06-16T16:18:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T17:46:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/disney-world-ios-27-apple-wallet/",
+      "title": "Walt Disney World to Offer iOS 27's Upgraded Apple Wallet Key Feature",
+      "author": "Joe Rossignol",
+      "published": "2026-06-16T16:17:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T17:46:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/prime-day-2026-early-deals/",
+      "title": "Prime Day 2026: Best Early Deals on Monitors, Chargers, and Accessories",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-16T14:42:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T17:46:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-16T13:57:37+00:00"
+  "last_checked": "2026-06-16T17:46:37+00:00"
 }
