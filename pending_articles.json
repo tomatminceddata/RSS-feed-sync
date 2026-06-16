@@ -14654,7 +14654,27 @@
       "parser": "default",
       "discovered": "2026-06-16T01:15:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-japanese-sales-rankings/",
+      "title": "New Japanese sales rankings:",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-16T09:52:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T09:53:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/foldable-iphone-delay-rumors-false-leaker/",
+      "title": "Foldable iPhone Delay Rumors Are 'False,' Leaker Claims",
+      "author": "Tim Hardwick",
+      "published": "2026-06-16T09:14:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T09:53:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-16T01:15:02+00:00"
+  "last_checked": "2026-06-16T09:53:54+00:00"
 }
