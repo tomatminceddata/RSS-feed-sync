@@ -14674,7 +14674,97 @@
       "parser": "default",
       "discovered": "2026-06-16T09:53:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Unlocking-Microsoft-OneLake-as-the-data-foundation-for-Azure/ba-p/5201876",
+      "title": "Unlocking Microsoft OneLake as the data foundation for Azure Databricks customers",
+      "author": "diptiborkar",
+      "published": "2026-06-16T13:09:07+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-16T13:57:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Extending-interoperability-Azure-Databricks-can-now-store-Unity/ba-p/5199741",
+      "title": "Extending interoperability: Azure Databricks can now store Unity Catalog managed tables directly in OneLake",
+      "author": "preshah",
+      "published": "2026-06-16T13:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-16T13:57:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/this-is-how-the-sony-alpha-camera-would-look-if-it-would-use-the-new-sony-65mm-sensor/",
+      "title": "This is how the Sony Alpha camera would look if it would use the new Sony 65mm sensor",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-16T13:03:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T13:57:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/siri-ai-might-tell-you-to-take-breaks/",
+      "title": "Siri AI Might Tell You to Take Breaks, Remind You It's Not a Real Person",
+      "author": "Hartley Charlton",
+      "published": "2026-06-16T13:41:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T13:57:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/chase-sapphire-reserve-apple-one-discount/",
+      "title": "New 'Apple One' Perk Extends to Chase's Sapphire Reserve Credit Card",
+      "author": "Joe Rossignol",
+      "published": "2026-06-16T13:39:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T13:57:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/apple-details-terminal-anti-scam-warning-in-macos/",
+      "title": "Apple Details Terminal Anti-Scam Warning in macOS",
+      "author": "Tim Hardwick",
+      "published": "2026-06-16T13:17:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T13:57:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/iphone-18-could-make-siri-a-circle/",
+      "title": "Siri Uses Pill Shape to Hide the Dynamic Island in iOS 27, But iPhone 18 Could Make It a Circle",
+      "author": "Hartley Charlton",
+      "published": "2026-06-16T12:10:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T13:57:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/apple-faces-first-italian-dma-probe-icloud/",
+      "title": "Apple Faces First Italian DMA Probe on iCloud Interoperability",
+      "author": "Tim Hardwick",
+      "published": "2026-06-16T11:25:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T13:57:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/16/iphone-18-to-pack-12gb-of-ram/",
+      "title": "iPhone 18 to Pack 12GB of RAM for Smarter Siri Features, No Price Bump",
+      "author": "Tim Hardwick",
+      "published": "2026-06-16T10:31:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-16T13:57:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-16T09:53:54+00:00"
+  "last_checked": "2026-06-16T13:57:37+00:00"
 }
