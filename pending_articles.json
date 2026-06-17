@@ -14994,7 +14994,87 @@
       "parser": "default",
       "discovered": "2026-06-17T13:24:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/ServiceNow-Zero-Copy-Querying-of-Enterprise-Data-in-Microsoft/ba-p/5198369",
+      "title": "ServiceNow Zero-Copy Querying of Enterprise Data in Microsoft OneLake (Preview)",
+      "author": "amitch",
+      "published": "2026-06-17T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-17T17:07:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Spark-failure-diagnosis-in-Fabric-Preview/ba-p/5196959",
+      "title": "Simplify Spark failure diagnosis in Fabric (Preview)",
+      "author": "jiang_jenny1",
+      "published": "2026-06-17T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-17T17:07:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/webkit-rule-costs-ios-users-browser-performance/",
+      "title": "Apple's WebKit Rules Reportedly Cost iOS Users Almost 30% Browser Performance",
+      "author": "Hartley Charlton",
+      "published": "2026-06-17T16:14:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T17:07:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/powerbeats-pro-2-early-prime-day/",
+      "title": "Powerbeats Pro 2 Available for $199.95 Low Price, Plus More Early Prime Day Deals on Beats",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-17T14:52:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T17:07:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/new-hide-my-email-domain-makes-it-easier-to-block/",
+      "title": "Apple's New Hide My Email Domain Makes It Easier to Block iCloud Aliases",
+      "author": "Hartley Charlton",
+      "published": "2026-06-17T14:41:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T17:07:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/airpods-pro-3-new-low-price-of-169/",
+      "title": "AirPods Pro 3 Drops to Record Low $169 on Amazon Ahead of Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-17T14:04:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T17:07:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/macos-27-golden-gate-kills-time-capsule-support/",
+      "title": "macOS 27 Golden Gate Kills Time Capsule Support",
+      "author": "Hartley Charlton",
+      "published": "2026-06-17T13:47:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T17:07:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/apple-records-every-tap-app-store-personal/",
+      "title": "Apple 'Records Every Tap' in App Store to Filter New Personalized Recommendations Feature",
+      "author": "Tim Hardwick",
+      "published": "2026-06-17T13:17:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T17:07:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-17T13:24:55+00:00"
+  "last_checked": "2026-06-17T17:07:59+00:00"
 }
