@@ -15074,7 +15074,47 @@
       "parser": "default",
       "discovered": "2026-06-17T17:07:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/iphone-air-dual-lens-camera-2027/",
+      "title": "iPhone Air With Dual Lens Camera Coming in Spring 2027",
+      "author": "Juli Clover",
+      "published": "2026-06-17T20:18:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T20:49:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/matter-1-6-specification/",
+      "title": "Matter 1.6 Announced With NFC Setup, Cross-Ecosystem Device Sharing, and Smarter Thermostats",
+      "author": "Juli Clover",
+      "published": "2026-06-17T18:29:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T20:49:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/install-ios-27-developer-beta-free/",
+      "title": "You Can Easily Install the iOS 27 Beta For Free Right Now, Here's How",
+      "author": "Joe Rossignol",
+      "published": "2026-06-17T18:01:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T20:49:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/ios-27-apple-notes-app-new-features/",
+      "title": "iOS 27 Adds Four New Features to Notes App, Including Markdown Copy-and-Paste",
+      "author": "Joe Rossignol",
+      "published": "2026-06-17T14:24:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T20:49:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-17T17:07:59+00:00"
+  "last_checked": "2026-06-17T20:49:24+00:00"
 }
