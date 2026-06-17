@@ -14964,7 +14964,37 @@
       "parser": "default",
       "discovered": "2026-06-17T09:45:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-leaked-image-of-a-new-sigma-wide-angle-fe-lens/",
+      "title": "First leaked image of a new Sigma wide angle FE lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-17T13:15:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T13:24:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/private-company-effissimo-overtakes-sony-and-becomes-largest-tamron-shareholder/",
+      "title": "Private company Effissimo overtakes Sony and becomes largest Tamron shareholder",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-17T09:53:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T13:24:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/apple-tv-promo-deal-amazon-prime/",
+      "title": "Apple TV Time-Limited Deal: $5.99/Month for Amazon Prime Members",
+      "author": "Tim Hardwick",
+      "published": "2026-06-17T09:59:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T13:24:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-17T09:45:25+00:00"
+  "last_checked": "2026-06-17T13:24:55+00:00"
 }
