@@ -14954,7 +14954,17 @@
       "parser": "default",
       "discovered": "2026-06-17T01:10:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/whatsapp-view-once-text-messages-iphone/",
+      "title": "WhatsApp Working on View-Once Text Messages for iPhone",
+      "author": "Tim Hardwick",
+      "published": "2026-06-17T08:46:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-17T09:45:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-17T01:10:07+00:00"
+  "last_checked": "2026-06-17T09:45:25+00:00"
 }
