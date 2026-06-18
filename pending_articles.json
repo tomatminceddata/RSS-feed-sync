@@ -15114,7 +15114,37 @@
       "parser": "default",
       "discovered": "2026-06-17T20:49:24+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-reports/ba-p/5193354",
+      "title": "Workspace outbound access protection for Power BI reports (Preview)",
+      "author": "kayu",
+      "published": "2026-06-17T21:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-18T01:09:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/apple-increasing-prices/",
+      "title": "Tim Cook Says Apple Price Increases Are 'Unavoidable' Due to Memory Costs",
+      "author": "Juli Clover",
+      "published": "2026-06-17T21:08:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T01:09:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/17/ipados-27-hands-on/",
+      "title": "iPadOS 27 Hands-On: Everything New for iPad",
+      "author": "Juli Clover",
+      "published": "2026-06-17T20:51:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T01:09:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-17T20:49:24+00:00"
+  "last_checked": "2026-06-18T01:09:04+00:00"
 }
