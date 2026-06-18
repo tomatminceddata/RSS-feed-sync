@@ -15164,7 +15164,27 @@
       "parser": "default",
       "discovered": "2026-06-18T05:43:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-brightin-star-14mm-f-2-8-manual-fe-lens/",
+      "title": "Just announced: New Brightin Star 14mm f/2.8 manual FE Lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-18T07:21:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T09:37:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/12-reasons-wait-iphone-18-pro/",
+      "title": "12 Reasons to Wait for the iPhone 18 Pro",
+      "author": "Tim Hardwick",
+      "published": "2026-06-18T09:17:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T09:37:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-18T05:43:40+00:00"
+  "last_checked": "2026-06-18T09:37:31+00:00"
 }
