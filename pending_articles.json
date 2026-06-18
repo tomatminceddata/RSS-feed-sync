@@ -15284,7 +15284,57 @@
       "parser": "default",
       "discovered": "2026-06-18T17:10:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Monitoring-weather-conditions-in-real-time-using-AI-and-Fabric/ba-p/5197906",
+      "title": "Monitoring weather conditions in real-time using AI and Fabric Eventstream",
+      "author": "arindamc",
+      "published": "2026-06-18T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-18T20:55:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Securing-the-Power-Query-connector-ecosystem-in-Fabric/ba-p/5195164",
+      "title": "Securing the Power Query connector ecosystem in Fabric",
+      "author": "MichaelaIsaacs",
+      "published": "2026-06-18T19:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-18T20:55:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-deals-up-to-20-off-on-7artisans-and-astrhori-lenses/",
+      "title": "New deals: Up to 20% off on 7Artisans and Astrhori lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-18T20:21:42+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T20:55:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/watchos-27-hands-on/",
+      "title": "Hands-On With watchOS 27: Every New Apple Watch Feature",
+      "author": "Juli Clover",
+      "published": "2026-06-18T20:20:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T20:55:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/philips-hue-play-lamps/",
+      "title": "Philips Hue Adds Play Table Lamp, Floor Lamp, and New Candle Bulbs",
+      "author": "Juli Clover",
+      "published": "2026-06-18T18:57:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T20:55:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-18T17:10:03+00:00"
+  "last_checked": "2026-06-18T20:55:41+00:00"
 }
