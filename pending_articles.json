@@ -15144,7 +15144,27 @@
       "parser": "default",
       "discovered": "2026-06-18T01:09:04+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/dzofilm-announces-octopus-ii-multi-mount-lens-adapter-marlin-1-4x-extender/",
+      "title": "DZOFILM Announces Octopus II Multi-Mount Lens Adapter & Marlin 1.4x Extender",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-18T02:51:25+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T05:43:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/testing-aiarty-image-enhancer-on-high-resolution-raw-files-and-iso-12800/",
+      "title": "Testing Aiarty Image Enhancer on High-Resolution RAW Files and ISO 12,800",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-18T01:09:18+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T05:43:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-18T01:09:04+00:00"
+  "last_checked": "2026-06-18T05:43:40+00:00"
 }
