@@ -15204,7 +15204,87 @@
       "parser": "default",
       "discovered": "2026-06-18T13:20:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Schema-Changes-in-Fabric-Data-Warehouse-with-ALTER/ba-p/5215659",
+      "title": "Simplify Schema Changes in Fabric Data Warehouse with ALTER COLUMN (Preview)",
+      "author": "TwinkleCyril",
+      "published": "2026-06-18T15:44:03+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-18T17:10:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Starburst-connector-in/ba-p/5193371",
+      "title": "Microsoft Entra ID single sign-on for the Starburst connector in Power BI (Preview)",
+      "author": "kayu",
+      "published": "2026-06-18T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-18T17:10:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/f1-2026-austrian-grand-prix-free-on-apple-tv/",
+      "title": "You Can Watch All of F1's 2026 Austrian Grand Prix For Free on Apple TV",
+      "author": "Joe Rossignol",
+      "published": "2026-06-18T16:30:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T17:10:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/a12-and-a13-chips-facing-exploit/",
+      "title": "Apple's A12 and A13 Chips Facing New Unpatchable Exploit",
+      "author": "Hartley Charlton",
+      "published": "2026-06-18T16:13:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T17:10:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/apple-announces-ios-app-store-changes-in-brazil/",
+      "title": "Apple Announces Major App Store Changes on iOS in Brazil",
+      "author": "Joe Rossignol",
+      "published": "2026-06-18T15:50:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T17:10:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/ios-27-find-my-features-hide-location/",
+      "title": "iOS 27 Adds These New Features to Find My, Including 'Hide Location'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-18T14:44:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T17:10:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/three-ways-macos-27-improves-iphone-mirroring/",
+      "title": "Three Ways macOS 27 Improves iPhone Mirroring",
+      "author": "Tim Hardwick",
+      "published": "2026-06-18T14:31:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T17:10:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/samsung-2026-monitors/",
+      "title": "Samsung Takes $50 Off 2026 Monitors, Plus Credit Towards Future Purchases",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-18T13:49:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-18T17:10:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-18T13:20:18+00:00"
+  "last_checked": "2026-06-18T17:10:03+00:00"
 }
