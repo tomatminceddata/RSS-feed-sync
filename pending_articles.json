@@ -15334,7 +15334,37 @@
       "parser": "default",
       "discovered": "2026-06-18T20:55:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/New-string-functions-and-operators-in-Fabric-Data-Warehouse/ba-p/5195232",
+      "title": "New string functions and operators in Fabric Data Warehouse (Preview)",
+      "author": "jovanpop-msft",
+      "published": "2026-06-18T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-19T01:14:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-calendar-reminders/",
+      "title": "Everything New in Calendar and Reminders in iOS 27",
+      "author": "Juli Clover",
+      "published": "2026-06-19T00:07:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-19T01:14:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/18/apple-music-most-streamed-all-time-artists/",
+      "title": "Apple Music Reveals Top 20 Most-Streamed Artists of All Time",
+      "author": "Juli Clover",
+      "published": "2026-06-18T22:26:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-19T01:14:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-18T20:55:41+00:00"
+  "last_checked": "2026-06-19T01:14:58+00:00"
 }
