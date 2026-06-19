@@ -15345,7 +15345,17 @@
       "parser": "default",
       "discovered": "2026-06-19T16:53:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/todya-only-at-bh-save-big-on-lexar-sd-cards-lowepro-bag-and-oben-tripod/",
+      "title": "Todya only at BH: Save big on Nextorage Type A, Lexar SD cards, Lowepro bag and Oben tripod",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-19T19:49:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-19T20:36:16+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-19T16:53:49+00:00"
+  "last_checked": "2026-06-19T20:36:16+00:00"
 }
