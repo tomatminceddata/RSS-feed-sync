@@ -15305,7 +15305,47 @@
       "discovered": "2026-06-19T13:19:26+00:00",
       "status": "synced",
       "synced_at": "2026-06-19T15:51:19+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/exclusive-breaking-news-nonew-sony-fx3ii-coming-there-is-something-better-with-many-new-features/",
+      "title": "EXCLUSIVE breaking news: No new Sony FX3II coming…there is something better with many NEW features!!!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-19T13:48:09+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-19T16:53:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/19/the-macrumors-show-hands-on-with-ios-27/",
+      "title": "The MacRumors Show: Hands-On With iOS 27, Brutal watchOS 27 Cuts, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-06-19T16:17:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-19T16:53:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/19/alogic-touchscreen-monitors-portable-displays/",
+      "title": "Alogic Debuts New Touchscreen Monitors and Portable Displays With Mac Support",
+      "author": "Eric Slivka",
+      "published": "2026-06-19T16:09:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-19T16:53:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/19/early-prime-day-deals-apple-2026/",
+      "title": "Prime Day 2026: Best Early Apple Device and Accessory Deals Now Live",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-19T14:43:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-19T16:53:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-19T13:19:26+00:00"
+  "last_checked": "2026-06-19T16:53:49+00:00"
 }
