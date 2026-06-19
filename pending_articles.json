@@ -15204,7 +15204,27 @@
       "parser": "default",
       "discovered": "2026-06-19T09:41:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/",
+      "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models",
+      "author": "Hartley Charlton",
+      "published": "2026-06-19T13:07:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-19T13:19:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/19/iphone-18-pro-could-start-at-1399/",
+      "title": "Report: iPhone 18 Pro Could Start at $1,399 Amid Price Hikes",
+      "author": "Hartley Charlton",
+      "published": "2026-06-19T11:03:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-19T13:19:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-19T09:41:34+00:00"
+  "last_checked": "2026-06-19T13:19:26+00:00"
 }
