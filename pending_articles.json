@@ -15077,7 +15077,37 @@
       "parser": "default",
       "discovered": "2026-06-20T12:45:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/",
+      "title": "Apple Unveiled These Five New Apps Last Week",
+      "author": "Hartley Charlton",
+      "published": "2026-06-20T15:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-20T16:37:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/20/three-apple-stores-closing-today/",
+      "title": "Three Apple Stores in U.S. Are Permanently Closing Today",
+      "author": "Joe Rossignol",
+      "published": "2026-06-20T14:14:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-20T16:37:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/20/top-stories-apple-price-hikes/",
+      "title": "Top Stories: Apple Price Hikes Coming, 20th Anniversary iPhone Rumors, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-06-19T20:25:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-20T16:37:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-20T12:45:28+00:00"
+  "last_checked": "2026-06-20T16:37:55+00:00"
 }
