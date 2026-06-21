@@ -15107,7 +15107,17 @@
       "parser": "default",
       "discovered": "2026-06-20T16:37:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/best-sony-cameras-for-wedding-photographers-and-filmmakers/",
+      "title": "Best Sony cameras for Wedding Photographers and Filmmakers",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-21T12:40:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-21T12:48:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-20T16:37:55+00:00"
+  "last_checked": "2026-06-21T12:48:50+00:00"
 }
