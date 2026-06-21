@@ -15137,7 +15137,17 @@
       "parser": "default",
       "discovered": "2026-06-21T16:38:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/early-prime-deals-available-on-amazon/",
+      "title": "Early Prime Deals available on Amazon",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-21T20:11:47+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-21T20:37:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-21T16:38:47+00:00"
+  "last_checked": "2026-06-21T20:37:37+00:00"
 }
