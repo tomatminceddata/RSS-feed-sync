@@ -15117,7 +15117,27 @@
       "parser": "default",
       "discovered": "2026-06-21T12:48:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/21/airpods-pro-3-record-low-169/",
+      "title": "AirPods Pro 3 Return to Record Low $169 Price Ahead of Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-21T15:32:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-21T16:38:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/21/20-rumored-apple-products-in-2026-and-2027/",
+      "title": "Apple to Release These 20 New Products Across Rest of 2026 and 2027",
+      "author": "Joe Rossignol",
+      "published": "2026-06-21T14:42:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-21T16:38:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-21T12:48:50+00:00"
+  "last_checked": "2026-06-21T16:38:47+00:00"
 }
