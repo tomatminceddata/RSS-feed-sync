@@ -14859,7 +14859,117 @@
       "parser": "default",
       "discovered": "2026-06-22T14:01:37+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Improve-performance-for-Python-UDFs-and-complex-data-types-in/ba-p/5212036",
+      "title": "Improve performance for Python UDFs and complex data types in Microsoft Fabric’s Native Execution Engine",
+      "author": "Santhosh_Ravin1",
+      "published": "2026-06-22T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Event-Driven-Copy-Job-Execution-with-Fabric-Activator-Generally/ba-p/5195808",
+      "title": "Event-Driven Copy Job Execution with Fabric Activator (Generally Available)",
+      "author": "yexu",
+      "published": "2026-06-22T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932",
+      "title": "Protect once, enforce everywhere: Protection policies for Power BI (Generally Available)",
+      "author": "yaelbiss",
+      "published": "2026-06-22T17:24:14+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/22/apple-seeds-macos-golden-gate-beta-2/",
+      "title": "macOS Golden Gate Beta 2 Now available for Developers",
+      "author": "Juli Clover",
+      "published": "2026-06-22T17:09:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/22/apple-seeds-ios-27-beta-2/",
+      "title": "Apple Seeds iOS 27 and iPadOS 27 Second Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-06-22T17:08:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/22/apple-seeds-tvos-27-beta-2-to-developers/",
+      "title": "Apple Seeds tvOS 27 Beta 2 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-06-22T17:06:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/22/visionos-27-beta-2/",
+      "title": "Apple Seeds Second visionOS 27 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-06-22T17:05:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/22/advanced-ai-dictation-not-enabled-by-default/",
+      "title": "Advanced AI Dictation Not Enabled by Default in iOS 27 Beta",
+      "author": "Hartley Charlton",
+      "published": "2026-06-22T15:44:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/22/woot-prime-day-event-switch-2/",
+      "title": "Woot Launches Prime Day Event With Up to $50 Off Nintendo Switch 2",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-22T15:16:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/22/production-of-panels-for-foldable-iphone-approved/",
+      "title": "Apple Approves Production of OLED Panels for Foldable iPhone",
+      "author": "Hartley Charlton",
+      "published": "2026-06-22T15:00:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/22/apple-watch-prime-day-deals/",
+      "title": "Every Apple Watch Model Hits Its Lowest Price Ever for Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-22T14:13:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-22T17:36:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-22T14:01:37+00:00"
+  "last_checked": "2026-06-22T17:36:25+00:00"
 }
