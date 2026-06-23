@@ -15029,7 +15029,107 @@
       "parser": "default",
       "discovered": "2026-06-23T13:07:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/this-is-the-best-amazon-usa-prime-deal-20-off-on-reconditioned-sony-and-tamron-cameras-and-lenses/",
+      "title": "This is the best Amazon USA Prime deal: 20% off on reconditioned Sony and Tamron cameras and lenses!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-23T15:00:31+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/apple-faces-new-app-store-antitrust-complaint/",
+      "title": "Apple Faces New App Store Complaint From Chinese Developers",
+      "author": "Hartley Charlton",
+      "published": "2026-06-23T15:51:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/ankers-wireless-charger-prime-day-2/",
+      "title": "Anker's 3-in-1 Foldable Wireless Charger Drops to $99.74 for Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-23T15:22:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/prime-day-macbook-deals/",
+      "title": "M5 MacBook Air Gets a Major Price Cut for Prime Day Shoppers",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-23T14:42:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/lgs-fourth-of-july-sale/",
+      "title": "LG Drops Major Fourth of July Deals: OLED TVs, UltraWide Monitors, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-23T14:34:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/apple-reality-composer-pro-the-machinery/",
+      "title": "Apple's Latest Vision Pro Tool Contains Traces of Defunct Game Engine 'The Machinery'",
+      "author": "Tim Hardwick",
+      "published": "2026-06-23T14:12:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/meta-launches-its-own-299-smart-glasses/",
+      "title": "Meta Launches Its Own $299 Smart Glasses Ahead of Apple's Debut",
+      "author": "Hartley Charlton",
+      "published": "2026-06-23T14:11:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/109-off-m4-ipad-air-models/",
+      "title": "Prime Day Delivers Steep Price Cuts on 2026 M4 iPad Air",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-23T13:53:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/airpods-prime-day-deals/",
+      "title": "AirPods Prime Day Deals Arrive With AirPods Max 2 at $399 and AirPods 4 at $99",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-23T13:40:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/foldable-iphone-could-lose-1300-in-first-year/",
+      "title": "Apple's Foldable iPhone Could Lose Almost $1,300 in Value in First Year, Study Suggests",
+      "author": "Hartley Charlton",
+      "published": "2026-06-23T13:08:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T16:54:38+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-23T13:07:30+00:00"
+  "last_checked": "2026-06-23T16:54:38+00:00"
 }
