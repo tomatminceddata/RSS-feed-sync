@@ -14969,7 +14969,27 @@
       "parser": "default",
       "discovered": "2026-06-23T00:59:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/european-amazon-prime-day-deals-now-life/",
+      "title": "European Amazon Prime Day Deals now live!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-23T07:23:18+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T09:16:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/apple-3-billion-uk-icloud-case-cleared-for-trial/",
+      "title": "Apple's £3 Billion UK iCloud Case Cleared for Trial",
+      "author": "Tim Hardwick",
+      "published": "2026-06-23T08:47:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-23T09:16:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-23T00:59:27+00:00"
+  "last_checked": "2026-06-23T09:16:35+00:00"
 }
