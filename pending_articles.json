@@ -14861,7 +14861,37 @@
       "parser": "default",
       "discovered": "2026-06-24T09:14:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/this-tamron-wide-angle-zoom-will-be-announced-around-july-3/",
+      "title": "This (Tamron?) wide angle zoom will be announced around July 3",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-24T12:00:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T12:54:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/",
+      "title": "Prime Day 2026: Top Savings on Anker, Beats, TVs, and More Accessories",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-24T12:21:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T12:54:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/24/apple-killed-siri-ai-waitlist-workaround/",
+      "title": "Apple Seemingly Killed Siri AI Waitlist Workaround in macOS 27 Beta 2",
+      "author": "Tim Hardwick",
+      "published": "2026-06-24T12:00:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T12:54:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-24T09:14:53+00:00"
+  "last_checked": "2026-06-24T12:54:02+00:00"
 }
