@@ -14851,7 +14851,17 @@
       "parser": "default",
       "discovered": "2026-06-24T00:57:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-european-amazon-prime-day-deals/",
+      "title": "New European Amazon Prime Day Deals",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-24T06:13:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T09:14:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-24T00:57:32+00:00"
+  "last_checked": "2026-06-24T09:14:53+00:00"
 }
