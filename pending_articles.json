@@ -14891,7 +14891,77 @@
       "parser": "default",
       "discovered": "2026-06-24T12:54:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-amazon-prime-deals-and-new-bhphoto-apple-rebates/",
+      "title": "New Amazon Prime Deals and new BHphoto Apple rebates",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-24T12:57:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T16:49:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/24/best-prime-day-tv-deals/",
+      "title": "Best Prime Day TV Deals Feature Lowest Prices of the Year Across Top Brands",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-24T15:07:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T16:49:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/24/prime-day-2026-macbook-pro/",
+      "title": "Prime Day Discounts Hit 2026 MacBook Pro With Up to $299 Off Select Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-24T14:26:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T16:49:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/24/apple-store-in-ann-arbor-moving-soon/",
+      "title": "Apple Store in Ann Arbor, Michigan is Moving Soon",
+      "author": "Joe Rossignol",
+      "published": "2026-06-24T14:15:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T16:49:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/24/last-chance-airpods-max-2/",
+      "title": "This May Be Your Last Chance to Get AirPods Max 2 for $399 During Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-24T14:03:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T16:49:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
+      "title": "Foldable iPhone 'Ultra' Set for Production in July Despite Hinge Issues",
+      "author": "Tim Hardwick",
+      "published": "2026-06-24T13:29:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T16:49:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/24/ipad-mini-7-rare-99-discounts/",
+      "title": "iPad Mini 7 Gets Rare $99 Discounts During Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-24T13:28:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T16:49:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-24T12:54:02+00:00"
+  "last_checked": "2026-06-24T16:49:56+00:00"
 }
