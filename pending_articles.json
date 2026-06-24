@@ -14821,7 +14821,37 @@
       "parser": "default",
       "discovered": "2026-06-23T20:49:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376",
+      "title": "Microsoft Entra ID single sign-on for the Denodo connector in Power BI (Preview)",
+      "author": "kayu",
+      "published": "2026-06-23T21:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-24T00:57:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-weather/",
+      "title": "iOS 27 Weather App: All the New Features",
+      "author": "Juli Clover",
+      "published": "2026-06-23T23:08:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T00:57:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/23/apple-airpods-beta-firmware-2-ios-27/",
+      "title": "Apple Releases Updated AirPods Beta Firmware With iOS 27 Features",
+      "author": "Juli Clover",
+      "published": "2026-06-23T21:34:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-24T00:57:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-23T20:49:29+00:00"
+  "last_checked": "2026-06-24T00:57:32+00:00"
 }
