@@ -14736,7 +14736,67 @@
       "parser": "default",
       "discovered": "2026-06-25T09:13:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-amazon-prime-deals-and-massive-new-bhphoto-storage-deals/",
+      "title": "New Amazon Prime Deals and Massive New BHphoto storage deals",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-25T12:23:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T12:55:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/and-there-it-is-folks-sony-fx5-has-open-gate/",
+      "title": "And there it is folks: Sony FX5 has Open Gate!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-25T11:31:02+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T12:55:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-just-increased-prices/",
+      "title": "Apple Just Increased Prices: Here's What's Changed",
+      "author": "Hartley Charlton",
+      "published": "2026-06-25T12:44:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T12:55:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apples-online-store-is-down/",
+      "title": "Apple's Online Store Is Down",
+      "author": "Hartley Charlton",
+      "published": "2026-06-25T12:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T12:55:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/ipad-mini-oled-panel-mass-production-starts/",
+      "title": "Report: iPad Mini OLED Panel Mass Production Has Begun",
+      "author": "Tim Hardwick",
+      "published": "2026-06-25T11:30:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T12:55:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/iphone-ultra-2-development-approved-by-apple/",
+      "title": "iPhone Ultra 2 Gets Green Light for Development, Says Leaker",
+      "author": "Tim Hardwick",
+      "published": "2026-06-25T09:24:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T12:55:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-25T09:13:51+00:00"
+  "last_checked": "2026-06-25T12:55:27+00:00"
 }
