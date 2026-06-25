@@ -14796,7 +14796,87 @@
       "parser": "default",
       "discovered": "2026-06-25T12:55:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-2026-back-to-school-offer-when/",
+      "title": "Apple's 2026 Back to School Offer Expected to Begin by Next Week",
+      "author": "Joe Rossignol",
+      "published": "2026-06-25T15:51:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T16:51:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-raises-refurbished-mac-ipad-prices/",
+      "title": "Apple Raises Refurbished Mac and iPad Prices After New Product Hikes",
+      "author": "Tim Hardwick",
+      "published": "2026-06-25T15:28:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T16:51:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-tv-and-homepod-price-increases/",
+      "title": "Apple TV and HomePod Just Went Up in Price Amid Wait for New Models",
+      "author": "Joe Rossignol",
+      "published": "2026-06-25T15:04:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T16:51:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/prime-day-deals-going-strong/",
+      "title": "Prime Day Deals Still Going Strong on AirPods, AirTag, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-25T15:03:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T16:51:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-vision-pro-just-got-even-more-expensive/",
+      "title": "Apple Vision Pro Just Got Even More Expensive",
+      "author": "Hartley Charlton",
+      "published": "2026-06-25T14:46:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T16:51:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/beat-apples-price-hike/",
+      "title": "Beat Apple's Price Hike: Last Chance to Score Cheap iPads and Macs for Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-25T13:53:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T16:51:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-just-raised-macbook-neo-prices/",
+      "title": "Apple Just Raised the Price of the MacBook Neo",
+      "author": "Joe Rossignol",
+      "published": "2026-06-25T13:36:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T16:51:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-hikes-m4-pro-mac-mini-starting-price/",
+      "title": "Apple Hikes M4 Pro Mac Mini Starting Price Amid Rising Memory Costs",
+      "author": "Tim Hardwick",
+      "published": "2026-06-25T13:10:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T16:51:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-25T12:55:27+00:00"
+  "last_checked": "2026-06-25T16:51:39+00:00"
 }
