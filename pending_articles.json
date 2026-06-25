@@ -14876,7 +14876,57 @@
       "parser": "default",
       "discovered": "2026-06-25T16:51:39+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-June-2026/ba-p/5232694",
+      "title": "Fabric Influencers Spotlight: June 2026",
+      "author": "mamathews",
+      "published": "2026-06-25T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-25T20:44:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-stock-worst-day-in-more-than-a-year/",
+      "title": "Apple's Stock Has Worst Day in More Than a Year After Price Increases",
+      "author": "Joe Rossignol",
+      "published": "2026-06-25T20:39:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T20:44:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-seeds-watchos-27-beta-2-ultra-3/",
+      "title": "Apple Seeds New watchOS 27 Beta for Apple Watch Ultra 3",
+      "author": "Juli Clover",
+      "published": "2026-06-25T19:16:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T20:44:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/",
+      "title": "Apple Explains Why It Raised Prices on These 14 Products Today",
+      "author": "Joe Rossignol",
+      "published": "2026-06-25T17:42:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T20:44:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/",
+      "title": "2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6",
+      "author": "Juli Clover",
+      "published": "2026-06-25T17:14:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-25T20:44:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-25T16:51:39+00:00"
+  "last_checked": "2026-06-25T20:44:49+00:00"
 }
