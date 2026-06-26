@@ -14716,7 +14716,37 @@
       "parser": "default",
       "discovered": "2026-06-26T09:14:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-two-sony-cameras-coming-in-july-the-sony-fx5-and-rx10v/",
+      "title": "Confirmed: Sony to Announce the FX5 and RX10 V in July",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-26T11:44:35+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T12:52:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/apple-iring-rumor-returns-oura-ring-rival/",
+      "title": "Apple 'iRing' Rumor Re-Emerges Amid Oura Ring Popularity",
+      "author": "Tim Hardwick",
+      "published": "2026-06-26T12:24:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T12:52:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/refurbished-macbook-neo-now-available/",
+      "title": "Refurbished MacBook Neo Models Now Available, a Day After Price Hike",
+      "author": "Hartley Charlton",
+      "published": "2026-06-26T10:59:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T12:52:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-26T09:14:15+00:00"
+  "last_checked": "2026-06-26T12:52:17+00:00"
 }
