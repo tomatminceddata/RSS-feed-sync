@@ -14746,7 +14746,87 @@
       "parser": "default",
       "discovered": "2026-06-26T12:52:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/last-day-of-amazon-prime-day-and-bhphoto-summer-deals/",
+      "title": "Last Day of Amazon Prime Day and BHphoto Summer Deals",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-26T13:12:20+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T16:46:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/the-macrumors-show-iphone-18-pro-pricing-problem/",
+      "title": "The MacRumors Show: iPhone 18 Pro Has a Pricing Problem",
+      "author": "Hartley Charlton",
+      "published": "2026-06-26T16:16:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T16:46:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/",
+      "title": "Micron Suggests Apple Helped Cause Memory Price Crisis",
+      "author": "Hartley Charlton",
+      "published": "2026-06-26T16:15:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T16:46:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/oled-macbook-stick-with-m5-pro-and-m5-max/",
+      "title": "Apple's OLED 'MacBook Ultra' Will Stick With M5 Pro and M5 Max Chips",
+      "author": "Hartley Charlton",
+      "published": "2026-06-26T15:35:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T16:46:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/pre-hike-prices-on-ipads-macs/",
+      "title": "Amazon and Best Buy Still Offering Pre-Hike Prices on iPads and Macs",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-26T15:26:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T16:46:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-and-foldable-to-get-price-hikes/",
+      "title": "iPhone 18 Pro and Foldable iPhone Tipped to Get Price Hikes Too",
+      "author": "Hartley Charlton",
+      "published": "2026-06-26T14:14:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T16:46:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/more-refurbished-2026-apple-products/",
+      "title": "Apple Adds More 2026 Macs and Studio Display 2 to Refurbished Store",
+      "author": "Joe Rossignol",
+      "published": "2026-06-26T14:13:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T16:46:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/apple-donating-to-venezuela-earthquake-relief/",
+      "title": "Apple Donating to Relief Efforts in Venezuela Following Devastating Earthquakes",
+      "author": "Joe Rossignol",
+      "published": "2026-06-26T14:10:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T16:46:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-26T12:52:17+00:00"
+  "last_checked": "2026-06-26T16:46:09+00:00"
 }
