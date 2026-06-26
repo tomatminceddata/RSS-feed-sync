@@ -14826,7 +14826,77 @@
       "parser": "default",
       "discovered": "2026-06-26T16:46:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/apple-loses-another-executive-to-openai/",
+      "title": "Apple Loses Another Top Executive to OpenAI",
+      "author": "Juli Clover",
+      "published": "2026-06-26T19:46:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T20:39:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-price-increase-estimate/",
+      "title": "iPhone 18 Pro and Pro Max May See $200 Price Increase",
+      "author": "Juli Clover",
+      "published": "2026-06-26T19:17:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T20:39:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/lg-ultrafine-6k-32u990a-display/",
+      "title": "LG UltraFine 6K Review: A Premium 6K Display Designed With Mac Users in Mind",
+      "author": "Eric Slivka",
+      "published": "2026-06-26T18:57:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T20:39:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/openai-gpt-5-6-sol/",
+      "title": "OpenAI Launches GPT-5.6 Sol, Terra, and Luna in Limited Preview",
+      "author": "Juli Clover",
+      "published": "2026-06-26T18:16:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T20:39:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/prime-days-final-hours/",
+      "title": "Prime Day's Final Hours Bring Rare Low Prices on AirPods, Apple Watches, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-26T17:49:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T20:39:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/macrumors-giveaway-ipad-air-astropad-june-2026/",
+      "title": "MacRumors Giveaway: Win an iPad Air and Rock Paper Pencil From Astropad",
+      "author": "Juli Clover",
+      "published": "2026-06-26T17:33:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T20:39:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/26/iphone-18-9gb-ram/",
+      "title": "2027 iPhone 18 and iPhone 18e to Get 9GB RAM and A20 Chip",
+      "author": "Juli Clover",
+      "published": "2026-06-26T16:57:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T20:39:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-26T16:46:09+00:00"
+  "last_checked": "2026-06-26T20:39:19+00:00"
 }
