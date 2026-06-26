@@ -14926,7 +14926,57 @@
       "parser": "default",
       "discovered": "2026-06-25T20:44:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-built-in-Fabric-data-protection-to-get-your-data-AI-ready/ba-p/5237428",
+      "title": "Use built-in Fabric data protection to get your data AI-ready",
+      "author": "antonfr",
+      "published": "2026-06-26T00:23:30+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-26T01:04:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Bulk-Copy-API-for-faster-ingestion-in-Fabric-Data/ba-p/5195627",
+      "title": "Using Bulk Copy API for faster ingestion in Fabric Data Warehouse (Preview)",
+      "author": "jovanpop-msft",
+      "published": "2026-06-25T23:25:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-26T01:04:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-June-2026-release/ba-p/5233421",
+      "title": "On-premises data gateway June 2026 release",
+      "author": "goupadhy",
+      "published": "2026-06-25T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-26T01:04:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/m6-macbook-pro-2026/",
+      "title": "M6 MacBook Pro Expected This Year With Apple's First 2nm Chip",
+      "author": "Juli Clover",
+      "published": "2026-06-25T19:42:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T01:04:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/25/m5-ultra-mac-studio-2026/",
+      "title": "M5 Ultra Mac Studio Could Launch in 2026 With Up to 768GB of RAM",
+      "author": "Juli Clover",
+      "published": "2026-06-25T19:41:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-26T01:04:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-25T20:44:49+00:00"
+  "last_checked": "2026-06-26T01:04:30+00:00"
 }
