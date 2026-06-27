@@ -14896,7 +14896,17 @@
       "parser": "default",
       "discovered": "2026-06-26T20:39:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-shortcuts/",
+      "title": "iOS 27 Makes the Shortcuts App Much Less Intimidating",
+      "author": "Juli Clover",
+      "published": "2026-06-26T20:50:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-27T01:00:10+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-26T20:39:19+00:00"
+  "last_checked": "2026-06-27T01:00:10+00:00"
 }
