@@ -14916,7 +14916,17 @@
       "parser": "default",
       "discovered": "2026-06-27T12:35:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/",
+      "title": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-06-27T03:33:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-27T16:28:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-27T12:35:41+00:00"
+  "last_checked": "2026-06-27T16:28:57+00:00"
 }
