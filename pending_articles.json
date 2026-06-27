@@ -14906,7 +14906,17 @@
       "parser": "default",
       "discovered": "2026-06-27T01:00:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7r-vi-essential-33-tips-tricks/",
+      "title": "Sony a7R VI – Essential 33 Tips & Tricks",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-27T10:02:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-27T12:35:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-27T01:00:10+00:00"
+  "last_checked": "2026-06-27T12:35:41+00:00"
 }
