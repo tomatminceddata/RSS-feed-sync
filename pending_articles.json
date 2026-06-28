@@ -1,105 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.sonyalpharumors.com/lol-this-solves-the-battery-anxiety-issue/",
-      "title": "LOL…This solves the battery anxiety issue :)",
-      "published": "2026-03-28T13:04:34+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-29T18:57:42+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/christopher-frost-claims-the-sigma-50mm-f-1-2-fe-is-better-than-sonys-50mm-gm-lenses/",
-      "title": "Christopher Frost claims the Sigma 50mm f/1.2 FE is better than Sony’s 50mm GM lenses",
-      "published": "2026-03-28T12:32:38+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-29T18:57:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/03/28/airpods-pro-3-199-low-price-2/",
-      "title": "AirPods Pro 3 Hit $199 Record Low Price in Amazon's Big Spring Sale",
-      "published": "2026-03-28T15:12:10+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-29T18:57:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/03/28/top-stories-mac-pro-discontinued/",
-      "title": "Top Stories: Mac Pro Discontinued, iOS 26.4 Out Now, WWDC 2026 Announced, and More",
-      "published": "2026-03-27T19:54:09+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-29T18:57:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/03/28/ankers-prime-chargers-spring-sale/",
-      "title": "Anker's New Prime 3-in-1 Foldable Charging Station Hits $104.99 Low Price on Amazon",
-      "published": "2026-03-27T13:43:49+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-03-28T16:12:05+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-29T18:57:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/03/29/apples-50th-anniversary-finale-revealed/",
-      "title": "Apple's 50th Anniversary Finale Revealed",
-      "published": "2026-03-29T15:35:18+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-03-29T16:12:28+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-29T18:57:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/03/29/biggest-iphone-overhaul-ever-rumor/",
-      "title": "Apple Preparing 'Most Significant Overhaul in the iPhone's History'",
-      "published": "2026-03-29T15:18:58+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-03-29T16:12:28+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-29T18:57:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/03/29/ios-27-siri-app-with-extensions-rumor/",
-      "title": "iOS 27 Rumored to Feature All-New Siri App With 'Extensions' Feature",
-      "published": "2026-03-29T15:00:37+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-03-29T16:12:28+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-29T18:57:42+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/15-off-on-ttartisan-lenses/",
-      "title": "15% off on TTartisan lenses",
-      "published": "2026-03-29T18:19:50+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-03-29T20:11:33+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-30T07:44:19+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/03/29/apple-the-first-50-years-30-off-2/",
-      "title": "New Book 'Apple: The First 50 Years' Hits Record Low Price on Amazon",
-      "published": "2026-03-29T22:39:00+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-03-30T00:45:02+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-30T07:44:19+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/03/29/new-macbook-pro-low-prices/",
-      "title": "Apple's M5 Pro/M5 Max MacBook Pro Reaches New All-Time Low Prices on Amazon",
-      "published": "2026-03-29T21:24:00+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-03-30T00:45:02+00:00",
-      "status": "synced",
-      "synced_at": "2026-03-30T07:44:19+00:00"
-    },
-    {
       "url": "https://www.sonyalpharumors.com/sony-tidbits-1899/",
       "title": "Sony Tidbits…",
       "published": "2026-03-30T06:16:56+00:00",
@@ -14926,7 +14827,27 @@
       "parser": "default",
       "discovered": "2026-06-27T16:28:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/24h-left-to-save-70-on-luminar-software/",
+      "title": "24h left to save 70% on Luminar software",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-28T08:45:20+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-28T09:09:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/petapixel-viltrox-just-made-two-very-similar-lenses/",
+      "title": "PetaPixel: Viltrox Just Made Two VERY Similar Lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-28T07:28:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-28T09:09:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-27T16:28:57+00:00"
+  "last_checked": "2026-06-28T09:09:25+00:00"
 }
