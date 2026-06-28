@@ -14847,7 +14847,27 @@
       "parser": "default",
       "discovered": "2026-06-28T09:09:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/today-only-save-20-on/",
+      "title": "Today only: Save 20% on",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-28T14:50:51+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-28T16:31:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/28/missed-prime-day-discounts-weekend/",
+      "title": "Missed Prime Day? You Can Still Grab Record Low Apple Discounts This Weekend",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-28T16:26:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-28T16:31:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-28T09:09:25+00:00"
+  "last_checked": "2026-06-28T16:31:34+00:00"
 }
