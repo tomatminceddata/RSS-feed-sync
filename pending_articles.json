@@ -14693,7 +14693,67 @@
       "parser": "default",
       "discovered": "2026-06-29T13:39:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-and-Fabric-Event-Flows-Across-Workspaces-with/ba-p/5240305",
+      "title": "Secure Azure and Fabric Event Flows Across Workspaces with Outbound Access Protection (Preview)",
+      "author": "GEGUIRGU",
+      "published": "2026-06-29T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-29T17:06:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/apple-says-indias-antitrust-case-is-copy-pasted/",
+      "title": "Apple Says India's Antitrust Case Against It Is 'Copy-Pasted'",
+      "author": "Hartley Charlton",
+      "published": "2026-06-29T15:34:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T17:06:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/save-hundreds-m3-ipad-air/",
+      "title": "Don't Pay Apple's New M4 Prices: Save Hundreds on the M3 iPad Air",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-29T15:11:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T17:06:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/iphone-18-pro-has-10-rumored-features/",
+      "title": "iPhone 18 Pro is Just a Few Months Away With These 10 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-06-29T15:05:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T17:06:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/apple-acquires-award-winning-app-play/",
+      "title": "Apple Acquires Award-Winning App 'Play'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-29T14:39:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T17:06:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/best-buy-hosts-july-4th-sale/",
+      "title": "Best Buy Hosts July 4th Sale With Notable Apple and Tech Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-29T14:14:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T17:06:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-29T13:39:01+00:00"
+  "last_checked": "2026-06-29T17:06:49+00:00"
 }
