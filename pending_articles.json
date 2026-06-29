@@ -14643,7 +14643,57 @@
       "parser": "default",
       "discovered": "2026-06-29T09:43:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/conflicting-rumors-about-the-sony-fx5-sensor-type/",
+      "title": "Conflicting rumors about the Sony FX5 sensor type",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-29T12:43:11+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T13:39:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/apple-plans-wider-color-gamut-for-future-devices/",
+      "title": "Apple Plans Wider Color Gamut for Future MacBook Pro, iMac, and iPad Pro",
+      "author": "Hartley Charlton",
+      "published": "2026-06-29T13:35:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T13:39:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/mac-studio-m7-ultra-2028-better-cooling/",
+      "title": "Mac Studio M7 Ultra Expected in 2028 With Better Cooling",
+      "author": "Tim Hardwick",
+      "published": "2026-06-29T13:13:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T13:39:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/leaked-a20-pro-image-iphone-18-pro-performance/",
+      "title": "Leaked A20 Pro Image Hints at iPhone 18 Pro Performance Gains",
+      "author": "Tim Hardwick",
+      "published": "2026-06-29T11:54:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T13:39:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/iphone-18e-wont-get-promotion-display-says-leaker/",
+      "title": "iPhone 18e Won't Get ProMotion Display, Says Leaker",
+      "author": "Tim Hardwick",
+      "published": "2026-06-29T09:53:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-29T13:39:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-29T09:43:51+00:00"
+  "last_checked": "2026-06-29T13:39:01+00:00"
 }
