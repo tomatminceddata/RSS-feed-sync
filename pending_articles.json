@@ -14670,7 +14670,47 @@
       "parser": "default",
       "discovered": "2026-06-29T20:41:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/t-mobile-legacy-plan-transition/",
+      "title": "T-Mobile Automatically Moving Legacy Plan Customers to New Plans",
+      "author": "Juli Clover",
+      "published": "2026-06-29T23:46:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T01:01:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/whatsapp-username-reservations/",
+      "title": "WhatsApp Now Lets You Reserve a Username",
+      "author": "Juli Clover",
+      "published": "2026-06-29T23:01:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T01:01:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/openclaw-ios-app/",
+      "title": "Open Source AI Agent OpenClaw Gets Native iOS App",
+      "author": "Juli Clover",
+      "published": "2026-06-29T22:42:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T01:01:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/",
+      "title": "Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks",
+      "author": "Juli Clover",
+      "published": "2026-06-29T21:14:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T01:01:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-29T20:41:11+00:00"
+  "last_checked": "2026-06-30T01:01:42+00:00"
 }
