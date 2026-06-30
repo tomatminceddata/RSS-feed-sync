@@ -14800,7 +14800,107 @@
       "parser": "default",
       "discovered": "2026-06-30T16:47:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Item-Recovery-in-Microsoft-Fabric-Generally-Available/ba-p/5240675",
+      "title": "Item Recovery in Microsoft Fabric (Generally Available)",
+      "author": "YuliaTurchin",
+      "published": "2026-06-30T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/AI-assisted-Synapse-Spark-and-pipeline-migration-to-Microsoft/ba-p/5234478",
+      "title": "AI-assisted Synapse Spark and pipeline migration to Microsoft Fabric from the command line (Preview)",
+      "author": "jiang_jenny1",
+      "published": "2026-06-30T17:20:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769",
+      "title": "Power BI Desktop Bridge (Preview)",
+      "author": "saralam",
+      "published": "2026-06-30T19:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/beats-solo-buds-orange-best-buy/",
+      "title": "Beats Launches Solo Buds in Retailer-Exclusive Orange Color in the U.S. and Japan",
+      "author": "Eric Slivka",
+      "published": "2026-06-30T18:59:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/apple-epic-games-supreme-court/",
+      "title": "Supreme Court Will Hear Apple's Appeal in Epic Games App Store Fight",
+      "author": "Juli Clover",
+      "published": "2026-06-30T18:29:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/apple-refurbished-iphone-16e/",
+      "title": "Apple Now Sells Refurbished iPhone 16e Starting at $419",
+      "author": "Juli Clover",
+      "published": "2026-06-30T18:06:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/apple-arcade-adding-five-games-this-week/",
+      "title": "Apple Arcade Adding 5 Games This Week, Including 'Family Feud Pocket'",
+      "author": "Joe Rossignol",
+      "published": "2026-06-30T18:04:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/ios-26-6-public-beta-3/",
+      "title": "Apple Seeds Third Public Betas of iOS 26.6, macOS Tahoe 26.6 and More",
+      "author": "Juli Clover",
+      "published": "2026-06-30T17:38:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/american-express-apple-pay-redeem-points/",
+      "title": "American Express Announces New Apple Pay Feature",
+      "author": "Joe Rossignol",
+      "published": "2026-06-30T17:27:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/apple-creator-studio-gets-new-ai-features/",
+      "title": "Apple Creator Studio Gets New AI Features",
+      "author": "Juli Clover",
+      "published": "2026-06-30T17:21:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T20:43:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-30T16:47:54+00:00"
+  "last_checked": "2026-06-30T20:43:48+00:00"
 }
