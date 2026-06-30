@@ -14760,7 +14760,47 @@
       "parser": "default",
       "discovered": "2026-06-30T12:49:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/apple-watch-redesign-coming-next-year/",
+      "title": "Report: Apple Watch Redesign Coming Next Year With New Band System",
+      "author": "Hartley Charlton",
+      "published": "2026-06-30T15:40:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T16:47:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/optis-patent-case-heads-to-uk-supreme-court/",
+      "title": "Apple's $502M Optis Patent Case Heads to UK Supreme Court",
+      "author": "Hartley Charlton",
+      "published": "2026-06-30T14:45:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T16:47:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/proton-lumo-version-2-new-features/",
+      "title": "Proton Lumo 2.0 Adds Image Generation, Memory, Stronger Web Search",
+      "author": "Tim Hardwick",
+      "published": "2026-06-30T14:42:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T16:47:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/samsungs-2026-monitors-record-low/",
+      "title": "Samsung's 2026 Monitors Hit New Record Low Prices at Up to $350 Off",
+      "author": "Mitchel Broussard",
+      "published": "2026-06-30T13:59:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T16:47:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-30T12:49:48+00:00"
+  "last_checked": "2026-06-30T16:47:54+00:00"
 }
