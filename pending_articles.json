@@ -14710,7 +14710,57 @@
       "parser": "default",
       "discovered": "2026-06-30T01:01:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-rx10v-announcement-on-july-9/",
+      "title": "Sony RX10V announcement on July 9",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-30T12:45:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T12:49:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/finally-available-for-preorder-new-7artisan-135mm-f-1-8-fe-lens/",
+      "title": "Finally available for preorder: new 7Artisan 135mm f/1.8 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-06-30T12:08:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T12:49:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/apple-crackdown-iphone-18-pro-leak-video-gone/",
+      "title": "Apple Crackdown Suspected After iPhone 18 Pro Leak Videos Disappear",
+      "author": "Tim Hardwick",
+      "published": "2026-06-30T12:39:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T12:49:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/iphone-18-pro-sim-tray-dark-cherry-color/",
+      "title": "Alleged iPhone 18 Pro Sim Tray Again Shows Dark Cherry Color",
+      "author": "Tim Hardwick",
+      "published": "2026-06-30T12:19:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T12:49:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/uk-apple-loosen-app-store-payment-rules/",
+      "title": "UK Pushes Apple to Loosen App Store Payment and NFC Rules",
+      "author": "Tim Hardwick",
+      "published": "2026-06-30T10:00:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-06-30T12:49:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-30T01:01:42+00:00"
+  "last_checked": "2026-06-30T12:49:48+00:00"
 }
