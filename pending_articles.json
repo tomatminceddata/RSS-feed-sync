@@ -13109,7 +13109,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-19T16:53:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/19/the-macrumors-show-hands-on-with-ios-27/",
@@ -13119,7 +13120,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-19T16:53:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/19/alogic-touchscreen-monitors-portable-displays/",
@@ -13129,7 +13131,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-19T16:53:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/19/early-prime-day-deals-apple-2026/",
@@ -13139,7 +13142,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-19T16:53:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/todya-only-at-bh-save-big-on-lexar-sd-cards-lowepro-bag-and-oben-tripod/",
@@ -13149,7 +13153,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-19T20:36:16+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/mark-wiemels-turn-your-sony-a7v-into-a-cinema-camera/",
@@ -13159,7 +13164,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-20T12:45:28+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/20/apple-unveiled-these-five-new-apps/",
@@ -13169,7 +13175,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-20T16:37:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/20/three-apple-stores-closing-today/",
@@ -13179,7 +13186,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-20T16:37:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/20/top-stories-apple-price-hikes/",
@@ -13189,7 +13197,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-20T16:37:55+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/best-sony-cameras-for-wedding-photographers-and-filmmakers/",
@@ -13199,7 +13208,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-21T12:48:50+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/21/airpods-pro-3-record-low-169/",
@@ -13209,7 +13219,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-21T16:38:47+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/21/20-rumored-apple-products-in-2026-and-2027/",
@@ -13219,7 +13230,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-21T16:38:47+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/early-prime-deals-available-on-amazon/",
@@ -13229,7 +13241,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-21T20:37:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/sony-a7v-hands-on-review-by-mathew-malwitz/",
@@ -13239,7 +13252,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-22T10:08:10+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/first-amazon-prime-deal-goes-life-up-to-20-off-on-all-ulanzi-products/",
@@ -13249,7 +13263,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-22T14:01:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/new-fx-model-is-closer-to-venice-language-and-has-external-evf-support/",
@@ -13259,7 +13274,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-22T14:01:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/foldable-iphone-ultra-on-track-september-debut/",
@@ -13269,7 +13285,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T14:01:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/airtag-2-first-ever-discounts/",
@@ -13279,7 +13296,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T14:01:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/ios-27-adds-mac-like-recovery-mode/",
@@ -13289,7 +13307,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T14:01:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/airpods-max-2-hit-399/",
@@ -13299,7 +13318,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T14:01:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/apple-watch-ultra-4-expected-later-this-year/",
@@ -13309,7 +13329,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T14:01:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/iphone-17-prices-could-go-up-this-month/",
@@ -13319,7 +13340,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T14:01:37+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Improve-performance-for-Python-UDFs-and-complex-data-types-in/ba-p/5212036",
@@ -13329,7 +13351,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Event-Driven-Copy-Job-Execution-with-Fabric-Activator-Generally/ba-p/5195808",
@@ -13339,7 +13362,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Protect-once-enforce-everywhere-Protection-policies-for-Power-BI/ba-p/5223932",
@@ -13349,7 +13373,8 @@
       "feed": "PowerBIBlog",
       "parser": "wordpress",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/apple-seeds-macos-golden-gate-beta-2/",
@@ -13359,7 +13384,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/apple-seeds-ios-27-beta-2/",
@@ -13369,7 +13395,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/apple-seeds-tvos-27-beta-2-to-developers/",
@@ -13379,7 +13406,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/visionos-27-beta-2/",
@@ -13389,7 +13417,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/advanced-ai-dictation-not-enabled-by-default/",
@@ -13399,7 +13428,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/woot-prime-day-event-switch-2/",
@@ -13409,7 +13439,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/production-of-panels-for-foldable-iphone-approved/",
@@ -13419,7 +13450,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/apple-watch-prime-day-deals/",
@@ -13429,7 +13461,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T17:36:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/More-resilient-Spark-jobs-with-Efficient-Scaledown-Preview/ba-p/5212071",
@@ -13439,7 +13472,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-22T21:05:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/guide/airpods-ultra/",
@@ -13449,7 +13483,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T21:05:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/macos-tahoe-26-5-2-coming-soon/",
@@ -13459,7 +13494,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T21:05:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/ios-27-beta-2-inline-replies-rcs/",
@@ -13469,7 +13505,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T21:05:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/ios-27-beta-2-insights-wallet/",
@@ -13479,7 +13516,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T21:05:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/apple-airport-utility-ios-27/",
@@ -13489,7 +13527,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T21:05:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/prime-day-2026-best-apple-deals/",
@@ -13499,7 +13538,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T21:05:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/22/ios-27-apple-tv-home-app/",
@@ -13509,7 +13549,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-22T21:05:44+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/guide/ios-27-features/",
@@ -13519,7 +13560,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T00:59:27+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/european-amazon-prime-day-deals-now-life/",
@@ -13529,7 +13571,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-23T09:16:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/apple-3-billion-uk-icloud-case-cleared-for-trial/",
@@ -13539,7 +13582,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T09:16:35+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/amazon-usa-prime-deals-now-live/",
@@ -13549,7 +13593,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-23T13:07:30+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/exclusive-sony-fx5-mini-venice-camera-is-coming-in-july-one-more-suprise-compact/",
@@ -13559,7 +13604,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-23T13:07:30+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/apple-files-leaked-dark-web-cyberattack/",
@@ -13569,7 +13615,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T13:07:30+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/prime-day-2026-best-apple-deals/",
@@ -13579,7 +13626,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T13:07:30+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/this-is-the-best-amazon-usa-prime-deal-20-off-on-reconditioned-sony-and-tamron-cameras-and-lenses/",
@@ -13589,7 +13637,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/apple-faces-new-app-store-antitrust-complaint/",
@@ -13599,7 +13648,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/ankers-wireless-charger-prime-day-2/",
@@ -13609,7 +13659,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/prime-day-macbook-deals/",
@@ -13619,7 +13670,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/lgs-fourth-of-july-sale/",
@@ -13629,7 +13681,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/apple-reality-composer-pro-the-machinery/",
@@ -13639,7 +13692,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/meta-launches-its-own-299-smart-glasses/",
@@ -13649,7 +13703,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/109-off-m4-ipad-air-models/",
@@ -13659,7 +13714,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/airpods-prime-day-deals/",
@@ -13669,7 +13725,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/foldable-iphone-could-lose-1300-in-first-year/",
@@ -13679,7 +13736,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T16:54:38+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Billing-for-Microsoft-Fabric-Planning-Preview/ba-p/5207643",
@@ -13689,7 +13747,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-23T20:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Multi-cloud-data-architecture-patterns-using-Fabric-Data-Factory/ba-p/5217279",
@@ -13699,7 +13758,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-23T20:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/apple-invites-app-gets-co-hosting/",
@@ -13709,7 +13769,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T20:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/guide/ios-27-wallet/",
@@ -13719,7 +13780,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T20:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/apple-seeds-watchos-27-beta-2-to-developers/",
@@ -13729,7 +13791,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T20:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/best-apple-prime-day-deals-under-100/",
@@ -13739,7 +13802,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T20:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/apple-watch-world-surf-league/",
@@ -13749,7 +13813,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-23T20:49:29+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Entra-ID-single-sign-on-for-the-Denodo-connector-in/ba-p/5193376",
@@ -13759,7 +13824,8 @@
       "feed": "PowerBIBlog",
       "parser": "wordpress",
       "discovered": "2026-06-24T00:57:32+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/guide/ios-27-weather/",
@@ -13769,7 +13835,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T00:57:32+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/23/apple-airpods-beta-firmware-2-ios-27/",
@@ -13779,7 +13846,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T00:57:32+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/new-european-amazon-prime-day-deals/",
@@ -13789,7 +13857,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-24T09:14:53+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/this-tamron-wide-angle-zoom-will-be-announced-around-july-3/",
@@ -13799,7 +13868,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-24T12:54:02+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/",
@@ -13809,7 +13879,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T12:54:02+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/apple-killed-siri-ai-waitlist-workaround/",
@@ -13819,7 +13890,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T12:54:02+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/new-amazon-prime-deals-and-new-bhphoto-apple-rebates/",
@@ -13829,7 +13901,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-24T16:49:56+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/best-prime-day-tv-deals/",
@@ -13839,7 +13912,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T16:49:56+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/prime-day-2026-macbook-pro/",
@@ -13849,7 +13923,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T16:49:56+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/apple-store-in-ann-arbor-moving-soon/",
@@ -13859,7 +13934,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T16:49:56+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/last-chance-airpods-max-2/",
@@ -13869,7 +13945,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T16:49:56+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
@@ -13879,7 +13956,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T16:49:56+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/ipad-mini-7-rare-99-discounts/",
@@ -13889,7 +13967,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T16:49:56+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-new-across-Microsoft-SQL-in-2026-so-far-SQL-Server-Azure/ba-p/5221163",
@@ -13899,7 +13978,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-24T20:39:33+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/prime-day-deals-headphones/",
@@ -13909,7 +13989,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T20:39:33+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/guide/ios-27-airpods/",
@@ -13919,7 +14000,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T20:39:33+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/prime-day-apple-watch-model/",
@@ -13929,7 +14011,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-24T20:39:33+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Know-before-you-optimize-Diagnose-Lakehouse-table-health-with-a/ba-p/5228076",
@@ -13939,7 +14022,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-25T01:01:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/24/google-play-store-fee-change/",
@@ -13949,7 +14033,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T01:01:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/guide/ios-27-home/",
@@ -13959,7 +14044,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T01:01:26+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/new-european-amazon-prime-day-deals-2/",
@@ -13969,7 +14055,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-25T09:13:51+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/just-announced-new-samyang-schneider-60-180mm-f2-8-fe/",
@@ -13979,7 +14066,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-25T09:13:51+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/new-amazon-prime-deals-and-massive-new-bhphoto-storage-deals/",
@@ -13989,7 +14077,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-25T12:55:27+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/and-there-it-is-folks-sony-fx5-has-open-gate/",
@@ -13999,7 +14088,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-25T12:55:27+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-just-increased-prices/",
@@ -14009,7 +14099,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T12:55:27+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apples-online-store-is-down/",
@@ -14019,7 +14110,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T12:55:27+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/ipad-mini-oled-panel-mass-production-starts/",
@@ -14029,7 +14121,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T12:55:27+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/iphone-ultra-2-development-approved-by-apple/",
@@ -14039,7 +14132,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T12:55:27+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-2026-back-to-school-offer-when/",
@@ -14049,7 +14143,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T16:51:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-raises-refurbished-mac-ipad-prices/",
@@ -14059,7 +14154,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T16:51:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-tv-and-homepod-price-increases/",
@@ -14069,7 +14165,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T16:51:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/prime-day-deals-going-strong/",
@@ -14079,7 +14176,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T16:51:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-vision-pro-just-got-even-more-expensive/",
@@ -14089,7 +14187,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T16:51:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/beat-apples-price-hike/",
@@ -14099,7 +14198,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T16:51:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-just-raised-macbook-neo-prices/",
@@ -14109,7 +14209,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T16:51:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-hikes-m4-pro-mac-mini-starting-price/",
@@ -14119,7 +14220,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T16:51:39+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-June-2026/ba-p/5232694",
@@ -14129,7 +14231,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-25T20:44:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-stock-worst-day-in-more-than-a-year/",
@@ -14139,7 +14242,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T20:44:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-seeds-watchos-27-beta-2-ultra-3/",
@@ -14149,7 +14253,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T20:44:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/",
@@ -14159,7 +14264,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T20:44:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/",
@@ -14169,7 +14275,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-25T20:44:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-built-in-Fabric-data-protection-to-get-your-data-AI-ready/ba-p/5237428",
@@ -14179,7 +14286,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-26T01:04:30+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Bulk-Copy-API-for-faster-ingestion-in-Fabric-Data/ba-p/5195627",
@@ -14189,7 +14297,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-26T01:04:30+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-June-2026-release/ba-p/5233421",
@@ -14199,7 +14308,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-26T01:04:30+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/m6-macbook-pro-2026/",
@@ -14209,7 +14319,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T01:04:30+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/25/m5-ultra-mac-studio-2026/",
@@ -14219,7 +14330,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T01:04:30+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/last-european-prime-day-deals/",
@@ -14229,7 +14341,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-26T09:14:15+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/confirmed-two-sony-cameras-coming-in-july-the-sony-fx5-and-rx10v/",
@@ -14239,7 +14352,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-26T12:52:17+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/apple-iring-rumor-returns-oura-ring-rival/",
@@ -14249,7 +14363,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T12:52:17+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/refurbished-macbook-neo-now-available/",
@@ -14259,7 +14374,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T12:52:17+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/last-day-of-amazon-prime-day-and-bhphoto-summer-deals/",
@@ -14269,7 +14385,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-26T16:46:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/the-macrumors-show-iphone-18-pro-pricing-problem/",
@@ -14279,7 +14396,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T16:46:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/micron-suggests-apple-helped-cause-memory-crisis/",
@@ -14289,7 +14407,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T16:46:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/oled-macbook-stick-with-m5-pro-and-m5-max/",
@@ -14299,7 +14418,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T16:46:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/pre-hike-prices-on-ipads-macs/",
@@ -14309,7 +14429,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T16:46:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-and-foldable-to-get-price-hikes/",
@@ -14319,7 +14440,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T16:46:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/more-refurbished-2026-apple-products/",
@@ -14329,7 +14451,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T16:46:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/apple-donating-to-venezuela-earthquake-relief/",
@@ -14339,7 +14462,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T16:46:09+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/apple-loses-another-executive-to-openai/",
@@ -14349,7 +14473,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T20:39:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/iphone-18-pro-price-increase-estimate/",
@@ -14359,7 +14484,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T20:39:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/review/lg-ultrafine-6k-32u990a-display/",
@@ -14369,7 +14495,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T20:39:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/openai-gpt-5-6-sol/",
@@ -14379,7 +14506,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T20:39:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/prime-days-final-hours/",
@@ -14389,7 +14517,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T20:39:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/macrumors-giveaway-ipad-air-astropad-june-2026/",
@@ -14399,7 +14528,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T20:39:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/26/iphone-18-9gb-ram/",
@@ -14409,7 +14539,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-26T20:39:19+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/guide/ios-27-shortcuts/",
@@ -14419,7 +14550,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-27T01:00:10+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/sony-a7r-vi-essential-33-tips-tricks/",
@@ -14429,7 +14561,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-27T12:35:41+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/",
@@ -14439,7 +14572,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-27T16:28:57+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/24h-left-to-save-70-on-luminar-software/",
@@ -14449,7 +14583,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-28T09:09:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/petapixel-viltrox-just-made-two-very-similar-lenses/",
@@ -14459,7 +14594,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-28T09:09:25+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/today-only-save-20-on/",
@@ -14469,7 +14605,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-28T16:31:34+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/28/missed-prime-day-discounts-weekend/",
@@ -14479,7 +14616,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-28T16:31:34+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/sirui-teases-a-new-compact-telephoto-lens-coming-on-july-2/",
@@ -14489,7 +14627,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-29T09:43:51+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/conflicting-rumors-about-the-sony-fx5-sensor-type/",
@@ -14499,7 +14638,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-29T13:39:01+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-plans-wider-color-gamut-for-future-devices/",
@@ -14509,7 +14649,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T13:39:01+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/mac-studio-m7-ultra-2028-better-cooling/",
@@ -14519,7 +14660,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T13:39:01+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/leaked-a20-pro-image-iphone-18-pro-performance/",
@@ -14529,7 +14671,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T13:39:01+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/iphone-18e-wont-get-promotion-display-says-leaker/",
@@ -14539,7 +14682,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T13:39:01+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-and-Fabric-Event-Flows-Across-Workspaces-with/ba-p/5240305",
@@ -14549,7 +14693,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-29T17:06:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-says-indias-antitrust-case-is-copy-pasted/",
@@ -14559,7 +14704,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T17:06:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/save-hundreds-m3-ipad-air/",
@@ -14569,7 +14715,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T17:06:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/iphone-18-pro-has-10-rumored-features/",
@@ -14579,7 +14726,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T17:06:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-acquires-award-winning-app-play/",
@@ -14589,7 +14737,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T17:06:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/best-buy-hosts-july-4th-sale/",
@@ -14599,7 +14748,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T17:06:49+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/ios-26-5-2-vulnerabilities/",
@@ -14609,7 +14759,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T20:41:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-tata-leak-iphone-18-pro/",
@@ -14619,7 +14770,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T20:41:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-releases-macos-tahoe-26-5-2/",
@@ -14629,7 +14781,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T20:41:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-releases-ios-26-5-2-with-security-fixes/",
@@ -14639,7 +14792,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T20:41:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-seeds-ios-26-6-beta-3/",
@@ -14649,7 +14803,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T20:41:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-seeds-macos-tahoe-26-6-beta-3/",
@@ -14659,7 +14814,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T20:41:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-seeds-watchos-26-6-beta-3/",
@@ -14669,7 +14825,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-29T20:41:11+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/t-mobile-legacy-plan-transition/",
@@ -14679,7 +14836,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T01:01:42+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/whatsapp-username-reservations/",
@@ -14689,7 +14847,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T01:01:42+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/openclaw-ios-app/",
@@ -14699,7 +14858,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T01:01:42+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/",
@@ -14709,7 +14869,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T01:01:42+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/sony-rx10v-announcement-on-july-9/",
@@ -14719,7 +14880,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-30T12:49:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/finally-available-for-preorder-new-7artisan-135mm-f-1-8-fe-lens/",
@@ -14729,7 +14891,8 @@
       "feed": "SonyAlphaRumors",
       "parser": "default",
       "discovered": "2026-06-30T12:49:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/apple-crackdown-iphone-18-pro-leak-video-gone/",
@@ -14739,7 +14902,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T12:49:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/iphone-18-pro-sim-tray-dark-cherry-color/",
@@ -14749,7 +14913,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T12:49:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/uk-apple-loosen-app-store-payment-rules/",
@@ -14759,7 +14924,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T12:49:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/apple-watch-redesign-coming-next-year/",
@@ -14769,7 +14935,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T16:47:54+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/optis-patent-case-heads-to-uk-supreme-court/",
@@ -14779,7 +14946,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T16:47:54+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/proton-lumo-version-2-new-features/",
@@ -14789,7 +14957,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T16:47:54+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/samsungs-2026-monitors-record-low/",
@@ -14799,7 +14968,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T16:47:54+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Item-Recovery-in-Microsoft-Fabric-Generally-Available/ba-p/5240675",
@@ -14809,7 +14979,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/AI-assisted-Synapse-Spark-and-pipeline-migration-to-Microsoft/ba-p/5234478",
@@ -14819,7 +14990,8 @@
       "feed": "MicrosoftFabricBlog",
       "parser": "wordpress",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Desktop-Bridge-Preview/ba-p/5227769",
@@ -14829,7 +15001,8 @@
       "feed": "PowerBIBlog",
       "parser": "wordpress",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/beats-solo-buds-orange-best-buy/",
@@ -14839,7 +15012,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/apple-epic-games-supreme-court/",
@@ -14849,7 +15023,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/apple-refurbished-iphone-16e/",
@@ -14859,7 +15034,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/apple-arcade-adding-five-games-this-week/",
@@ -14869,7 +15045,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/ios-26-6-public-beta-3/",
@@ -14879,7 +15056,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/american-express-apple-pay-redeem-points/",
@@ -14889,7 +15067,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     },
     {
       "url": "https://www.macrumors.com/2026/06/30/apple-creator-studio-gets-new-ai-features/",
@@ -14899,7 +15078,8 @@
       "feed": "MacRumors",
       "parser": "default",
       "discovered": "2026-06-30T20:43:48+00:00",
-      "status": "pending"
+      "status": "synced",
+      "synced_at": "2026-06-30T22:24:45+00:00"
     }
   ],
   "last_checked": "2026-06-30T20:43:48+00:00"
