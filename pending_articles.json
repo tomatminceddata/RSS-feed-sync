@@ -15190,7 +15190,47 @@
       "parser": "default",
       "discovered": "2026-07-01T16:51:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-data-agent-API-is-now-public-Build-Fabric-data-agents/ba-p/5230588",
+      "title": "Fabric data agent API is now public: Build Fabric data agents into your tools and pipelines",
+      "author": "AmirJafari",
+      "published": "2026-07-01T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-07-01T20:39:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/4th-of-july-deals-on-viltrox-lenses-and-lexar-cards-at-bhphoto/",
+      "title": "4th of July deals on Viltrox lenses and Lexar Cards at BHphoto",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-01T19:34:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T20:39:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-has-three-base-iso-and-x-ocn-internal-raw/",
+      "title": "Sony FX5 has three base ISO and X-OCN internal RAW",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-01T16:54:11+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T20:39:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/spacex-ai-device/",
+      "title": "Elon Musk's SpaceX Showed Off Prototype AI Device",
+      "author": "Juli Clover",
+      "published": "2026-07-01T20:10:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T20:39:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-01T16:51:41+00:00"
+  "last_checked": "2026-07-01T20:39:31+00:00"
 }
