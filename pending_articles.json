@@ -15110,7 +15110,37 @@
       "parser": "default",
       "discovered": "2026-07-01T01:06:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Supercharge-your-real-time-data-ingestion-What-s-new-in-Fabric/ba-p/5260314",
+      "title": "Supercharge your real-time data ingestion: What's new in Fabric Eventstream connectors",
+      "author": "xujx",
+      "published": "2026-07-01T11:08:53+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-07-01T13:04:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/explora-best-sony-lenses-for-wedding-photography/",
+      "title": "Explora:  Best Sony Lenses for Wedding Photography",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-01T10:58:02+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T13:04:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/",
+      "title": "Tim Cook Holds 'Constructive' Talks With EU Over Siri AI Launch",
+      "author": "Tim Hardwick",
+      "published": "2026-07-01T11:39:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T13:04:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-01T01:06:05+00:00"
+  "last_checked": "2026-07-01T13:04:57+00:00"
 }
