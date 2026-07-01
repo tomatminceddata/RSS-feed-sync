@@ -15080,7 +15080,37 @@
       "discovered": "2026-06-30T20:43:48+00:00",
       "status": "synced",
       "synced_at": "2026-06-30T22:24:45+00:00"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/macbook-ultra/",
+      "title": "MacBook Ultra: Everything We Know About Apple's OLED Touchscreen Mac",
+      "author": "Juli Clover",
+      "published": "2026-06-30T23:22:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T01:06:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/nanoleaf-smart-ceiling-light/",
+      "title": "Nanoleaf's New $80 Smart Ceiling Light Works With Matter and HomeKit",
+      "author": "Juli Clover",
+      "published": "2026-06-30T23:16:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T01:06:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/06/30/anthropic-claude-sonnet-5/",
+      "title": "Anthropic Launches Claude Sonnet 5 With Near-Opus Performance at a Lower Price",
+      "author": "Juli Clover",
+      "published": "2026-06-30T21:35:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T01:06:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-06-30T20:43:48+00:00"
+  "last_checked": "2026-07-01T01:06:05+00:00"
 }
