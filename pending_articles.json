@@ -15140,7 +15140,57 @@
       "parser": "default",
       "discovered": "2026-07-01T13:04:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/google-gemini-spark-comes-to-mac/",
+      "title": "Google Gemini Spark Comes to Mac With Local File Automation",
+      "author": "Hartley Charlton",
+      "published": "2026-07-01T16:10:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T16:51:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/ios-27-new-copy-and-paste-feature/",
+      "title": "iOS 27 Adds a Useful New Copy-and-Paste Feature to Your iPhone",
+      "author": "Joe Rossignol",
+      "published": "2026-07-01T15:05:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T16:51:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/apple-has-cut-iphone-17-production/",
+      "title": "Apple Has Reportedly Cut iPhone 17 Lineup Production",
+      "author": "Hartley Charlton",
+      "published": "2026-07-01T14:13:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T16:51:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/last-chance-macbook-pro-ipad-air/",
+      "title": "Last Chance: Get the 2026 MacBook Pro and iPad Air for Pre-Hike Prices Before They're Gone for Good",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-01T13:36:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T16:51:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/hide-my-email-vulnerability-exposes-real-addresses/",
+      "title": "Apple Hide My Email Vulnerability Exposes Real Email Addresses",
+      "author": "Hartley Charlton",
+      "published": "2026-07-01T13:20:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-01T16:51:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-01T13:04:57+00:00"
+  "last_checked": "2026-07-01T16:51:41+00:00"
 }
