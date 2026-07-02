@@ -14855,7 +14855,57 @@
       "parser": "default",
       "discovered": "2026-07-02T12:45:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Real-Time/ba-p/5241179",
+      "title": "Workspace Outbound Access Protection (OAP) for Real-Time Intelligence (Preview)",
+      "author": "galir",
+      "published": "2026-07-02T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-07-02T16:39:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-visual-calculations-Adding-calculations-directly/ba-p/5255359",
+      "title": "Deep dive into visual calculations: Adding calculations directly to your Power BI visuals (Generally Available)",
+      "author": "DataZoe",
+      "published": "2026-07-02T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-07-02T16:39:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/02/iphone-18-pro-could-use-qualcomm-modem-in-the-us/",
+      "title": "iPhone 18 Pro Could Use Qualcomm Modem in the US and C2 Elsewhere",
+      "author": "Hartley Charlton",
+      "published": "2026-07-02T16:15:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-02T16:39:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/02/airtag-2-still-available-89/",
+      "title": "AirTag 2 Still Available for Best-Ever Price of $89 for 4-Pack",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-02T13:54:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-02T16:39:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/02/apple-to-release-these-16-products-this-year/",
+      "title": "Apple to Release These 16 New Products Later This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-07-01T15:30:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-02T16:39:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-02T12:45:35+00:00"
+  "last_checked": "2026-07-02T16:39:54+00:00"
 }
