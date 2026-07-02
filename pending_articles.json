@@ -15230,7 +15230,77 @@
       "parser": "default",
       "discovered": "2026-07-01T20:39:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-reports-and-Fabric-Apps-Expanding-how-you-build-on-your/ba-p/5234706",
+      "title": "Power BI reports and Fabric Apps: Expanding how you build on your semantic model data",
+      "author": "DataZoe",
+      "published": "2026-07-01T21:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-07-02T01:01:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/anthropic-fable-5-relaunch/",
+      "title": "Anthropic's Claude Fable 5 Available Again After U.S. Lifts Export Controls",
+      "author": "Juli Clover",
+      "published": "2026-07-01T23:35:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-02T01:01:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-maps/",
+      "title": "iOS 27: All the New Apple Maps Features",
+      "author": "Juli Clover",
+      "published": "2026-07-01T21:47:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-02T01:01:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/apple-ipad-pro-spring-2027/",
+      "title": "Apple to Launch New iPad Pro in Spring 2027",
+      "author": "Juli Clover",
+      "published": "2026-07-01T21:17:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-02T01:01:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/redesigned-m7-macbook-pro-2027/",
+      "title": "M6 MacBook Pro Coming in Late 2026, Redesigned M7 Model Launching in 1H 2027",
+      "author": "Juli Clover",
+      "published": "2026-07-01T21:12:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-02T01:01:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/apple-releases-safari-technology-preview-247/",
+      "title": "Apple Releases Safari Technology Preview 247 With MCP Server for AI Agent Integration",
+      "author": "Juli Clover",
+      "published": "2026-07-01T21:11:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-02T01:01:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/01/apple-memory-chips-chinese-companies/",
+      "title": "Apple in Talks to Buy Memory Chips From Chinese Makers CXMT and YMTC",
+      "author": "Juli Clover",
+      "published": "2026-07-01T21:06:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-02T01:01:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-01T20:39:31+00:00"
+  "last_checked": "2026-07-02T01:01:41+00:00"
 }
