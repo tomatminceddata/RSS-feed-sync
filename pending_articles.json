@@ -1,150 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.sonyalpharumors.com/brightin-stars-lens-launch-teaser/",
-      "title": "Just announced: New Brightin Star 11mm f/2.8 lens",
-      "published": "2026-04-03T09:17:26+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-03T12:21:19+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://blog.fabric.microsoft.com/en-US/blog/fabric-influencers-spotlight-march-2016/",
-      "title": "Fabric Influencers Spotlight: March 2026",
-      "published": "2026-04-03T09:00:00+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "discovered": "2026-04-03T16:16:59+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/still-no-fx3ii-rumors/",
-      "title": "Still no FX3II rumors….",
-      "published": "2026-04-03T13:09:37+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-03T16:16:59+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/the-macrumors-show-everything-we-know-about-iphone-18-pro/",
-      "title": "The MacRumors Show: Everything We Know About iPhone 18 Pro",
-      "published": "2026-04-03T15:49:17+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T16:16:59+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/ios-26-5-and-ios-27-features/",
-      "title": "iOS 26.5 and iOS 27 Will Add These New Features to Your iPhone",
-      "published": "2026-04-03T14:06:21+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T16:16:59+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/best-apple-deals-of-the-week-4-3-26/",
-      "title": "Best Apple Deals of the Week: AirPods Max 2 Launch Deal Arrives, Plus $100 Off Apple Studio Display and More",
-      "published": "2026-04-03T14:01:38+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T16:16:59+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/iphone-18-pro-new-features/",
-      "title": "iPhone 18 Pro Launching Later This Year With These 12 New Features",
-      "published": "2026-04-03T13:36:48+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T16:16:59+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://blog.fabric.microsoft.com/en-US/blog/workspace-customer-managed-keys-for-byok-in-microsoft-fabric-preview/",
-      "title": "Workspace Customer-Managed Keys for BYOK in Microsoft Fabric (Preview)",
-      "published": "2026-04-03T10:00:00+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "discovered": "2026-04-03T20:13:33+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/apple-first-ios-26-5-public-beta/",
-      "title": "Apple Releases First iOS 26.5, iPadOS 26.5 and macOS Tahoe 26.5 Public Betas",
-      "published": "2026-04-03T20:07:46+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T20:13:33+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/apple-ipad-16th-anniversary/",
-      "title": "Happy Birthday, iPad: Apple's Tablet Turns 16",
-      "published": "2026-04-03T19:41:46+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T20:13:33+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/ifixit-airpods-max-2-teardown/",
-      "title": "iFixit AirPods Max 2 Teardown: Same Design, Same Repairability Issues",
-      "published": "2026-04-03T18:52:45+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T20:13:33+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/apple-refurbished-m4-ipad-pro/",
-      "title": "Apple Now Sells Refurbished M4 iPad Pro Models Starting at $759",
-      "published": "2026-04-03T18:14:49+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T20:13:33+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/apple-seeds-ios-26-5-revised-beta-1/",
-      "title": "Apple Seeds Revised iOS 26.5 and iPadOS 26.5 Betas to Developers",
-      "published": "2026-04-03T17:58:19+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T20:13:33+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/how-to/ios-add-songs-multiple-playlists-music/",
-      "title": "This Music Selection Tweak in iOS 26.4 Will Save You Bags of Time",
-      "published": "2026-04-03T16:58:27+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-03T20:13:33+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/03/apple-tv-2026-rumors/",
-      "title": "New Apple TV Waiting for Siri: Here's What's Coming When It Launches",
-      "published": "2026-04-03T21:56:47+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-04T00:39:33+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/sony-tidbits-1901/",
-      "title": "Sony Tidbits…",
-      "published": "2026-04-04T06:17:26+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-04T08:18:20+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-04T11:44:57+00:00"
-    },
-    {
       "url": "https://www.sonyalpharumors.com/curiosity-sony-gear-still-working-in-tibet-at-14c-and-an-altitude-of-4624-meters/",
       "title": "Curiosity: Sony gear still working in Tibet at -14°C and an altitude of 4624 meters!",
       "published": "2026-04-04T13:04:36+00:00",
@@ -14985,7 +14841,27 @@
       "parser": "default",
       "discovered": "2026-07-03T09:09:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/cool-news-sony-fx5-has-optional-removable-tilting-evf/",
+      "title": "Cool news: Sony FX5 has optional removable tilting EVF!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-03T11:57:15+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T12:44:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/03/camera-airpods-pro-development-suspended-leaker/",
+      "title": "Camera-Equipped AirPods Pro Development 'Suspended,' Leaker Claims",
+      "author": "Tim Hardwick",
+      "published": "2026-07-03T10:10:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T12:44:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-03T09:09:33+00:00"
+  "last_checked": "2026-07-03T12:44:40+00:00"
 }
