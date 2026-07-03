@@ -14955,7 +14955,27 @@
       "parser": "default",
       "discovered": "2026-07-02T20:32:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
+      "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels",
+      "author": "Joe Rossignol",
+      "published": "2026-07-03T02:47:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T05:21:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/02/jon-prosser-responds-to-apple-leaks-lawsuit/",
+      "title": "YouTuber Jon Prosser Responds to Apple's Lawsuit Over iOS 26 Leaks",
+      "author": "Joe Rossignol",
+      "published": "2026-07-03T01:42:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T05:21:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-02T20:32:17+00:00"
+  "last_checked": "2026-07-03T05:21:43+00:00"
 }
