@@ -14861,7 +14861,87 @@
       "parser": "default",
       "discovered": "2026-07-03T12:44:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-for/ba-p/5262403",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms",
+      "author": "NicoCristache",
+      "published": "2026-07-03T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-07-03T16:34:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-officially-teases-the-launch-fo-the-new-sony-rx10v/",
+      "title": "Sony officially teases the launch of the new Sony RX10V!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-03T14:15:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T16:34:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/03/the-macrumors-show-latest-iphone-18-pro-rumors/",
+      "title": "The MacRumors Show: Latest iPhone 18 Pro Leaks and Rumors",
+      "author": "Hartley Charlton",
+      "published": "2026-07-03T16:13:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T16:34:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/03/apple-watch-series-12-sensor-in-band/",
+      "title": "Sketchy Rumor Claims Apple Watch Series 12 Could Introduce Sensor in Band",
+      "author": "Hartley Charlton",
+      "published": "2026-07-03T15:54:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T16:34:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/03/ios-27-beta-hints-at-new-apple-product/",
+      "title": "iOS 27 Beta Hints at New Apple Product Such as 'AirPods Ultra'",
+      "author": "Joe Rossignol",
+      "published": "2026-07-03T15:44:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T16:34:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/03/apple-already-testing-ios-27-4/",
+      "title": "Apple Already Testing iOS 27.4",
+      "author": "Joe Rossignol",
+      "published": "2026-07-03T15:42:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T16:34:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/03/best-apple-deals-of-the-week-7-3-26/",
+      "title": "Fourth of July Sales: Save on AirTag 2, M3 iPad Air, Charging Accessories and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-03T14:40:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T16:34:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/03/new-things-iphone-can-do-ios-27/",
+      "title": "12 New Things Your iPhone Can Do in iOS 27",
+      "author": "Tim Hardwick",
+      "published": "2026-07-03T12:13:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T16:34:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-03T12:44:40+00:00"
+  "last_checked": "2026-07-03T16:34:41+00:00"
 }
