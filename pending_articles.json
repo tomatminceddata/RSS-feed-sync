@@ -14941,7 +14941,27 @@
       "parser": "default",
       "discovered": "2026-07-03T16:34:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/ttartisan-announced-the-new-50mm-f-1-8-neo-fe-lens-for-89-only/",
+      "title": "TTArtisan announced the new 50mm f/1.8 Neo FE lens for $89 only!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-03T17:46:41+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T20:29:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/",
+      "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features",
+      "author": "Joe Rossignol",
+      "published": "2026-07-03T19:10:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T20:29:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-03T16:34:41+00:00"
+  "last_checked": "2026-07-03T20:29:04+00:00"
 }
