@@ -14975,7 +14975,17 @@
       "parser": "default",
       "discovered": "2026-07-03T05:21:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sirui-now-teases-the-launch-of-three-new-primes-on-july-6/",
+      "title": "Sirui now teases the launch of three new primes on July 6",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-03T07:51:57+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-03T09:09:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-03T05:21:43+00:00"
+  "last_checked": "2026-07-03T09:09:33+00:00"
 }
