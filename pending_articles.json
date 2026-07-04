@@ -14961,7 +14961,17 @@
       "parser": "default",
       "discovered": "2026-07-03T20:29:04+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-uses-new-3-5-inch-large-lcd-screen/",
+      "title": "Sony FX5 uses new 3.5 inch large LCD screen",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-04T12:28:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-04T12:31:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-03T20:29:04+00:00"
+  "last_checked": "2026-07-04T12:31:01+00:00"
 }
