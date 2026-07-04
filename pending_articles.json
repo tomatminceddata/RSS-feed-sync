@@ -14971,7 +14971,27 @@
       "parser": "default",
       "discovered": "2026-07-04T12:31:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/04/beat-the-apple-price-hikes/",
+      "title": "Beat the Apple Price Hikes: These MacBook Pro Deals Won't Last Long",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-04T15:34:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-04T16:25:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/04/top-stories-macbook-ultra-iphone-18-rumors/",
+      "title": "Top Stories: 'MacBook Ultra' and iPhone 18 Rumors, iOS 26.5.2 Security Fixes, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-07-02T19:38:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-04T16:25:29+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-04T12:31:01+00:00"
+  "last_checked": "2026-07-04T16:25:29+00:00"
 }
