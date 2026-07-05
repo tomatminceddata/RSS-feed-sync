@@ -14938,7 +14938,17 @@
       "parser": "default",
       "discovered": "2026-07-05T12:34:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
+      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story'",
+      "author": "Joe Rossignol",
+      "published": "2026-07-05T17:28:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-05T20:27:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-05T12:34:25+00:00"
+  "last_checked": "2026-07-05T20:27:39+00:00"
 }
