@@ -1,69 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.sonyalpharumors.com/curiosity-sony-gear-still-working-in-tibet-at-14c-and-an-altitude-of-4624-meters/",
-      "title": "Curiosity: Sony gear still working in Tibet at -14°C and an altitude of 4624 meters!",
-      "published": "2026-04-04T13:04:36+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-04T16:12:19+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-05T18:42:13+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/04/apple-the-first-50-years-hits/",
-      "title": "Get the New Book 'Apple: The First 50 Years' for 31% Off on Amazon",
-      "published": "2026-04-04T13:39:49+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-04T16:12:19+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-05T18:42:13+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/04/apple-carplay-just-got-three-popular-iphone-apps/",
-      "title": "Apple CarPlay Just Got Three Popular iPhone Apps",
-      "published": "2026-04-04T13:19:45+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-04T16:12:19+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-05T18:42:13+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/04/top-stories-foldable-iphone-ios-26-5-beta/",
-      "title": "Top Stories: Foldable iPhone, iOS 26.5 Beta, Apple's 50th, and More",
-      "published": "2026-04-03T13:37:04+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-04T16:12:19+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-05T18:42:13+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/05/homepod-mini-now-2000-days-old/",
-      "title": "HomePod Mini Is Now 2,000 Days Old",
-      "published": "2026-04-05T11:08:07+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-05T12:18:11+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-05T18:42:13+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/jake-sloan-tested-the-sony-a7v-in-alaska/",
-      "title": "Jake Sloan tested the Sony A7V In Alaska",
-      "published": "2026-04-05T12:50:51+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-05T16:13:34+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-05T18:42:13+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/05/200-off-m5-macbook-air/",
-      "title": "Amazon Takes Up to $200 Off M5 MacBook Air With New Record Low Prices",
-      "published": "2026-04-05T14:27:32+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-05T16:13:34+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-05T18:42:13+00:00"
-    },
-    {
       "url": "https://www.macrumors.com/2026/04/05/nasa-artemis-ii-photos-shot-on-iphone-17-pro-max/",
       "title": "NASA Shares Photos Shot on iPhone 17 Pro Max During Artemis II Mission to the Moon",
       "published": "2026-04-06T01:34:58+00:00",
@@ -14991,7 +14928,17 @@
       "parser": "default",
       "discovered": "2026-07-04T16:25:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-rx10v-has-a-slightly-different-focal-length/",
+      "title": "Sony RX10V has a slightly different focal length",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-05T12:23:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-05T12:34:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-04T16:25:29+00:00"
+  "last_checked": "2026-07-05T12:34:25+00:00"
 }
