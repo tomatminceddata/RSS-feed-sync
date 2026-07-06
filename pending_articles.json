@@ -15088,7 +15088,127 @@
       "parser": "default",
       "discovered": "2026-07-06T17:04:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Rayfin-AMA-Your-top-questions-answered/ba-p/5258804",
+      "title": "Rayfin AMA: Your top questions answered",
+      "author": "JowoMSFT",
+      "published": "2026-07-06T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Runtime-Release-Channels/ba-p/5240330",
+      "title": "Fabric Runtime Release Channels",
+      "author": "ArshadAliTMMBA",
+      "published": "2026-07-06T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
+      "title": "Siri AI Comes to Apple Watch in watchOS 27 Beta 3",
+      "author": "Juli Clover",
+      "published": "2026-07-06T20:24:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/macos-golden-gate-wallpaper/",
+      "title": "macOS Golden Gate Gets New Wallpaper",
+      "author": "Juli Clover",
+      "published": "2026-07-06T19:22:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-macos-27-beta-3/",
+      "title": "macOS Golden Gate Beta 3 Now Available for Developers",
+      "author": "Juli Clover",
+      "published": "2026-07-06T17:25:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-27-beta-3/",
+      "title": "Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-07-06T17:24:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-visionos-27-beta-3/",
+      "title": "Apple Seeds Third visionOS 27 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-07-06T17:23:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-watchos-27-beta-3/",
+      "title": "Apple Seeds watchOS 27 Beta 3 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-07-06T17:23:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-tvos-27-beta-3/",
+      "title": "Apple Seeds tvOS 27 Beta 3 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-07-06T17:22:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-macos-26-6-beta-4/",
+      "title": "Fourth macOS Tahoe 26.6 Beta Now Available for Developers",
+      "author": "Juli Clover",
+      "published": "2026-07-06T17:18:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-26-6-beta-4/",
+      "title": "Apple Seeds Fourth iOS 26.6 and iPadOS 26.6 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-07-06T17:17:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-watchos-26-6-beta-4/",
+      "title": "Apple Releases Fourth watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
+      "author": "Juli Clover",
+      "published": "2026-07-06T17:16:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T20:41:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-06T17:04:55+00:00"
+  "last_checked": "2026-07-06T20:41:59+00:00"
 }
