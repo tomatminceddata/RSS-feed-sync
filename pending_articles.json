@@ -14948,7 +14948,77 @@
       "parser": "default",
       "discovered": "2026-07-05T20:27:39+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-rx10v-info-4k120p-double-bionz-processor-and-ai-chip/",
+      "title": "New Sony RX10V info: 4k120p, double Bionz processor and AI chip",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-06T12:29:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T13:22:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/viltrox-26mm-f-2-8-pancake-fe-lens-is-coming-soon-for-299/",
+      "title": "Viltrox 26mm f/2.8 pancake FE lens is coming soon for $299",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-06T10:16:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T13:22:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-and-broadcom-extend-deal/",
+      "title": "Apple and Broadcom Extend Chip Supply Deal to 2031",
+      "author": "Hartley Charlton",
+      "published": "2026-07-06T12:58:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T13:22:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-watch-ultra-3-99-off-3/",
+      "title": "Apple Watch Ultra 3 Now $99 Off on Amazon, Starting at $699.99",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-06T12:54:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T13:22:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-battery-capacities-revealed/",
+      "title": "iPhone 18 Pro Battery Capacities Revealed by Regulatory Filings",
+      "author": "Hartley Charlton",
+      "published": "2026-07-06T12:30:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T13:22:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "author": "Tim Hardwick",
+      "published": "2026-07-06T12:03:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T13:22:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/whatsapp-adds-green-dot-show-who-online/",
+      "title": "WhatsApp Beta Adds Green Dot to Show Who's Online",
+      "author": "Tim Hardwick",
+      "published": "2026-07-06T10:57:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-06T13:22:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-05T20:27:39+00:00"
+  "last_checked": "2026-07-06T13:22:09+00:00"
 }
