@@ -15228,7 +15228,37 @@
       "parser": "default",
       "discovered": "2026-07-07T00:51:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-rialto-65-sensor-looks-insane/",
+      "title": "New Sony RIALTO 65 sensor looks “insane”",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-07T09:24:38+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-07T12:55:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/07/free-dropbox-client-maestral-retired/",
+      "title": "Free Dropbox Client Maestral Will Eventually Stop Working",
+      "author": "Tim Hardwick",
+      "published": "2026-07-07T10:55:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-07T12:55:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/07/iphone-air-2-battery-capacity-3500mah/",
+      "title": "iPhone Air 2 Could Get an 11% Battery Capacity Boost",
+      "author": "Tim Hardwick",
+      "published": "2026-07-07T09:58:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-07T12:55:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-07T00:51:27+00:00"
+  "last_checked": "2026-07-07T12:55:40+00:00"
 }
