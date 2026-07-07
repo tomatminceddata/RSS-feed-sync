@@ -15208,7 +15208,27 @@
       "parser": "default",
       "discovered": "2026-07-06T20:41:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/",
+      "title": "Everything New in iOS 27 Beta 3",
+      "author": "Juli Clover",
+      "published": "2026-07-06T22:19:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-07T00:51:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/",
+      "title": "Apple Intelligence Home Features Require 2TB iCloud+ Plan in iOS 27",
+      "author": "Juli Clover",
+      "published": "2026-07-06T21:13:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-07T00:51:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-06T20:41:59+00:00"
+  "last_checked": "2026-07-07T00:51:27+00:00"
 }
