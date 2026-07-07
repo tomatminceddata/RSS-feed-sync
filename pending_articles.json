@@ -15258,7 +15258,47 @@
       "parser": "default",
       "discovered": "2026-07-07T12:55:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-will-be-announced-in-july-22/",
+      "title": "Confirmed: Sony FX5 will be announced in July 22 !!!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-07T13:22:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-07T16:51:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/07/iphone-18-pro-could-be-noticeably-thicker/",
+      "title": "iPhone 18 Pro Could Be Noticeably Thicker Than iPhone 17 Pro",
+      "author": "Hartley Charlton",
+      "published": "2026-07-07T14:56:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-07T16:51:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/07/wi-fi-ipad-mini-7-models/",
+      "title": "Amazon Discounts All Wi-Fi iPad Mini 7 Models by Up to $130",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-07T14:14:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-07T16:51:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/07/airpods-max-condensation-lawsuit-largely-dismissed/",
+      "title": "AirPods Max Condensation Lawsuit Largely Dismissed by NY Judge",
+      "author": "Tim Hardwick",
+      "published": "2026-07-07T12:47:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-07T16:51:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-07T12:55:40+00:00"
+  "last_checked": "2026-07-07T16:51:35+00:00"
 }
