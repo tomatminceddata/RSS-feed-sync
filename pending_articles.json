@@ -15398,7 +15398,67 @@
       "parser": "default",
       "discovered": "2026-07-08T08:57:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/do-you-wanna-see-some-low-res-sony-fx5-images/",
+      "title": "Do you wanna see some low-res Sony FX5 images?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-08T11:31:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T12:40:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/meike-announced-the-development-of-a-new-85mm-f-1-2-fe-lens/",
+      "title": "Meike announced the development of a new 85mm f/1.2 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-08T11:30:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T12:40:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/cheaper-apple-vision-pro-display-work-ended/",
+      "title": "Report: Cheaper Apple Vision Pro Display Work Winds Down at Samsung",
+      "author": "Tim Hardwick",
+      "published": "2026-07-08T12:03:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T12:40:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/samsung-galaxy-unpacked-event-july-22-rival-apple/",
+      "title": "Samsung Galaxy Unpacked Event Set for July 22 With Foldable iPhone Rival Expected to Debut",
+      "author": "Tim Hardwick",
+      "published": "2026-07-08T11:05:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T12:40:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/apple-announces-30-billion-broadcom-deal/",
+      "title": "Apple Announces $30 Billion Broadcom Deal to Make More US Chips",
+      "author": "Tim Hardwick",
+      "published": "2026-07-08T10:21:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T12:40:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/foldable-iphone-ultra-mass-production-no-delay/",
+      "title": "iPhone Ultra Reportedly in Mass Production, No Delay Envisaged",
+      "author": "Tim Hardwick",
+      "published": "2026-07-08T10:02:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T12:40:36+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-08T08:57:05+00:00"
+  "last_checked": "2026-07-08T12:40:36+00:00"
 }
