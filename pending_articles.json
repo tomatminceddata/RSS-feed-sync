@@ -15458,7 +15458,87 @@
       "parser": "default",
       "discovered": "2026-07-08T12:40:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/hot-new-leaked-sony-fx5-images/",
+      "title": "HOT: New leaked Sony FX5 images!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-08T15:56:36+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T16:35:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/apple-to-drop-support-for-encrypted-mac-os-extended/",
+      "title": "Apple to Drop Support for Encrypted Mac OS Extended Drives Next Year",
+      "author": "Hartley Charlton",
+      "published": "2026-07-08T16:02:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T16:35:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/ios-27-car-key-support-for-lucid-and-xiaomi/",
+      "title": "iOS 27 Code Points to Car Key Support for Lucid and Xiaomi",
+      "author": "Hartley Charlton",
+      "published": "2026-07-08T15:13:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T16:35:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/when-is-apple-2026-back-to-school-offer/",
+      "title": "When is Apple's 2026 Back to School Offer?",
+      "author": "Joe Rossignol",
+      "published": "2026-07-08T14:59:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T16:35:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/512gb-macbook-neo-amazon/",
+      "title": "Amazon Offers First Major Post-Hike Discount on 512GB MacBook Neo",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-08T14:53:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T16:35:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/apple-begins-testing-controversial-chinese-memory/",
+      "title": "Apple Begins Testing Controversial Chinese Memory Chips",
+      "author": "Hartley Charlton",
+      "published": "2026-07-08T14:18:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T16:35:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/amazon-150-m5-macbook-air/",
+      "title": "Amazon Offers $150 Discount on M5 MacBook Air Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-08T13:47:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T16:35:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/cook-and-ternus-attend-sun-valley-conference/",
+      "title": "Tim Cook and John Ternus Attend Sun Valley Conference Together",
+      "author": "Hartley Charlton",
+      "published": "2026-07-08T13:07:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-08T16:35:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-08T12:40:36+00:00"
+  "last_checked": "2026-07-08T16:35:26+00:00"
 }
