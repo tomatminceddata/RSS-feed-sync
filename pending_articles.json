@@ -15036,7 +15036,77 @@
       "parser": "default",
       "discovered": "2026-07-09T13:05:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/officially-announced-and-available-for-preorder-new-sony-rx10v-superzoom-camera/",
+      "title": "Officially announced and available for preorder: New Sony RX10V super zoom camera!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-09T14:03:40+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T16:54:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/press-text-sony-electronics-introduces-rx10-v-the-fifth-generation-of-the-all-in-one-super-zoom-camera-for-travel-wildlife-and-sports-photography/",
+      "title": "Press text: Sony Electronics Introduces RX10 V – The Fifth Generation of the All-in-One Super Zoom Camera for Travel, Wildlife, and Sports Photography",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-09T13:46:41+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T16:54:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/apple-prismml-larger-on-device-ai-models/",
+      "title": "Apple Exploring Ways to Run Much Larger AI Models Directly on iPhones",
+      "author": "Joe Rossignol",
+      "published": "2026-07-09T16:50:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T16:54:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/apple-tv-friday-night-baseball-august/",
+      "title": "Apple TV and MLB Release August Schedule for 'Friday Night Baseball'",
+      "author": "Joe Rossignol",
+      "published": "2026-07-09T16:13:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T16:54:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/apple-gets-boost-from-india-tariff-exemptions/",
+      "title": "Apple's Manufacturing in India Gets Boost From New Tariff Exemptions",
+      "author": "Hartley Charlton",
+      "published": "2026-07-09T16:06:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T16:54:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/sonos-sony-anker-and-more/",
+      "title": "Sonos, Sony, Anker and More: The Best Amazon Accessory Deals Right Now",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-09T14:15:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T16:54:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/siri-ai-lawsuit-settlement-claims-timing/",
+      "title": "'Siri AI' Lawsuit Update: Apple to Pay Owners of These iPhone Models",
+      "author": "Joe Rossignol",
+      "published": "2026-07-09T14:08:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T16:54:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-09T13:05:42+00:00"
+  "last_checked": "2026-07-09T16:54:45+00:00"
 }
