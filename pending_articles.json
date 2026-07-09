@@ -15106,7 +15106,27 @@
       "parser": "default",
       "discovered": "2026-07-09T16:54:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/openai-chatgpt-work/",
+      "title": "OpenAI Debuts ChatGPT Work Agent and New GPT-5.6 Models",
+      "author": "Juli Clover",
+      "published": "2026-07-09T18:01:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T20:38:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/last-call-m5-macbook-pro/",
+      "title": "Last Call: M5 Pro MacBook Pro Remains at Pre-Hike Price But Not for Much Longer",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-09T17:20:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T20:38:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-09T16:54:45+00:00"
+  "last_checked": "2026-07-09T20:38:19+00:00"
 }
