@@ -14966,7 +14966,27 @@
       "parser": "default",
       "discovered": "2026-07-08T20:32:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/apple-tv-4k-latest-rumors/",
+      "title": "Everything Coming in the 2026 Apple TV 4K",
+      "author": "Juli Clover",
+      "published": "2026-07-08T23:51:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T00:48:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/08/meta-ai-muse-image/",
+      "title": "Meta's New AI Image Tool Can Use Your Public Instagram Photos by Default",
+      "author": "Juli Clover",
+      "published": "2026-07-08T20:52:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T00:48:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-08T20:32:22+00:00"
+  "last_checked": "2026-07-09T00:48:15+00:00"
 }
