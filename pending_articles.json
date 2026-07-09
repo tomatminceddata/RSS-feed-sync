@@ -14996,7 +14996,47 @@
       "parser": "default",
       "discovered": "2026-07-09T09:22:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/follow-it-live-sony-rx10v-announcement/",
+      "title": "Follow it live: Sony RX10V announcement",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-09T10:16:37+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T13:05:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/apple-pulls-ability-to-restore-iphone-5c-and-more/",
+      "title": "Apple Pulls Ability to Restore iPhone 5c, iPad Mini, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-07-09T12:31:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T13:05:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/duckduckgo-browser-blocks-youtube-ads/",
+      "title": "DuckDuckGo Browser Now Blocks YouTube Ads on iPhone and Mac",
+      "author": "Tim Hardwick",
+      "published": "2026-07-09T12:05:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T13:05:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/09/meta-super-sensing-glasses-record-everything/",
+      "title": "Meta's 'Super Sensing' Prototype Glasses Quietly Record Everything",
+      "author": "Tim Hardwick",
+      "published": "2026-07-09T11:14:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-09T13:05:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-09T09:22:01+00:00"
+  "last_checked": "2026-07-09T13:05:42+00:00"
 }
