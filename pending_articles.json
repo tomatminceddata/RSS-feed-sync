@@ -15166,7 +15166,67 @@
       "parser": "default",
       "discovered": "2026-07-10T09:11:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/exclusive-leaked-image-and-press-text-of-the-new-tamron-12-20mm-f-2-8-fe-lens-coming-in-july-15/",
+      "title": "Exclusive leaked image and press text of the new Tamron 12-20mm f/2.8 FE lens coming in July 15",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-10T11:41:08+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-10T12:50:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-kase-24mm-f-3-8-pancake-lens/",
+      "title": "Just announced: New Kase 24mm f/3.8 pancake lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-10T11:40:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-10T12:50:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/10/eu-facebook-instagram-break-digital-rules/",
+      "title": "EU: Facebook and Instagram's Infinite Scroll May Break Digital Rules",
+      "author": "Tim Hardwick",
+      "published": "2026-07-10T12:31:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-10T12:50:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/10/openais-chatgpt-atlas-browser-shutting-down/",
+      "title": "OpenAI's ChatGPT Atlas Browser Is Shutting Down",
+      "author": "Tim Hardwick",
+      "published": "2026-07-10T11:48:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-10T12:50:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/10/apple-slashes-iphone-17-demand-forecast/",
+      "title": "Apple Reportedly Slashes iPhone 17 Demand Forecast Amid Rising Costs",
+      "author": "Tim Hardwick",
+      "published": "2026-07-10T10:31:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-10T12:50:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/10/foldable-iphone-ultra-battery-capacity-revealed/",
+      "title": "Foldable iPhone Ultra Battery Capacity Allegedly Registered by Supplier",
+      "author": "Tim Hardwick",
+      "published": "2026-07-10T09:42:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-10T12:50:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-10T09:11:43+00:00"
+  "last_checked": "2026-07-10T12:50:37+00:00"
 }
