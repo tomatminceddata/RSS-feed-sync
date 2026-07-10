@@ -15276,7 +15276,27 @@
       "parser": "default",
       "discovered": "2026-07-10T16:44:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-rx10v-youtube-video-roundup/",
+      "title": "Sony RX10V now available for preorder at Amazon too!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-10T19:59:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-10T20:34:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/10/apple-sues-openai/",
+      "title": "Apple Sues OpenAI for Stealing Trade Secrets to Build AI Hardware",
+      "author": "Juli Clover",
+      "published": "2026-07-10T20:17:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-10T20:34:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-10T16:44:36+00:00"
+  "last_checked": "2026-07-10T20:34:21+00:00"
 }
