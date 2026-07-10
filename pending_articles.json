@@ -15156,7 +15156,17 @@
       "parser": "default",
       "discovered": "2026-07-10T00:47:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/thanks-to-all-sources-sending-me-new-info-about-the-sony-fx5-and-third-party-lenses/",
+      "title": "Thanks to all sources sending me new info about the Sony FX5 and third party lenses!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-10T06:50:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-10T09:11:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-10T00:47:34+00:00"
+  "last_checked": "2026-07-10T09:11:43+00:00"
 }
