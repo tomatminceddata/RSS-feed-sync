@@ -15296,7 +15296,27 @@
       "parser": "default",
       "discovered": "2026-07-10T20:34:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/10/two-apple-stores-moving-soon/",
+      "title": "Two Apple Stores in U.S. Are Moving Soon",
+      "author": "Joe Rossignol",
+      "published": "2026-07-10T23:10:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-11T00:41:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-mail/",
+      "title": "iOS 27: What's New With the Mail App",
+      "author": "Juli Clover",
+      "published": "2026-07-10T22:26:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-11T00:41:16+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-10T20:34:21+00:00"
+  "last_checked": "2026-07-11T00:41:16+00:00"
 }
