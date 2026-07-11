@@ -15316,7 +15316,27 @@
       "parser": "default",
       "discovered": "2026-07-11T00:41:16+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/full-leaked-specs-and-details-of-the-new-viltrox-26mm-f-2-8-fe-pancake-lens/",
+      "title": "Full leaked specs and details of the new Viltrox 26mm f/2.8 FE pancake lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-11T12:05:05+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-11T12:23:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/11/openai-responds-after-apple-lawsuit/",
+      "title": "OpenAI Responds After Being Sued by Apple",
+      "author": "Joe Rossignol",
+      "published": "2026-07-11T11:57:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-11T12:23:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-11T00:41:16+00:00"
+  "last_checked": "2026-07-11T12:23:58+00:00"
 }
