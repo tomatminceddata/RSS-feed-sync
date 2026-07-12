@@ -15281,7 +15281,87 @@
       "parser": "default",
       "discovered": "2026-07-12T12:23:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
+      "title": "Curiosity: Sony FX5 has IBIS….you can remove?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-12T14:19:19+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-12T16:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
+      "title": "Apple Stores to Expand Use of 'Tap to Pay on iPhone'",
+      "author": "Joe Rossignol",
+      "published": "2026-07-12T16:11:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-12T16:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/12/m7-ultra-chip-may-match-2019-mac-pro-feat/",
+      "title": "Apple's M7 Ultra Chip Designed to Match a 2019 Mac Pro Feat",
+      "author": "Joe Rossignol",
+      "published": "2026-07-12T15:53:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-12T16:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/12/two-new-apple-pencils-next-year-report/",
+      "title": "Two New Apple Pencils Reportedly Launching Next Year",
+      "author": "Joe Rossignol",
+      "published": "2026-07-12T15:45:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-12T16:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/12/ios-27-public-beta-release-date-timing/",
+      "title": "iOS 27 Public Beta Reportedly Available This Week",
+      "author": "Joe Rossignol",
+      "published": "2026-07-12T15:22:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-12T16:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/12/why-apple-is-skipping-m6-pro-m6-max-chips/",
+      "title": "Here's Why Apple is Reportedly Skipping M6 Pro and M6 Max Chips",
+      "author": "Joe Rossignol",
+      "published": "2026-07-12T15:12:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-12T16:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/12/airpods-pro-3-at-199-99/",
+      "title": "AirPods Pro 3 Hit Best Price Since Prime Day at $199.99",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-12T14:32:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-12T16:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/12/apple-2026-back-to-school-offer-soon/",
+      "title": "Apple's 2026 Back to School Offer is Coming Soon",
+      "author": "Joe Rossignol",
+      "published": "2026-07-12T14:29:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-12T16:22:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-12T12:23:50+00:00"
+  "last_checked": "2026-07-12T16:22:50+00:00"
 }
