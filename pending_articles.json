@@ -15271,7 +15271,17 @@
       "discovered": "2026-07-11T20:20:05+00:00",
       "status": "synced",
       "synced_at": "2026-07-11T22:16:45+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/there-is-also-this-new-viltrox-28mm-f-1-8-ii-coming-on-july-15/",
+      "title": "There is also this new Viltrox 28mm f/1.8 II coming on July 15",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-12T09:31:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-12T12:23:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-11T20:20:05+00:00"
+  "last_checked": "2026-07-12T12:23:50+00:00"
 }
