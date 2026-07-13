@@ -1,222 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.macrumors.com/2026/04/12/m5-macbook-air-150-off-weekend/",
-      "title": "Amazon Has Every Model of the M5 MacBook Air at $150 Off This Weekend",
-      "published": "2026-04-12T13:52:31+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-12T16:14:58+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/12/airpods-weekend-deals-2/",
-      "title": "AirPods Weekend Deals Include AirPods Pro 3 for $199.99 and AirPods Max 1 for $399.95",
-      "published": "2026-04-12T13:33:36+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-12T16:14:58+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/new-ttartisan-17mm-f1-8-air-and-7-5mm-f2-aps-c-lenses/",
-      "title": "New TTArtisan 17mm f1.8 Air and 7.5mm F2 APS-C lenses",
-      "published": "2026-04-13T06:26:17+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-13T08:49:48+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/ttartisan-is-teasing-the-launch-of-two-new-full-frame-autofocus-lenses/",
-      "title": "TTartisan is teasing the launch of two new full-frame autofocus lenses!",
-      "published": "2026-04-13T10:27:03+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/huawei-foldable-similar-foldable-iphone/",
-      "title": "New Huawei Foldable Looks a Lot Like Apple's Rumored iPhone Fold",
-      "published": "2026-04-13T11:40:57+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/john-giannandrea-departs-apple-this-week/",
-      "title": "Apple's AI Chief John Giannandrea Departs This Week",
-      "published": "2026-04-13T11:23:27+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/iphone-18-pro-deep-red-color/",
-      "title": "iPhone 18 Pro Deep Red Color Likely as Android Rivals Prep Same Shade",
-      "published": "2026-04-13T10:15:59+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/apple-smart-glasses-four-styles/",
-      "title": "Apple Testing Four Smart Glasses Styles Made of High-End Materials",
-      "published": "2026-04-13T09:29:03+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T12:32:03+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/manny-ortiz-reviews-the-first-generation-sony-a7rv-and-its-not-a-coincidence/",
-      "title": "Manny Ortiz reviews the first generation Sony A7rV….and it’s not a coincidence :)",
-      "published": "2026-04-13T13:47:34+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/how-to/check-who-using-iphone-hotspot-data/",
-      "title": "Check Who's Using Your iPhone Hotspot Data",
-      "published": "2026-04-13T14:17:56+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/adhesive-is-key-to-crease-free-foldable-iphone/",
-      "title": "Smart Adhesive Is Key to Crease-Free Foldable iPhone Display",
-      "published": "2026-04-13T13:57:18+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/2026-macbook-pro-low-prices-2/",
-      "title": "Get Up to $200 Off 2026 MacBook Pro With Record Low Prices on Amazon",
-      "published": "2026-04-13T13:32:28+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/valve-steam-link-apple-vision-pro/",
-      "title": "Valve's Steam Link App Is Coming to Apple Vision Pro",
-      "published": "2026-04-13T13:14:00+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T16:33:39+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://blog.fabric.microsoft.com/en-US/blog/alter-table-inside-explicit-transactions-in-fabric-data-warehouse-generally-available/",
-      "title": "ALTER TABLE inside explicit transactions in Fabric Data Warehouse (Generally Available)",
-      "published": "2026-04-13T11:00:00+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://blog.fabric.microsoft.com/en-US/blog/bring-your-local-files-to-onelake-with-onelake-file-explorer-generally-available/",
-      "title": "Bring your local files to OneLake with OneLake file explorer (Generally Available)",
-      "published": "2026-04-13T11:00:00+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://blog.fabric.microsoft.com/en-US/blog/announcing-full-collation-support-for-sql-databases-in-microsoft-fabric-preview/",
-      "title": "Announcing Full Collation Support for SQL Databases in Microsoft Fabric (Preview)",
-      "published": "2026-04-13T10:51:08+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/today-only-save-on-benro-travel-tripod-and-think-tank-traveler-bag-at-bhphoto/",
-      "title": "Today only: Save on Benro Travel Tripod and Think Tank Traveler bag at BHphoto",
-      "published": "2026-04-13T17:55:10+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/american-airlines-ios-26-boarding-passes/",
-      "title": "American Airlines Now Supports iOS 26's Revamped Wallet Boarding Passes",
-      "published": "2026-04-13T19:59:06+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/ios-26-2-beta-2-apple-maps-ads/",
-      "title": "Apple Maps Ads Move Closer to Launch With iOS 26.5 Beta 2",
-      "published": "2026-04-13T18:09:51+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/apple-watch-series-11-100-off-3/",
-      "title": "Apple Watch Series 11 Hits $100 Off Nearly Every Aluminum Model on Amazon",
-      "published": "2026-04-13T17:22:52+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/apple-seeds-ios-26-5-beta-2/",
-      "title": "Apple Seeds Second iOS 26.5 and iPadOS 26.5 Betas to Developers",
-      "published": "2026-04-13T17:08:38+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/apple-releases-macos-tahoe-26-5-beta-2/",
-      "title": "Second macOS Tahoe 26.5 Beta Now Available for Developers",
-      "published": "2026-04-13T17:07:58+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/apple-releases-watchos-26-5-beta-2/",
-      "title": "Apple Releases Second watchOS 26.5, tvOS 26.5 and visionOS 26.5 Betas",
-      "published": "2026-04-13T17:06:00+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-13T20:25:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/13/iphone-fold-production-pushed-back/",
-      "title": "iPhone Fold Production Pushed Back, But Fall 2026 Launch Still on Track",
-      "published": "2026-04-13T20:44:51+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T00:48:18+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-14T04:29:56+00:00"
-    },
-    {
       "url": "https://www.sonyalpharumors.com/new-viltrox-full-frame-autofocus-lens-will-be-announced-on-april-20/",
       "title": "New Viltrox Full Frame Autofocus lens will be announced on April 20",
       "published": "2026-04-14T06:16:49+00:00",
@@ -15361,7 +15145,57 @@
       "parser": "default",
       "discovered": "2026-07-12T16:22:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/dear-sources-whats-coming-after-the-sony-fx5/",
+      "title": "Dear sources….what’s coming after the Sony FX5?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-13T09:32:51+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-13T12:54:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/apple-stock-record-territory/",
+      "title": "Apple Stock Hits Record Territory as Traders Sour on AI Spending",
+      "author": "Tim Hardwick",
+      "published": "2026-07-13T12:02:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-13T12:54:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/meta-pulls-ai-image-feature-from-instagram/",
+      "title": "Meta Pulls AI Image Feature From Instagram Days After Launch",
+      "author": "Tim Hardwick",
+      "published": "2026-07-13T11:18:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-13T12:54:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/five-new-waze-features-rolling-out/",
+      "title": "5 New Waze Features Rolling Out Now: Here Are All the Details",
+      "author": "Tim Hardwick",
+      "published": "2026-07-13T10:32:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-13T12:54:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/apple-agreed-intel-chips-trump-tariff-talks/",
+      "title": "Report: Apple Agreed to Intel Chips Amid White House Tariff Talks",
+      "author": "Tim Hardwick",
+      "published": "2026-07-13T09:47:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-13T12:54:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-12T16:22:50+00:00"
+  "last_checked": "2026-07-13T12:54:46+00:00"
 }
