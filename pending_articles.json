@@ -15265,7 +15265,37 @@
       "parser": "default",
       "discovered": "2026-07-13T16:50:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-26-6-beta-5/",
+      "title": "Apple Seeds Fifth iOS 26.6 and iPadOS 26.6 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-07-13T17:28:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-13T20:30:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-macos-tahoe-26-6-beta-5/",
+      "title": "Fifth macOS Tahoe 26.6 Beta Now Available for Developers",
+      "author": "Juli Clover",
+      "published": "2026-07-13T17:28:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-13T20:30:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-watchos-26-6-beta-5/",
+      "title": "Apple Releases Fifth watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
+      "author": "Juli Clover",
+      "published": "2026-07-13T17:28:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-13T20:30:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-13T16:50:53+00:00"
+  "last_checked": "2026-07-13T20:30:05+00:00"
 }
