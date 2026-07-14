@@ -1,240 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.sonyalpharumors.com/new-viltrox-full-frame-autofocus-lens-will-be-announced-on-april-20/",
-      "title": "New Viltrox Full Frame Autofocus lens will be announced on April 20",
-      "published": "2026-04-14T06:16:49+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-14T08:41:04+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/reasons-to-wait-iphone-18-pro-2/",
-      "title": "10 Reasons to Wait for the iPhone 18 Pro",
-      "published": "2026-04-14T11:38:20+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T12:30:03+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/blackmagic-29k-ursa-cine-immersive-100g-vision-pro/",
-      "title": "Blackmagic Debuts $29K+ URSA Cine Immersive 100G for Vision Pro",
-      "published": "2026-04-14T10:30:51+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T12:30:03+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://blog.fabric.microsoft.com/en-US/blog/unifying-analyze-data-with-analytics-across-fabric-preview/",
-      "title": "Unifying “Analyze data with” analytics across Fabric (Preview)",
-      "published": "2026-04-14T09:00:00+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "discovered": "2026-04-14T16:31:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://blog.fabric.microsoft.com/en-US/blog/one-data-many-insights-how-eventhouse-brings-analytics-together-preview/",
-      "title": "One platform, many insights: How Eventhouse brings analytics together (Preview)",
-      "published": "2026-04-13T13:02:00+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "discovered": "2026-04-14T16:31:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/wild-rumors-about-a-new-sony-200mm-gm-lens/",
-      "title": "Wild rumors about a new Sony 200mm f/2.0 GM lens…",
-      "published": "2026-04-14T12:59:39+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-14T16:31:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/davinci-resolve-21-photo-editing-ai-search/",
-      "title": "DaVinci Resolve 21 Adds Photo Editing and AI Search Tools",
-      "published": "2026-04-14T15:31:18+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T16:31:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/studio-display-xdr-record-low/",
-      "title": "Apple's 2026 Studio Display XDR Drops to New Record Low Prices on Expercom",
-      "published": "2026-04-14T14:20:13+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T16:31:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/prosser-still-not-cooperating-in-lawsuit/",
-      "title": "Jon Prosser Still Not Fully Cooperating in Apple's iOS 26 Trade Secrets Lawsuit",
-      "published": "2026-04-14T13:57:51+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T16:31:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/apples-m4-ipad-air-drops-2/",
-      "title": "Apple's M4 iPad Air Available for Up to $100 Off on Amazon",
-      "published": "2026-04-14T13:41:39+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T16:31:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/new-switzerland-apple-store-planned/",
-      "title": "Apple Plans One of Europe's Biggest Stores in Zurich",
-      "published": "2026-04-14T12:42:03+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T16:31:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/apple-and-amazon-ink-satellite-deal-globalstar/",
-      "title": "Apple and Amazon Ink Satellite Deal Amid Globalstar Takeover",
-      "published": "2026-04-14T12:31:40+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T16:31:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://blog.fabric.microsoft.com/en-US/blog/capacity-scheduler-smarter-capacity-control-for-eventhouse-preview/",
-      "title": "Capacity Scheduler: Smarter capacity control for Eventhouse (Preview)",
-      "published": "2026-04-14T10:00:00+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "discovered": "2026-04-14T20:25:24+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/apple-watch-activity-challenges-april-2026/",
-      "title": "Apple Watch Earth Day and International Dance Day Activity Challenges Launching Later This Month",
-      "published": "2026-04-14T19:00:57+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T20:25:24+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/apple-mac-app-store-fake-crypto-wallet/",
-      "title": "Apple Removes Fake Crypto Wallet App That Stole $9.5 Million From Mac Users",
-      "published": "2026-04-14T18:42:20+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T20:25:24+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/apple-business-platform-launches/",
-      "title": "Apple Launches New All-in-One Apple Business Platform for Device Management, Email, and Customer Engagement",
-      "published": "2026-04-14T17:09:37+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T20:25:24+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/apple-seeds-ios-26-5-public-beta-2/",
-      "title": "Apple Releases Second iOS 26.5, iPadOS 26.5, tvOS 26.5 and watchOS 26.5 Public Betas",
-      "published": "2026-04-14T17:06:31+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T20:25:24+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/google-chrome-gemini-skills-library/",
-      "title": "Gemini in Google Chrome Gets a Skills Library for Saving Custom AI Prompts",
-      "published": "2026-04-14T13:14:51+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-14T20:25:24+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/microsoft-surface-pc-price-hike/",
-      "title": "Microsoft Raises Prices for All Surface PCs, Making Them More Expensive Than Equivalent Macs",
-      "published": "2026-04-14T23:21:37+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-15T00:48:01+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/apple-pulls-freecash-app/",
-      "title": "Apple Removes Freecash App From App Store After Months of Data Harvesting",
-      "published": "2026-04-14T22:54:51+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-15T00:48:01+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/review/switchbot-s20-and-k11-plus/",
-      "title": "SwitchBot S20 Review: A Budget-Friendly Robot Vacuum and Mop With Matter Support",
-      "published": "2026-04-14T22:27:53+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-15T00:48:01+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/14/samsung-us-price-increase/",
-      "title": "Samsung's U.S. Price Increases Add to Concerns About Rising Apple Device Costs",
-      "published": "2026-04-14T21:47:16+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-15T00:48:01+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/list-of-coolest-lenses-for-each-system-according-to-petapixel-tv/",
-      "title": "List of coolest lenses for each system according to PetaPixel TV",
-      "published": "2026-04-15T10:09:43+00:00",
-      "feed": "SonyAlphaRumors",
-      "discovered": "2026-04-15T12:30:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/15/report-ipad-air-to-gain-oled-display-next-year/",
-      "title": "Report: iPad Air to Gain OLED Display Next Year",
-      "published": "2026-04-15T11:31:03+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-15T12:30:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/15/anthropic-rebuilds-claude-code-desktop-app/",
-      "title": "Anthropic Rebuilds Claude Code Desktop App Around Parallel Sessions",
-      "published": "2026-04-15T10:32:21+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-15T12:30:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/15/apple-tv-peacock-prime-video-bundle/",
-      "title": "Apple TV and Peacock $20 Monthly Bundle Available on Amazon Prime Video, Offering a 30% Discount",
-      "published": "2026-04-15T09:14:53+00:00",
-      "feed": "MacRumors",
-      "discovered": "2026-04-15T12:30:26+00:00",
-      "status": "synced",
-      "synced_at": "2026-04-15T15:41:42+00:00"
-    },
-    {
       "url": "https://www.sonyalpharumors.com/new-typoch-24-50mm-f-2-8-info/",
       "title": "New Typoch 24-50mm f/2.8 info",
       "published": "2026-04-15T12:32:05+00:00",
@@ -15455,7 +15221,77 @@
       "parser": "default",
       "discovered": "2026-07-14T12:33:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Intelligent-streaming-Real-time-game-day-operations-with-Fabric/ba-p/5287533",
+      "title": "Intelligent streaming: Real-time game-day operations with Fabric Eventstreams, Spark and AI functions",
+      "author": "arindamc",
+      "published": "2026-07-14T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-14T16:31:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-to-cost-close-to-e5500-in-europe/",
+      "title": "Sony FX5 to costs €5,399 in Europe?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-14T14:59:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T16:31:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/things-the-sony-fx5-doesnt-have-no-internal-nd-no-photo-mode-no-8k/",
+      "title": "Things the Sony FX5 doesn’t have: No internal ND, no photo mode and no SSD output?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-14T12:58:35+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T16:31:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/madden-nfl-27-arcade-edition/",
+      "title": "Madden NFL 27 Arcade Edition Coming to Apple Arcade",
+      "author": "Hartley Charlton",
+      "published": "2026-07-14T14:57:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T16:31:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/amazon-30-off-airpods-4/",
+      "title": "Amazon Takes $30 Off AirPods 4 Models This Week",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-14T13:53:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T16:31:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/",
+      "title": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims",
+      "author": "Hartley Charlton",
+      "published": "2026-07-14T12:47:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T16:31:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/oled-ipad-mini-has-60hz-display/",
+      "title": "Upcoming OLED iPad Mini Allegedly Uses 60Hz 8.4-Inch Display Panel",
+      "author": "Tim Hardwick",
+      "published": "2026-07-14T12:36:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T16:31:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-14T12:33:14+00:00"
+  "last_checked": "2026-07-14T16:31:44+00:00"
 }
