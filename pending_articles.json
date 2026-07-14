@@ -15295,7 +15295,57 @@
       "parser": "default",
       "discovered": "2026-07-13T20:30:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-public-beta-features/",
+      "title": "iOS 27 Public Beta Is Here: 10 New Features Worth Testing",
+      "author": "Juli Clover",
+      "published": "2026-07-13T23:07:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T00:39:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/ios-26-6-malicious-message-warning/",
+      "title": "iOS 26.6 Will Warn You About Malicious iMessages",
+      "author": "Juli Clover",
+      "published": "2026-07-13T23:02:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T00:39:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/",
+      "title": "First macOS Golden Gate Public Beta Now Available",
+      "author": "Juli Clover",
+      "published": "2026-07-13T20:41:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T00:39:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-27-public-beta-1/",
+      "title": "iOS 27 and iPadOS 27 Now Available to Public Beta Testers",
+      "author": "Juli Clover",
+      "published": "2026-07-13T20:39:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T00:39:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/13/watchos-27-public-beta/",
+      "title": "tvOS 27 and watchOS 27 Now Available to Public Beta Testers",
+      "author": "Juli Clover",
+      "published": "2026-07-13T20:38:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T00:39:20+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-13T20:30:05+00:00"
+  "last_checked": "2026-07-14T00:39:20+00:00"
 }
