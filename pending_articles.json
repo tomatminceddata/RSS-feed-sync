@@ -15345,7 +15345,117 @@
       "parser": "default",
       "discovered": "2026-07-14T00:39:20+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-new-for-Dataverse-Fabric-Link-More-control-stronger/ba-p/5279493",
+      "title": "What’s new for Dataverse Fabric Link: More control, stronger security, and fresher data",
+      "author": "shiv_narayanan",
+      "published": "2026-07-13T22:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-architectural-guidance-A-practical-blueprint-for-the-AI/ba-p/5282667",
+      "title": "OneLake architectural guidance: A practical blueprint for the AI Era",
+      "author": "ofer",
+      "published": "2026-07-13T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Stream-Oracle-database-changes-into-Microsoft-Fabric-Eventstream/ba-p/5277839",
+      "title": "Stream Oracle database changes into Microsoft Fabric Eventstream (Preview)",
+      "author": "spurthikommajos",
+      "published": "2026-07-09T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-New-in-Fabric-Eventstreams-2026-Q2-Edition/ba-p/5277663",
+      "title": "What’s New in Fabric Eventstreams — 2026 Q2 Edition",
+      "author": "Alicia_Li_MSFT",
+      "published": "2026-07-09T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Mirrored-Database-to-Real-Time-Action-A-Fabric-Eventstreams/ba-p/5274750",
+      "title": "From Mirrored Database to Real-Time Action: A Fabric Eventstreams scenario",
+      "author": "arindamc",
+      "published": "2026-07-08T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/We-Put-a-GPU-Behind-Fabric-DW/ba-p/5262382",
+      "title": "We Put a GPU Behind Fabric DW",
+      "author": "bogdanc",
+      "published": "2026-07-07T18:19:13+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-the-Shape-Map-in-Power-BI-Generally-Available/ba-p/5255561",
+      "title": "Deep dive into the Shape Map in Power BI (Generally Available)",
+      "author": "DataZoe",
+      "published": "2026-07-07T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/kase-24mm-f-3-8-pancake-now-listed-at-aliexpress/",
+      "title": "Kase 24mm f/3.8 pancake now listed at Aliexpress",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-14T09:36:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/iphone-17-pricing-helped-apple-china-q2-26/",
+      "title": "iPhone 17 Pricing Helped Apple Buck China's Q2 Smartphone Decline",
+      "author": "Tim Hardwick",
+      "published": "2026-07-14T11:27:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/whatsapp-backup-cloud-provider-for-ios/",
+      "title": "WhatsApp Beta Reveals iCloud Backup Alternative for iPhone",
+      "author": "Tim Hardwick",
+      "published": "2026-07-14T10:06:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/google-chrome-gemini-ai-features-uk/",
+      "title": "Google Chrome's Gemini AI Features Roll Out to UK Users",
+      "author": "Tim Hardwick",
+      "published": "2026-07-14T09:32:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T12:33:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-14T00:39:20+00:00"
+  "last_checked": "2026-07-14T12:33:14+00:00"
 }
