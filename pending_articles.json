@@ -15332,7 +15332,57 @@
       "discovered": "2026-07-14T16:31:44+00:00",
       "status": "synced",
       "synced_at": "2026-07-14T19:44:03+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/last-minute-leaked-image-of-the-new-tamron-12-20mm-f-2-8-fe-lens/",
+      "title": "Last minute leaked image of the new Tamron 12-20mm f/2.8 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-14T20:00:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-launched-new-magnetic-camera-straps-by-wandrd/",
+      "title": "Just launched: New Magnetic Camera Straps By WANDRD",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-14T18:16:35+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/amazon-switch-2-deal/",
+      "title": "Amazon Hosts Rare Nintendo Switch 2 Deal, Get $49 Off Game Bundle",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-14T18:32:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/airpods-public-beta-firmware/",
+      "title": "Apple Releases New iOS 27 AirPods Firmware For Public Beta Testers",
+      "author": "Juli Clover",
+      "published": "2026-07-14T18:29:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features/",
+      "title": "macOS Golden Gate Public Beta: 10 Features to Try First",
+      "author": "Juli Clover",
+      "published": "2026-07-14T18:11:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-14T16:31:44+00:00"
+  "last_checked": "2026-07-14T20:28:42+00:00"
 }
