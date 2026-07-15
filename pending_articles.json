@@ -15432,7 +15432,37 @@
       "parser": "default",
       "discovered": "2026-07-15T08:51:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/tamron-12-20mm-f-2-8-fe-preorders-now-open-in-europe-too/",
+      "title": "Tamron 12-20mm f/2.8 FE preorders now open in Europe too",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-15T10:23:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T12:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/amazon-150-on-m5-macbook-air/",
+      "title": "Amazon Offers $150 Discount on M5 MacBook Air Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-15T12:25:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T12:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-intelligence-cleared-to-launch-in-china/",
+      "title": "Apple Intelligence Finally Cleared to Launch in China",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T11:25:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T12:34:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-15T08:51:25+00:00"
+  "last_checked": "2026-07-15T12:34:42+00:00"
 }
