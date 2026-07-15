@@ -15422,7 +15422,17 @@
       "parser": "default",
       "discovered": "2026-07-15T00:37:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/officially-announced-new-tamron-12-20mm-f-2-8-fe/",
+      "title": "Officially announced: New Tamron 12-20mm f/2.8 FE",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-15T06:18:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T08:51:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-15T00:37:17+00:00"
+  "last_checked": "2026-07-15T08:51:25+00:00"
 }
