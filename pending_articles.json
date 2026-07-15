@@ -15532,7 +15532,57 @@
       "parser": "default",
       "discovered": "2026-07-15T16:34:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Streamlining-orchestration-with-smarter-pipelines-and-deeper/ba-p/5280154",
+      "title": "Streamlining orchestration with smarter pipelines and deeper monitoring",
+      "author": "conxu-ms",
+      "published": "2026-07-15T20:08:07+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-2026-sales-tax-holidays/",
+      "title": "Apple Lists Products Eligible for Tax-Free Holidays in 10 U.S. States",
+      "author": "Joe Rossignol",
+      "published": "2026-07-15T19:33:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/",
+      "title": "Apple's 2026 Back to School Offer Just Went Live in Select Countries",
+      "author": "Joe Rossignol",
+      "published": "2026-07-15T18:48:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/nomad-anniversary-sale/",
+      "title": "Nomad Kicks Off Anniversary Sale With Up to 30% Off Sitewide",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-15T18:11:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-smart-home-lineup-rumors/",
+      "title": "Apple's 2026 Smart Home Lineup: New Apple TV, HomePod, and Home Hub",
+      "author": "Juli Clover",
+      "published": "2026-07-15T18:03:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-15T16:34:31+00:00"
+  "last_checked": "2026-07-15T20:25:09+00:00"
 }
