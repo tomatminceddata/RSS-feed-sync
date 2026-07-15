@@ -15462,7 +15462,77 @@
       "parser": "default",
       "discovered": "2026-07-15T12:34:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-tamron-12-20mm-f-2-8-fe-lens-reviews/",
+      "title": "Bobby Tonelli: Tamron might have just created the best ultra-wide zoom lens currently available on the market.",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-15T16:28:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/announced-and-available-for-preorder-new-viltrox-26mm-f-2-8-fe-pancake-lens/",
+      "title": "Announced and available for preorder: New Viltrox 26mm f/2.8 FE pancake lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-15T13:07:14+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/report-oneplus-to-pull-out-of-us-and-europe/",
+      "title": "Report: OnePlus to Pull Out of US and Europe",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T16:02:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-tv-announces-return-of-mls/",
+      "title": "Apple TV Announces Return of MLS Following the 2026 FIFA World Cup",
+      "author": "Joe Rossignol",
+      "published": "2026-07-15T15:33:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-looking-to-acquire-ai-chip-companies/",
+      "title": "Apple Reportedly Looking to Acquire AI Chip Companies",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T15:21:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-adds-36-month-carrier-financing-for-ipads/",
+      "title": "Apple Adds 36-Month Carrier Financing for Cellular iPads",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T14:41:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/eu-drops-battery-removal-requirement/",
+      "title": "EU Drops Battery Removal Requirement for Apple Watch and AirPods",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T14:02:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-15T12:34:42+00:00"
+  "last_checked": "2026-07-15T16:34:31+00:00"
 }
