@@ -15382,7 +15382,47 @@
       "parser": "default",
       "discovered": "2026-07-14T20:28:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553",
+      "title": "VNET Data Gateway Autoscaling (Preview)",
+      "author": "goupadhy",
+      "published": "2026-07-14T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-15T00:37:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/lego-imac-g3-set/",
+      "title": "LEGO Considering Bondi Blue iMac G3 Set",
+      "author": "Juli Clover",
+      "published": "2026-07-15T00:12:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T00:37:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
+      "title": "OpenAI's First AI Device Will Be a Portable Smart Speaker",
+      "author": "Juli Clover",
+      "published": "2026-07-14T21:38:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T00:37:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/openai-apple-lawsuit-response/",
+      "title": "OpenAI: No Evidence Apple's Trade Secret Complaint Has Merit",
+      "author": "Juli Clover",
+      "published": "2026-07-14T20:45:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T00:37:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-14T20:28:42+00:00"
+  "last_checked": "2026-07-15T00:37:17+00:00"
 }
