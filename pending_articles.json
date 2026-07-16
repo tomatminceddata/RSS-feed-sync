@@ -15582,7 +15582,67 @@
       "parser": "default",
       "discovered": "2026-07-15T20:25:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-User-Data-Functions-to-securely-call-Fabric-REST-APIs/ba-p/5294590",
+      "title": "Use User Data Functions to securely call Fabric REST APIs",
+      "author": "mk_sunitha",
+      "published": "2026-07-15T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
+      "title": "Google and Epic Abandon Settlement, Clearing the Way for Rival Android App Stores",
+      "author": "Juli Clover",
+      "published": "2026-07-16T00:02:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+      "title": "CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto",
+      "author": "Juli Clover",
+      "published": "2026-07-15T23:14:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "author": "Juli Clover",
+      "published": "2026-07-15T22:20:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/applecare-plus-price-increase/",
+      "title": "AppleCare+ for Macs and iPads Just Got More Expensive",
+      "author": "Juli Clover",
+      "published": "2026-07-15T21:32:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
+      "title": "Apple Won't Allow These Ad Categories in the Maps App",
+      "author": "Juli Clover",
+      "published": "2026-07-15T21:01:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-15T20:25:09+00:00"
+  "last_checked": "2026-07-16T00:40:30+00:00"
 }
