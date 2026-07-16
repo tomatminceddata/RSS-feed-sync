@@ -15332,7 +15332,367 @@
       "discovered": "2026-07-14T16:31:44+00:00",
       "status": "synced",
       "synced_at": "2026-07-14T19:44:03+00:00"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/last-minute-leaked-image-of-the-new-tamron-12-20mm-f-2-8-fe-lens/",
+      "title": "Last minute leaked image of the new Tamron 12-20mm f/2.8 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-14T20:00:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-launched-new-magnetic-camera-straps-by-wandrd/",
+      "title": "Just launched: New Magnetic Camera Straps By WANDRD",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-14T18:16:35+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/amazon-switch-2-deal/",
+      "title": "Amazon Hosts Rare Nintendo Switch 2 Deal, Get $49 Off Game Bundle",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-14T18:32:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/airpods-public-beta-firmware/",
+      "title": "Apple Releases New iOS 27 AirPods Firmware For Public Beta Testers",
+      "author": "Juli Clover",
+      "published": "2026-07-14T18:29:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features/",
+      "title": "macOS Golden Gate Public Beta: 10 Features to Try First",
+      "author": "Juli Clover",
+      "published": "2026-07-14T18:11:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-14T20:28:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553",
+      "title": "VNET Data Gateway Autoscaling (Preview)",
+      "author": "goupadhy",
+      "published": "2026-07-14T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-15T00:37:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/lego-imac-g3-set/",
+      "title": "LEGO Considering Bondi Blue iMac G3 Set",
+      "author": "Juli Clover",
+      "published": "2026-07-15T00:12:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T00:37:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/openai-ai-hardware-device-speaker/",
+      "title": "OpenAI's First AI Device Will Be a Portable Smart Speaker",
+      "author": "Juli Clover",
+      "published": "2026-07-14T21:38:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T00:37:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/14/openai-apple-lawsuit-response/",
+      "title": "OpenAI: No Evidence Apple's Trade Secret Complaint Has Merit",
+      "author": "Juli Clover",
+      "published": "2026-07-14T20:45:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T00:37:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/officially-announced-new-tamron-12-20mm-f-2-8-fe/",
+      "title": "Officially announced: New Tamron 12-20mm f/2.8 FE",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-15T06:18:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T08:51:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/tamron-12-20mm-f-2-8-fe-preorders-now-open-in-europe-too/",
+      "title": "Tamron 12-20mm f/2.8 FE preorders now open in Europe too",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-15T10:23:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T12:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/amazon-150-on-m5-macbook-air/",
+      "title": "Amazon Offers $150 Discount on M5 MacBook Air Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-15T12:25:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T12:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-intelligence-cleared-to-launch-in-china/",
+      "title": "Apple Intelligence Finally Cleared to Launch in China",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T11:25:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T12:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-tamron-12-20mm-f-2-8-fe-lens-reviews/",
+      "title": "Bobby Tonelli: Tamron might have just created the best ultra-wide zoom lens currently available on the market.",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-15T16:28:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/announced-and-available-for-preorder-new-viltrox-26mm-f-2-8-fe-pancake-lens/",
+      "title": "Announced and available for preorder: New Viltrox 26mm f/2.8 FE pancake lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-15T13:07:14+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/report-oneplus-to-pull-out-of-us-and-europe/",
+      "title": "Report: OnePlus to Pull Out of US and Europe",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T16:02:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-tv-announces-return-of-mls/",
+      "title": "Apple TV Announces Return of MLS Following the 2026 FIFA World Cup",
+      "author": "Joe Rossignol",
+      "published": "2026-07-15T15:33:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-looking-to-acquire-ai-chip-companies/",
+      "title": "Apple Reportedly Looking to Acquire AI Chip Companies",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T15:21:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-adds-36-month-carrier-financing-for-ipads/",
+      "title": "Apple Adds 36-Month Carrier Financing for Cellular iPads",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T14:41:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/eu-drops-battery-removal-requirement/",
+      "title": "EU Drops Battery Removal Requirement for Apple Watch and AirPods",
+      "author": "Hartley Charlton",
+      "published": "2026-07-15T14:02:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T16:34:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Streamlining-orchestration-with-smarter-pipelines-and-deeper/ba-p/5280154",
+      "title": "Streamlining orchestration with smarter pipelines and deeper monitoring",
+      "author": "conxu-ms",
+      "published": "2026-07-15T20:08:07+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-2026-sales-tax-holidays/",
+      "title": "Apple Lists Products Eligible for Tax-Free Holidays in 10 U.S. States",
+      "author": "Joe Rossignol",
+      "published": "2026-07-15T19:33:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-2026-back-to-school-offer-rolling-out/",
+      "title": "Apple's 2026 Back to School Offer Just Went Live in Select Countries",
+      "author": "Joe Rossignol",
+      "published": "2026-07-15T18:48:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/nomad-anniversary-sale/",
+      "title": "Nomad Kicks Off Anniversary Sale With Up to 30% Off Sitewide",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-15T18:11:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-smart-home-lineup-rumors/",
+      "title": "Apple's 2026 Smart Home Lineup: New Apple TV, HomePod, and Home Hub",
+      "author": "Juli Clover",
+      "published": "2026-07-15T18:03:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-15T20:25:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-User-Data-Functions-to-securely-call-Fabric-REST-APIs/ba-p/5294590",
+      "title": "Use User Data Functions to securely call Fabric REST APIs",
+      "author": "mk_sunitha",
+      "published": "2026-07-15T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
+      "title": "Google and Epic Abandon Settlement, Clearing the Way for Rival Android App Stores",
+      "author": "Juli Clover",
+      "published": "2026-07-16T00:02:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+      "title": "CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto",
+      "author": "Juli Clover",
+      "published": "2026-07-15T23:14:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
+      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
+      "author": "Juli Clover",
+      "published": "2026-07-15T22:20:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/applecare-plus-price-increase/",
+      "title": "AppleCare+ for Macs and iPads Just Got More Expensive",
+      "author": "Juli Clover",
+      "published": "2026-07-15T21:32:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/15/apple-maps-ad-prohibitied-categories/",
+      "title": "Apple Won't Allow These Ad Categories in the Maps App",
+      "author": "Juli Clover",
+      "published": "2026-07-15T21:01:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T00:40:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-viltrox-26mm-f-2-8-fe-pancake-lens-reviews/",
+      "title": "New Viltrox 26mm f/2.8 FE pancake lens reviews",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-16T06:23:35+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T08:51:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta/",
+      "title": "How to Install macOS 27 Golden Gate Public Beta",
+      "author": "Tim Hardwick",
+      "published": "2026-07-16T08:12:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T08:51:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/16/apple-2026-back-to-school-offer-goes-live-us/",
+      "title": "Apple's 2026 Back to School Offer Goes Live in the US: Up to $150 Gift Card With Mac or iPad",
+      "author": "Tim Hardwick",
+      "published": "2026-07-16T07:59:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T08:51:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/manny-ortiz-sonys-newest-camera-is-broken/",
+      "title": "Manny Ortiz: Sony’s Newest Camera is Broken",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-16T10:36:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T12:39:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/16/apple-vapor-chamber-orders-foldable-iphone/",
+      "title": "Apple Reportedly Ramps Up Vapor Chamber Orders for Foldable iPhone",
+      "author": "Tim Hardwick",
+      "published": "2026-07-16T09:39:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T12:39:29+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-14T16:31:44+00:00"
+  "last_checked": "2026-07-16T12:39:29+00:00"
 }
