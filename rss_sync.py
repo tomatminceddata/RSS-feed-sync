@@ -23,6 +23,7 @@ Usage:
 """
 
 import argparse
+import os
 import re
 import html
 from datetime import datetime, timezone
@@ -41,9 +42,17 @@ from KnowledgeHub_Helper import download_and_localize_images, should_download_as
 # Configuration
 # ---------------------------------------------------------------------------
 
+# Vault root is read from the TOMSVAULT_ROOT environment variable so the
+# same scripts run on multiple devices (MBP → .../TomsVault,
+# MBA → .../TomsVaultMBA). Set in ~/.zshrc per machine. The fallback below
+# is the MBP path — if the env var is missing for any reason, scripts
+# continue working on the MBP without change.
 VAULT_ROOT = Path(
-    "/Users/thomasmartens/Library/CloudStorage/"
-    "OneDrive-tommartens/TomsVault"
+    os.environ.get(
+        "TOMSVAULT_ROOT",
+        "/Users/thomasmartens/Library/CloudStorage/"
+        "OneDrive-tommartens/TomsVault"
+    )
 )
 
 # Feed config is loaded from feeds.json in the GitHub repo (single source of
@@ -107,7 +116,25 @@ FEEDS = _load_feeds()
 
 SYNC_LOG = VAULT_ROOT / "Microsoft Fabric" / "_rss-sync-log.md"
 
+# Pending-stub manifest. Lives next to this script in dev/ (NOT the vault —
+# these are knowledge-hub articles and the vault stays clean), and NOT keyed
+# to VAULT_ROOT because it's machine-independent pipeline state, not vault
+# content. It is the durable work-list of articles the guard skipped: each
+# entry is a Khoros URL whose real body is still behind Cloudflare, waiting
+# for a clean-IP (Azure) page-fetch. See update_pending_stubs() for lifecycle.
+PENDING_STUBS_FILE = Path(__file__).resolve().parent / "pending_stubs.json"
+
 REQUESTS_TIMEOUT = 30  # seconds
+
+# Minimum length (chars, post-markdown) for a feed-body fallback to be
+# accepted. Below this we treat the entry as a stub and skip it rather than
+# freeze a teaser in the vault (see sync_feed's fallback branch and RSS
+# handoff #10, the feed-freeze finding). Khoros stubs run ~40–520 chars;
+# full-text feed entries run 6–12 K, so the gap is wide and this threshold
+# sits safely inside it. Only affects the fallback path — pages we actually
+# fetch are never length-checked.
+MIN_FALLBACK_CHARS = 1500
+
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -635,6 +662,79 @@ def write_sync_log(results: list[dict], trigger: str) -> None:
 
 
 # ---------------------------------------------------------------------------
+# Helpers — pending-stub manifest
+# ---------------------------------------------------------------------------
+
+def _load_pending_stubs() -> dict[str, dict]:
+    """Load the current manifest as {normalized_url: entry}, or {} if absent."""
+    if PENDING_STUBS_FILE.exists():
+        try:
+            with open(PENDING_STUBS_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            return {
+                e["url"].lower().rstrip("/"): e
+                for e in data.get("stubs", [])
+                if e.get("url")
+            }
+        except (OSError, json.JSONDecodeError):
+            print("  ⚠ pending_stubs.json unreadable — starting a fresh manifest")
+            return {}
+    return {}
+
+
+def update_pending_stubs(results: list[dict]) -> None:
+    """Merge this run's skipped stubs into pending_stubs.json.
+
+    Lifecycle of an entry:
+      - New stub this run → added, first_seen = last_seen = now.
+      - Seen again        → first_seen preserved; last_seen + body_chars refreshed.
+      - Captured          → dropped, because a real vault note now exists for
+                            the URL (once Azure page-fetches the full body, the
+                            stub is no longer pending).
+
+    Removal is capture-based, not observation-based, so an entry persists even
+    after it ages out of the 20-entry feed window — the manifest stays a
+    complete work-list until each URL is actually captured. A stub we stopped
+    seeing but never captured would otherwise be lost entirely, since the guard
+    deliberately wrote no note for it.
+    """
+    now = _format_iso8601(datetime.now(timezone.utc))
+    manifest = _load_pending_stubs()
+
+    # 1) Fold in this run's stubs (preserve first_seen for known URLs)
+    for r in results:
+        for s in r.get("stubs", []):
+            key = s["url"].lower().rstrip("/")
+            if key in manifest:
+                manifest[key]["last_seen"] = now
+                manifest[key]["body_chars"] = s["body_chars"]
+            else:
+                s["first_seen"] = now
+                s["last_seen"] = now
+                manifest[key] = s
+
+    # 2) Prune entries since captured (a real note now exists on disk).
+    #    Cache existing-URL scans per folder so each folder is read once.
+    folder_cache: dict[str, set[str]] = {}
+    for key, entry in list(manifest.items()):
+        rel = entry.get("vault_folder", "")
+        if rel not in folder_cache:
+            folder_cache[rel] = get_existing_urls(VAULT_ROOT / rel)
+        if key in folder_cache[rel]:
+            del manifest[key]
+
+    # 3) Write current state (sorted oldest-first by first_seen)
+    out = {
+        "generated": now,
+        "count": len(manifest),
+        "stubs": sorted(manifest.values(), key=lambda e: e.get("first_seen", "")),
+    }
+    with open(PENDING_STUBS_FILE, "w", encoding="utf-8") as f:
+        json.dump(out, f, indent=2, ensure_ascii=False)
+    print(f"\n📋 Pending stubs tracked: {len(manifest)} → {PENDING_STUBS_FILE.name}")
+
+
+# ---------------------------------------------------------------------------
 # Main sync logic
 # ---------------------------------------------------------------------------
 
@@ -688,6 +788,7 @@ def sync_feed(
 
     # Step 3 — Fetch and clip each new article
     new_articles = []
+    stubs: list[dict] = []
     for i, entry in enumerate(new_entries, 1):
         title = html.unescape(getattr(entry, "title", "Untitled"))
         url = entry.link
@@ -713,6 +814,29 @@ def sync_feed(
                 raw_content = getattr(entry, "summary", "")
             article_md = html_to_markdown(raw_content)
             print(f"    ⚠ Using RSS excerpt as fallback ({len(article_md)} chars)")
+
+            # Stub guard: a short feed body means the real article is still
+            # behind the Cloudflare wall. Writing the stub would freeze a
+            # teaser in the vault that URL-dedup then skips on every future
+            # run — permanently losing the real body. Instead, skip it and
+            # leave the URL un-synced so it's retried each run and captured
+            # properly once a clean IP (Azure) can page-fetch it.
+            if len(article_md) < MIN_FALLBACK_CHARS:
+                print(
+                    f"    ⏭  Feed body below {MIN_FALLBACK_CHARS} chars — "
+                    f"likely a stub; leaving unsynced for later page-fetch. "
+                    f"Skipping."
+                )
+                stubs.append({
+                    "url": url,
+                    "title": title,
+                    "source": source_tag,
+                    "parser": parser_name,
+                    "published": format_published_date(entry),
+                    "vault_folder": str(vault_folder.relative_to(VAULT_ROOT)),
+                    "body_chars": len(article_md),
+                })
+                continue
 
         # Tag extraction: combine parser-supplied tags (from page) and
         # markdown-extracted tags (WordPress category breadcrumbs).
@@ -762,6 +886,7 @@ def sync_feed(
         "name": name,
         "new_count": len(new_articles),
         "new_articles": new_articles,
+        "stubs": stubs,
     }
 
 
@@ -814,6 +939,13 @@ def main():
     # Write sync log
     if not args.dry_run and total_new > 0:
         write_sync_log(results, args.trigger)
+
+    # Update the pending-stub manifest (skipped Khoros stubs awaiting Azure).
+    # Live runs only — dry-run never reaches the guard, so it has nothing to
+    # record and must not write. Runs even when total_new == 0 so that stubs
+    # since captured still get pruned.
+    if not args.dry_run:
+        update_pending_stubs(results)
 
 
 if __name__ == "__main__":
