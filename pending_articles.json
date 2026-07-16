@@ -15692,7 +15692,77 @@
       "parser": "default",
       "discovered": "2026-07-16T12:39:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-Power-BI-reporting-with-the-new-date-picker/ba-p/5295674",
+      "title": "Deep dive into Power BI reporting with the new date picker slicer option (Preview)",
+      "author": "DataZoe",
+      "published": "2026-07-16T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-16T16:33:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-has-xlr-handle-and-32bit-audio-floating-support/",
+      "title": "Sony FX5 has XLR handle and 32bit audio floating support",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-16T15:20:52+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T16:33:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/16/tsmc-pledges-100-billion-for-us-plants/",
+      "title": "Apple's Chipmaker Pledges $100 Billion More for US Plants",
+      "author": "Hartley Charlton",
+      "published": "2026-07-16T13:33:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T16:33:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/16/apple-refurbished-ipad-mini-a17-pro/",
+      "title": "Apple Begins Selling Refurbished iPad Mini With A17 Pro Chip at a Discount",
+      "author": "Joe Rossignol",
+      "published": "2026-07-16T13:33:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T16:33:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/16/ipad-12-release-date/",
+      "title": "Here's When to Expect the iPad 12 to Launch",
+      "author": "Joe Rossignol",
+      "published": "2026-07-16T13:33:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T16:33:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/16/macbook-pro-save-up-to-500/",
+      "title": "Missed Pre-Hike MacBook Pro Prices? Amazon's New Deals Still Save Up to $500",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-16T13:33:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T16:33:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/16/oled-ipad-mini-by-october-report/",
+      "title": "New iPad Mini With Four Upgrades Reportedly Launching by October",
+      "author": "Joe Rossignol",
+      "published": "2026-07-16T13:33:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T16:33:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-16T12:39:29+00:00"
+  "last_checked": "2026-07-16T16:33:12+00:00"
 }
