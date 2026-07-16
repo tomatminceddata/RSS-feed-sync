@@ -15642,7 +15642,37 @@
       "parser": "default",
       "discovered": "2026-07-16T00:40:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-viltrox-26mm-f-2-8-fe-pancake-lens-reviews/",
+      "title": "New Viltrox 26mm f/2.8 FE pancake lens reviews",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-16T06:23:35+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T08:51:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/how-to-install-macos-27-golden-gate-public-beta/",
+      "title": "How to Install macOS 27 Golden Gate Public Beta",
+      "author": "Tim Hardwick",
+      "published": "2026-07-16T08:12:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T08:51:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/16/apple-2026-back-to-school-offer-goes-live-us/",
+      "title": "Apple's 2026 Back to School Offer Goes Live in the US: Up to $150 Gift Card With Mac or iPad",
+      "author": "Tim Hardwick",
+      "published": "2026-07-16T07:59:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-16T08:51:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-16T00:40:30+00:00"
+  "last_checked": "2026-07-16T08:51:46+00:00"
 }
