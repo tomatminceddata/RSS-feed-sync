@@ -15593,7 +15593,77 @@
       "parser": "default",
       "discovered": "2026-07-17T16:30:23+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/17/apple-raises-iphone-prices-in-japan/",
+      "title": "Apple Raises iPhone Prices in Japan",
+      "author": "Joe Rossignol",
+      "published": "2026-07-17T17:23:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-17T20:22:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/17/apple-passed-nvidia-most-valuable-company/",
+      "title": "Apple Passed Nvidia to Become World's Most Valuable Company Again",
+      "author": "Joe Rossignol",
+      "published": "2026-07-17T17:23:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-17T20:22:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/17/apple-icloud-plus-price-increase/",
+      "title": "Apple Raises iCloud+ Prices in 8 Countries",
+      "author": "Juli Clover",
+      "published": "2026-07-17T17:23:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-17T20:22:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/17/apple-music-price-increase/",
+      "title": "Apple Music Now Costs $11.99 as Apple Increases Subscription Prices",
+      "author": "Juli Clover",
+      "published": "2026-07-17T17:23:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-17T20:22:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/17/apple-doj-antitrust-settlement/",
+      "title": "Apple and DOJ Hold Early Settlement Talks in iPhone Antitrust Case",
+      "author": "Juli Clover",
+      "published": "2026-07-17T17:23:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-17T20:22:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/17/macrumors-giveaway-satechi-macbook-neo/",
+      "title": "MacRumors Giveaway: Win a MacBook Neo Plus Color-Matched Satechi Accessories",
+      "author": "Juli Clover",
+      "published": "2026-07-17T17:23:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-17T20:22:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
+      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-07-17T17:23:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-17T20:22:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-17T16:30:23+00:00"
+  "last_checked": "2026-07-17T20:22:57+00:00"
 }
