@@ -15483,7 +15483,17 @@
       "parser": "default",
       "discovered": "2026-07-17T00:43:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/christopher-frost-review-of-the-new-meike-85mm-f-1-4-fe-ii-lens/",
+      "title": "Christopher Frost review of the new Meike 85mm f/1.4 FE  II lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-17T07:13:17+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-17T08:48:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-17T00:43:02+00:00"
+  "last_checked": "2026-07-17T08:48:40+00:00"
 }
