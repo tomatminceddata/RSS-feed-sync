@@ -15663,7 +15663,37 @@
       "parser": "default",
       "discovered": "2026-07-17T20:22:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-might-be-able-to-record-240fps-in-4k-via-future-firmware-update/",
+      "title": "Sony FX5 might be able to record 240fps in 4K via future firmware update",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-18T12:44:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-18T16:21:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/18/applecare-one-more-valuable/",
+      "title": "'AppleCare One' is Now Even More Valuable",
+      "author": "Joe Rossignol",
+      "published": "2026-07-18T13:21:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-18T16:21:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/18/top-stories-ios-27-macos-golden-gate-public-betas/",
+      "title": "Top Stories: iOS 27 and macOS Golden Gate Public Betas, Apple Back to School Promo, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-07-18T13:21:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-18T16:21:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-17T20:22:57+00:00"
+  "last_checked": "2026-07-18T16:21:48+00:00"
 }
