@@ -15693,7 +15693,27 @@
       "parser": "default",
       "discovered": "2026-07-18T16:21:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sidney-diongzon-sony-rx10-v-is-better-than-you-think/",
+      "title": "Sidney Diongzon: Sony RX10 V is Better Than You Think",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-19T11:47:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-19T12:23:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7rvi-setup-guide-by-colby-brown/",
+      "title": "Sony A7rVI setup guide by Colby Brown",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-19T10:16:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-19T12:23:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-18T16:21:48+00:00"
+  "last_checked": "2026-07-19T12:23:23+00:00"
 }
