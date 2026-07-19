@@ -15713,7 +15713,37 @@
       "parser": "default",
       "discovered": "2026-07-19T12:23:23+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/19/apple-worked-on-two-extreme-chips/",
+      "title": "Apple Reportedly Worked on Two 'Extreme' Chips",
+      "author": "Joe Rossignol",
+      "published": "2026-07-19T13:22:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-19T16:22:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/19/new-apple-store-opening-in-michigan/",
+      "title": "New Apple Store in Michigan Opening Later This Month",
+      "author": "Joe Rossignol",
+      "published": "2026-07-19T13:22:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-19T16:22:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/19/airpods-weekend-deals-5/",
+      "title": "AirPods Weekend Deals Include AirPods Pro 3 for $199.99 and AirPods 4 for $99",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-19T13:22:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-19T16:22:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-19T12:23:23+00:00"
+  "last_checked": "2026-07-19T16:22:17+00:00"
 }
