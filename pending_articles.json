@@ -15763,7 +15763,37 @@
       "parser": "default",
       "discovered": "2026-07-20T05:17:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/collecting-info-about-the-new-sony-camera-and-lenses-coming-right-after-the-fx5-launch/",
+      "title": "Collecting info about the new Sony camera and lenses coming right after the FX5 launch!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-20T12:01:35+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-20T12:48:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/matt-granger-best-70-200mm-f-2-8-lens-canon-nikon-sony-sigma-leica/",
+      "title": "Matt Granger Best 70–200mm f/2.8 Lens — Canon | Nikon | Sony | Sigma | Leica",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-20T09:46:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-20T12:48:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/20/secret-siri-interface-macos-27-beta-enable/",
+      "title": "Apple's Secret Siri Interface Buried in macOS 27 Beta: How to Enable",
+      "author": "Tim Hardwick",
+      "published": "2026-07-20T11:09:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-20T12:48:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-20T05:17:45+00:00"
+  "last_checked": "2026-07-20T12:48:48+00:00"
 }
