@@ -15753,7 +15753,17 @@
       "parser": "default",
       "discovered": "2026-07-19T20:20:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/19/apple-testing-live-notes-feature-at-genius-bar/",
+      "title": "Apple Testing New 'Live Notes' Feature at Genius Bar",
+      "author": "Joe Rossignol",
+      "published": "2026-07-20T02:17:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-20T05:17:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-19T20:20:07+00:00"
+  "last_checked": "2026-07-20T05:17:45+00:00"
 }
