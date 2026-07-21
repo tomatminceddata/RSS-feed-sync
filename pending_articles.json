@@ -15993,7 +15993,37 @@
       "parser": "default",
       "discovered": "2026-07-20T20:33:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Snowflake-Iceberg-tables-to-OneLake-with-Fabric/ba-p/5301177",
+      "title": "Bring your Snowflake Iceberg tables to OneLake with Fabric mirroring",
+      "author": "MattH_OneLake",
+      "published": "2026-07-20T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-21T00:42:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/20/samsung-galaxy-card/",
+      "title": "Samsung Debuts Galaxy Card With 5% Cash Back to Take On Apple Card",
+      "author": "Juli Clover",
+      "published": "2026-07-20T23:39:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T00:42:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/20/ios-27-beta-4-everything-new/",
+      "title": "Everything New in iOS 27 Beta 4",
+      "author": "Juli Clover",
+      "published": "2026-07-20T21:50:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T00:42:29+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-20T20:33:29+00:00"
+  "last_checked": "2026-07-21T00:42:29+00:00"
 }
