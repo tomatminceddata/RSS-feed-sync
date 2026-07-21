@@ -16153,7 +16153,67 @@
       "parser": "default",
       "discovered": "2026-07-21T16:33:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-future-of-conversational-analytics-in-Fabric/ba-p/5302562",
+      "title": "The future of conversational analytics in Fabric",
+      "author": "NelGson",
+      "published": "2026-07-21T19:07:27+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-21T20:30:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Bringing-Power-BI-Insights-to-Every-Copilot-User/ba-p/5309360",
+      "title": "Bringing Power BI Insights to Every Copilot User",
+      "author": "svredevoogd",
+      "published": "2026-07-21T19:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-21T20:30:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/apple-invites-app-two-new-features/",
+      "title": "Apple Invites App Updated With Two New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-07-21T19:55:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T20:30:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/apple-updates-testflight/",
+      "title": "Apple Updates TestFlight",
+      "author": "Joe Rossignol",
+      "published": "2026-07-21T19:32:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T20:30:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
+      "title": "Best Buy Offers $160 Off All iPhone Air Models During Black Friday in July",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-21T18:47:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T20:30:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/apple-patches-hide-my-email-flaw/",
+      "title": "Apple Patches Hide My Email Flaw More Than a Year After It Was Reported",
+      "author": "Juli Clover",
+      "published": "2026-07-21T17:11:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T20:30:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-21T16:33:49+00:00"
+  "last_checked": "2026-07-21T20:30:42+00:00"
 }
