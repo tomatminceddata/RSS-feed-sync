@@ -16023,7 +16023,37 @@
       "parser": "default",
       "discovered": "2026-07-21T00:42:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-supports-timecode-via-usb-c-ibis-can-be-removed-if-you-pay-for-it/",
+      "title": "Sony FX5 supports timecode via USB-C, IBIS can be removed if you pay for it.",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-21T10:22:38+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T12:37:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/apple-tsmc-price-hikes-2027/",
+      "title": "Apple Chipmaker TSMC Plans Price Hikes of Up to 10% in 2027",
+      "author": "Tim Hardwick",
+      "published": "2026-07-21T11:01:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T12:37:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/iphone-20-pro-max-7-inch-display/",
+      "title": "Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model",
+      "author": "Tim Hardwick",
+      "published": "2026-07-21T09:08:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T12:37:13+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-21T00:42:29+00:00"
+  "last_checked": "2026-07-21T12:37:13+00:00"
 }
