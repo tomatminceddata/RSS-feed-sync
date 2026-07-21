@@ -16053,7 +16053,107 @@
       "parser": "default",
       "discovered": "2026-07-21T12:37:13+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-modern-visual-defaults-and-formatting-your-entire/ba-p/5303513",
+      "title": "Deep dive into modern visual defaults and formatting your entire report (Preview)",
+      "author": "DataZoe",
+      "published": "2026-07-21T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/peakdesign-launched-a-new-innovative-l-bracket-for-your-sony-camera/",
+      "title": "PeakDesign launched a new innovative L-Bracket for your Sony camera!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-21T15:42:51+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/finally-sony-launched-the-official-sony-fx5-teaser-preorders-open-at-fotoerhardt/",
+      "title": "Finally! Sony launched the official Sony FX5 teaser! Preorders open at Fotoerhardt and notifications at BHphoto",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-21T14:59:59+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-100-400mm-f-5-6-8-fe-lens-will-cost-899-euro-for-lens/",
+      "title": "New 100-400mm f/5.6-8 FE lens will cost 899 euro for lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-21T12:59:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/apple-watch-sos-success-story/",
+      "title": "Apple Shares Apple Watch SOS Success Story",
+      "author": "Juli Clover",
+      "published": "2026-07-21T16:26:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/apple-may-wind-down-iphone-upgrade-program/",
+      "title": "Apple Reportedly Planning to Wind Down 'iPhone Upgrade Program'",
+      "author": "Joe Rossignol",
+      "published": "2026-07-21T16:26:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/apple-upgrade-program-launching-next-week/",
+      "title": "'Apple Upgrade' Program Reportedly Launching Next Week",
+      "author": "Joe Rossignol",
+      "published": "2026-07-21T15:30:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/",
+      "title": "iPhone 18 Rumor Reality Check: 20 Claims Ranked by Likelihood",
+      "author": "Tim Hardwick",
+      "published": "2026-07-21T14:32:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/get-the-a16-ipad-for-399/",
+      "title": "Score the A16 iPad for Its Best Price Since June's Hike",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-21T14:15:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/ios-26-6-prepares-for-ios-27/",
+      "title": "iOS 26.6 Prepares Your iPhone for iOS 27",
+      "author": "Joe Rossignol",
+      "published": "2026-07-21T13:19:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-21T16:33:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-21T12:37:13+00:00"
+  "last_checked": "2026-07-21T16:33:49+00:00"
 }
