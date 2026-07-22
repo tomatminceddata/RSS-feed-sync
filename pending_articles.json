@@ -16233,7 +16233,47 @@
       "parser": "default",
       "discovered": "2026-07-22T05:07:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/last-minute-uncertainty-if-lens-will-be-announced-today-or-in-1-2-weeks/",
+      "title": "Last minute uncertainty if lens will be announced today or in 1-2 weeks",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-22T12:32:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T12:38:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-100-400mm-fe/",
+      "title": "Sony 100-400mm FE has integrated the focus limiter in the AF/MF switch",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-22T09:44:20+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T12:38:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/iphone-18-pro-enters-mass-production/",
+      "title": "Foxconn Ramps Up Hiring as iPhone 18 Pro Enters Mass Production",
+      "author": "Hartley Charlton",
+      "published": "2026-07-22T11:16:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T12:38:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/the-iphone-18-pro-variable-camera-aperture/",
+      "title": "The iPhone 18 Pro's Rumored Camera Upgrade, Explained",
+      "author": "Tim Hardwick",
+      "published": "2026-07-22T09:15:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T12:38:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-22T05:07:40+00:00"
+  "last_checked": "2026-07-22T12:38:21+00:00"
 }
