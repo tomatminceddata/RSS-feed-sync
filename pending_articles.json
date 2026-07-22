@@ -16223,7 +16223,17 @@
       "parser": "default",
       "discovered": "2026-07-22T00:41:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/21/applecare-changes-in-japan/",
+      "title": "AppleCare+ Changes Announced in Japan",
+      "author": "Joe Rossignol",
+      "published": "2026-07-22T02:34:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T05:07:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-22T00:41:17+00:00"
+  "last_checked": "2026-07-22T05:07:40+00:00"
 }
