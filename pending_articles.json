@@ -16363,7 +16363,97 @@
       "parser": "default",
       "discovered": "2026-07-22T16:34:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Explore-validate-and-iterate-faster-with-the-new-Lakehouse-Query/ba-p/5309466",
+      "title": "Explore, validate, and iterate faster with the new Lakehouse Query Explorer in Microsoft Fabric (Generally Available)",
+      "author": "avinandac",
+      "published": "2026-07-22T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-22T20:32:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/press-text-sony-electronics-launches-the-fx5/",
+      "title": "Press text: Sony Electronics Launches the FX5",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-22T14:00:32+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T20:32:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/apple-store-app-shopping-assistant/",
+      "title": "Apple Store App Getting AI Shopping Assistant",
+      "author": "Juli Clover",
+      "published": "2026-07-22T20:25:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T20:32:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/apple-releases-safari-technology-preview-248/",
+      "title": "Apple Releases Safari Technology Preview 248 With Bug Fixes and Performance Improvements",
+      "author": "Juli Clover",
+      "published": "2026-07-22T18:25:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T20:32:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/apple-seeds-ios-27-public-beta-2/",
+      "title": "Second iOS 27 and iPadOS 27 Public Betas Now Available",
+      "author": "Juli Clover",
+      "published": "2026-07-22T18:19:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T20:32:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/iphone-android-17-switching-simpler/",
+      "title": "Switching From iPhone to Android Just Got Easier With Android 17",
+      "author": "Juli Clover",
+      "published": "2026-07-22T18:05:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T20:32:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/macos-27-public-beta-2/",
+      "title": "Second macOS Golden Gate Public Beta Now Available",
+      "author": "Juli Clover",
+      "published": "2026-07-22T17:39:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T20:32:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/watchos-27-public-beta-2/",
+      "title": "tvOS 27 and watchOS 27 Second Public Betas Now Available",
+      "author": "Juli Clover",
+      "published": "2026-07-22T17:38:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T20:32:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/mac-mini-m6-m5-pro-chips-rumor/",
+      "title": "Next Mac Mini Will Reportedly Have Mismatched M6 and M5 Pro Chips",
+      "author": "Joe Rossignol",
+      "published": "2026-07-22T17:04:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T20:32:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-22T16:34:14+00:00"
+  "last_checked": "2026-07-22T20:32:55+00:00"
 }
