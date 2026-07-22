@@ -16273,7 +16273,97 @@
       "parser": "default",
       "discovered": "2026-07-22T12:38:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-July-2026-Feature-Summary/ba-p/5303533",
+      "title": "Power BI July 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-07-22T15:48:26+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-22T16:34:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/officially-announced-new-sony-fx5/",
+      "title": "Officially announced: New Sony FX5 cinema camera!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-22T14:04:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T16:34:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/now-live-sony-fx5-announcement/",
+      "title": "Now live: Sony FX5 announcement",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-22T13:39:36+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T16:34:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/imac-new-chip-this-year-oled-display-later/",
+      "title": "iMac Update Expected This Year, Model With OLED Display Also in Works",
+      "author": "Joe Rossignol",
+      "published": "2026-07-22T16:10:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T16:34:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/new-macbook-neo-two-upgrades/",
+      "title": "Apple Working on New MacBook Neo With Two Upgrades",
+      "author": "Joe Rossignol",
+      "published": "2026-07-22T15:27:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T16:34:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/apple-to-overhaul-mac-lineup/",
+      "title": "Apple to Overhaul Mac Lineup With 11 New Models",
+      "author": "Hartley Charlton",
+      "published": "2026-07-22T15:13:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T16:34:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/samsung-galaxy-z-fold8/",
+      "title": "Hands-On With Samsung's Galaxy Z Fold8, the Closest Thing Yet to a Foldable iPhone",
+      "author": "Juli Clover",
+      "published": "2026-07-22T13:01:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T16:34:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/whatsapp-announces-new-carplay/",
+      "title": "WhatsApp Announces New CarPlay Experience, iPad Sign-Up, and More",
+      "author": "Tim Hardwick",
+      "published": "2026-07-22T13:00:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T16:34:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/22/apple-park-visitor-center-update-in-progress/",
+      "title": "Apple Park Visitor Center Has 'Update in Progress'",
+      "author": "Joe Rossignol",
+      "published": "2026-07-22T12:49:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-22T16:34:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-22T12:38:21+00:00"
+  "last_checked": "2026-07-22T16:34:14+00:00"
 }
