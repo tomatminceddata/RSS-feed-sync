@@ -15640,7 +15640,77 @@
       "parser": "default",
       "discovered": "2026-07-23T12:38:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/strong-sony-fx5-sales-reported-have-you-preordered-the-sony-fx5/",
+      "title": "Strong Sony FX5 sales reported…but only 15% of buyers want the external EVF.",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-23T13:47:31+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T16:34:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/apple-tv-the-morning-show-final-season/",
+      "title": "'The Morning Show' Returning to Apple TV for a Final Season Next Year",
+      "author": "Joe Rossignol",
+      "published": "2026-07-23T16:32:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T16:34:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/opera-one-adds-vertical-tabs-chrome-firefox/",
+      "title": "Opera One Browser Adds Vertical Tabs - Should Safari Follow?",
+      "author": "Tim Hardwick",
+      "published": "2026-07-23T15:52:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T16:34:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/5-reasons-buy-iphone-17-not-waiting-iphone-18/",
+      "title": "5 Reasons to Buy the iPhone 17 Now Instead of Waiting for iPhone 18",
+      "author": "Tim Hardwick",
+      "published": "2026-07-23T15:26:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T16:34:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/apple-watch-100-off-amazon/",
+      "title": "Apple Watch Series 11 GPS Models Now $100 Off on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-23T13:51:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T16:34:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/apple-maps-power-driving-in-ford-ev/",
+      "title": "Apple Maps to Help Power Autonomous Driving in Ford's 2027 EV",
+      "author": "Hartley Charlton",
+      "published": "2026-07-23T13:27:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T16:34:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/google-fined-1-billion-by-eu/",
+      "title": "Google Fined $1 Billion by EU for Search Bias and App Store Restrictions",
+      "author": "Tim Hardwick",
+      "published": "2026-07-23T12:39:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T16:34:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-23T12:38:30+00:00"
+  "last_checked": "2026-07-23T16:34:33+00:00"
 }
