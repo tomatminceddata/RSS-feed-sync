@@ -15710,7 +15710,67 @@
       "parser": "default",
       "discovered": "2026-07-23T16:34:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-OneLake-network-security-for-Azure-Services-with/ba-p/5284830",
+      "title": "Simplify OneLake network security for Azure Services with resource instance rules (Generally Available)",
+      "author": "HARMEETGILL",
+      "published": "2026-07-23T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-23T20:27:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Microsoft-recognized-as-a-Leader-in-The-Forrester-Wave/ba-p/5309379",
+      "title": "Microsoft recognized as a Leader in The Forrester Wave™: Multimodel Data Platforms",
+      "author": "shireesht",
+      "published": "2026-07-23T17:11:49+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-23T20:27:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/chatgpt-apple-health-integration/",
+      "title": "ChatGPT's Apple Health Integration Now Rolling Out to U.S. Users",
+      "author": "Juli Clover",
+      "published": "2026-07-23T17:54:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T20:27:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/emergency-sos-via-satellite-two-more-countries/",
+      "title": "Emergency SOS via Satellite Expands to Two More Countries",
+      "author": "Joe Rossignol",
+      "published": "2026-07-23T17:50:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T20:27:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/",
+      "title": "Geekbench 7 Launches With Redesigned Multi-Core and GPU Benchmarks",
+      "author": "Juli Clover",
+      "published": "2026-07-23T17:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T20:27:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/apple-pay-columbia-promo/",
+      "title": "Apple Pay Promo Offers Discount on Columbia Gear",
+      "author": "Juli Clover",
+      "published": "2026-07-23T16:38:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-23T20:27:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-23T16:34:33+00:00"
+  "last_checked": "2026-07-23T20:27:17+00:00"
 }
