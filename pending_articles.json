@@ -15910,7 +15910,27 @@
       "parser": "default",
       "discovered": "2026-07-24T16:35:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/trump-eu-fine-investigation/",
+      "title": "Trump Vows to Reverse EU Fines Against Apple and Other Tech Companies, Threatens Tariffs",
+      "author": "Juli Clover",
+      "published": "2026-07-24T19:37:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T20:33:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/anthropic-opus-5/",
+      "title": "Anthropic's New Claude Opus 5 Nearly Matches Flagship Fable 5 at Half the Cost",
+      "author": "Juli Clover",
+      "published": "2026-07-24T17:43:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T20:33:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-24T16:35:43+00:00"
+  "last_checked": "2026-07-24T20:33:09+00:00"
 }
