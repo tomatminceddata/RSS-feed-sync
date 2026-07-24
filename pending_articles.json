@@ -15770,7 +15770,37 @@
       "parser": "default",
       "discovered": "2026-07-23T20:27:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Intelligent-streaming-Turning-customer-intent-into-revenue-with/ba-p/5317223",
+      "title": "Intelligent streaming: Turning customer intent into revenue with Fabric Eventstreams, Spark, and AI Functions",
+      "author": "arindamc",
+      "published": "2026-07-23T21:53:37+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-24T00:40:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-performance-improvements/",
+      "title": "10 iOS 27 Performance Improvements You'll Actually Notice",
+      "author": "Juli Clover",
+      "published": "2026-07-23T22:02:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T00:40:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
+      "title": "iPhone Driver's Licenses May Soon Expand to New State",
+      "author": "Juli Clover",
+      "published": "2026-07-23T20:58:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T00:40:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-23T20:27:17+00:00"
+  "last_checked": "2026-07-24T00:40:34+00:00"
 }
