@@ -15840,7 +15840,77 @@
       "parser": "default",
       "discovered": "2026-07-24T12:36:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-in-depth-with-philip-bloom-and-cined/",
+      "title": "Sony FX5 In-Depth with Philip Bloom and CineD",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-24T12:43:31+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T16:35:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/the-macrumors-show-can-openai-beat-the-iphone/",
+      "title": "The MacRumors Show: Can OpenAI Really Beat the iPhone?",
+      "author": "Hartley Charlton",
+      "published": "2026-07-24T16:17:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T16:35:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/macos-27-beta-siri-mail-compose-window/",
+      "title": "macOS 27 Beta Reworks Mail's Compose Window Around Siri AI",
+      "author": "Tim Hardwick",
+      "published": "2026-07-24T15:57:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T16:35:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/apple-to-pay-owners-of-these-iphone-models/",
+      "title": "Siri Settlement Approved: Apple to Pay Owners of Some iPhone Models",
+      "author": "Joe Rossignol",
+      "published": "2026-07-24T15:10:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T16:35:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/unpatchable-iphone-11-exploit-sparks-legal-battle/",
+      "title": "Lawsuit Filed After Apple's A12 and A13 Chips Hit With New Unpatchable Exploit",
+      "author": "Joe Rossignol",
+      "published": "2026-07-24T14:58:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T16:35:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/meta-launches-free-facebook-verified-badge/",
+      "title": "Meta Launches Free 'Facebook Verified' Badge to Confirm Real Users",
+      "author": "Hartley Charlton",
+      "published": "2026-07-24T13:55:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T16:35:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/fire-reported-near-apple-park/",
+      "title": "Fire Reported Near Apple Park",
+      "author": "Joe Rossignol",
+      "published": "2026-07-24T13:30:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T16:35:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-24T12:36:44+00:00"
+  "last_checked": "2026-07-24T16:35:43+00:00"
 }
