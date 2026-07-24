@@ -15800,7 +15800,47 @@
       "parser": "default",
       "discovered": "2026-07-24T00:40:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/7artisans-is-teasing-the-launch-of-a-new-max-lens/",
+      "title": "7Artisans is teasing the launch of a new MAX lens",
+      "author": "Andreapazzo",
+      "published": "2026-07-24T07:58:43+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T12:36:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/claude-voice-mode-opus-sonnet-model-support/",
+      "title": "Claude Voice Mode Gains Opus and Sonnet Model Support",
+      "author": "Tim Hardwick",
+      "published": "2026-07-24T12:10:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T12:36:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/whatsapp-redesigned-message-bubbles-ios/",
+      "title": "WhatsApp Rolls Out Redesigned Message Bubbles for iOS",
+      "author": "Tim Hardwick",
+      "published": "2026-07-24T11:19:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T12:36:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/oled-panel-price-cut-iphone-18-pro-max/",
+      "title": "Apple Seeking 20% OLED Panel Price Cut for iPhone 18 Pro Max",
+      "author": "Tim Hardwick",
+      "published": "2026-07-24T10:31:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-24T12:36:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-24T00:40:34+00:00"
+  "last_checked": "2026-07-24T12:36:44+00:00"
 }
