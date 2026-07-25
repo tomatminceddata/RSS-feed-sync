@@ -15960,7 +15960,27 @@
       "parser": "default",
       "discovered": "2026-07-25T12:25:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/25/best-apple-deals-of-the-week-7-25-26/",
+      "title": "AirPods, AirTag 2, and iPads Hit Low Prices This Week",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-25T14:53:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-25T16:22:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/25/top-stories-apple-upgrade-program/",
+      "title": "Top Stories: 'Apple Upgrade' Program, Apple Music Price Hike, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-07-25T13:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-25T16:22:16+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-25T12:25:00+00:00"
+  "last_checked": "2026-07-25T16:22:16+00:00"
 }
