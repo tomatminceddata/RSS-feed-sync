@@ -15950,7 +15950,17 @@
       "parser": "default",
       "discovered": "2026-07-25T05:07:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-fx5-reviews-roundup/",
+      "title": "New Sony FX5 reviews roundup",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-25T10:44:09+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-25T12:25:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-25T05:07:11+00:00"
+  "last_checked": "2026-07-25T12:25:00+00:00"
 }
