@@ -15980,7 +15980,17 @@
       "parser": "default",
       "discovered": "2026-07-25T16:22:16+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/25/apple-app-store-fake-bitcoin-wallet-lawsuit/",
+      "title": "Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store",
+      "author": "Joe Rossignol",
+      "published": "2026-07-25T18:08:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-25T20:21:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-25T16:22:16+00:00"
+  "last_checked": "2026-07-25T20:21:57+00:00"
 }
