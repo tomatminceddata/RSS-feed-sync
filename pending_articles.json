@@ -15940,7 +15940,17 @@
       "parser": "default",
       "discovered": "2026-07-25T00:43:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/24/macbook-ultra-12-new-features/",
+      "title": "'MacBook Ultra' Coming Soon With These 12 New Features",
+      "author": "Hartley Charlton",
+      "published": "2026-07-25T01:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-25T05:07:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-25T00:43:40+00:00"
+  "last_checked": "2026-07-25T05:07:11+00:00"
 }
