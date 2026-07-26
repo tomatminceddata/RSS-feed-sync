@@ -16010,7 +16010,17 @@
       "parser": "default",
       "discovered": "2026-07-26T08:52:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/pixboom-spark-4k-1000fps-2k-1800fps-e-mount-camera-review/",
+      "title": "Pixboom Spark – 4K 1000fps & 2K 1800fps E-mount camera review",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-26T10:46:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-26T12:28:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-26T08:52:11+00:00"
+  "last_checked": "2026-07-26T12:28:53+00:00"
 }
