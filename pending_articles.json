@@ -16000,7 +16000,17 @@
       "parser": "default",
       "discovered": "2026-07-26T05:11:20+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/7artisans-10mm-f-2-5-max-fe-autofocus-lens-s-coming-on-july-28/",
+      "title": "7Artisans 10mm f/2.5 MAX FE autofocus lens s coming on July 28",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-26T06:49:47+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-26T08:52:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-26T05:11:20+00:00"
+  "last_checked": "2026-07-26T08:52:11+00:00"
 }
