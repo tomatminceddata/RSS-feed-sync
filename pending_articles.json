@@ -16020,7 +16020,27 @@
       "parser": "default",
       "discovered": "2026-07-26T12:28:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
+      "title": "'Apple Upgrade' Program Launching on Tuesday",
+      "author": "Joe Rossignol",
+      "published": "2026-07-26T15:20:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-26T16:24:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/26/apple-watch-series-12-ultra-4-features-rumors/",
+      "title": "What to Expect From Apple Watch Series 12 and Apple Watch Ultra 4",
+      "author": "Joe Rossignol",
+      "published": "2026-07-26T15:07:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-26T16:24:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-26T12:28:53+00:00"
+  "last_checked": "2026-07-26T16:24:01+00:00"
 }
