@@ -15865,7 +15865,107 @@
       "parser": "default",
       "discovered": "2026-07-27T16:45:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-data-agents-in-Microsoft-Foundry-Easier-to-connect-easier/ba-p/5318989",
+      "title": "Fabric data agents in Microsoft Foundry: Easier to connect, easier to trust",
+      "author": "AmirJafari",
+      "published": "2026-07-27T17:56:51+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Prepare-your-Fabric-Data-Agent-integrations-for-Assistants-API/ba-p/5314634",
+      "title": "Prepare your Fabric Data Agent integrations for Assistants API retirement",
+      "author": "mayurjain",
+      "published": "2026-07-27T16:50:50+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/apple-nearly-5-trillion-dollar-company/",
+      "title": "Apple on Verge of Becoming $5 Trillion Company",
+      "author": "Joe Rossignol",
+      "published": "2026-07-27T20:10:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/ios-26-6-security-fixes/",
+      "title": "Update Now: iOS 26.6 and macOS Tahoe 26.6 Patch Hundreds of Security Flaws",
+      "author": "Juli Clover",
+      "published": "2026-07-27T18:55:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/amazon-iphone-satellite-network/",
+      "title": "Amazon Files for 5,105-Satellite Network That Will Power iPhone Satellite Features",
+      "author": "Juli Clover",
+      "published": "2026-07-27T18:12:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-macos-tahoe-26-6/",
+      "title": "Apple Releases macOS Tahoe 26.6",
+      "author": "Juli Clover",
+      "published": "2026-07-27T17:48:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-ios-26-6/",
+      "title": "Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations",
+      "author": "Juli Clover",
+      "published": "2026-07-27T17:27:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-watchos-26-6-with-security-updates/",
+      "title": "Apple Releases watchOS 26.6 With Security Updates",
+      "author": "Juli Clover",
+      "published": "2026-07-27T17:25:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-tvos-26-6/",
+      "title": "Apple Releases tvOS 26.6",
+      "author": "Juli Clover",
+      "published": "2026-07-27T17:24:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-visionos-26-6/",
+      "title": "Apple Releases visionOS 26.6",
+      "author": "Juli Clover",
+      "published": "2026-07-27T17:23:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T20:34:20+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-27T16:45:40+00:00"
+  "last_checked": "2026-07-27T20:34:20+00:00"
 }
