@@ -15785,7 +15785,87 @@
       "parser": "default",
       "discovered": "2026-07-27T13:09:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-event-driven-architectures-in-Fabric-with-Real-Time-Hub/ba-p/5318834",
+      "title": "Build event-driven architectures in Fabric with Real-Time Hub",
+      "author": "robece-msft",
+      "published": "2026-07-27T16:44:57+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-27T16:45:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/finally-amazon-com-is-finally-accepting-preorders-on-the-new-sony-fx5/",
+      "title": "Finally! Amazon.com is finally accepting preorders on the new Sony FX5",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-27T14:45:38+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T16:45:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/images-of-the-next-three-viltrox-lenses-35mm-f-1-4-ff-40mm-and-18mm-f-1-2-aps-c/",
+      "title": "Images of the next three Viltrox lenses: 35mm f/1.4 FF, 40mm and 18mm f/1.2 APS-C",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-27T13:13:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T16:45:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/pocket-casts-apple-tv/",
+      "title": "Pocket Casts Now Available on Apple TV",
+      "author": "Joe Rossignol",
+      "published": "2026-07-27T15:58:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T16:45:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/macbook-pro-prices-up-to-500/",
+      "title": "2026 MacBook Pro Now Up to $500 Off on Amazon Following Recent Price Increase",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-27T14:18:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T16:45:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+      "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts - Ed Zitron",
+      "author": "Tim Hardwick",
+      "published": "2026-07-27T14:11:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T16:45:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/applecare-with-theft-and-loss-expanding/",
+      "title": "AppleCare+ With Theft and Loss Coverage for iPad and Apple Watch Launching in More Countries",
+      "author": "Joe Rossignol",
+      "published": "2026-07-27T14:02:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T16:45:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/27/applecare-one-four-more-countries/",
+      "title": "'AppleCare One' Expanding to Four More Countries",
+      "author": "Joe Rossignol",
+      "published": "2026-07-27T13:46:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T16:45:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-27T13:09:38+00:00"
+  "last_checked": "2026-07-27T16:45:40+00:00"
 }
