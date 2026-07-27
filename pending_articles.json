@@ -16060,7 +16060,17 @@
       "parser": "default",
       "discovered": "2026-07-26T20:24:13+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
+      "title": "Here's What the 'iPhone 20' is Expected to Look Like",
+      "author": "Hartley Charlton",
+      "published": "2026-07-27T01:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-27T05:21:36+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-26T20:24:13+00:00"
+  "last_checked": "2026-07-27T05:21:36+00:00"
 }
