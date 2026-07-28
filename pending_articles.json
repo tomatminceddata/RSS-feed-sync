@@ -16005,7 +16005,37 @@
       "parser": "default",
       "discovered": "2026-07-28T09:00:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/tony-northrup-everyone-gets-this-wrong-sony-vs-tamron-ultra-wide-lens/",
+      "title": "Tony Northrup: Everyone Gets This Wrong – Sony vs Tamron Ultra-Wide Lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-28T10:26:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T12:42:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/",
+      "title": "Apple Retires iPhone Upgrade Program for Klarna-Backed Leases",
+      "author": "Juli Clover",
+      "published": "2026-07-28T12:20:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T12:42:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/macbook-ultra-oled-touch-panel-samsung/",
+      "title": "MacBook Ultra OLED Touch Panel to Be Exclusively Supplied by Samsung",
+      "author": "Tim Hardwick",
+      "published": "2026-07-28T09:16:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T12:42:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-28T09:00:10+00:00"
+  "last_checked": "2026-07-28T12:42:53+00:00"
 }
