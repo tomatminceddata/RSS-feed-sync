@@ -16035,7 +16035,87 @@
       "parser": "default",
       "discovered": "2026-07-28T12:42:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/New-OneLake-security-improvements-for-Microsoft-Fabric/ba-p/5314377",
+      "title": "New OneLake security improvements for Microsoft Fabric",
+      "author": "aonelakeuser",
+      "published": "2026-07-28T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-28T16:35:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-new-sony-announcement-next-week-on-august-4/",
+      "title": "Confirmed: New Sony announcement next week on August 4!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-28T13:53:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T16:35:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/apple-home-hub-as-soon-as-october/",
+      "title": "All-New Apple Home Hub Reportedly Launching as Soon as October",
+      "author": "Joe Rossignol",
+      "published": "2026-07-28T16:31:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T16:35:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/sonos-sony-anker-more-school-deals/",
+      "title": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-28T14:58:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T16:35:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/5-reasons-buy-macbook-air-now-no-waiting/",
+      "title": "5 Reasons to Buy a MacBook Air Now Instead of Waiting",
+      "author": "Tim Hardwick",
+      "published": "2026-07-28T14:53:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T16:35:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-pricing/",
+      "title": "'Apple Upgrade' Pricing: You Can Lease an iPhone Starting at $18/Month",
+      "author": "Joe Rossignol",
+      "published": "2026-07-28T14:41:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T16:35:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/new-apple-tv-homepod-mini-nearly-ready/",
+      "title": "New Apple TV and HomePod Mini Reportedly 'Nearly Ready to Launch'",
+      "author": "Joe Rossignol",
+      "published": "2026-07-28T14:14:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T16:35:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/apple-just-became-a-5-trillion-company/",
+      "title": "Apple Just Became a $5 Trillion Company",
+      "author": "Joe Rossignol",
+      "published": "2026-07-28T13:39:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T16:35:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-28T12:42:53+00:00"
+  "last_checked": "2026-07-28T16:35:50+00:00"
 }
