@@ -16115,7 +16115,77 @@
       "parser": "default",
       "discovered": "2026-07-28T16:35:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Faster-Spark-queries-with-the-Native-Execution-Engine-New/ba-p/5316897",
+      "title": "Faster Spark queries with the Native Execution Engine: New performance optimizations",
+      "author": "Santhosh_Ravin1",
+      "published": "2026-07-28T17:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-28T20:29:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-deals-save-up-to-70-on-sirui-lenses-save-big-on-ugreen-stuff/",
+      "title": "New deals: Save up to 70% on Sirui lenses, Wandrd bags and Ugreen gear",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-28T19:29:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T20:29:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-tidbits/",
+      "title": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac",
+      "author": "Juli Clover",
+      "published": "2026-07-28T20:19:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T20:29:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/granola-launches-on-apple-watch/",
+      "title": "'Granola' Launches on Apple Watch",
+      "author": "Joe Rossignol",
+      "published": "2026-07-28T20:07:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T20:29:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/applecare-changes-in-canada/",
+      "title": "AppleCare+ Changes Introduced in Canada",
+      "author": "Joe Rossignol",
+      "published": "2026-07-28T19:33:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T20:29:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/ted-lasso-season-four-trailer/",
+      "title": "Apple Shares 'Ted Lasso' Season 4 Trailer",
+      "author": "Joe Rossignol",
+      "published": "2026-07-28T17:20:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T20:29:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/apple-tv-silo-season-4-release-date/",
+      "title": "Apple Announces 'Silo' Season 4 is Coming Summer 2027",
+      "author": "Joe Rossignol",
+      "published": "2026-07-28T17:15:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-28T20:29:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-28T16:35:50+00:00"
+  "last_checked": "2026-07-28T20:29:44+00:00"
 }
