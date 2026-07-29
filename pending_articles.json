@@ -16255,7 +16255,87 @@
       "parser": "default",
       "discovered": "2026-07-29T12:46:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Customer-managed-key-encryption-now-extends-to-Spark-jobs-in/ba-p/5323769",
+      "title": "Customer-managed key encryption now extends to Spark jobs in Microsoft Fabric",
+      "author": "Santhosh_Ravin1",
+      "published": "2026-07-29T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-29T16:32:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823",
+      "title": "Fabric July 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-07-29T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-29T16:32:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-warns-of-possible-fx5-shipment-delays-because-preorders-exceeded-expecations/",
+      "title": "Sony warns of possible FX5 shipment delays because preorders exceeded expecations",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-29T14:29:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T16:32:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/ios-hide-dictation-messages-button/",
+      "title": "iOS 27 Lets You Hide the Messages Button Everyone Hits by Mistake",
+      "author": "Tim Hardwick",
+      "published": "2026-07-29T16:10:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T16:32:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/best-buys-school-sale/",
+      "title": "Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-29T15:24:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T16:32:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/bee-card-apple-wallet-support-in-works/",
+      "title": "Apple Wallet Support Coming to Manchester's Bee Card",
+      "author": "Joe Rossignol",
+      "published": "2026-07-29T15:20:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T16:32:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
+      "title": "Apple Upgrade: Is Leasing Your Next iPhone Worth It?",
+      "author": "Joe Rossignol",
+      "published": "2026-07-29T14:29:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T16:32:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/iphone-drivers-license-another-state-soon/",
+      "title": "iPhone Driver's Licenses May Soon Expand to Another US State",
+      "author": "Tim Hardwick",
+      "published": "2026-07-29T13:15:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T16:32:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-29T12:46:55+00:00"
+  "last_checked": "2026-07-29T16:32:56+00:00"
 }
