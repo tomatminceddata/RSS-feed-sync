@@ -16215,7 +16215,17 @@
       "parser": "default",
       "discovered": "2026-07-29T00:40:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
+      "title": "OpenAI's First Devices: Speaker, Smartphone, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-07-29T01:00:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T05:08:06+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-29T00:40:43+00:00"
+  "last_checked": "2026-07-29T05:08:06+00:00"
 }
