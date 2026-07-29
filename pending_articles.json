@@ -16185,7 +16185,37 @@
       "parser": "default",
       "discovered": "2026-07-28T20:29:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-security-improvements-for-SQL-analytics-endpoints/ba-p/5298160",
+      "title": "OneLake security improvements for SQL analytics endpoints",
+      "author": "fredguis",
+      "published": "2026-07-28T22:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-29T00:40:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Enterprise-planning-to-the-AI-Era-with-Planning-in/ba-p/5326315",
+      "title": "Bring Enterprise planning to the AI Era with Planning in Microsoft Fabric IQ",
+      "author": "diptiborkar",
+      "published": "2026-07-28T20:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-29T00:40:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-phone-facetime/",
+      "title": "iOS 27: All the New Phone and FaceTime Features",
+      "author": "Juli Clover",
+      "published": "2026-07-28T22:36:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T00:40:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-28T20:29:44+00:00"
+  "last_checked": "2026-07-29T00:40:43+00:00"
 }
