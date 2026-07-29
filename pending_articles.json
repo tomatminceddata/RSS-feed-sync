@@ -16235,7 +16235,27 @@
       "parser": "default",
       "discovered": "2026-07-29T09:01:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/surprise-rumors-sony-plans-to-acquire-tamron/",
+      "title": "Surprising rumors: Sony plans to acquire Tamron?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-29T11:00:40+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T12:46:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/whatsapp-web-calling-waiting-room-features/",
+      "title": "WhatsApp Rolls Out Web Calling, Call Transfer Across Devices, and More",
+      "author": "Tim Hardwick",
+      "published": "2026-07-29T10:05:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T12:46:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-29T09:01:35+00:00"
+  "last_checked": "2026-07-29T12:46:55+00:00"
 }
