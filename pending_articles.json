@@ -16335,7 +16335,77 @@
       "parser": "default",
       "discovered": "2026-07-29T16:32:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Job-concurrency-and-queue-monitoring-for-Spark-now-with-a/ba-p/5323779",
+      "title": "Job concurrency and queue monitoring for Spark, now with a capacity-level view (Generally Available)",
+      "author": "Santhosh_Ravin1",
+      "published": "2026-07-29T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-29T20:24:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Cross-domain-intelligence-with-Azure-Monitor-data-in-Microsoft/ba-p/5279352",
+      "title": "Cross-domain intelligence with Azure Monitor data in Microsoft Fabric (Preview)",
+      "author": "IlanaWaitser",
+      "published": "2026-07-29T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-29T20:24:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/apple-refurbished-studio-display-xdr/",
+      "title": "Apple Begins Selling Refurbished Studio Display XDR at a Discount",
+      "author": "Joe Rossignol",
+      "published": "2026-07-29T20:14:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T20:24:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/applecare-changes-made-this-month/",
+      "title": "Here Are All the Changes to AppleCare+ This Month",
+      "author": "Joe Rossignol",
+      "published": "2026-07-29T19:32:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T20:24:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/galaxy-z-fold8-review/",
+      "title": "Galaxy Z Fold8 Review: What Samsung's New Foldable Tells Us About the iPhone Ultra",
+      "author": "Juli Clover",
+      "published": "2026-07-29T19:13:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T20:24:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/airpods-pro-3-prime-day-199-99/",
+      "title": "AirPods Pro 3 Still Available for Best Price Since Prime Day at $199.99",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-29T17:24:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T20:24:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/gemini-for-mac-dictation/",
+      "title": "Gemini for Mac Adds System-Wide Voice Dictation and Screen-Aware Commands",
+      "author": "Juli Clover",
+      "published": "2026-07-29T16:46:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-29T20:24:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-29T16:32:56+00:00"
+  "last_checked": "2026-07-29T20:24:09+00:00"
 }
