@@ -16405,7 +16405,67 @@
       "parser": "default",
       "discovered": "2026-07-29T20:24:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Real-Time-Dashboards-into-your-apps-with-Microsoft-Fabric/ba-p/5323626",
+      "title": "Bring Real-Time Dashboards into your apps with Microsoft Fabric Embed (Preview)",
+      "author": "ealroybrin",
+      "published": "2026-07-29T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-30T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/qualcomm-apple-modem-revenue-dropping/",
+      "title": "Qualcomm Expects Apple Modem Revenue to Drop Faster Than Expected",
+      "author": "Juli Clover",
+      "published": "2026-07-30T00:13:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/app-store-uk-rules-highly-intrusive/",
+      "title": "Apple Says UK App Store Steering Rules Would Be 'Highly Intrusive'",
+      "author": "Juli Clover",
+      "published": "2026-07-29T22:43:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/tapbots-pastebot-3/",
+      "title": "Pastebot 3 for Mac Adds Rule-Based Organization, Powerful Paste Filters",
+      "author": "Juli Clover",
+      "published": "2026-07-29T22:14:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/apple-releases-safari-technology-preview-249/",
+      "title": "Apple Releases Safari Technology Preview 249 With Bug Fixes and Performance Improvements",
+      "author": "Juli Clover",
+      "published": "2026-07-29T22:03:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T00:39:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/29/openai-president-apple-lawsuit/",
+      "title": "OpenAI President on Apple Lawsuit: We Don't Need Your Secrets",
+      "author": "Juli Clover",
+      "published": "2026-07-29T20:45:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T00:39:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-29T20:24:09+00:00"
+  "last_checked": "2026-07-30T00:39:33+00:00"
 }
