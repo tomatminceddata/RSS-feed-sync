@@ -16111,7 +16111,87 @@
       "parser": "default",
       "discovered": "2026-07-30T12:40:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-Event-Driven-Applications-in-Microsoft-Fabric-with/ba-p/5323591",
+      "title": "Building Event-Driven Applications in Microsoft Fabric with Business Events and User Data Functions",
+      "author": "robece-msft",
+      "published": "2026-07-30T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-30T16:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/See-your-business-as-it-happens-with-Real-Time-Dashboard-in/ba-p/5327997",
+      "title": "See your business as it happens with Real-Time Dashboard in Microsoft Fabric",
+      "author": "Tzvia",
+      "published": "2026-07-30T12:48:47+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-30T16:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/tamron-12-20mm-f-2-8-fe-lens-is-now-shipping-new-review-by-christopher-frost/",
+      "title": "Tamron 12-20mm f/2.8 FE lens is now shipping  + new review by Christopher Frost",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-30T13:04:37+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T16:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/spotify-adds-running-mode-iphone/",
+      "title": "Spotify Adds Running Mode to iOS App With Tempo-Matched Music",
+      "author": "Tim Hardwick",
+      "published": "2026-07-30T15:49:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T16:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/airtag-2-price-of-89/",
+      "title": "AirTag 2 Available for Record Low Price of $89 for 4-Pack",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-30T13:46:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T16:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/tim-cook-final-earnings-call-as-apple-ceo/",
+      "title": "You Can Listen to Tim Cook's Final Earnings Call as Apple CEO Today",
+      "author": "Joe Rossignol",
+      "published": "2026-07-30T13:45:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T16:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/apple-donating-to-european-wildfire-relief-efforts/",
+      "title": "Apple Donating to European Wildfire Relief Efforts",
+      "author": "Joe Rossignol",
+      "published": "2026-07-30T13:43:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T16:34:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer/",
+      "title": "iOS 27 Finally Unlinks Alarm Volume From Your iPhone Ringer",
+      "author": "Tim Hardwick",
+      "published": "2026-07-30T13:40:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T16:34:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-30T12:40:12+00:00"
+  "last_checked": "2026-07-30T16:34:42+00:00"
 }
