@@ -16071,7 +16071,47 @@
       "parser": "default",
       "discovered": "2026-07-30T08:59:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/its-official-sony-wants-to-acquire-tamron/",
+      "title": "It’s official: Sony wants to acquire Tamron",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-30T09:43:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T12:40:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/when-will-apple-announce-iphone-18-pro-event/",
+      "title": "iPhone 18 Pro and iPhone Ultra: When is the Next Apple Event?",
+      "author": "Joe Rossignol",
+      "published": "2026-07-30T11:59:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T12:40:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/ios-27-tone-down-liquid-glass-transparency/",
+      "title": "iOS 27: Tone Down Liquid Glass Transparency",
+      "author": "Tim Hardwick",
+      "published": "2026-07-30T11:27:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T12:40:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/reasons-to-wait-iphone-18-pro/",
+      "title": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
+      "author": "Tim Hardwick",
+      "published": "2026-07-30T10:43:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-30T12:40:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-30T08:59:22+00:00"
+  "last_checked": "2026-07-30T12:40:12+00:00"
 }
