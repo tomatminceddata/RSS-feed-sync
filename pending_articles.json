@@ -16271,7 +16271,77 @@
       "parser": "default",
       "discovered": "2026-07-30T20:29:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Retirement-of-Fabric-data-agent-integration-in-Copilot-in-Power/ba-p/5328344",
+      "title": "Retirement of Fabric data agent integration in Copilot in Power BI",
+      "author": "AmirJafari",
+      "published": "2026-07-30T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-31T00:44:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/app-store-services-revenue-impact/",
+      "title": "Apple Says App Store Changes and Mobile Gaming Softness Affected Services Revenue",
+      "author": "Juli Clover",
+      "published": "2026-07-30T23:40:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T00:44:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/apple-icloud-upgrade-ai/",
+      "title": "Apple Plans Paid iCloud+ Upgrades for Heavy AI Users",
+      "author": "Juli Clover",
+      "published": "2026-07-30T23:11:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T00:44:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/tim-cook-on-apple-price-increases/",
+      "title": "Tim Cook: Apple 'Reluctantly Raised Prices' Due to '100-Year Flood on Memory Pricing'",
+      "author": "Juli Clover",
+      "published": "2026-07-30T22:48:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T00:44:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/tim-cook-thanks-apple-shareholders/",
+      "title": "Tim Cook Thanks Shareholders on His Final Apple Earnings Call",
+      "author": "Juli Clover",
+      "published": "2026-07-30T22:26:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T00:44:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/apple-iphone-mac-ipad-supply-constraints/",
+      "title": "Apple Warns of Growing Supply Constraints for iPhone, iPad, and Mac",
+      "author": "Juli Clover",
+      "published": "2026-07-30T22:02:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T00:44:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/",
+      "title": "Apple Reports 3Q 2026 Results: $29.8B Profit on $109.4B Revenue",
+      "author": "Jordan Golson",
+      "published": "2026-07-30T20:38:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T00:44:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-30T20:29:47+00:00"
+  "last_checked": "2026-07-31T00:44:46+00:00"
 }
