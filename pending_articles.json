@@ -16341,7 +16341,17 @@
       "parser": "default",
       "discovered": "2026-07-31T00:44:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/30/macbook-ultra-design-wont-stay-exclusive/",
+      "title": "MacBook Ultra's New Design Won't Stay Exclusive for Long",
+      "author": "Hartley Charlton",
+      "published": "2026-07-31T01:00:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T05:13:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-31T00:44:46+00:00"
+  "last_checked": "2026-07-31T05:13:52+00:00"
 }
