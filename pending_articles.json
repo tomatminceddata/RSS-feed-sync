@@ -16371,7 +16371,87 @@
       "parser": "default",
       "discovered": "2026-07-31T12:43:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-July-2026/ba-p/5323891",
+      "title": "Fabric Influencers Spotlight: July 2026",
+      "author": "slindsay",
+      "published": "2026-07-31T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-07-31T16:37:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/cined-interview-with-sony-surprisingly-considering-making-medium-format-for-the-mass-market/",
+      "title": "CineD interview with Sony: Surprisingly considering making medium format for the mass market!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-31T13:56:44+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T16:37:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/31/the-macrumors-show-revisiting-ios-27/",
+      "title": "The MacRumors Show: Revisiting iOS 27 Ahead of iPhone 18 Pro",
+      "author": "Hartley Charlton",
+      "published": "2026-07-31T16:10:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T16:37:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/set-custom-eq-airpods-ios/",
+      "title": "Set a Custom EQ for Your AirPods in iOS 27",
+      "author": "Tim Hardwick",
+      "published": "2026-07-31T16:05:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T16:37:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/31/iphone-18e-increased-ram-rumor/",
+      "title": "iPhone 18e Rumored to Feature Increased RAM",
+      "author": "Joe Rossignol",
+      "published": "2026-07-31T15:55:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T16:37:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/31/iphone-air-2-five-new-features-rumored/",
+      "title": "iPhone Air 2 Expected to Launch Early Next Year With Five New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-07-31T15:25:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T16:37:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/31/best-apple-deals-of-the-week-7-31-26/",
+      "title": "Best Back to School Apple Bargains: MacBook Pro, AirPods, Apple Watch, and AirTag 2",
+      "author": "Mitchel Broussard",
+      "published": "2026-07-31T14:10:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T16:37:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/31/shazam-updated-with-imessage-stickers/",
+      "title": "Shazam Updated With iMessage Stickers Inspired by Ariana Grande's New Album",
+      "author": "Joe Rossignol",
+      "published": "2026-07-31T13:15:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T16:37:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-31T12:43:33+00:00"
+  "last_checked": "2026-07-31T16:37:21+00:00"
 }
