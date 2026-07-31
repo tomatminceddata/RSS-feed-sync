@@ -16351,7 +16351,27 @@
       "parser": "default",
       "discovered": "2026-07-31T05:13:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-reviews-of-the-samyang-60-180mm-f-2-8-fe-lens/",
+      "title": "New reviews of the Samyang 60-180mm f/2.8 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-07-31T10:18:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T12:43:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/31/iphone-18-pro-models-300-more-expensive/",
+      "title": "iPhone 18 Pro Models Could Be Up to $300 More Expensive, Says Analyst",
+      "author": "Tim Hardwick",
+      "published": "2026-07-31T12:27:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T12:43:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-31T05:13:52+00:00"
+  "last_checked": "2026-07-31T12:43:33+00:00"
 }
