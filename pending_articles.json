@@ -16451,7 +16451,17 @@
       "parser": "default",
       "discovered": "2026-07-31T16:37:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/31/tim-cook-apple-15-years/",
+      "title": "How Apple Changed Under Tim Cook: 15 Years in Numbers",
+      "author": "Juli Clover",
+      "published": "2026-07-31T20:29:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-07-31T20:32:07+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-31T16:37:21+00:00"
+  "last_checked": "2026-07-31T20:32:07+00:00"
 }
