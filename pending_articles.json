@@ -16461,7 +16461,17 @@
       "parser": "default",
       "discovered": "2026-07-31T20:32:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/",
+      "title": "iPad Air Could Finally Be Redesigned Next Year",
+      "author": "Hartley Charlton",
+      "published": "2026-08-01T01:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-01T05:08:38+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-07-31T20:32:07+00:00"
+  "last_checked": "2026-08-01T05:08:38+00:00"
 }
