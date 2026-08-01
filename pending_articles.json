@@ -16471,7 +16471,37 @@
       "parser": "default",
       "discovered": "2026-08-01T05:08:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-reviews-woundup/",
+      "title": "New Sony FX5 reviews roundup",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-01T12:00:19+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-01T16:23:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/01/apple-watch-series-11-299-2/",
+      "title": "Apple Watch Series 11 GPS Models Available From $299.99 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-01T14:40:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-01T16:23:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/01/top-stories-apple-upgrade-launches/",
+      "title": "Top Stories: 'Apple Upgrade' Launches, iOS 26.6 Released, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-08-01T13:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-01T16:23:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-01T05:08:38+00:00"
+  "last_checked": "2026-08-01T16:23:24+00:00"
 }
