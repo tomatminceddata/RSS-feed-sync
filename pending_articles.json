@@ -16521,7 +16521,27 @@
       "parser": "default",
       "discovered": "2026-08-02T05:08:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-laowa-aksen-1-5x-5-10x-parfocal-ultra-macro-apo-lenses/",
+      "title": "Just announced: New Laowa Aksen 1-5X & 5-10X parfocal Ultra Macro APO lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-02T07:43:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-02T08:51:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/tamron-12-20mm-f-2-8-fe-now-in-stock-at-amazon-and-bhphoto/",
+      "title": "Tamron 12-20mm f/2.8 FE now in Stock at Amazon and BHphoto",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-01T18:15:01+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-02T08:51:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-02T05:08:11+00:00"
+  "last_checked": "2026-08-02T08:51:34+00:00"
 }
