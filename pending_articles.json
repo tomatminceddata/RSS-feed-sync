@@ -16511,7 +16511,17 @@
       "parser": "default",
       "discovered": "2026-08-02T00:46:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/01/things-we-know-about-2028-iphone/",
+      "title": "6 Things We Already Know About the 2028 iPhone",
+      "author": "Hartley Charlton",
+      "published": "2026-08-02T01:00:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-02T05:08:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-02T00:46:42+00:00"
+  "last_checked": "2026-08-02T05:08:11+00:00"
 }
