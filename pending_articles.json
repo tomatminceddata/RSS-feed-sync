@@ -16348,7 +16348,57 @@
       "parser": "default",
       "discovered": "2026-08-03T16:52:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Change-Event-Streaming-for-SQL-database-in-Microsoft-Fabric/ba-p/5332766",
+      "title": "Change Event Streaming for SQL database in Microsoft Fabric (Preview)",
+      "author": "nzagorac-ms",
+      "published": "2026-08-03T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-03T20:33:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/today-only-at-bhphoto-460-off-on-the-sigma-28mm-f-1-4-fe/",
+      "title": "Today only at BHphoto: $460 off on the Sigma 28mm f/1.4 FE",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-03T18:47:10+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-03T20:33:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/03/fitbit-apple-health-syncing/",
+      "title": "Fitbit Data Can Finally Sync to Apple Health",
+      "author": "Juli Clover",
+      "published": "2026-08-03T20:00:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-03T20:33:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/03/apple-pay-philippines/",
+      "title": "Apple Pay Launches in the Philippines",
+      "author": "Juli Clover",
+      "published": "2026-08-03T19:14:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-03T20:33:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/03/apple-icloud-sharing-ex-employees/",
+      "title": "Apple's iCloud File Sharing Left Ex-Employees With Access to Secret Documents",
+      "author": "Juli Clover",
+      "published": "2026-08-03T17:48:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-03T20:33:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-03T16:52:11+00:00"
+  "last_checked": "2026-08-03T20:33:42+00:00"
 }
