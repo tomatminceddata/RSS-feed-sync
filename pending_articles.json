@@ -16400,7 +16400,27 @@
       "parser": "default",
       "discovered": "2026-08-03T05:17:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-has-registered-two-wireless-microphone-sets-with-32bit-float-support/",
+      "title": "Sony has registered two wireless microphone sets with 32bit float support",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-03T12:17:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-03T13:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-pergear-50mm-f1-4-full-frame-e-mount-manual-focus-lens/",
+      "title": "Just announced: New Pergear 50mm F1.4 Full-Frame E-mount Manual Focus Lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-03T09:12:57+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-03T13:08:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-03T05:17:34+00:00"
+  "last_checked": "2026-08-03T13:08:44+00:00"
 }
