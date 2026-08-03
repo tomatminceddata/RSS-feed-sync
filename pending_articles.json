@@ -16390,7 +16390,17 @@
       "parser": "default",
       "discovered": "2026-08-02T16:23:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/02/macbook-air-shortage-report/",
+      "title": "MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase",
+      "author": "Joe Rossignol",
+      "published": "2026-08-03T02:12:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-03T05:17:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-02T16:23:38+00:00"
+  "last_checked": "2026-08-03T05:17:34+00:00"
 }
