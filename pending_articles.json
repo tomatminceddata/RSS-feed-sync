@@ -16448,7 +16448,57 @@
       "parser": "default",
       "discovered": "2026-08-04T09:01:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-dji-mic-mini-2s/",
+      "title": "Just announced: new DJI Mic Mini 2S",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-04T12:15:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T12:44:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-discloses-the-official-e-mount-license-partner-samyang-new-entry-while-chinese-companies-are-left-out/",
+      "title": "Sony discloses the official E-mount License Partner: Samyang new entry while Chinese companies are left out",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-04T09:39:37+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T12:44:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/apple-annual-india-sales-surpass-10-billion/",
+      "title": "Apple's Annual India Sales Surpass $10 Billion for First Time",
+      "author": "Hartley Charlton",
+      "published": "2026-08-04T12:37:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T12:44:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/openai-posts-public-rebuttal-to-apple/",
+      "title": "OpenAI Posts Public Rebuttal to Apple's Trade Secrets Lawsuit",
+      "author": "Hartley Charlton",
+      "published": "2026-08-04T12:27:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T12:44:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/telegram-briefly-removed-from-app-store/",
+      "title": "Telegram Briefly Removed From App Store",
+      "author": "Hartley Charlton",
+      "published": "2026-08-04T10:39:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T12:44:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-04T09:01:21+00:00"
+  "last_checked": "2026-08-04T12:44:33+00:00"
 }
