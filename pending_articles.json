@@ -16398,7 +16398,37 @@
       "parser": "default",
       "discovered": "2026-08-03T20:33:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/03/apple-iphone-windows-copy-paste/",
+      "title": "Apple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request",
+      "author": "Juli Clover",
+      "published": "2026-08-03T23:20:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T00:43:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/03/apple-ted-lasso-look-alike-contest/",
+      "title": "Apple Will Judge Your Mustache Authenticity at Its Ted Lasso Look-Alike Contest",
+      "author": "Juli Clover",
+      "published": "2026-08-03T22:03:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T00:43:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/",
+      "title": "Apple's Next CEO Adds Retired Hardware Executive to His Team",
+      "author": "Juli Clover",
+      "published": "2026-08-03T20:49:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T00:43:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-03T20:33:42+00:00"
+  "last_checked": "2026-08-04T00:43:14+00:00"
 }
