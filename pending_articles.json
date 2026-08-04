@@ -16558,7 +16558,67 @@
       "parser": "default",
       "discovered": "2026-08-04T16:39:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Design-a-Business-Event-schema-that-consumers-can-act-on/ba-p/5331546",
+      "title": "Design a Business Event schema that consumers can act on",
+      "author": "robece-msft",
+      "published": "2026-08-04T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-04T20:33:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Azure-Monitor-and-AWS-Glue-data-to-OneLake-Preview/ba-p/5326474",
+      "title": "Bring your Azure Monitor and AWS Glue data to OneLake! (Preview)",
+      "author": "MattH_OneLake",
+      "published": "2026-08-04T19:14:57+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-04T20:33:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/telegram-extortionist-app-store-removal/",
+      "title": "Telegram CEO Says Extortionist Manipulated Apple Into App Store Removal",
+      "author": "Juli Clover",
+      "published": "2026-08-04T20:21:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T20:33:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
+      "title": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
+      "author": "Juli Clover",
+      "published": "2026-08-04T19:53:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T20:33:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/airpods-beta-firmware-ios-27/",
+      "title": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
+      "author": "Juli Clover",
+      "published": "2026-08-04T19:25:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T20:33:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
+      "title": "Apple Starts Preparing for September iPhone Event",
+      "author": "Juli Clover",
+      "published": "2026-08-04T18:36:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T20:33:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-04T16:39:57+00:00"
+  "last_checked": "2026-08-04T20:33:48+00:00"
 }
