@@ -16498,7 +16498,67 @@
       "parser": "default",
       "discovered": "2026-08-04T12:44:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/officially-announced-new-sony-fe-100-400mm-f-5-6-8-oss-lens/",
+      "title": "Officially announced: New Sony FE 100-400mm f/5.6-8 OSS lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-04T14:02:53+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T16:39:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-electronics-launches-sel100400-fe-100-400mm-f5-6-8-oss-the-perfect-hobbyists-super-telephoto-zoom-len/",
+      "title": "Sony Electronics Launches SEL100400 – FE 100-400mm F5.6-8 OSS, The Perfect Hobbyist’s Super-Telephoto Zoom Len",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-04T14:00:11+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T16:39:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/bigger-displays-rumored-for-next-year-iphones/",
+      "title": "Bigger Displays Rumored for Next Year's iPhone Models",
+      "author": "Hartley Charlton",
+      "published": "2026-08-04T14:40:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T16:39:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/apple-card-booking-com-loyalty/",
+      "title": "Apple Card Now Fast-Tracks Booking.com Perks With Just One Trip",
+      "author": "Eric Slivka",
+      "published": "2026-08-04T14:13:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T16:39:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/whatsapp-adds-all-mentions-and-poll-upgrades/",
+      "title": "WhatsApp Adds '@ all' Mentions and Poll Upgrades to Group Chats",
+      "author": "Hartley Charlton",
+      "published": "2026-08-04T14:00:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T16:39:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/amazon-m4-ipad-air-models/",
+      "title": "Amazon Discounts New M4 iPad Air Models by Up to $69",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-04T13:59:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-04T16:39:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-04T12:44:33+00:00"
+  "last_checked": "2026-08-04T16:39:57+00:00"
 }
