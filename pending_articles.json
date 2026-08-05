@@ -16658,7 +16658,27 @@
       "parser": "default",
       "discovered": "2026-08-05T10:38:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/05/best-buy-back-to-school/",
+      "title": "MacBook Pro, AirPods, and More Discounted in Best Buy Back to School Event",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-05T14:02:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-05T14:15:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/05/foldable-smartphone-sales-to-rise-this-year/",
+      "title": "Foldable Smartphone Sales to Rise 20% This Year Due to 'iPhone Ultra'",
+      "author": "Hartley Charlton",
+      "published": "2026-08-05T11:45:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-05T14:15:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-05T10:38:30+00:00"
+  "last_checked": "2026-08-05T14:15:24+00:00"
 }
