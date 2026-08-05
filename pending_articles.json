@@ -16618,7 +16618,37 @@
       "parser": "default",
       "discovered": "2026-08-04T20:33:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-conditional-formatting-for-lines-and-legends/ba-p/5331078",
+      "title": "Deep dive into conditional formatting for lines and legends",
+      "author": "DataZoe",
+      "published": "2026-08-04T21:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-05T02:45:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/carplay-is-coming-to-pontoon-boats/",
+      "title": "CarPlay is Coming to Pontoon Boats",
+      "author": "Juli Clover",
+      "published": "2026-08-04T23:49:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-05T02:45:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/04/apple-september-2026-announcements/",
+      "title": "Everything Apple Is Expected to Announce in September",
+      "author": "Juli Clover",
+      "published": "2026-08-04T22:10:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-05T02:45:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-04T20:33:48+00:00"
+  "last_checked": "2026-08-05T02:45:35+00:00"
 }
