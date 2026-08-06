@@ -16778,7 +16778,37 @@
       "parser": "default",
       "discovered": "2026-08-05T21:13:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
+      "title": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
+      "author": "Juli Clover",
+      "published": "2026-08-06T00:10:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T02:48:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/05/disney-plus-free-tier/",
+      "title": "Disney+ Could Get a Free Ad-Supported Tier",
+      "author": "Juli Clover",
+      "published": "2026-08-05T23:34:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T02:48:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/05/starlink-mobile-service/",
+      "title": "SpaceX Plans Starlink Mobile Service to Compete With Verizon, AT&T and T-Mobile",
+      "author": "Juli Clover",
+      "published": "2026-08-05T22:27:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T02:48:29+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-05T21:13:45+00:00"
+  "last_checked": "2026-08-06T02:48:29+00:00"
 }
