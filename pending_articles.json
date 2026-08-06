@@ -16808,7 +16808,17 @@
       "parser": "default",
       "discovered": "2026-08-06T02:48:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/after-20000-shots-here-is-what-manny-ortiz-really-thinks-about-the-sony-a7riv/",
+      "title": "After 20,000 shots: Here is what Manny Ortiz really thinks about the Sony A7rIV",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-06T10:10:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T10:42:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-06T02:48:29+00:00"
+  "last_checked": "2026-08-06T10:42:08+00:00"
 }
