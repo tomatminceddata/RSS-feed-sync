@@ -16818,7 +16818,87 @@
       "parser": "default",
       "discovered": "2026-08-06T10:42:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/apple-raises-trade-in-values/",
+      "title": "Apple Raises Trade-In Values for iPhone, Mac, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-08-06T14:17:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T14:19:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-next-month-12-features/",
+      "title": "iPhone 18 Pro Launching Next Month With These 12 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-08-06T14:03:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T14:19:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/apple-scrambling-to-secure-memory/",
+      "title": "Apple Scrambling to Secure Memory Ahead of iPhone 18 Pro Launch",
+      "author": "Hartley Charlton",
+      "published": "2026-08-06T13:23:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T14:19:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/190-off-m5-macbook-air/",
+      "title": "Amazon Takes Up to $190 Off M5 MacBook Air With Best Deals Since Price Hike",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-06T13:04:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T14:19:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/apple-account-card-in-wallet-now-available-in-more-countries/",
+      "title": "Apple Account Card in Wallet Now Available in Four More Countries",
+      "author": "Hartley Charlton",
+      "published": "2026-08-06T13:01:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T14:19:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/airpods-pro-3-189/",
+      "title": "AirPods Pro 3 Drop to One of the Best Prices of the Year So Far at $189.99",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-06T12:44:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T14:19:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/apples-bid-to-use-chinese-chipmaker-backfires/",
+      "title": "Apple's Bid to Use Chinese Chipmaker as Leverage Backfires",
+      "author": "Hartley Charlton",
+      "published": "2026-08-06T11:53:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T14:19:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/openai-asks-judge-to-dismiss-apple-lawsuit/",
+      "title": "OpenAI Asks Judge to Dismiss Apple's Trade Secrets Lawsuit",
+      "author": "Hartley Charlton",
+      "published": "2026-08-06T10:46:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-06T14:19:07+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-06T10:42:08+00:00"
+  "last_checked": "2026-08-06T14:19:07+00:00"
 }
