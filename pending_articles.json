@@ -17078,7 +17078,77 @@
       "parser": "default",
       "discovered": "2026-08-07T13:10:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-patent-discloses-the-design-of-two-new-sigma-super-zoom-lenses/",
+      "title": "New patent discloses the design of two new Sigma super zoom lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-07T13:27:02+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T16:56:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/07/the-macrumors-show-iphone-air-2/",
+      "title": "The MacRumors Show: iPhone Air 2 - What Changes After a Difficult First Year",
+      "author": "Hartley Charlton",
+      "published": "2026-08-07T16:23:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T16:56:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
+      "title": "Apple Flags Discovery Delays in Its Lawsuit Against Jon Prosser",
+      "author": "Hartley Charlton",
+      "published": "2026-08-07T16:07:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T16:56:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/07/apple-captures-65-percent-of-global-premium-market/",
+      "title": "Apple Captures 65% of Global Premium Smartphone Market",
+      "author": "Hartley Charlton",
+      "published": "2026-08-07T14:32:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T16:56:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/07/apple-testing-ios-26-6-1/",
+      "title": "Apple Testing iOS 26.6.1 Update for iPhones",
+      "author": "Joe Rossignol",
+      "published": "2026-08-07T14:17:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T16:56:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/07/best-apple-deals-of-the-week-8-7-26/",
+      "title": "AirPods Pro 3 for $189.99, $25 Best Buy Gift Card With MacBook Neo, and More Apple Deals This Week",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-07T14:06:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T16:56:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/07/apple-account-card-what-it-is-what-it-isnt/",
+      "title": "Apple Account Card Expands Again: What It Is and What It Isn't",
+      "author": "Tim Hardwick",
+      "published": "2026-08-07T13:54:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T16:56:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-07T13:10:10+00:00"
+  "last_checked": "2026-08-07T16:56:04+00:00"
 }
