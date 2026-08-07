@@ -16898,7 +16898,147 @@
       "parser": "default",
       "discovered": "2026-08-06T14:19:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Enabling-Item-Recovery-by-default-in-Microsoft-Fabric/ba-p/5323843",
+      "title": "Enabling Item Recovery by default in Microsoft Fabric",
+      "author": "YuliaTurchin",
+      "published": "2026-08-06T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Evaluate-Fabric-workload-performance-with-the-modern-evaluation/ba-p/5330293",
+      "title": "Evaluate Fabric workload performance with the modern evaluation engine for VNet data gateways (Preview)",
+      "author": "goupadhy",
+      "published": "2026-08-06T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Automate-recurring-business-logic-with-scheduled-User-Data/ba-p/5341912",
+      "title": "Automate recurring business logic with scheduled User Data Functions in Microsoft Fabric (Preview)",
+      "author": "mk_sunitha",
+      "published": "2026-08-06T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-rx10-v-now-in-stock-and-shipping-out-in-the-us-and-europe/",
+      "title": "New Sony RX10 V now in Stock and shipping out in the US and Europe!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-06T17:32:39+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/here-are-sony-six-new-e-mount-lenses/",
+      "title": "Here are Sony SIX new E-mount lenses!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-06T13:39:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/iphone-18-pro-possible-shortages/",
+      "title": "iPhone 18 Pro and Foldable iPhone Could Sell Out Fast Due to Memory Shortage",
+      "author": "Juli Clover",
+      "published": "2026-08-07T00:10:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/t-mobile-2g-network-disabled/",
+      "title": "Original iPhone Loses Its Last Cellular Network as T-Mobile Kills 2G",
+      "author": "Juli Clover",
+      "published": "2026-08-06T23:19:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/google-maps-ask-maps-update/",
+      "title": "Google Maps Can Now Order Your Dinner and Track Your Train Delays",
+      "author": "Juli Clover",
+      "published": "2026-08-06T22:59:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/madden-nfl-27-apple-arcade/",
+      "title": "Madden NFL 27 Arcade Edition Now Available on Apple Arcade",
+      "author": "Juli Clover",
+      "published": "2026-08-06T22:26:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/bmw-spider-man-ads/",
+      "title": "BMW Owners Angry Over Spider-Man Ads Appearing on Dashboard Screens",
+      "author": "Juli Clover",
+      "published": "2026-08-06T21:25:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/openai-chatgpt-speaker/",
+      "title": "OpenAI's ChatGPT Speaker Will Be Hockey Puck-Sized and Cost Over $300",
+      "author": "Juli Clover",
+      "published": "2026-08-06T21:00:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/chatgpt-free-unlimited-text-chats/",
+      "title": "Free ChatGPT Users Get Unlimited Text Chats and GPT-5.6 Luna",
+      "author": "Juli Clover",
+      "published": "2026-08-06T19:27:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
+      "title": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes",
+      "author": "Juli Clover",
+      "published": "2026-08-06T17:34:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/06/last-day-samsung-galaxy-pre-orders/",
+      "title": "Last Day for Up to $350 Amazon Gift Card With Samsung Galaxy Pre-Orders",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-06T14:50:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T00:52:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-06T14:19:07+00:00"
+  "last_checked": "2026-08-07T00:52:56+00:00"
 }
