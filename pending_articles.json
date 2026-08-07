@@ -17048,7 +17048,37 @@
       "parser": "default",
       "discovered": "2026-08-07T09:01:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/emergency-repair-for-a-water-damaged-sony-a7r-v-and-24-70mm-gm-ii-is-it-actually-waterproof/",
+      "title": "Emergency Repair for a Water-Damaged Sony A7R V and 24-70mm GM II: Is It Actually Waterproof?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-07T09:49:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T13:10:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/07/mac-pro-turns-20-today/",
+      "title": "Mac Pro Turns 20 Today, Five Months After Apple Killed It",
+      "author": "Hartley Charlton",
+      "published": "2026-08-07T12:39:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T13:10:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/ios-use-compact-lock-screen-clock/",
+      "title": "iOS 27's New Compact Clock Gives Your Wallpaper Room to Breathe",
+      "author": "Tim Hardwick",
+      "published": "2026-08-07T10:52:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-07T13:10:10+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-07T09:01:57+00:00"
+  "last_checked": "2026-08-07T13:10:10+00:00"
 }
