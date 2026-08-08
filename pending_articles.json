@@ -17178,7 +17178,27 @@
       "parser": "default",
       "discovered": "2026-08-08T01:49:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
+      "title": "Claude Code Adds Cross-Session Messaging on macOS",
+      "author": "Hartley Charlton",
+      "published": "2026-08-08T10:22:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-08T12:53:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/08/iphone-17-prices-could-rise-as-soon-as-monday/",
+      "title": "iPhone 17 Prices Could Rise as Soon as Monday, Rumor Claims",
+      "author": "Hartley Charlton",
+      "published": "2026-08-08T09:54:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-08T12:53:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-08T01:49:35+00:00"
+  "last_checked": "2026-08-08T12:53:25+00:00"
 }
