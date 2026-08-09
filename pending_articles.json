@@ -16179,7 +16179,37 @@
       "parser": "default",
       "discovered": "2026-08-09T12:56:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/09/ceramic-could-return-with-apple-watch-series-12/",
+      "title": "Ceramic Case Could Return With Apple Watch Series 12",
+      "author": "Hartley Charlton",
+      "published": "2026-08-09T16:21:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-09T16:38:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/",
+      "title": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays",
+      "author": "Hartley Charlton",
+      "published": "2026-08-09T15:55:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-09T16:38:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/09/apple-watch-rethink/",
+      "title": "Apple Watch Rethink Could See Debut of Round Model, Screenless Fitness Tracker, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-08-09T15:37:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-09T16:38:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-09T12:56:11+00:00"
+  "last_checked": "2026-08-09T16:38:21+00:00"
 }
