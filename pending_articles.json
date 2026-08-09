@@ -16209,7 +16209,17 @@
       "parser": "default",
       "discovered": "2026-08-09T16:38:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/the-ultimate-hybrid-camera-backpack-lowepro-unveils-the-fastpack-iv-lineup/",
+      "title": "The Ultimate Hybrid Camera Backpack? Lowepro Unveils the FastPack IV Lineup",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-09T18:24:52+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-09T20:35:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-09T16:38:21+00:00"
+  "last_checked": "2026-08-09T20:35:50+00:00"
 }
