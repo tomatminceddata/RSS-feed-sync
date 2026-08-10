@@ -16359,7 +16359,127 @@
       "parser": "default",
       "discovered": "2026-08-10T16:55:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-agent-with-AI-for-Data-Agent-Preview/ba-p/5351116",
+      "title": "Build agent with AI for Data Agent (Preview)",
+      "author": "msft-shreyas",
+      "published": "2026-08-10T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/todya-only-at-bh-save-big-on-siuri-anamorphic-lenses-tiffen-thinktank-smallrig-accessories/",
+      "title": "Todya only at BH: Save big on Siuri Anamorphic lenses, Tiffen-ThinkTank-Smallrig accessories",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-10T17:32:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-icons/",
+      "title": "iOS 27 Beta 5 Brings New Icons for Siri, Safari, Settings and More",
+      "author": "Juli Clover",
+      "published": "2026-08-10T19:18:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-siri-ai-voice-customization/",
+      "title": "Latest iOS 27 Beta Expands Siri AI Voice Customization",
+      "author": "Juli Clover",
+      "published": "2026-08-10T18:57:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-cutting-2026-hardware-shipments/",
+      "title": "Apple Cutting Back 2026 Hardware Shipments Due to Memory Shortage",
+      "author": "Juli Clover",
+      "published": "2026-08-10T18:38:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-releases-macos-27-beta-5/",
+      "title": "Apple Releases macOS Golden Gate Beta 5",
+      "author": "Juli Clover",
+      "published": "2026-08-10T17:27:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-releases-macos-tahoe-26-6-2/",
+      "title": "Apple Releases macOS Tahoe 26.6.2 Beta With Security Fixes",
+      "author": "Juli Clover",
+      "published": "2026-08-10T17:27:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-releases-ios-26-6-1/",
+      "title": "Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes",
+      "author": "Juli Clover",
+      "published": "2026-08-10T17:23:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-ios-27-beta-5/",
+      "title": "Apple Seeds Fifth iOS 27 and iPadOS 27 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-10T17:21:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-watchos-27-beta-5-to-developers/",
+      "title": "Apple Seeds watchOS 27 Beta 5 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-10T17:10:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-tvos-27-beta-5-to-developers/",
+      "title": "Apple Seeds tvOS 27 Beta 5 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-10T17:07:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-seeds-fifth-visionos-27-beta-to-developers/",
+      "title": "Apple Seeds Fifth visionOS 27 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-10T17:06:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T20:45:18+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-10T16:55:33+00:00"
+  "last_checked": "2026-08-10T20:45:18+00:00"
 }
