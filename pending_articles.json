@@ -16289,7 +16289,77 @@
       "parser": "default",
       "discovered": "2026-08-10T13:14:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/wild-rumors-roundup-rx100viii-with-50mp-sensor-and-new-400600mm-compact-teles/",
+      "title": "Wild rumors roundup: RX100VIII with 50MP sensor and new 400+600mm compact tele lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-10T13:29:32+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T16:55:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-max-battery-capacity-rumor/",
+      "title": "iPhone 18 Pro Max's Larger Battery Capacity Allegedly Revealed",
+      "author": "Joe Rossignol",
+      "published": "2026-08-10T16:37:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T16:55:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/all-glass-20th-anniversary-iphone-canceled/",
+      "title": "Apple's All-Glass 20th Anniversary iPhone Reportedly Canceled",
+      "author": "Hartley Charlton",
+      "published": "2026-08-10T16:14:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T16:55:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-announces-3d-mlb-games-on-vision-pro/",
+      "title": "Apple Announces 3D MLB Games Coming to Vision Pro",
+      "author": "Joe Rossignol",
+      "published": "2026-08-10T16:01:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T16:55:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/correct-iphone-18-pro-dark-cherry-shade/",
+      "title": "Leaker Weighs in on Correct Shade for 'Dark Cherry' iPhone 18 Pro",
+      "author": "Hartley Charlton",
+      "published": "2026-08-10T14:49:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T16:55:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/foldable-iphone-faces-surging-galaxy-z-fold-8/",
+      "title": "Apple's Foldable iPhone Ultra Faces a Surging Samsung Galaxy Z Fold 8",
+      "author": "Tim Hardwick",
+      "published": "2026-08-10T14:41:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T16:55:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/get-an-apple-watch-se-3/",
+      "title": "Get an Apple Watch SE 3 for Just $219 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-10T14:01:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T16:55:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-10T13:14:42+00:00"
+  "last_checked": "2026-08-10T16:55:33+00:00"
 }
