@@ -16229,7 +16229,67 @@
       "parser": "default",
       "discovered": "2026-08-10T09:25:06+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-a7rvi-reviews-from-dustin-abbott-dpreview-pcmag/",
+      "title": "New Sony A7rVI reviews from Dustin Abbott, Dpreview, PcMag",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-10T09:59:10+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T13:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
+      "title": "Apple Briefly Posts China Guide for Connecting Siri to Qwen AI",
+      "author": "Hartley Charlton",
+      "published": "2026-08-10T12:21:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T13:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-testing-chinese-memory-iphones-macs/",
+      "title": "Apple Testing Chinese Memory Chips in iPhones and MacBooks",
+      "author": "Tim Hardwick",
+      "published": "2026-08-10T12:02:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T13:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/oled-imac-panel-extra-layer-screen/",
+      "title": "OLED iMac Panel Could Include Extra Layer to Fight Screen Burn-In",
+      "author": "Tim Hardwick",
+      "published": "2026-08-10T11:35:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T13:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/iphone-18-pro-build-cost-rise/",
+      "title": "iPhone 18 Pro Costing Apple 38% More to Make, TrendForce Estimates",
+      "author": "Tim Hardwick",
+      "published": "2026-08-10T10:29:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T13:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
+      "title": "Apple Dropped Plan to Ship Leased iPhones Already Set Up for Users",
+      "author": "Tim Hardwick",
+      "published": "2026-08-10T09:30:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-10T13:14:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-10T09:25:06+00:00"
+  "last_checked": "2026-08-10T13:14:42+00:00"
 }
