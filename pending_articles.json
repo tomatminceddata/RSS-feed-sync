@@ -16529,7 +16529,47 @@
       "parser": "default",
       "discovered": "2026-08-11T09:00:13+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/apple-pay-to-launch-in-india-by-october/",
+      "title": "Apple Pay to Launch in India by October",
+      "author": "Tim Hardwick",
+      "published": "2026-08-11T12:58:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T13:12:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/ios-27-beta-codenames-iphone-18-lineup/",
+      "title": "Latest iOS 27 Beta References Six Unreleased iPhone Models",
+      "author": "Tim Hardwick",
+      "published": "2026-08-11T12:27:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T13:12:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/ipad-air-oled-panel-orders-could-be-split-with-boe/",
+      "title": "iPad Air OLED Panel Orders Could Be Split With BOE in 2027",
+      "author": "Hartley Charlton",
+      "published": "2026-08-11T11:36:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T13:12:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/bluesky-lets-you-hide-reposts-in-feeds/",
+      "title": "Bluesky Now Lets You Hide Reposts From Specific Users in Your Feeds",
+      "author": "Tim Hardwick",
+      "published": "2026-08-11T09:02:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T13:12:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-11T09:00:13+00:00"
+  "last_checked": "2026-08-11T13:12:01+00:00"
 }
