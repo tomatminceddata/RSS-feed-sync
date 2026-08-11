@@ -16569,7 +16569,97 @@
       "parser": "default",
       "discovered": "2026-08-11T13:12:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Understanding-Warehouse-Consumption-with-Capacity-Metrics-and/ba-p/5357458",
+      "title": "Understanding Warehouse Consumption with Capacity Metrics and Query Insights",
+      "author": "Bret_Myers",
+      "published": "2026-08-11T14:55:50+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-11T16:58:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Direct-Lake-Calculated-Columns-Preview/ba-p/5357159",
+      "title": "Direct Lake Calculated Columns (Preview)",
+      "author": "VivienneVereen",
+      "published": "2026-08-11T16:06:46+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-11T16:58:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/yes-sony-fx5-shipment-start-could-be-delayed-because-of-some-quality-control-issues/",
+      "title": "Yes, Sony FX5 shipment start could be delayed because of some quality control issues",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-11T13:25:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T16:58:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/apple-now-stockpiling-more-components/",
+      "title": "Apple Now Stockpiling More Components Amid Rising Prices",
+      "author": "Hartley Charlton",
+      "published": "2026-08-11T16:00:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T16:58:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/new-ios-27-icloud-plus-perks/",
+      "title": "iPhone Users Who Pay for Enough iCloud Storage Get New iOS 27 Perks",
+      "author": "Joe Rossignol",
+      "published": "2026-08-11T15:24:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T16:58:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/two-new-games-coming-to-apple-arcade/",
+      "title": "Two New Games Coming to Apple Arcade's Growing Puzzle Catalog",
+      "author": "Hartley Charlton",
+      "published": "2026-08-11T15:09:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T16:58:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/icloud-private-relay-class-action-lawsuit/",
+      "title": "Apple Accused of 'Fraud' in iCloud Private Relay Class Action Lawsuit",
+      "author": "Hartley Charlton",
+      "published": "2026-08-11T14:30:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T16:58:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/lg-back-to-school-sale/",
+      "title": "LG Launches Back to School Sale With Major Discounts on OLED TVs and Monitors",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-11T13:59:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T16:58:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/",
+      "title": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage",
+      "author": "Joe Rossignol",
+      "published": "2026-08-11T13:50:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T16:58:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-11T13:12:01+00:00"
+  "last_checked": "2026-08-11T16:58:55+00:00"
 }
