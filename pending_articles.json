@@ -16659,7 +16659,87 @@
       "parser": "default",
       "discovered": "2026-08-11T16:58:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
+      "title": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
+      "author": "Juli Clover",
+      "published": "2026-08-11T20:34:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T20:49:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/",
+      "title": "Apple Pay Chief Jennifer Bailey Retiring in October",
+      "author": "Juli Clover",
+      "published": "2026-08-11T19:34:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T20:49:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/app-store-epic-games-fee-fight-proceeds/",
+      "title": "Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court",
+      "author": "Juli Clover",
+      "published": "2026-08-11T19:14:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T20:49:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-airpods-firmware-public-beta/",
+      "title": "Apple Releases New iOS 27 AirPods Firmware for Public Beta Testers",
+      "author": "Juli Clover",
+      "published": "2026-08-11T18:55:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T20:49:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/100-off-airpods-max-2/",
+      "title": "Amazon Offers AirPods Max 2 for $100 Off in All Five Colors",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-11T18:12:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T20:49:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
+      "title": "Third macOS Golden Gate Public Beta Now Available",
+      "author": "Juli Clover",
+      "published": "2026-08-11T17:26:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T20:49:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
+      "title": "Third iOS 27 and iPadOS 27 Public Betas Now Available",
+      "author": "Juli Clover",
+      "published": "2026-08-11T17:22:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T20:49:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/apple-releases-watchos-27-b3/",
+      "title": "tvOS 27 and watchOS 27 Third Public Betas Now Available",
+      "author": "Juli Clover",
+      "published": "2026-08-11T17:20:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T20:49:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-11T16:58:55+00:00"
+  "last_checked": "2026-08-11T20:49:27+00:00"
 }
