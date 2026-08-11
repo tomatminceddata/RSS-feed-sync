@@ -16509,7 +16509,17 @@
       "parser": "default",
       "discovered": "2026-08-11T01:57:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
+      "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
+      "author": "Eric Slivka",
+      "published": "2026-08-11T03:10:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T05:12:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-11T01:57:00+00:00"
+  "last_checked": "2026-08-11T05:12:00+00:00"
 }
