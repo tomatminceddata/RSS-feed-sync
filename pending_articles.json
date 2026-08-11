@@ -16479,7 +16479,37 @@
       "parser": "default",
       "discovered": "2026-08-10T20:45:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/TMDL-View-on-the-web-Edit-semantic-models-as-code-in-your/ba-p/5332653",
+      "title": "TMDL View on the web: Edit semantic models as code in your browser (Preview)",
+      "author": "saralam",
+      "published": "2026-08-10T21:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-11T01:57:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+      "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
+      "author": "Juli Clover",
+      "published": "2026-08-11T00:08:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T01:57:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-beta-5-everything-new/",
+      "title": "Everything New in iOS 27 Beta 5",
+      "author": "Juli Clover",
+      "published": "2026-08-10T22:02:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-11T01:57:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-10T20:45:18+00:00"
+  "last_checked": "2026-08-11T01:57:00+00:00"
 }
