@@ -15754,7 +15754,87 @@
       "parser": "default",
       "discovered": "2026-08-12T13:15:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Runtime-2-0-Generally-Available/ba-p/5326359",
+      "title": "Fabric Runtime 2.0 (Generally Available)",
+      "author": "ArshadAliTMMBA",
+      "published": "2026-08-12T15:13:53+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-12T16:58:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/adobe-camera-raw-now-officially-supports-the-yet-unreleased-new-sigma-85mm-f-1-2-fe-lens/",
+      "title": "Adobe Camera RAW now officially supports the yet unreleased new Sigma 85mm f/1.2 FE lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-12T13:03:02+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T16:58:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
+      "title": "iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage",
+      "author": "Joe Rossignol",
+      "published": "2026-08-12T16:43:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T16:58:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/apple-patent-to-improve-summaries/",
+      "title": "Apple Patenting Way to Improve Notification Summaries and 'Reduce Interruptions' Focus",
+      "author": "Hartley Charlton",
+      "published": "2026-08-12T16:29:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T16:58:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-selfie-cameras-same-corner/",
+      "title": "iPhone Ultra's Two Selfie Cameras Could Sit in the Same Corner",
+      "author": "Tim Hardwick",
+      "published": "2026-08-12T16:12:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T16:58:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/back-to-school-accessory/",
+      "title": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-12T14:01:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T16:58:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/apple-skipping-iphone-18-launch-this-year/",
+      "title": "Apple Skipping iPhone 18 Launch This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-08-12T13:59:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T16:58:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/everyone-at-apple-says-iphone-ultra/",
+      "title": "'Everyone' at Apple Apparently Calls Foldable 'iPhone Ultra'",
+      "author": "Hartley Charlton",
+      "published": "2026-08-12T13:47:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T16:58:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-12T13:15:52+00:00"
+  "last_checked": "2026-08-12T16:58:31+00:00"
 }
