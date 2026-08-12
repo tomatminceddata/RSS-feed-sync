@@ -15834,7 +15834,57 @@
       "parser": "default",
       "discovered": "2026-08-12T16:58:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Overview-Events-in-Real-Time-Hub-Generally-Available/ba-p/5356729",
+      "title": "Capacity Overview Events in Real-Time Hub (Generally Available)",
+      "author": "pankajarora",
+      "published": "2026-08-12T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-12T20:49:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/350-off-on-the-adobe-creative-cloud-pro-12-months-subscription-at-bhphoto-click-here/",
+      "title": "$350 off on the Adobe Creative Cloud Pro 12 months subscription at BHphoto",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-12T17:09:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T20:49:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
+      "title": "Google Unveils $29 Pixel Tag to Take On Apple's AirTag",
+      "author": "Juli Clover",
+      "published": "2026-08-12T18:52:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T20:49:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/apple-wallet-trade-in-quotes-90-days/",
+      "title": "Apple Wallet Could Soon Save Trade-In Quotes for 90 Days",
+      "author": "Aaron Perris",
+      "published": "2026-08-12T18:07:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T20:49:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/apple-vice-president-government-affairs/",
+      "title": "Apple Hires Airline Exec as Vice President of Government Affairs",
+      "author": "Juli Clover",
+      "published": "2026-08-12T17:51:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T20:49:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-12T16:58:31+00:00"
+  "last_checked": "2026-08-12T20:49:23+00:00"
 }
