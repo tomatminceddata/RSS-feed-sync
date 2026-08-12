@@ -16739,7 +16739,67 @@
       "parser": "default",
       "discovered": "2026-08-11T20:49:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/SQL-Audit-Logs-More-Signal-Less-Noise-with-Predicate-Filtering/ba-p/5357211",
+      "title": "SQL Audit Logs: More Signal, Less Noise with Predicate Filtering (Generally Available)",
+      "author": "fredguis",
+      "published": "2026-08-12T00:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-12T02:09:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-July-2026-release/ba-p/5356257",
+      "title": "On-premises data gateway July 2026 release",
+      "author": "goupadhy",
+      "published": "2026-08-11T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-12T02:09:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/samsung-galaxy-buds-hearing-aid/",
+      "title": "Samsung is Starting to Catch Up to Apple on Hearing Health",
+      "author": "Juli Clover",
+      "published": "2026-08-12T00:01:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T02:09:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/sonos-ace-ultra/",
+      "title": "Sonos Preparing AirPods Max Rival With Voice Assistant Support",
+      "author": "Juli Clover",
+      "published": "2026-08-11T22:53:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T02:09:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/satechi-240w-chargeview/",
+      "title": "Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports",
+      "author": "Juli Clover",
+      "published": "2026-08-11T22:30:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T02:09:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
+      "title": "Apple Extends 2026 Back to School Promotion Until September 24",
+      "author": "Juli Clover",
+      "published": "2026-08-11T22:15:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-12T02:09:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-11T20:49:27+00:00"
+  "last_checked": "2026-08-12T02:09:42+00:00"
 }
