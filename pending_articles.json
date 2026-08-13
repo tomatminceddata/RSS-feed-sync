@@ -15924,7 +15924,27 @@
       "parser": "default",
       "discovered": "2026-08-13T02:11:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/whatsapp-save-a-contacts-username/",
+      "title": "WhatsApp Now Lets You Save a Contact's Username",
+      "author": "Tim Hardwick",
+      "published": "2026-08-13T09:10:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T09:14:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/apple-2026-back-to-school-europe-live/",
+      "title": "Apple's 2026 Back to School Offer is Now Live Across Europe",
+      "author": "Tim Hardwick",
+      "published": "2026-08-13T08:42:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T09:14:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-13T02:11:47+00:00"
+  "last_checked": "2026-08-13T09:14:46+00:00"
 }
