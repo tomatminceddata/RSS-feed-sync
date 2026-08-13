@@ -16024,7 +16024,57 @@
       "parser": "default",
       "discovered": "2026-08-13T16:57:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-Fabric-Lakehouse-support-in-dbt-job-for-Microsoft/ba-p/5358240",
+      "title": "Introducing Fabric Lakehouse support in dbt job for Microsoft Fabric (Preview)",
+      "author": "meghasony",
+      "published": "2026-08-13T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-13T20:46:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/lots-of-special-samyang-rokinon-deals-on-amazon-24-60mm-f-2-8-for-593-only/",
+      "title": "Lot’s of special Samyang/Rokinon deals on Amazon: 24-60mm f/2.8 for $593 only!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-13T17:56:11+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T20:46:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/ifixit-galaxy-z-fold8-teardown/",
+      "title": "iFixit's Galaxy Z Fold8 Teardown is a Preview of Apple's Foldable Challenges",
+      "author": "Juli Clover",
+      "published": "2026-08-13T20:41:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T20:46:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/apple-says-iphone-x-is-now-obsolete/",
+      "title": "Apple Says iPhone X is Now Obsolete",
+      "author": "Joe Rossignol",
+      "published": "2026-08-13T20:17:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T20:46:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/apple-houston-manufacturing-center/",
+      "title": "Apple Opens Houston Advanced Manufacturing Center Ahead of Mac Mini Production",
+      "author": "Juli Clover",
+      "published": "2026-08-13T19:08:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T20:46:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-13T16:57:47+00:00"
+  "last_checked": "2026-08-13T20:46:58+00:00"
 }
