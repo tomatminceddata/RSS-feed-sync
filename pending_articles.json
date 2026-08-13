@@ -15944,7 +15944,57 @@
       "parser": "default",
       "discovered": "2026-08-13T09:14:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fe-100-400mm-f-5-6-8-oss-lens-2x-teleconverter-review/",
+      "title": "Sony FE 100-400mm f/5.6-8 OSS lens + 2x Teleconverter review",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-13T09:25:42+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T13:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/apple-tv-gains-classic-movies/",
+      "title": "Apple TV Gains Classic Movies Collection",
+      "author": "Hartley Charlton",
+      "published": "2026-08-13T13:15:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T13:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/iphone-ultra-staggered-country-rollout/",
+      "title": "'iPhone Ultra' Could Face Staggered Country Rollout Like Vision Pro",
+      "author": "Tim Hardwick",
+      "published": "2026-08-13T12:56:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T13:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/apple-closing-basingstoke-store/",
+      "title": "Apple Closing Basingstoke Store as Nearby Reading Location Expands",
+      "author": "Hartley Charlton",
+      "published": "2026-08-13T11:54:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T13:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/base-iphone-18-two-pro-level-upgrades/",
+      "title": "Base iPhone 18 Tipped to Get These Two Pro-Level Upgrades",
+      "author": "Tim Hardwick",
+      "published": "2026-08-13T10:02:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T13:17:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-13T09:14:46+00:00"
+  "last_checked": "2026-08-13T13:17:48+00:00"
 }
