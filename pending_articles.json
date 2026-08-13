@@ -15884,7 +15884,47 @@
       "parser": "default",
       "discovered": "2026-08-12T20:49:23+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+      "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+      "author": "Juli Clover",
+      "published": "2026-08-13T00:03:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T02:11:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/app-store-fee-fight-24-hour-delay/",
+      "title": "Supreme Court Lets Apple Delay App Store Fee Fight for 24 Hours",
+      "author": "Juli Clover",
+      "published": "2026-08-12T23:21:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T02:11:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-price-hike/",
+      "title": "Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans",
+      "author": "Juli Clover",
+      "published": "2026-08-12T22:48:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T02:11:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/12/google-pixel-11-lineup/",
+      "title": "Google Kicks Off Fall Hardware Season With New Pixel 11 Smartphones",
+      "author": "Juli Clover",
+      "published": "2026-08-12T20:59:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-13T02:11:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-12T20:49:23+00:00"
+  "last_checked": "2026-08-13T02:11:47+00:00"
 }
