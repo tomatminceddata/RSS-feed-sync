@@ -16074,7 +16074,57 @@
       "parser": "default",
       "discovered": "2026-08-13T20:46:58+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-end-to-end-Fabric-solutions-with-SQL-database-skills/ba-p/5357234",
+      "title": "Build end-to-end Fabric solutions with SQL database skills (Preview)",
+      "author": "sukkaur",
+      "published": "2026-08-13T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-14T02:09:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
+      "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
+      "author": "Juli Clover",
+      "published": "2026-08-13T23:58:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T02:09:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
+      "title": "What's Coming in September: New iPhones, Apple Watches and More",
+      "author": "Juli Clover",
+      "published": "2026-08-13T23:20:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T02:09:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/ted-lasso-premiere-record/",
+      "title": "Ted Lasso Season 4 Premiere is Apple TV's Biggest Launch Ever",
+      "author": "Juli Clover",
+      "published": "2026-08-13T23:05:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T02:09:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/13/app-store-fees-apple-link-outs/",
+      "title": "Apple Wants to Charge Developers Up to 15 Percent for Linking Outside the App Store",
+      "author": "Juli Clover",
+      "published": "2026-08-13T22:11:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T02:09:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-13T20:46:58+00:00"
+  "last_checked": "2026-08-14T02:09:37+00:00"
 }
