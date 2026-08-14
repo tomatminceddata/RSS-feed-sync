@@ -16144,7 +16144,67 @@
       "parser": "default",
       "discovered": "2026-08-14T13:12:26+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-sony-fx5-shipment-start-is-now-september-15/",
+      "title": "Confirmed: Sony FX5 shipment start is now September 15",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-14T14:03:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T16:56:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/14/the-macrumors-show-where-does-the-apple-watch-go-next/",
+      "title": "The MacRumors Show: Where Does the Apple Watch Go Next?",
+      "author": "Hartley Charlton",
+      "published": "2026-08-14T16:35:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T16:56:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/14/ads-coming-soon-to-apple-maps/",
+      "title": "Ads Coming Soon to Apple Maps",
+      "author": "Joe Rossignol",
+      "published": "2026-08-14T15:29:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T16:56:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/14/best-apple-deals-of-the-week-8-14-26/",
+      "title": "Best Apple Deals of the Week: Steep Discounts Hit AirPods, MacBook Pro, and Anker Accessories",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-14T14:18:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T16:56:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/14/apple-ceo-tim-cook-reflects-on-legacy-apple/",
+      "title": "Tim Cook Reflects on His Legacy in Final Weeks as Apple CEO",
+      "author": "Tim Hardwick",
+      "published": "2026-08-14T14:12:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T16:56:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/14/new-things-your-iphone-can-do-ios-27/",
+      "title": "30 New Things Your iPhone Can Do in iOS 27",
+      "author": "Tim Hardwick",
+      "published": "2026-08-14T13:24:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T16:56:20+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-14T13:12:26+00:00"
+  "last_checked": "2026-08-14T16:56:20+00:00"
 }
