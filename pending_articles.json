@@ -16124,7 +16124,27 @@
       "parser": "default",
       "discovered": "2026-08-14T02:09:37+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/7artisans-teases-the-launch-of-a-new-18mm-f-2-0-aps-c-e-mount-pancake-lens/",
+      "title": "7artisans teases the launch of a new 18mm f/2.0 APS-C E-mount pancake lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-14T09:52:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T13:12:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+      "title": "Apple Trained Own AI Model for China Market With Help From Alibaba",
+      "author": "Tim Hardwick",
+      "published": "2026-08-14T09:46:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-14T13:12:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-14T02:09:37+00:00"
+  "last_checked": "2026-08-14T13:12:26+00:00"
 }
