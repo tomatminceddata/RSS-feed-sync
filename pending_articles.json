@@ -16234,7 +16234,27 @@
       "parser": "default",
       "discovered": "2026-08-15T12:41:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/benj-haisch-says-the-sony-28-70mm-f-2-gm-makes-it-worth-switching-systems-for/",
+      "title": "Benj Haisch Says the Sony 28–70mm f/2 GM Makes It Worth Switching Systems For",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-15T13:23:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-15T16:27:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/15/top-stories-ios-27-beta-5/",
+      "title": "Top Stories: iOS 27 Beta 5, iPhone 18 Pro Rumors, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-08-15T13:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-15T16:27:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-15T12:41:47+00:00"
+  "last_checked": "2026-08-15T16:27:46+00:00"
 }
