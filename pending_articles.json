@@ -16214,7 +16214,17 @@
       "parser": "default",
       "discovered": "2026-08-14T20:33:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-deals-up-tp-30-off-on-ugreen-up-to-15-on-lenovo-and-other-back-to-school-specials/",
+      "title": "New deals: Up tp 30% off on Ugreen, Up to 15% on Lenovo and other Back to school specials",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-14T21:30:09+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-15T01:22:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-14T20:33:33+00:00"
+  "last_checked": "2026-08-15T01:22:58+00:00"
 }
