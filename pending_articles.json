@@ -16264,7 +16264,17 @@
       "parser": "default",
       "discovered": "2026-08-16T01:32:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/bcnranking-bestseller-data-for-july-sony-zv-e10ii-is-the-best-selling-camera-in-japan/",
+      "title": "BCNranking bestseller data for July: Sony ZV-E10II is the best selling camera in Japan",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-16T12:32:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-16T12:43:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-16T01:32:05+00:00"
+  "last_checked": "2026-08-16T12:43:48+00:00"
 }
