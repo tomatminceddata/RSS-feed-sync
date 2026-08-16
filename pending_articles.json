@@ -16254,7 +16254,17 @@
       "parser": "default",
       "discovered": "2026-08-15T16:27:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/rewatch-the-live-hangout-with-the-l-bracket-peak-design-team/",
+      "title": "Rewatch the Live Hangout with the L-Bracket Peak Design team",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-15T18:48:01+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-16T01:32:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-15T16:27:46+00:00"
+  "last_checked": "2026-08-16T01:32:05+00:00"
 }
