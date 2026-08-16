@@ -16274,7 +16274,17 @@
       "parser": "default",
       "discovered": "2026-08-16T12:43:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/16/airpods-4-anc-hit-134/",
+      "title": "AirPods 4 ANC Hit $134.99 Low Price on Amazon, Plus Pro 3 for $189.99",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-16T14:18:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-16T16:28:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-16T12:43:48+00:00"
+  "last_checked": "2026-08-16T16:28:12+00:00"
 }
