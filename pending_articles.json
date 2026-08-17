@@ -16384,7 +16384,127 @@
       "parser": "default",
       "discovered": "2026-08-17T16:30:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/10-Things-to-know-about-GPU-powered-Query-Acceleration-in-Fabric/ba-p/5359441",
+      "title": "10 Things to know about GPU-powered Query Acceleration in Fabric Data Warehouse (Preview)",
+      "author": "NevenaNikolic",
+      "published": "2026-08-17T19:46:45+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Publishing-Business-Events-from-Fabric-workloads/ba-p/5359124",
+      "title": "Publishing Business Events from Fabric workloads",
+      "author": "robece-msft",
+      "published": "2026-08-17T18:04:59+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
+      "title": "iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities",
+      "author": "Juli Clover",
+      "published": "2026-08-17T19:25:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027/",
+      "title": "Siri AI Settlement: Apple Won't Begin Paying Customers Until Next Year",
+      "author": "Joe Rossignol",
+      "published": "2026-08-17T19:04:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/best-buy-anniversary-sale-2/",
+      "title": "Best Buy 60th Anniversary Sale Brings Massive Deals on Apple Products and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-17T18:58:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
+      "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears",
+      "author": "Joe Rossignol",
+      "published": "2026-08-17T18:46:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
+      "title": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
+      "author": "Joe Rossignol",
+      "published": "2026-08-17T18:36:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
+      "title": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-17T18:20:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/apple-releases-macos-golden-gate-beta-6/",
+      "title": "Apple Releases macOS Golden Gate Beta 6",
+      "author": "Juli Clover",
+      "published": "2026-08-17T17:18:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-watchos-27-beta-6-to-developers/",
+      "title": "Apple Seeds watchOS 27 Beta 6 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-17T17:17:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-tvos-27-beta-6-to-developers/",
+      "title": "Apple Seeds tvOS 27 Beta 6 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-17T17:16:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-visionos-27-developer-beta/",
+      "title": "Apple Seeds Sixth visionOS 27 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-17T17:15:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-17T20:29:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-17T16:30:36+00:00"
+  "last_checked": "2026-08-17T20:29:37+00:00"
 }
