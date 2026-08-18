@@ -16644,7 +16644,67 @@
       "parser": "default",
       "discovered": "2026-08-18T12:51:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/former-sony-vice-chairman-why-sony-rejected-micro-four-thirds-partners/",
+      "title": "Former Sony Vice Chairman: Why Sony Rejected (Micro Four Thirds?) Partners",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-18T12:40:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T16:09:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/",
+      "title": "Apple Card Offering 5% Cash Back on Select Purchases for Limited Time",
+      "author": "Joe Rossignol",
+      "published": "2026-08-18T15:16:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T16:09:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/openai-announces-chatgpt-for-teens/",
+      "title": "OpenAI Announces ChatGPT for Teens With Built-In Safeguards and Learning Prompts",
+      "author": "Tim Hardwick",
+      "published": "2026-08-18T15:04:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T16:09:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/apples-m4-ipad-air-discounts/",
+      "title": "Apple's M4 iPad Air Gets Best-Ever Discounts Since Summer Price Hikes",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-18T14:35:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T16:09:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/apple-donating-to-indonesia-earthquake-relief/",
+      "title": "Apple Donating to Indonesian Earthquake Relief Efforts",
+      "author": "Joe Rossignol",
+      "published": "2026-08-18T14:26:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T16:09:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/new-apple-tv-siri-remote-leak/",
+      "title": "New Apple TV to Come With Upgraded Siri Remote",
+      "author": "Joe Rossignol",
+      "published": "2026-08-18T14:20:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T16:09:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-18T12:51:45+00:00"
+  "last_checked": "2026-08-18T16:09:09+00:00"
 }
