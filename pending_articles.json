@@ -16704,7 +16704,57 @@
       "parser": "default",
       "discovered": "2026-08-18T16:09:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Enhanced-data-agent-visualizations-with-Fabric-visuals-Preview/ba-p/5359686",
+      "title": "Enhanced data agent visualizations with Fabric visuals (Preview)",
+      "author": "VMRoman",
+      "published": "2026-08-18T16:48:38+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-18T20:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
+      "title": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
+      "author": "Juli Clover",
+      "published": "2026-08-18T19:56:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T20:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/national-parks-activity-challenge-2026/",
+      "title": "National Parks Apple Watch Activity Challenge Launching August 23",
+      "author": "Juli Clover",
+      "published": "2026-08-18T19:09:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T20:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/camera-airpods-naming/",
+      "title": "Apple's Camera AirPods May Launch as 'AirPods Pro,' Not 'AirPods Ultra'",
+      "author": "Juli Clover",
+      "published": "2026-08-18T18:01:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T20:06:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
+      "title": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
+      "author": "Juli Clover",
+      "published": "2026-08-18T17:02:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T20:06:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-18T16:09:09+00:00"
+  "last_checked": "2026-08-18T20:06:24+00:00"
 }
