@@ -16594,7 +16594,57 @@
       "parser": "default",
       "discovered": "2026-08-18T08:39:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/airtag-2-89-for-4-pack/",
+      "title": "AirTag 2 Drops to Low Price of $89 for 4-Pack",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-18T12:47:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T12:51:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/apple-app-store-revenue-falling/",
+      "title": "Apple's US App Store Commission Revenue Down 18% This Year",
+      "author": "Tim Hardwick",
+      "published": "2026-08-18T11:41:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T12:51:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/sonos-iphone-app-live-activities-support/",
+      "title": "Sonos iPhone App Finally Gains Live Activities Support",
+      "author": "Tim Hardwick",
+      "published": "2026-08-18T11:08:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T12:51:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/unreleased-airpods-5-models-referenced-macos-26-7/",
+      "title": "Unreleased AirPods 5 Models Referenced in macOS 26.7",
+      "author": "Tim Hardwick",
+      "published": "2026-08-18T10:07:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T12:51:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/iphone-18-pro-max-camera-upgrade-exclusive/",
+      "title": "iPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade",
+      "author": "Tim Hardwick",
+      "published": "2026-08-18T09:39:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-18T12:51:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-18T08:39:51+00:00"
+  "last_checked": "2026-08-18T12:51:45+00:00"
 }
