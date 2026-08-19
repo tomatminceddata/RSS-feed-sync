@@ -16804,7 +16804,27 @@
       "parser": "default",
       "discovered": "2026-08-19T08:12:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/viltrox-new-26mm-f-2-8-in-silver-and-titanium-finish/",
+      "title": "Viltrox new 26mm f/2.8 in Silver and Titanium finish",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-19T09:37:22+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T12:10:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/",
+      "title": "iPhone 17 Pro Cases Fit iPhone 18 Pro - Or At Least Otterbox Thinks So",
+      "author": "Tim Hardwick",
+      "published": "2026-08-19T09:39:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T12:10:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-19T08:12:44+00:00"
+  "last_checked": "2026-08-19T12:10:50+00:00"
 }
