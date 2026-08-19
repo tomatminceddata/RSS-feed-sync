@@ -16794,7 +16794,17 @@
       "parser": "default",
       "discovered": "2026-08-19T00:17:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1915/",
+      "title": "Sony Tidbits…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-19T06:07:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T08:12:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-19T00:17:28+00:00"
+  "last_checked": "2026-08-19T08:12:44+00:00"
 }
