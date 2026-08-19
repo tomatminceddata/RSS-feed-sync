@@ -16754,7 +16754,47 @@
       "parser": "default",
       "discovered": "2026-08-18T20:06:24+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Custom-SQL-Pools-to-balance-performance-and-cost-in-Fabric/ba-p/5359735",
+      "title": "Using Custom SQL Pools to balance performance and cost in Fabric Data Warehouse",
+      "author": "joannapea",
+      "published": "2026-08-18T13:27:49+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-19T00:17:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-deal-at-bh-up-to-400-off-on-macbook-pros/",
+      "title": "New deal at BH: up to $400 off on Macbook Pros",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-18T21:08:23+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T00:17:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
+      "title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
+      "author": "Juli Clover",
+      "published": "2026-08-18T22:58:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T00:17:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/",
+      "title": "iCloud, Photos, Find My and More Experiencing Issues",
+      "author": "Juli Clover",
+      "published": "2026-08-18T20:56:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T00:17:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-18T20:06:24+00:00"
+  "last_checked": "2026-08-19T00:17:28+00:00"
 }
