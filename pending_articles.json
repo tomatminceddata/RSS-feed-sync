@@ -16824,7 +16824,67 @@
       "parser": "default",
       "discovered": "2026-08-19T12:10:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/beyond-the-smartphone-how-sony-and-tsmcs-new-alliance-will-redefine-mirrorless-sensors/",
+      "title": "Beyond the Smartphone: How Sony and TSMC’s New Alliance Will Redefine Mirrorless Sensors?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-19T13:34:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T16:08:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
+      "title": "Apple Accidentally Leaked More Than 10 New Products in macOS Update",
+      "author": "Joe Rossignol",
+      "published": "2026-08-19T15:03:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T16:08:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/",
+      "title": "Next Apple TV Rumored to Have Five New Features, Including Siri AI",
+      "author": "Joe Rossignol",
+      "published": "2026-08-19T14:43:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T16:08:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/things-3-23-brings-long-requested-overhaul-of-repeating-to-dos/",
+      "title": "Things 3.23 Brings Long-Requested Overhaul of Repeating To-Dos",
+      "author": "Hartley Charlton",
+      "published": "2026-08-19T14:00:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T16:08:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/500-discounts-macbook-pro/",
+      "title": "Amazon and Best Buy Offer Up to $500 Discounts on 2026 MacBook Pro",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-19T13:51:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T16:08:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
+      "title": "iPad Mini 8: Release Date, Pricing, and What to Expect",
+      "author": "Tim Hardwick",
+      "published": "2026-08-19T12:17:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T16:08:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-19T12:10:50+00:00"
+  "last_checked": "2026-08-19T16:08:54+00:00"
 }
