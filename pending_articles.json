@@ -16884,7 +16884,87 @@
       "parser": "default",
       "discovered": "2026-08-19T16:08:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Customer-Managed-Key-CMK-APIs-for-Microsoft-Fabric-Workspaces/ba-p/5360035",
+      "title": "Customer-Managed Key (CMK) APIs for Microsoft Fabric Workspaces (Generally Available)",
+      "author": "Sumiran23",
+      "published": "2026-08-19T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-19T20:07:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connectivity-patterns-in-Microsoft-Fabric-A-guide-for-data/ba-p/5360180",
+      "title": "Connectivity patterns in Microsoft Fabric: A guide for data integration workloads",
+      "author": "goupadhy",
+      "published": "2026-08-19T19:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-19T20:07:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-SQLCon-2027-Selecting-the-right-track-for-your-session/ba-p/5360163",
+      "title": "FabCon + SQLCon 2027: Selecting the right track for your session submission",
+      "author": "RieMerritt",
+      "published": "2026-08-19T17:24:27+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-19T20:07:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/in-japan-sony-claims-the-fx5-shipment-got-postponed-due-to-production-issues/",
+      "title": "In Japan Sony claims the FX5 shipment got postponed due to “production issues”",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-19T15:49:31+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T20:07:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/new-apple-store-in-idaho-report/",
+      "title": "New Apple Store Reportedly Opening in Idaho",
+      "author": "Joe Rossignol",
+      "published": "2026-08-19T19:46:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T20:07:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/students-free-year-google-ai-pro/",
+      "title": "College Students Can Get a Free Year of Google AI Pro",
+      "author": "Juli Clover",
+      "published": "2026-08-19T19:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T20:07:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/beats-360-headphones/",
+      "title": "Beats 360 Over-Ear Headphones Leak in Retail Listings",
+      "author": "Juli Clover",
+      "published": "2026-08-19T18:20:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T20:07:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/anker-and-jackery-1500-off/",
+      "title": "Anker and Jackery Kick Off Power Station Sales With Up to $1,500 Off",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-19T17:30:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-19T20:07:29+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-19T16:08:54+00:00"
+  "last_checked": "2026-08-19T20:07:29+00:00"
 }
