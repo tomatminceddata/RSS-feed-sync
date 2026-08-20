@@ -17064,7 +17064,97 @@
       "parser": "default",
       "discovered": "2026-08-20T12:11:23+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-the-Bronze-Silver-Gold-layers/ba-p/5360201",
+      "title": "Building the Bronze → Silver → Gold layers",
+      "author": "Scirqueira",
+      "published": "2026-08-20T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-20T16:10:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/meikes-big-surprise-autofocus-zooms-and-fast-f-1-2-primes-are-on-the-way/",
+      "title": "Meike’s Big Surprise: Autofocus Zooms and Fast f/1.2 Primes Are on the Way!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-20T14:20:47+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T16:10:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/apple-watch-alerted-runner-to-heart-problem/",
+      "title": "Apple Watch Alerted Runner to Serious Heart Problem",
+      "author": "Joe Rossignol",
+      "published": "2026-08-20T15:58:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T16:10:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/apple-beats-360-headphones-leak/",
+      "title": "Apple's New Beats 360 Headphones Keep Leaking",
+      "author": "Joe Rossignol",
+      "published": "2026-08-20T15:01:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T16:10:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/iphone-18-pro-preorders-release-date-when/",
+      "title": "iPhone 18 Pro: Pre-Orders and Release Date?",
+      "author": "Joe Rossignol",
+      "published": "2026-08-20T15:00:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T16:10:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/apple-watch-series-11-discount-2/",
+      "title": "Apple Watch Series 11 Discounted by $100 at Best Buy and Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-20T13:52:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T16:10:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/five-apple-products-to-get-oled-displays/",
+      "title": "5 Apple Products to Get OLED Displays",
+      "author": "Joe Rossignol",
+      "published": "2026-08-20T13:50:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T16:10:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/ceramic-apple-watch-to-return-with-series-12/",
+      "title": "Ceramic Apple Watch Rumored to Return With Series 12",
+      "author": "Hartley Charlton",
+      "published": "2026-08-20T13:17:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T16:10:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/ios-27-shared-albums-eat-into-icloud-storage/",
+      "title": "iOS 27 Shared Albums Go Full Res at the Cost of Your iCloud Storage",
+      "author": "Tim Hardwick",
+      "published": "2026-08-20T12:48:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T16:10:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-20T12:11:23+00:00"
+  "last_checked": "2026-08-20T16:10:09+00:00"
 }
