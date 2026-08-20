@@ -17154,7 +17154,87 @@
       "parser": "default",
       "discovered": "2026-08-20T16:10:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-Event-Hubs-Connections-in-Eventstream-with/ba-p/5359945",
+      "title": "Secure Azure Event Hubs Connections in Eventstream with Workspace Identity (Preview)",
+      "author": "spurthikommajos",
+      "published": "2026-08-20T17:35:21+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-20T20:08:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Monitor-key-metrics-at-a-glance-with-the-new-KPI-visualization/ba-p/5360033",
+      "title": "Monitor key metrics at a glance with the new KPI visualization in Real-Time Dashboards (Generally Available)",
+      "author": "Naorbt",
+      "published": "2026-08-20T17:05:26+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-20T20:08:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-agentic-warehouse-development-to-Fabric-Data-Warehouse/ba-p/5360190",
+      "title": "Bringing agentic warehouse development to Fabric Data Warehouse with MCP and Agent Skills (Preview)",
+      "author": "salilkanade1",
+      "published": "2026-08-20T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-20T20:08:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/The-AI-Semantic-Layer-You-Probably-Already-Have/ba-p/5360197",
+      "title": "The AI Semantic Layer You Probably Already Have",
+      "author": "bogdanc",
+      "published": "2026-08-20T19:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-20T20:08:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-August-2026-Feature-Summary/ba-p/5348434",
+      "title": "Power BI August 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-08-20T17:09:15+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-20T20:08:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/airpods-beta-firmware-9a5347a/",
+      "title": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
+      "author": "Juli Clover",
+      "published": "2026-08-20T19:10:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T20:08:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/apple-where-is-carplay-ultra/",
+      "title": "Apple, Where is CarPlay Ultra?",
+      "author": "Joe Rossignol",
+      "published": "2026-08-20T18:25:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T20:08:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/apple-card-turns-seven-with-big-change-ahead/",
+      "title": "Apple Card Turns Seven With Big Change Ahead",
+      "author": "Joe Rossignol",
+      "published": "2026-08-20T16:19:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T20:08:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-20T16:10:09+00:00"
+  "last_checked": "2026-08-20T20:08:39+00:00"
 }
