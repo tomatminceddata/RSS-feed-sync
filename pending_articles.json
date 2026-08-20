@@ -17014,7 +17014,57 @@
       "parser": "default",
       "discovered": "2026-08-20T08:14:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Edit-your-Power-BI-projects-anywhere-and-reload-them-instantly/ba-p/5359136",
+      "title": "Edit your Power BI projects anywhere and reload them instantly in Power BI Desktop (Preview)",
+      "author": "saralam",
+      "published": "2026-08-18T17:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-20T12:11:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/ttartisan-launched-the-most-affordable-full-frame-autofocus-85mm-lenses-on-the-market/",
+      "title": "TTArtisan launched the most affordable full‑frame autofocus 85mm lenses on the market.",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-20T09:34:16+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T12:11:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/new-clear-and-techwoven-cases-for-iphone-18-pro/",
+      "title": "Fake Cases Hint at New Clear and TechWoven Colors for iPhone 18 Pro",
+      "author": "Hartley Charlton",
+      "published": "2026-08-20T11:59:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T12:11:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/strong-iphone-sales-boosting-samsung-oled/",
+      "title": "Strong iPhone Sales Are Giving Samsung Display a Big OLED Boost",
+      "author": "Tim Hardwick",
+      "published": "2026-08-20T11:10:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T12:11:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/apple-fires-back-openai-bid-toss-lawsuit/",
+      "title": "Apple Fires Back at OpenAI's Bid to Toss Trade Secrets Suit",
+      "author": "Tim Hardwick",
+      "published": "2026-08-20T10:40:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T12:11:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-20T08:14:42+00:00"
+  "last_checked": "2026-08-20T12:11:23+00:00"
 }
