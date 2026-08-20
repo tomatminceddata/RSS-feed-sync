@@ -16964,7 +16964,47 @@
       "parser": "default",
       "discovered": "2026-08-19T20:07:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Billing-personas-for-PowerTable-within-Planning-in-Fabric-IQ/ba-p/5360168",
+      "title": "Billing personas for PowerTable within Planning in Fabric IQ (Generally Available)",
+      "author": "SupriyaKashyap",
+      "published": "2026-08-19T20:25:31+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-20T00:17:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/ec-epic-apple-app-store-changes/",
+      "title": "EU Welcomes Apple's App Store Changes, Epic Slams 'Junk Fees'",
+      "author": "Juli Clover",
+      "published": "2026-08-20T00:16:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T00:17:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/",
+      "title": "Apple's Camera AirPods Not Launching Until 2027 Despite Leaked Video",
+      "author": "Juli Clover",
+      "published": "2026-08-19T23:42:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T00:17:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/19/meta-ai-mac-app/",
+      "title": "Meta AI Launches Mac App With Screen Sharing and Dictation",
+      "author": "Juli Clover",
+      "published": "2026-08-19T22:35:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-20T00:17:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-19T20:07:29+00:00"
+  "last_checked": "2026-08-20T00:17:51+00:00"
 }
