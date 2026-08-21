@@ -17234,7 +17234,37 @@
       "parser": "default",
       "discovered": "2026-08-20T20:08:39+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/todays-flash-deals-on-wd-disk-nanuk-cases-and-vangard-tripod-at-bh/",
+      "title": "Today’s Flash Deals on WD disk, Nanuk cases and Vangard tripod at BH",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-20T20:41:18+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-21T00:18:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/",
+      "title": "Apple Music to Label AI-Generated Songs",
+      "author": "Juli Clover",
+      "published": "2026-08-20T23:41:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-21T00:18:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac/",
+      "title": "ChatGPT Can Now Read and Send iMessages on Mac",
+      "author": "Juli Clover",
+      "published": "2026-08-20T23:12:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-21T00:18:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-20T20:08:39+00:00"
+  "last_checked": "2026-08-21T00:18:44+00:00"
 }
