@@ -17274,7 +17274,47 @@
       "parser": "default",
       "discovered": "2026-08-21T04:16:24+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-drama-eu-dealers-receive-first-stock-but-sony-halts-sales/",
+      "title": "Sony FX5 Drama: EU Dealers Receive First Stock, But Sony Halts Sales!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-21T10:32:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-21T12:11:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/good-news-for-production-sonys-kumamoto-factory-back-to-full-capacity/",
+      "title": "Good News for Production: Sony’s Kumamoto Factory Back to Full Capacity",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-21T08:16:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-21T12:11:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/",
+      "title": "Apple Reportedly Lays Off 60 Vision Products Group Employees",
+      "author": "Tim Hardwick",
+      "published": "2026-08-21T11:28:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-21T12:11:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
+      "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More",
+      "author": "Tim Hardwick",
+      "published": "2026-08-21T09:32:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-21T12:11:06+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-21T04:16:24+00:00"
+  "last_checked": "2026-08-21T12:11:06+00:00"
 }
