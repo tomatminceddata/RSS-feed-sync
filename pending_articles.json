@@ -17404,7 +17404,27 @@
       "parser": "default",
       "discovered": "2026-08-21T20:06:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-battery-life-10-tips/",
+      "title": "10 Ways to Improve Your iPhone's Battery Life",
+      "author": "Juli Clover",
+      "published": "2026-08-21T22:53:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-22T00:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/21/beats-360-regulatory-filing/",
+      "title": "Apple's New Beats 360 Headphones Spotted in Another Regulatory Filing",
+      "author": "Joe Rossignol",
+      "published": "2026-08-21T19:55:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-22T00:17:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-21T20:06:59+00:00"
+  "last_checked": "2026-08-22T00:17:25+00:00"
 }
