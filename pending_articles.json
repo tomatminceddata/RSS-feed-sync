@@ -17424,7 +17424,17 @@
       "parser": "default",
       "discovered": "2026-08-22T00:17:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/22/vision-pro-was-almost-called-reality-pro/",
+      "title": "Apple Vision Pro Was Almost Called 'Reality Pro'",
+      "author": "Hartley Charlton",
+      "published": "2026-08-22T07:30:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-22T08:08:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-22T00:17:25+00:00"
+  "last_checked": "2026-08-22T08:08:49+00:00"
 }
