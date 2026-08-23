@@ -15887,7 +15887,37 @@
       "parser": "default",
       "discovered": "2026-08-23T16:06:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/23/apple-stores-prepare-new-home-products/",
+      "title": "Apple Retail Stores Preparing for New Home Product Launches",
+      "author": "Tim Hardwick",
+      "published": "2026-08-23T19:20:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-23T20:05:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/23/m6-imac-this-year-new-colors/",
+      "title": "M6 iMac Coming This Year in New Colors",
+      "author": "Tim Hardwick",
+      "published": "2026-08-23T18:36:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-23T20:05:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
+      "title": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera",
+      "author": "Tim Hardwick",
+      "published": "2026-08-23T18:19:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-23T20:05:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-23T16:06:30+00:00"
+  "last_checked": "2026-08-23T20:05:22+00:00"
 }
