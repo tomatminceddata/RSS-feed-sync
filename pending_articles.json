@@ -15947,7 +15947,97 @@
       "parser": "default",
       "discovered": "2026-08-24T12:11:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Upgrade-Power-BI-Dataflows-Gen1-to-Fabric-Dataflows-Gen2-with/ba-p/5360422",
+      "title": "Upgrade Power BI Dataflows Gen1 to Fabric Dataflows Gen2 with the Upgrade Wizard (Preview)",
+      "author": "eranbenayun",
+      "published": "2026-08-24T15:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-24T16:12:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sigma-is-rumored-to-soon-announced-up-to-three-new-e-mount-lenses/",
+      "title": "Sigma is rumored to soon announced up to three new E-mount lenses!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-24T13:50:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T16:12:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/alex-barrera-why-i-still-shoot-sony-as-a-leica-user/",
+      "title": "Alex Barrera: Why I Still Shoot Sony as a Leica User",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-24T10:41:22+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T16:12:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-watch-series-12-everything-to-expect/",
+      "title": "Apple Watch Series 12: Everything to Expect Next Month",
+      "author": "Hartley Charlton",
+      "published": "2026-08-24T15:55:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T16:12:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/amazon-150-discount-m5-macbook-air/",
+      "title": "Amazon Offers Up to $150 Discounts on M5 MacBook Air",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-24T14:01:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T16:12:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/iphone-18-pro-iphone-ultra-apple-event-when/",
+      "title": "iPhone 18 Pro and iPhone Ultra: When Will Apple Event Be Announced?",
+      "author": "Joe Rossignol",
+      "published": "2026-08-24T13:45:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T16:12:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/airtag-2-85-amazon/",
+      "title": "AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon [Updated]",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-24T13:02:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T16:12:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
+      "title": "Apple Store App Rolling Out 'Early Preview' of New Shopping Assistant",
+      "author": "Joe Rossignol",
+      "published": "2026-08-24T12:56:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T16:12:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
+      "title": "iPhone 20's Curved Glass Design to Be Made Like iPhone Air",
+      "author": "Hartley Charlton",
+      "published": "2026-08-24T12:42:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T16:12:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-24T12:11:53+00:00"
+  "last_checked": "2026-08-24T16:12:47+00:00"
 }
