@@ -15917,7 +15917,37 @@
       "parser": "default",
       "discovered": "2026-08-23T20:05:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/tim-cook-replaced-steve-jobs-15-years-ago-today/",
+      "title": "Tim Cook Replaced Steve Jobs 15 Years Ago Today, Steps Down Sept 1",
+      "author": "Tim Hardwick",
+      "published": "2026-08-24T11:38:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T12:11:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-preparing-to-increase-iphone-prices/",
+      "title": "Apple Preparing to Increase iPhone Prices",
+      "author": "Hartley Charlton",
+      "published": "2026-08-24T11:17:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T12:11:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/how-apple-leaked-itself/",
+      "title": "How Apple Leaked Itself",
+      "author": "Tim Hardwick",
+      "published": "2026-08-24T10:00:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T12:11:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-23T20:05:22+00:00"
+  "last_checked": "2026-08-24T12:11:53+00:00"
 }
