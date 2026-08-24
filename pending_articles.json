@@ -16037,7 +16037,67 @@
       "parser": "default",
       "discovered": "2026-08-24T16:12:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-tim-cook-farewell-party/",
+      "title": "Apple Holds Farewell Party for Tim Cook as Ternus Prepares to Take Over",
+      "author": "Juli Clover",
+      "published": "2026-08-24T19:58:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T20:09:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/",
+      "title": "Apple Releases macOS Golden Gate Beta 7",
+      "author": "Juli Clover",
+      "published": "2026-08-24T17:35:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T20:09:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/",
+      "title": "Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-24T17:34:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T20:09:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-watchos-27-beta-7-to-developers/",
+      "title": "Apple Seeds watchOS 27 Beta 7 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-24T17:30:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T20:09:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-visionos-27-beta-7/",
+      "title": "Apple Seeds Seventh visionOS 27 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-24T17:29:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T20:09:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-seeds-tvos-27-beta-7-to-developers/",
+      "title": "Apple Seeds tvOS 27 Beta 7 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-24T17:27:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-24T20:09:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-24T16:12:47+00:00"
+  "last_checked": "2026-08-24T20:09:23+00:00"
 }
