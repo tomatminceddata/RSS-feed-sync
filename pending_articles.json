@@ -16187,7 +16187,37 @@
       "parser": "default",
       "discovered": "2026-08-25T04:16:23+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-watch-series-12-to-get-fitness-upgrades/",
+      "title": "Apple Watch Series 12 to Get Fitness Tracking Upgrades",
+      "author": "Hartley Charlton",
+      "published": "2026-08-25T11:55:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T12:12:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/macbook-ultra-coming-soon-touchscreen-5-changes/",
+      "title": "'MacBook Ultra' Coming Soon With Touchscreen and 5 Other Changes",
+      "author": "Tim Hardwick",
+      "published": "2026-08-25T11:43:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T12:12:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/iphone-trade-in-values-slide-ahead-of-launch/",
+      "title": "iPhone Trade-In Values Slide Ahead of New Model Launch",
+      "author": "Hartley Charlton",
+      "published": "2026-08-25T11:27:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T12:12:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-25T04:16:23+00:00"
+  "last_checked": "2026-08-25T12:12:08+00:00"
 }
