@@ -16147,7 +16147,47 @@
       "parser": "default",
       "discovered": "2026-08-25T00:18:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/new-ipad-mini-by-end-of-october-report/",
+      "title": "New iPad Mini With Four Upgrades Expected to Launch by Late October",
+      "author": "Joe Rossignol",
+      "published": "2026-08-25T03:33:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T04:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/airpods-5-to-launch-as-early-as-next-month/",
+      "title": "AirPods 5 to Launch as Early as Next Month",
+      "author": "Joe Rossignol",
+      "published": "2026-08-25T03:00:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T04:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/new-mac-mini-in-coming-days-report/",
+      "title": "New Mac Mini Reportedly Set to Launch Before iPhone 18 Pro Event",
+      "author": "Joe Rossignol",
+      "published": "2026-08-25T02:19:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T04:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/",
+      "title": "Apple Reportedly Will Announce iPhone 18 Pro Event Date This Week",
+      "author": "Joe Rossignol",
+      "published": "2026-08-25T02:15:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T04:16:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-25T00:18:05+00:00"
+  "last_checked": "2026-08-25T04:16:23+00:00"
 }
