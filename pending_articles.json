@@ -16217,7 +16217,117 @@
       "parser": "default",
       "discovered": "2026-08-25T12:12:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sigma-and-sony-announcements-coming-in-september/",
+      "title": "Sigma and Sony announcements coming in September!",
+      "author": "Andreapazzo",
+      "published": "2026-08-25T11:39:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/everything-apple-announced-today/",
+      "title": "New Macs and More: Here's Everything Apple Announced Today",
+      "author": "Joe Rossignol",
+      "published": "2026-08-25T16:10:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-smart-home-display-still-coming/",
+      "title": "Apple Smart Home Display Still Coming This Year",
+      "author": "Hartley Charlton",
+      "published": "2026-08-25T15:19:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/labor-day-accessory-deals/",
+      "title": "Labor Day Accessory Deals on Anker, Sony, Samsung, and More Live Now",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-25T14:39:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-quietly-refreshes-magic-keyboards/",
+      "title": "Apple Quietly Refreshes Magic Keyboards",
+      "author": "Hartley Charlton",
+      "published": "2026-08-25T14:22:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
+      "title": "Apple Releases New Polishing Cloth",
+      "author": "Joe Rossignol",
+      "published": "2026-08-25T13:50:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apples-mac-mini-mac-studio-available-pre-order/",
+      "title": "Apple's New Mac Mini and Mac Studio Are Now Available to Pre-Order",
+      "author": "Tim Hardwick",
+      "published": "2026-08-25T13:45:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-announces-new-mac-studio-with-m5-ultra-chip/",
+      "title": "Apple Unveils New Mac Studio With M5 Max and M5 Ultra Chips",
+      "author": "Hartley Charlton",
+      "published": "2026-08-25T13:13:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-debuts-m5-ultra/",
+      "title": "Apple Debuts M5 Ultra as Most Powerful Chip Ever",
+      "author": "Hartley Charlton",
+      "published": "2026-08-25T13:12:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-announces-2026-mac-mini/",
+      "title": "Apple Announces New Mac Mini With M6 and M5 Pro Chips and More",
+      "author": "Joe Rossignol",
+      "published": "2026-08-25T13:11:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6/",
+      "title": "Apple Reveals M6 as First-Ever 2nm Chip",
+      "author": "Hartley Charlton",
+      "published": "2026-08-25T13:05:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T16:14:38+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-25T12:12:08+00:00"
+  "last_checked": "2026-08-25T16:14:38+00:00"
 }
