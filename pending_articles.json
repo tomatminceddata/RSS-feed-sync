@@ -16327,7 +16327,67 @@
       "parser": "default",
       "discovered": "2026-08-25T16:14:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Find-the-SQL-Team-at-SQLCon-FabCon-Europe-2026/ba-p/5359947",
+      "title": "Find the SQL Team at SQLCon/FabCon Europe 2026",
+      "author": "analyticanna",
+      "published": "2026-08-25T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-25T20:08:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-anonymous-data-access-for-Fabric-Apps-Preview/ba-p/5361116",
+      "title": "Introducing anonymous data access for Fabric Apps (Preview)",
+      "author": "mk_sunitha",
+      "published": "2026-08-25T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-25T20:08:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/mac-studio-mac-mini-tidbits/",
+      "title": "New Mac Mini and Mac Studio: 13 Things You Might Have Missed",
+      "author": "Juli Clover",
+      "published": "2026-08-25T18:41:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T20:08:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-13-more-products-later-this-year/",
+      "title": "Apple to Release 13 More New Products Later This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-08-25T18:03:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T20:08:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-40w-dynamic-power-adapter-europe/",
+      "title": "Apple's 40W Dynamic Power Adapter Expands to More Countries",
+      "author": "Juli Clover",
+      "published": "2026-08-25T17:45:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T20:08:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/mac-studio-m5-ultra-512gb-ram-october/",
+      "title": "Mac Studio With M5 Ultra Chip and 512GB of RAM Launching in October",
+      "author": "Joe Rossignol",
+      "published": "2026-08-25T16:55:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-25T20:08:06+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-25T16:14:38+00:00"
+  "last_checked": "2026-08-25T20:08:06+00:00"
 }
