@@ -16387,7 +16387,17 @@
       "parser": "default",
       "discovered": "2026-08-25T20:08:06+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
+      "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off",
+      "author": "Juli Clover",
+      "published": "2026-08-25T21:13:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T00:18:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-25T20:08:06+00:00"
+  "last_checked": "2026-08-26T00:18:34+00:00"
 }
