@@ -16397,7 +16397,17 @@
       "parser": "default",
       "discovered": "2026-08-26T00:18:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/25/benq-light-bar-for-imac/",
+      "title": "BenQ's New iScreenBar is a Monitor Light Bar Made for the iMac",
+      "author": "Juli Clover",
+      "published": "2026-08-26T00:32:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T04:16:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-26T00:18:34+00:00"
+  "last_checked": "2026-08-26T04:16:23+00:00"
 }
