@@ -16467,7 +16467,137 @@
       "parser": "default",
       "discovered": "2026-08-26T12:12:24+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824",
+      "title": "Fabric August 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-08-26T16:06:14+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/IDENTITY-columns-support-for-Identity-Insert-Generally-Available/ba-p/5361138",
+      "title": "IDENTITY columns support for Identity Insert (Generally Available)",
+      "author": "perirocha",
+      "published": "2026-08-26T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-2026/",
+      "title": "Apple Event Announced for September 9: 'Surprise and Shine'",
+      "author": "Juli Clover",
+      "published": "2026-08-26T16:14:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/iphone-17-remains-best-selling-smartphone/",
+      "title": "iPhone 17 Remains World's Best Selling Smartphone",
+      "author": "Hartley Charlton",
+      "published": "2026-08-26T15:19:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/apple-explains-spotlight-indexing/",
+      "title": "Apple Explains Why Spotlight Indexing Can Take Days After an Update",
+      "author": "Tim Hardwick",
+      "published": "2026-08-26T15:06:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/apple-wallet-id-feature-launches-in-15th-state/",
+      "title": "Apple Wallet Driver's License Feature Just Launched in Virginia",
+      "author": "Joe Rossignol",
+      "published": "2026-08-26T14:57:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/best-buy-mac-mini-mac-studio/",
+      "title": "Pre-Ordering a Mac Mini or Mac Studio? Here's How to Get Money Back at Best Buy",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-26T14:54:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/new-mac-mini-and-mac-studio-add-genlock/",
+      "title": "New Mac Mini and Mac Studio Add Genlock Support for Camera Syncing",
+      "author": "Hartley Charlton",
+      "published": "2026-08-26T14:25:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/concept-video-imagines-foldable-iphone-reveal/",
+      "title": "Concept Video Imagines Apple's Foldable iPhone Ultra Reveal",
+      "author": "Hartley Charlton",
+      "published": "2026-08-26T14:06:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/",
+      "title": "iOS 27 Tweaks Apple Wallet's U.S. Passport Feature",
+      "author": "Joe Rossignol",
+      "published": "2026-08-26T13:46:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/apple-free-mac-mini-upgrade-email/",
+      "title": "Apple Giving Some Mac Mini Customers a Free Upgrade",
+      "author": "Joe Rossignol",
+      "published": "2026-08-26T13:10:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/new-mac-studio-can-be-clustered-together/",
+      "title": "New Mac Studio Can Be Clustered Together for Faster AI Performance",
+      "author": "Hartley Charlton",
+      "published": "2026-08-26T12:56:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/most-arent-interested-in-a-foldable-iphone/",
+      "title": "75% of US Adults Aren't Interested in a Foldable iPhone",
+      "author": "Hartley Charlton",
+      "published": "2026-08-26T12:53:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T16:30:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-26T12:12:24+00:00"
+  "last_checked": "2026-08-26T16:30:17+00:00"
 }
