@@ -16597,7 +16597,47 @@
       "parser": "default",
       "discovered": "2026-08-26T16:30:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sigmas-wild-new-patent-a-massive-400-1500mm-f-14-18-full-frame-lens/",
+      "title": "Sigma’s Wild New Patent: A Massive 400-1500mm f/14-18 Full-Frame Lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-26T16:43:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T20:52:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/apple-event-livestream-youtube/",
+      "title": "Apple Event Livestream: Where and When to Watch on September 9",
+      "author": "Juli Clover",
+      "published": "2026-08-26T17:30:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T20:52:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/1-800-apl-care-ai-assistant/",
+      "title": "1-800-APL-CARE Now Connects You With AI Assistant Instead of Human",
+      "author": "Joe Rossignol",
+      "published": "2026-08-26T16:40:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T20:52:38+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/leaked-images-of-apple-ai-servers/",
+      "title": "Leaked Images Give First Look at Apple's AI Servers",
+      "author": "Hartley Charlton",
+      "published": "2026-08-26T16:34:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-26T20:52:38+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-26T16:30:17+00:00"
+  "last_checked": "2026-08-26T20:52:38+00:00"
 }
