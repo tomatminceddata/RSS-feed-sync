@@ -16637,7 +16637,57 @@
       "parser": "default",
       "discovered": "2026-08-26T20:52:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-7artisans-af-10mm-f-2-5-full-frame-fisheye-lens/",
+      "title": "Just announced: New 7Artisans AF 10mm f/2.5 Full-frame Fisheye Lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-26T23:02:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T01:45:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/apple-iphone-event-taglines/",
+      "title": "Apple's iPhone Event Tagline is Different in Every Country",
+      "author": "Juli Clover",
+      "published": "2026-08-26T23:41:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T01:45:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/astropad-rock-paper-pencil-4/",
+      "title": "Astropad Launches Rock Paper Pencil 4.0 With New Graphite Apple Pencil Tip",
+      "author": "Juli Clover",
+      "published": "2026-08-26T23:26:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T01:45:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/meta-teen-time-limit/",
+      "title": "Meta Agrees to Limit Teens' Time on Facebook and Instagram, Calls on TikTok and YouTube to Match",
+      "author": "Juli Clover",
+      "published": "2026-08-26T22:28:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T01:45:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/26/apple-releases-safari-technology-preview-251/",
+      "title": "Apple Releases Safari Technology Preview 251 With Bug Fixes and Performance Improvements",
+      "author": "Juli Clover",
+      "published": "2026-08-26T22:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T01:45:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-26T20:52:38+00:00"
+  "last_checked": "2026-08-27T01:45:24+00:00"
 }
