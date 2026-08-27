@@ -16717,7 +16717,77 @@
       "parser": "default",
       "discovered": "2026-08-27T11:29:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sigmas-september-8-surprise-two-new-lenses-and-an-epic-tease/",
+      "title": "Sigma’s September 8 Surprise: Two New Lenses—and an Epic Tease?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-27T13:31:39+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T15:48:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/27/lg-labor-day-sale/",
+      "title": "LG Labor Day Sale Brings Major Discounts on OLED TVs and Monitors",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-27T15:10:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T15:48:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/27/apple-event-announced-six-new-products/",
+      "title": "Apple Event: Six New Products to Expect on September 9",
+      "author": "Joe Rossignol",
+      "published": "2026-08-27T15:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T15:48:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/27/new-macs-to-ship-with-macos-golden-gate/",
+      "title": "Apple's New Macs to Ship With macOS Golden Gate",
+      "author": "Joe Rossignol",
+      "published": "2026-08-27T14:12:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T15:48:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/27/macbook-pro-500-discounts/",
+      "title": "2026 MacBook Pro Sees Up to $500 Discounts at Amazon and Best Buy",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-27T13:57:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T15:48:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/27/apple-seeks-sneaky-sasquatch-trademark-merchandise/",
+      "title": "Apple Announces Sneaky Sasquatch Updates, Files New Trademarks",
+      "author": "Tim Hardwick",
+      "published": "2026-08-27T12:44:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T15:48:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
+      "title": "Apple Event Logo Hints at Two iPhone 18 Pro Features",
+      "author": "Tim Hardwick",
+      "published": "2026-08-27T11:46:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T15:48:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-27T11:29:14+00:00"
+  "last_checked": "2026-08-27T15:48:11+00:00"
 }
