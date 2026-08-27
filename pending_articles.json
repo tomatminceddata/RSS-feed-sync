@@ -16817,7 +16817,17 @@
       "parser": "default",
       "discovered": "2026-08-27T19:35:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/27/pikachu-apple-park-cook-ternus/",
+      "title": "Pikachu Visits Apple Park, Meets Tim Cook and John Ternus",
+      "author": "Juli Clover",
+      "published": "2026-08-27T22:10:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T23:10:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-27T19:35:14+00:00"
+  "last_checked": "2026-08-27T23:10:35+00:00"
 }
