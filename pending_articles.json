@@ -16787,7 +16787,37 @@
       "parser": "default",
       "discovered": "2026-08-27T15:48:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Reacting-to-Business-Events-with-Activator-and-Eventhouse/ba-p/5361410",
+      "title": "Reacting to Business Events with Activator and Eventhouse",
+      "author": "robece-msft",
+      "published": "2026-08-27T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-27T19:35:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/27/tim-cook-15-years-of-quotes/",
+      "title": "Tim Cook Stepping Down as Apple CEO Next Week: 15 Years in Quotes",
+      "author": "Joe Rossignol",
+      "published": "2026-08-27T18:13:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T19:35:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/2025-vs-2026-mac-studio/",
+      "title": "2025 vs. 2026 Mac Studio Buyer's Guide: All Upgrades Compared",
+      "author": "Hartley Charlton",
+      "published": "2026-08-27T16:30:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-27T19:35:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-27T15:48:11+00:00"
+  "last_checked": "2026-08-27T19:35:14+00:00"
 }
