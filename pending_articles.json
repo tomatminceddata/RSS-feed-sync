@@ -16827,7 +16827,137 @@
       "parser": "default",
       "discovered": "2026-08-27T23:10:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/eu-stores-now-claim-sony-fx5-shipment-start-is-september-28/",
+      "title": "EU stores now claim Sony FX5 shipment start is September 28",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-28T12:46:54+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/yodobashi-and-mapcamera-rankings-sony-a7v-is-selling-hot/",
+      "title": "Yodobashi and Mapcamera rankings: Sony A7V is selling hot!",
+      "author": "Andreapazzo",
+      "published": "2026-08-28T11:00:10+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/",
+      "title": "This New App Brings 1990s 'After Dark' Screen Savers to Modern macOS",
+      "author": "Joe Rossignol",
+      "published": "2026-08-28T16:16:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/the-macrumors-show-apple-week-of-announcements/",
+      "title": "The MacRumors Show: Apple's Surprisingly Big Week of Announcements",
+      "author": "Hartley Charlton",
+      "published": "2026-08-28T16:12:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/apple-tv-buys-an-existing-hit-for-first-time/",
+      "title": "Apple TV Buys an Existing Hit for the First Time Ever",
+      "author": "Hartley Charlton",
+      "published": "2026-08-28T15:52:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/iphone-18-pro-pre-orders-may-start-at-unusual-time/",
+      "title": "iPhone 18 Pro Pre-Orders May Start at an Unusual Time",
+      "author": "Hartley Charlton",
+      "published": "2026-08-28T15:17:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/what-not-to-expect-apple-sept-9-event/",
+      "title": "What NOT to Expect at Apple's 'Surprise and Shine' September 9 Event",
+      "author": "Tim Hardwick",
+      "published": "2026-08-28T14:54:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/apple-one-price-increase/",
+      "title": "Apple One Just Went Up in Price",
+      "author": "Joe Rossignol",
+      "published": "2026-08-28T14:01:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/apple-tv-price-increase/",
+      "title": "Apple TV Streaming Service Receives Price Increase",
+      "author": "Joe Rossignol",
+      "published": "2026-08-28T13:18:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/m6-mac-mini-first-discounts/",
+      "title": "Apple's M6 Mac Mini Gets First Pre-Order Discounts at Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-28T13:14:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/apple-watch-se-199/",
+      "title": "Apple Watch SE 3 Hits New Low Price of $199.99 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-28T13:06:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/apple-pledges-donation-for-flood-relief/",
+      "title": "Apple Pledges Donation for Nepal and Tibet Flood Relief",
+      "author": "Hartley Charlton",
+      "published": "2026-08-28T13:03:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/28/volvo-spatial-audio-now-rolling-out/",
+      "title": "Spatial Audio in CarPlay Now Rolling Out in Volvo Vehicles",
+      "author": "Hartley Charlton",
+      "published": "2026-08-28T12:35:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-28T16:18:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-27T23:10:35+00:00"
+  "last_checked": "2026-08-28T16:18:37+00:00"
 }
