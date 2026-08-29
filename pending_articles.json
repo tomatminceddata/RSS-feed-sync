@@ -27,17 +27,6 @@
       "status": "pending"
     },
     {
-      "url": "https://www.macrumors.com/2026/05/30/lamine-yamal-teases-upcoming-beats-headphones/",
-      "title": "Lamine Yamal Teases Upcoming Beats Over-Ear Headphones",
-      "author": "Eric Slivka",
-      "published": "2026-05-30T18:19:20+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-05-30T20:27:18+00:00",
-      "status": "synced",
-      "synced_at": "2026-05-31T06:06:09+00:00"
-    },
-    {
       "url": "https://www.sonyalpharumors.com/new-sony-a7rvi-youtube-reviews-roundup/",
       "title": "New Sony A7rVI youtube reviews roundup",
       "author": "SonyAlpha Admin",
@@ -16270,7 +16259,37 @@
       "parser": "default",
       "discovered": "2026-08-28T21:58:04+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/alex-barrera-compares-sigma-35mm-f-1-2-vs-f-1-4-is-there-really-a-visible-difference/",
+      "title": "Alex Barrera compares Sigma 35mm f/1.2 vs f/1.4: Is there really a visible difference?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-29T11:27:40+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-29T16:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/29/top-stories-apple-surprise-and-shine-event-invites/",
+      "title": "Top Stories: Apple's 'Surprise and Shine' Event, Plus New Mac mini and Mac Studio",
+      "author": "MacRumors Staff",
+      "published": "2026-08-29T13:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-29T16:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/29/best-apple-deals-of-the-week-8-28-26/",
+      "title": "Amazon Offers Early Savings on 2026 Mac Mini, Plus Record Low on AirTag 2",
+      "author": "Mitchel Broussard",
+      "published": "2026-08-29T12:31:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-29T16:13:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-28T21:58:04+00:00"
+  "last_checked": "2026-08-29T16:13:51+00:00"
 }
