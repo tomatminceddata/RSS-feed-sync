@@ -27,116 +27,6 @@
       "status": "pending"
     },
     {
-      "url": "https://www.sonyalpharumors.com/new-sony-a7rvi-youtube-reviews-roundup/",
-      "title": "New Sony A7rVI youtube reviews roundup",
-      "author": "SonyAlpha Admin",
-      "published": "2026-05-31T12:12:05+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-05-31T12:37:32+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T04:13:05+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/05/31/apple-glasses-late-2027-report/",
-      "title": "Apple Glasses Reportedly Launching in 'Late 2027' With These Features",
-      "author": "Joe Rossignol",
-      "published": "2026-05-31T16:21:35+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-05-31T16:31:53+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T04:13:05+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/05/31/new-apple-tv-and-homepod-mini-nearly-ready/",
-      "title": "New Apple TV and HomePod Mini Are 'Nearly Ready' to Launch, New Siri Remote Also Rumored",
-      "author": "Joe Rossignol",
-      "published": "2026-05-31T15:47:50+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-05-31T16:31:53+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T04:13:05+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/",
-      "title": "iOS 28 Will Reportedly Be 'Far More Significant' Than iOS 27",
-      "author": "Joe Rossignol",
-      "published": "2026-05-31T21:44:33+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-06-01T01:08:45+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T04:13:05+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/a-love-letter-to-the-most-hated-camera-on-the-internet-sony-rx1r-iii/",
-      "title": "A Love Letter to the Most Hated Camera on the Internet (Sony RX1R III)",
-      "author": "SonyAlpha Admin",
-      "published": "2026-06-01T09:52:04+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-06-01T09:57:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T11:28:19+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/06/01/slimmer-lighter-apple-vision-pro-late-2028/",
-      "title": "Cheaper, Lighter Apple Vision Pro Successor Could Arrive in Late 2028",
-      "author": "Tim Hardwick",
-      "published": "2026-06-01T09:29:42+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-06-01T09:57:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T11:28:19+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/matt-johnson-sony-fx3-ii-predictions-that-will-actually-come-true/",
-      "title": "Matt Johnson: Sony FX3 II Predictions That Will Actually Come True",
-      "author": "SonyAlpha Admin",
-      "published": "2026-06-01T13:13:49+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-06-01T14:12:23+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T14:18:11+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/06/01/apple-car-key-support-mahindra-vehicles/",
-      "title": "Apple Car Key Support Coming to Future Mahindra Vehicles",
-      "author": "Tim Hardwick",
-      "published": "2026-06-01T11:53:31+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-06-01T14:12:23+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T14:18:11+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/06/01/first-confirmed-iphone-ultra-color-leaked/",
-      "title": "First 'Confirmed' iPhone Ultra Color Allegedly Revealed in Leaked Image",
-      "author": "Tim Hardwick",
-      "published": "2026-06-01T11:25:39+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-06-01T14:12:23+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T14:18:11+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/06/01/nvidia-challenges-apple-rtx-spark-pc-chip/",
-      "title": "Nvidia Challenges Apple Silicon With New RTX Spark PC Chip",
-      "author": "Tim Hardwick",
-      "published": "2026-06-01T10:41:44+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-06-01T14:12:23+00:00",
-      "status": "synced",
-      "synced_at": "2026-06-01T14:18:11+00:00"
-    },
-    {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-new-in-Fabric-Business-Events/ba-p/5189137",
       "title": "What’s new in Fabric Business Events",
       "author": "robece-msft",
@@ -16289,7 +16179,57 @@
       "parser": "default",
       "discovered": "2026-08-29T16:13:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-28-70mm-f-2-0-gm-in-depth-review-by-math-photographer-the-very-best-standard-zoom/",
+      "title": "Sony 28-70mm f/2.0 GM in depth review by Math Photographer: The very best standard zoom!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-30T11:26:08+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-30T16:13:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+      "author": "Hartley Charlton",
+      "published": "2026-08-30T15:52:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-30T16:13:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/30/apple-watch-series-12-ultra-4-features/",
+      "title": "New Apple Watch Series 12 and Apple Watch Ultra 4 Features Revealed",
+      "author": "Joe Rossignol",
+      "published": "2026-08-30T14:54:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-30T16:13:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/30/apple-pencil-for-iphone-ultra-was-tested/",
+      "title": "Apple Pencil for iPhone Ultra Was Tested",
+      "author": "Joe Rossignol",
+      "published": "2026-08-30T14:27:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-30T16:13:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/30/iphone-18-pro-airpods-5-ipad-mini-oled/",
+      "title": "Beyond iPhone 18 Pro: AirPods 5 in September, iPad Mini With OLED Display in October",
+      "author": "Joe Rossignol",
+      "published": "2026-08-30T14:25:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-30T16:13:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-29T16:13:51+00:00"
+  "last_checked": "2026-08-30T16:13:40+00:00"
 }
