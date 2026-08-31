@@ -16229,7 +16229,77 @@
       "parser": "default",
       "discovered": "2026-08-30T16:13:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Five-Business-Event-scenarios-and-the-pattern-they-share/ba-p/5361411",
+      "title": "Five Business Event scenarios and the pattern they share",
+      "author": "robece-msft",
+      "published": "2026-08-31T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "khoros",
+      "discovered": "2026-08-31T16:15:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sonys-new-26mp-fully-stacked-sensor-coming-to-the-fx30-ii-and-a6900/",
+      "title": "Sony’s New 26MP fully Stacked Sensor: Coming to the FX30 II and A6900?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-31T13:20:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-31T16:15:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/tim-cook-messages-on-final-day-as-apple-ceo/",
+      "title": "Tim Cook Comments on His Final Day as Apple CEO",
+      "author": "Joe Rossignol",
+      "published": "2026-08-31T15:39:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-31T16:15:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/",
+      "title": "MapQuest Tops App Store Charts After Refusing 'Lake America' Change",
+      "author": "Joe Rossignol",
+      "published": "2026-08-31T14:49:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-31T16:15:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-inducted-into-brand-hall-of-fame/",
+      "title": "Apple Inducted Into 'Brand Hall of Fame' for Iconic Ads",
+      "author": "Joe Rossignol",
+      "published": "2026-08-31T14:06:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-31T16:15:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/google-maps-lake-america/",
+      "title": "Google Maps Showing 'Lake America' in U.S., Apple Maps Yet to Follow",
+      "author": "Joe Rossignol",
+      "published": "2026-08-31T13:33:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-31T16:15:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/tim-cook-steps-down-as-apple-ceo-tomorrow/",
+      "title": "Tim Cook Steps Down as Apple CEO Tomorrow",
+      "author": "Joe Rossignol",
+      "published": "2026-08-31T12:42:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-31T16:15:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-30T16:13:40+00:00"
+  "last_checked": "2026-08-31T16:15:51+00:00"
 }
