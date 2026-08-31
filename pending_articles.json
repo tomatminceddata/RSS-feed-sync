@@ -16299,7 +16299,57 @@
       "parser": "default",
       "discovered": "2026-08-31T16:15:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-factory-floor-to-Fabric-Securely-stream-private-data-with/ba-p/5362960",
+      "title": "From factory floor to Fabric: Securely stream private data with Eventstream",
+      "author": "bytecascade",
+      "published": "2026-08-31T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-31T20:14:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Migration-Assistant-for-SQL-database-Generally-Available/ba-p/5363606",
+      "title": "Fabric Migration Assistant for SQL database (Generally Available)",
+      "author": "FabSubhojit",
+      "published": "2026-08-31T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-31T20:14:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Fabric-Maps-into-Real-Time-Dashboards-Preview/ba-p/5360916",
+      "title": "Bring Fabric Maps into Real-Time Dashboards (Preview)",
+      "author": "Naorbt",
+      "published": "2026-08-31T18:30:03+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-08-31T20:14:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-samsung-p7-and-p9-ssds-bring-usb4-speed-to-photographers/",
+      "title": "Just Announced: Samsung P7 and P9 SSDs Bring USB4 Speed to Photographers",
+      "author": "SonyAlpha Admin",
+      "published": "2026-08-31T18:07:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-08-31T20:14:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/phil-schiller-stepping-down-app-store/",
+      "title": "Apple's Phil Schiller Scales Back Role as John Ternus Era Begins",
+      "author": "Juli Clover",
+      "published": "2026-08-31T16:54:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-08-31T20:14:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-31T16:15:51+00:00"
+  "last_checked": "2026-08-31T20:14:40+00:00"
 }
