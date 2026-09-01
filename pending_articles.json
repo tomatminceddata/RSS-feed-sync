@@ -16469,7 +16469,37 @@
       "parser": "default",
       "discovered": "2026-09-01T08:21:58+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-rx10v-reviews/",
+      "title": "New Sony RX10V reviews",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-01T10:26:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T12:23:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/dispute-said-to-be-mess-of-apples-own-making/",
+      "title": "Dispute With OpenAI Said to Be a 'Mess of Apple's Own Making'",
+      "author": "Hartley Charlton",
+      "published": "2026-09-01T12:07:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T12:23:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/vision-pro-layoffs-were-broader/",
+      "title": "Apple's Vision Pro Layoffs Were Broader Than First Reported",
+      "author": "Hartley Charlton",
+      "published": "2026-09-01T11:18:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T12:23:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-01T08:21:58+00:00"
+  "last_checked": "2026-09-01T12:23:02+00:00"
 }
