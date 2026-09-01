@@ -16499,7 +16499,77 @@
       "parser": "default",
       "discovered": "2026-09-01T12:23:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advanced-DAX-generation-for-semantic-models-in-Fabric-data/ba-p/5363136",
+      "title": "Advanced DAX generation for semantic models in Fabric data agents (Preview)",
+      "author": "Virginia_R",
+      "published": "2026-09-01T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-01T16:35:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-will-announce-two-new-portable-monitors-in-september/",
+      "title": "Sony will announce two new portable monitors in September!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-01T13:51:32+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T16:35:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/m4-ipad-air-best-discounts/",
+      "title": "Apple's M4 iPad Air Gets Best Discounts Since Summer Price Hikes",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-01T16:35:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T16:35:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/apples-new-ceo-john-ternus-is-now-on-x/",
+      "title": "Apple's New CEO John Ternus is Now on X",
+      "author": "Joe Rossignol",
+      "published": "2026-09-01T16:01:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T16:35:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/iphone-18-pro-colors-include-black-but-skip-silver/",
+      "title": "iPhone 18 Pro Colors Apparently Include Black, But Skip Silver",
+      "author": "Hartley Charlton",
+      "published": "2026-09-01T15:22:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T16:35:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/john-ternus-is-now-apple-ceo/",
+      "title": "John Ternus is Now Apple's CEO",
+      "author": "Joe Rossignol",
+      "published": "2026-09-01T14:23:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T16:35:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/firefox-ios-ad-blocker/",
+      "title": "Firefox for iOS Gets Built-In Ad Blocker",
+      "author": "Juli Clover",
+      "published": "2026-09-01T13:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T16:35:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-01T12:23:02+00:00"
+  "last_checked": "2026-09-01T16:35:46+00:00"
 }
