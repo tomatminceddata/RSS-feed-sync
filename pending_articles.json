@@ -16359,7 +16359,117 @@
       "parser": "wordpress",
       "discovered": "2026-09-01T00:49:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/qualcomm-chip-price-increase/",
+      "title": "Qualcomm Raising Chip Prices Starting Tomorrow",
+      "author": "Juli Clover",
+      "published": "2026-08-31T23:39:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-ios-27-public-beta-6/",
+      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+      "author": "Juli Clover",
+      "published": "2026-08-31T21:13:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence/",
+      "title": "Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them",
+      "author": "Juli Clover",
+      "published": "2026-08-31T20:22:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/camera-airpods-spatial-audio-head-tracking/",
+      "title": "AirPods With Cameras Could Bring Improved Spatial Audio Head Tracking",
+      "author": "Juli Clover",
+      "published": "2026-08-31T19:02:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-retina-macbook-air-obsolete/",
+      "title": "Apple Adds Three More Macs to Obsolete Products List",
+      "author": "Juli Clover",
+      "published": "2026-08-31T18:37:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-edits-mac-studio-press-release/",
+      "title": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio",
+      "author": "Joe Rossignol",
+      "published": "2026-08-31T18:19:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-macos-27-beta-8/",
+      "title": "Apple Releases macOS Golden Gate Beta 8",
+      "author": "Juli Clover",
+      "published": "2026-08-31T17:14:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-ios-27-beta-8/",
+      "title": "Apple Seeds Eighth iOS 27 and iPadOS 27 Betas to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-31T17:13:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-watchos-27-beta-8/",
+      "title": "Apple Seeds watchOS 27 Beta 8 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-31T17:12:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-tvos-27-beta-8/",
+      "title": "Apple Seeds tvOS 27 Beta 8 to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-31T17:11:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-visionos-27-beta-8/",
+      "title": "Apple Seeds Eighth visionOS 27 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-08-31T17:10:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-01T08:21:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-01T00:49:32+00:00"
+  "last_checked": "2026-09-01T08:21:58+00:00"
 }
