@@ -16349,7 +16349,17 @@
       "parser": "default",
       "discovered": "2026-08-31T20:14:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Common-dbt-job-patterns-in-Microsoft-Fabric-Preview/ba-p/5361480",
+      "title": "Common dbt job patterns in Microsoft Fabric (Preview)",
+      "author": "meghasony",
+      "published": "2026-08-31T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-01T00:49:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-08-31T20:14:40+00:00"
+  "last_checked": "2026-09-01T00:49:32+00:00"
 }
