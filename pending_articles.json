@@ -16010,7 +16010,57 @@
       "parser": "default",
       "discovered": "2026-09-02T12:23:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Agents-in-Microsoft-Copilot-Studio-Generally/ba-p/5362882",
+      "title": "Fabric Data Agents in Microsoft Copilot Studio (Generally Available)",
+      "author": "AmirJafari",
+      "published": "2026-09-02T13:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-02T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/surprise-nisi-presented-a-new-26mm-f-0-7-full-frame-lens/",
+      "title": "Surprise: Nisi presented a new 26mm f/0.7 Full Frame lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-02T13:43:34+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/open-the-current-apps-settings-from-control-center/",
+      "title": "Open the Current App's Settings From Control Center",
+      "author": "Tim Hardwick",
+      "published": "2026-09-02T15:36:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/02/pre-order-discounts-mac-mini/",
+      "title": "Apple's New Mac Mini Already Discounted - See the Pre-Order Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-02T15:11:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/02/apple-wallet-id-feature-16th-us-state/",
+      "title": "iPhone Driver's License Feature in Apple Wallet Just Launched in 16th U.S. State",
+      "author": "Joe Rossignol",
+      "published": "2026-09-02T13:38:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T16:17:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-02T12:23:36+00:00"
+  "last_checked": "2026-09-02T16:17:15+00:00"
 }
