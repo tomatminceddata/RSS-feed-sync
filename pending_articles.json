@@ -16709,7 +16709,17 @@
       "parser": "default",
       "discovered": "2026-09-02T00:42:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/message-to-source-can-you-give-me-the-exact-date/",
+      "title": "Message to source: Can you give me the exact date?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-02T05:47:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T08:21:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-02T00:42:00+00:00"
+  "last_checked": "2026-09-02T08:21:14+00:00"
 }
