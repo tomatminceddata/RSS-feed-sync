@@ -16659,7 +16659,57 @@
       "parser": "default",
       "discovered": "2026-09-01T20:14:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/overview-of-all-current-e-mount-deals/",
+      "title": "Overview of all current E-mount deals",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-01T20:42:38+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T00:42:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
+      "title": "Mac App Store Apps Can Now Drop Support for Intel Macs",
+      "author": "Juli Clover",
+      "published": "2026-09-01T23:50:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T00:42:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/iphone-air-one-year-review/",
+      "title": "iPhone Air Review: One Year With Apple's Super Thin $999 iPhone",
+      "author": "Juli Clover",
+      "published": "2026-09-01T23:35:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T00:42:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/apple-ceo-john-ternus-compensation/",
+      "title": "Here's What Apple is Paying John Ternus to Run the Company",
+      "author": "Juli Clover",
+      "published": "2026-09-01T21:50:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T00:42:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/01/apple-maps-lake-america/",
+      "title": "Apple Maps Renames Lake Ontario 'Lake America'",
+      "author": "Juli Clover",
+      "published": "2026-09-01T20:58:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T00:42:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-01T20:14:42+00:00"
+  "last_checked": "2026-09-02T00:42:00+00:00"
 }
