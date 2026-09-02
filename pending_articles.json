@@ -16060,7 +16060,57 @@
       "parser": "default",
       "discovered": "2026-09-02T16:17:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connect-securely-to-Snowflake-in-Fabric-Pipelines-and-Copy-Jobs/ba-p/5363159",
+      "title": "Connect securely to Snowflake in Fabric Pipelines and Copy Jobs",
+      "author": "ryanjadams",
+      "published": "2026-09-02T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-02T20:14:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-sample-reports-refreshed-with-modern-visual-defaults/ba-p/5363807",
+      "title": "Power BI sample reports, refreshed with modern visual defaults",
+      "author": "DataZoe",
+      "published": "2026-09-02T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-02T20:14:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/thinnest-powerbank-with-semi-solid-state-batteries-on-kickstarter/",
+      "title": "Thinnest PowerBank with Semi Solid State batteries on Kickstarter",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-02T16:20:09+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T20:14:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+      "title": "iOS 27 Introduces New 'iPhone Handoff' Feature",
+      "author": "Joe Rossignol",
+      "published": "2026-09-02T19:35:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T20:14:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/02/apple-watch-heart-story/",
+      "title": "'I Wouldn't Be Talking to You': Apple Shares Apple Watch Survival Story",
+      "author": "Juli Clover",
+      "published": "2026-09-02T17:48:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-02T20:14:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-02T16:17:15+00:00"
+  "last_checked": "2026-09-02T20:14:50+00:00"
 }
