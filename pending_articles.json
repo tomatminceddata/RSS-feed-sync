@@ -16120,7 +16120,37 @@
       "parser": "default",
       "discovered": "2026-09-03T00:42:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/03/anker-mindbase-new-cameras/",
+      "title": "Anker's New MindBase Home Hub Runs AI Locally, Doubles as NAS",
+      "author": "Juli Clover",
+      "published": "2026-09-03T07:30:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-03T08:21:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/03/aqara-matter-smart-lights/",
+      "title": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
+      "author": "Juli Clover",
+      "published": "2026-09-03T07:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-03T08:21:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/03/govee-sky-ceiling-light/",
+      "title": "Govee Debuts $400 Matter-Enabled Sky Ceiling Light",
+      "author": "Juli Clover",
+      "published": "2026-09-03T06:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-03T08:21:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-03T00:42:32+00:00"
+  "last_checked": "2026-09-03T08:21:17+00:00"
 }
