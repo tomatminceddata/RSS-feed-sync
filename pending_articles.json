@@ -16150,7 +16150,47 @@
       "parser": "default",
       "discovered": "2026-09-03T08:21:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Modern-Power-BI-architecture-choices-for-reporting-on-Azure/ba-p/5364286",
+      "title": "Modern Power BI architecture choices for reporting on Azure Databricks: A performance benchmark for Power BI storage modes",
+      "author": "eiki_sui",
+      "published": "2026-09-03T11:30:43+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-03T12:23:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-shipment-date-keeps-being-postponed/",
+      "title": "Sony FX5 shipment date keeps being postponed",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-03T09:30:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-03T12:23:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-chip-leak-suggests-improvements/",
+      "title": "iPhone 18 Pro Chip Leak Indicates Major GPU and Memory Bandwidth Improvements",
+      "author": "Hartley Charlton",
+      "published": "2026-09-03T12:06:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-03T12:23:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-prices-apple-event-next-week/",
+      "title": "iPhone 18 Pro Prices Estimated Ahead of Apple Event Next Week",
+      "author": "Tim Hardwick",
+      "published": "2026-09-03T10:41:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-03T12:23:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-03T08:21:17+00:00"
+  "last_checked": "2026-09-03T12:23:57+00:00"
 }
