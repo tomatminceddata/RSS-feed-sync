@@ -16062,7 +16062,57 @@
       "parser": "default",
       "discovered": "2026-09-04T16:15:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/iphone-duo/",
+      "title": "iPhone Duo?",
+      "author": "Joe Rossignol",
+      "published": "2026-09-04T19:54:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/alogic-new-displays-peripherals/",
+      "title": "Alogic Expands Display Lineup With New 5K and 6K Models, Debuts New Peripherals",
+      "author": "Eric Slivka",
+      "published": "2026-09-04T19:51:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/acer-6k-touchscreen-display/",
+      "title": "Review: Acer's 6K Touchscreen Display Turns Your Mac Into a Giant iPad, Sort Of",
+      "author": "Juli Clover",
+      "published": "2026-09-04T19:45:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/macrumors-giveaway-astropad-september/",
+      "title": "MacRumors Giveaway: Win an iPad Air and Revamped Rock Paper Pencil Kit From Astropad",
+      "author": "Juli Clover",
+      "published": "2026-09-04T17:41:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/aqara-matter-smart-lights-2/",
+      "title": "Aqara Debuts Five Matter Smart Lights With Apple Home Support",
+      "author": "Juli Clover",
+      "published": "2026-09-04T17:12:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T20:13:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-04T16:15:43+00:00"
+  "last_checked": "2026-09-04T20:13:59+00:00"
 }
