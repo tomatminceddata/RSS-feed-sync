@@ -15982,7 +15982,87 @@
       "parser": "default",
       "discovered": "2026-09-04T12:22:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/leaked-sony-will-announced-the-worlds-lightest-400mm-and-600m-tele-prime-lenses/",
+      "title": "LEAKED: Sony will announced the world’s lightest 400mm and 600m tele prime lenses!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-04T12:51:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T16:15:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/the-macrumors-show-iphone-18-pro-event-expectations/",
+      "title": "The MacRumors Show: iPhone 18 Pro Event Expectations",
+      "author": "Hartley Charlton",
+      "published": "2026-09-04T16:13:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T16:15:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/apple-just-fixed-testflight/",
+      "title": "Apple Just Fixed TestFlight",
+      "author": "Joe Rossignol",
+      "published": "2026-09-04T15:56:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T16:15:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/best-apple-deals-of-the-week-9-4-26/",
+      "title": "Labor Day Deals Offer Up to $330 Off Studio Displays and Mac Mini Pre-Order Savings",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-04T15:34:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T16:15:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/apple-testing-new-homepod-with-siri-ai/",
+      "title": "Apple Testing New HomePod With Siri AI",
+      "author": "Joe Rossignol",
+      "published": "2026-09-04T15:25:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T16:15:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/iphone-20-biggest-revamp-since-iphone-x/",
+      "title": "iPhone 20 Rumored to Have Biggest Revamp Since iPhone X",
+      "author": "Joe Rossignol",
+      "published": "2026-09-04T15:10:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T16:15:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/macbook-neo-2-rumors/",
+      "title": "Apple Planning to Update MacBook Neo in Three Ways",
+      "author": "Joe Rossignol",
+      "published": "2026-09-04T14:17:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T16:15:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/apple-14-more-products-by-early-next-year/",
+      "title": "Apple Reportedly Plans to Release These 14 Products by Early Next Year",
+      "author": "Joe Rossignol",
+      "published": "2026-09-04T13:55:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T16:15:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-04T12:22:42+00:00"
+  "last_checked": "2026-09-04T16:15:43+00:00"
 }
