@@ -16350,7 +16350,17 @@
       "parser": "default",
       "discovered": "2026-09-04T00:39:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
+      "title": "Six Sleeps Until iPhone 18 Pro: Here's What We Know",
+      "author": "Tim Hardwick",
+      "published": "2026-09-04T02:25:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T04:17:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-04T00:39:54+00:00"
+  "last_checked": "2026-09-04T04:17:58+00:00"
 }
