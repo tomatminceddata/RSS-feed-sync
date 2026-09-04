@@ -16320,7 +16320,37 @@
       "parser": "default",
       "discovered": "2026-09-03T20:14:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-best-practices-for-medallion-architectures/ba-p/5364080",
+      "title": "Fabric Data Warehouse best practices for medallion architectures",
+      "author": "Scirqueira",
+      "published": "2026-09-03T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-04T00:39:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-labour-day-deals-launched-at-bhphoto-and-adorama/",
+      "title": "New Labour Day Deals launched at BHphoto and Adorama",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-03T20:12:01+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T00:39:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/m6-vs-m5-pro-mac-mini/",
+      "title": "M6 vs. M5 Pro Mac Mini Buyer's Guide",
+      "author": "Hartley Charlton",
+      "published": "2026-09-03T22:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-04T00:39:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-03T20:14:05+00:00"
+  "last_checked": "2026-09-04T00:39:54+00:00"
 }
