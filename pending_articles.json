@@ -16112,7 +16112,57 @@
       "parser": "default",
       "discovered": "2026-09-04T20:13:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/",
+      "title": "iPhone Ultra, iPhone 18 Pro, and More: Apple's September 9 Event Preview",
+      "author": "Juli Clover",
+      "published": "2026-09-04T22:26:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-05T00:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027/",
+      "title": "Apple Planning AI Home Security Camera and Service for 2027",
+      "author": "Juli Clover",
+      "published": "2026-09-04T22:05:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-05T00:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/foldable-iphone-likely-to-be-missing-these-features/",
+      "title": "Foldable 'iPhone Ultra' Still Likely to Be Missing These Five Features",
+      "author": "Hartley Charlton",
+      "published": "2026-09-02T21:31:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-05T00:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/anthropics-claude-is-coming-to-carplay/",
+      "title": "Anthropic's Claude Comes to CarPlay",
+      "author": "Juli Clover",
+      "published": "2026-09-04T20:43:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-05T00:39:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/04/macos-26-7-code-game-controllers/",
+      "title": "macOS 26.7 Code Hints at Two Unreleased Apple Game Controllers",
+      "author": "Juli Clover",
+      "published": "2026-09-04T20:40:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-05T00:39:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-04T20:13:59+00:00"
+  "last_checked": "2026-09-05T00:39:35+00:00"
 }
