@@ -16162,7 +16162,47 @@
       "parser": "default",
       "discovered": "2026-09-05T00:39:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-leaked-image-of-the-new-8-14mm-f-3-5-fe-lens/",
+      "title": "First leaked images of the new 8-14mm f/3.5 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-05T11:31:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-05T16:13:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/05/airtag-2-4-pack-on-sale/",
+      "title": "AirTag 2 4-Pack Drops to $79.99 on Amazon, Matching Record Low",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-05T16:09:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-05T16:13:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/05/what-m6-tells-us-about-a20/",
+      "title": "iPhone 18 Pro: Everything M6 Tells Us About the A20 Chip",
+      "author": "Hartley Charlton",
+      "published": "2026-09-05T16:00:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-05T16:13:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/05/top-stories-suprise-and-shine-preview/",
+      "title": "Top Stories: 'Surprise and Shine' Apple Event Preview, John Ternus Takes Over, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-09-05T13:00:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-05T16:13:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-05T00:39:35+00:00"
+  "last_checked": "2026-09-05T16:13:27+00:00"
 }
