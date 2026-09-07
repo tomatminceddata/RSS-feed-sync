@@ -16156,7 +16156,47 @@
       "parser": "default",
       "discovered": "2026-09-07T00:45:24+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/leaked-european-pricing-of-the-new-sony-lenses/",
+      "title": "Leaked European pricing of the new Sony lenses!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-07T09:32:12+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T12:23:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-reasons-not-to-upgrade-this-year/",
+      "title": "iPhone 18 Pro: Nine Reasons Not to Upgrade This Year",
+      "author": "Tim Hardwick",
+      "published": "2026-09-07T12:01:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T12:23:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/07/apple-squeeze-more-revenue-from-app-store/",
+      "title": "Apple Plans to Squeeze More Revenue From the App Store, Report Says",
+      "author": "Tim Hardwick",
+      "published": "2026-09-07T10:19:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T12:23:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/07/tim-cook-wont-appear-apple-sept-9-event-video/",
+      "title": "Tim Cook Won't Appear in Apple's September 9 Event Video",
+      "author": "Tim Hardwick",
+      "published": "2026-09-07T09:27:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T12:23:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-07T00:45:24+00:00"
+  "last_checked": "2026-09-07T12:23:32+00:00"
 }
