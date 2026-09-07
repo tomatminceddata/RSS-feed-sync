@@ -16236,7 +16236,37 @@
       "parser": "default",
       "discovered": "2026-09-07T16:15:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/leaked-sigma-20-60mm-f-2-8-4-0-specs-and-images/",
+      "title": "Leaked: Sigma 20-60mm f/2.8-4.0 Specs and Images",
+      "author": "Patrickpazzo",
+      "published": "2026-09-07T18:34:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T20:14:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/some-info-from-a-400-and-600mm-gm-lens-tester/",
+      "title": "Some info from a 400 and 600mm GM lens tester…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-07T18:26:42+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T20:14:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-labour-day-deals-launched-at-bhphoto-and-adorama-2/",
+      "title": "Ending today: Labor Day Deals at BHphoto, Amazon and Adorama",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-07T18:25:37+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T20:14:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-07T16:15:08+00:00"
+  "last_checked": "2026-09-07T20:14:03+00:00"
 }
