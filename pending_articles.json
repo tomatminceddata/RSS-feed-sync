@@ -16196,7 +16196,47 @@
       "parser": "default",
       "discovered": "2026-09-07T12:23:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/07/five-iphone-18-pro-camera-features-seemingly-leak/",
+      "title": "Five iPhone 18 Pro Camera Features Seemingly Leak in Code",
+      "author": "Hartley Charlton",
+      "published": "2026-09-07T16:07:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T16:15:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/07/leak-hints-at-four-new-apple-watch-features/",
+      "title": "Leak Hints at Four New Features for Apple Watch Series 12 and Ultra 4",
+      "author": "Hartley Charlton",
+      "published": "2026-09-07T15:58:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T16:15:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival/",
+      "title": "Xiaomi Announces Foldable iPhone Rival",
+      "author": "Hartley Charlton",
+      "published": "2026-09-07T15:26:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T16:15:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-event-could-hit-apple-shares/",
+      "title": "iPhone 18 Pro Event Could Hit Apple Shares, KeyBanc Warns",
+      "author": "Hartley Charlton",
+      "published": "2026-09-07T14:33:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-07T16:15:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-07T12:23:32+00:00"
+  "last_checked": "2026-09-07T16:15:08+00:00"
 }
