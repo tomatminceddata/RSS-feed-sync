@@ -16416,7 +16416,87 @@
       "parser": "default",
       "discovered": "2026-09-08T16:17:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033",
+      "title": "Advancing the Microsoft Fabric SQL Query Editor",
+      "author": "salilkanade1",
+      "published": "2026-09-08T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-08T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-beats-360-coming-soon/",
+      "title": "Apple Likely to Announce Beats 360 This Month",
+      "author": "Joe Rossignol",
+      "published": "2026-09-08T19:48:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/watch-apple-september-9-iphone-event/",
+      "title": "How to Watch Apple's 'Surprise and Shine' September 9 Event",
+      "author": "Tim Hardwick",
+      "published": "2026-09-08T18:45:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-releases-ios-26-6-2/",
+      "title": "Apple Releases iOS 26.6.2",
+      "author": "Joe Rossignol",
+      "published": "2026-09-08T17:47:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-event-week-iphone-18-pro-cheat-sheet/",
+      "title": "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet",
+      "author": "Tim Hardwick",
+      "published": "2026-09-08T17:24:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/next-apple-tv-chip-leak/",
+      "title": "Next Apple TV's Chip Revealed in Latest Leak",
+      "author": "Joe Rossignol",
+      "published": "2026-09-08T17:19:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-watch-se-3-currently-unavailable/",
+      "title": "Apple Watch SE 3 is Suddenly Unavailable",
+      "author": "Joe Rossignol",
+      "published": "2026-09-08T17:00:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T20:13:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/airpods-turn-10/",
+      "title": "AirPods Turn 10",
+      "author": "Joe Rossignol",
+      "published": "2026-09-08T16:37:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T20:13:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-08T16:17:15+00:00"
+  "last_checked": "2026-09-08T20:13:59+00:00"
 }
