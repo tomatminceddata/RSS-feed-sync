@@ -16266,7 +16266,17 @@
       "parser": "default",
       "discovered": "2026-09-07T20:14:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sigma-85mm-f-1-2-and-20-60mm-fe-lenses-officially-announced-preorders-open/",
+      "title": "Sigma 85mm f/1.2 and 20–60mm FE Lenses Officially Announced, Preorders Open",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-08T05:07:08+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T08:20:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-07T20:14:03+00:00"
+  "last_checked": "2026-09-08T08:20:46+00:00"
 }
