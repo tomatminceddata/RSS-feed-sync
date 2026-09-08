@@ -16326,7 +16326,97 @@
       "parser": "default",
       "discovered": "2026-09-08T12:22:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fe-8-14mm-f-3-5-fisheye-g-announced/",
+      "title": "Sony FE 8-14mm f/3.5 Fisheye G Announced",
+      "author": "Patrickpazzo",
+      "published": "2026-09-08T14:05:27+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app/",
+      "title": "Apple to Introduce All-New 'Readiness' App Tomorrow",
+      "author": "Joe Rossignol",
+      "published": "2026-09-08T15:55:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/small-prophets-renewed-for-season-2/",
+      "title": "'Small Prophets' Renewed for Season 2 Following Apple TV Deal",
+      "author": "Hartley Charlton",
+      "published": "2026-09-08T14:56:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-sued-over-face-id-patent-infringement/",
+      "title": "Apple Sued Over Alleged Face ID Patent Infringement",
+      "author": "Hartley Charlton",
+      "published": "2026-09-08T14:51:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-arcade-adds-five-more-games-in-october/",
+      "title": "Apple Arcade Adds 'Pusheen's Place' and Four More Games in October",
+      "author": "Hartley Charlton",
+      "published": "2026-09-08T14:34:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-acquires-sonera/",
+      "title": "Apple Acquires Startup Working on 'Breakthrough Sensing Technology'",
+      "author": "Joe Rossignol",
+      "published": "2026-09-08T14:15:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/amazon-150-off-m5-macbook-air/",
+      "title": "Amazon Takes Up to $150 Off M5 MacBook Air",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-08T13:55:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/amazon-discount-mac-studio/",
+      "title": "Amazon Introduces First Pre-Order Discount on New Mac Studio, Alongside Mac Mini Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-08T13:05:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T16:17:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/foldable-iphone-history-and-price-revealed/",
+      "title": "Foldable iPhone Development History and Price Revealed in New Report",
+      "author": "Hartley Charlton",
+      "published": "2026-09-08T12:55:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T16:17:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-08T12:22:51+00:00"
+  "last_checked": "2026-09-08T16:17:15+00:00"
 }
