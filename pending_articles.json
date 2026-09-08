@@ -16276,7 +16276,57 @@
       "parser": "default",
       "discovered": "2026-09-08T08:20:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-August-2026/ba-p/5365378",
+      "title": "Fabric Influencers Spotlight: August 2026",
+      "author": "slindsay",
+      "published": "2026-09-08T12:08:18+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-08T12:22:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/iphone-ultra-touch-id-not-confirmed/",
+      "title": "iPhone Ultra Touch ID 'Confirmed' in iOS 27? Not So Fast",
+      "author": "Tim Hardwick",
+      "published": "2026-09-08T12:10:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T12:22:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/2024-vs-2026-mac-mini/",
+      "title": "2024 vs. 2026 Mac Mini Buyer's Guide",
+      "author": "Hartley Charlton",
+      "published": "2026-09-08T11:56:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T12:22:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/foldable-iphone-may-launch-later-china/",
+      "title": "Foldable 'iPhone Ultra' May Launch Later in China, Says Leaker",
+      "author": "Tim Hardwick",
+      "published": "2026-09-08T11:47:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T12:22:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/iphone-air-2-could-replace-iphone-18/",
+      "title": "iPhone Air 2 Could Replace iPhone 18, Sketchy Rumor Claims",
+      "author": "Hartley Charlton",
+      "published": "2026-09-08T11:23:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-08T12:22:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-08T08:20:46+00:00"
+  "last_checked": "2026-09-08T12:22:51+00:00"
 }
