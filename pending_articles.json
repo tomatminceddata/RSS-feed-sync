@@ -16496,7 +16496,17 @@
       "parser": "default",
       "discovered": "2026-09-08T20:13:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/08/apple-releases-140w-usb-c-charger-firmware-update/",
+      "title": "Apple Releases Firmware Update for 140W USB-C Power Adapter",
+      "author": "Joe Rossignol",
+      "published": "2026-09-08T20:35:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T00:41:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-08T20:13:59+00:00"
+  "last_checked": "2026-09-09T00:41:26+00:00"
 }
