@@ -16526,7 +16526,127 @@
       "parser": "default",
       "discovered": "2026-09-09T08:20:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-announce-the-new-dp5-dp7-monitors/",
+      "title": "Sony announce the new DP5/DP7 monitors!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-09T10:11:14+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-pre-orders-sat-sept-12/",
+      "title": "iPhone 18 Pro Pre-Orders Said to Start Saturday, September 12",
+      "author": "Tim Hardwick",
+      "published": "2026-09-09T12:09:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-to-offer-better-trade-in-pricing/",
+      "title": "Apple to Offer Better Trade-In Pricing for Minor Cosmetic Damage",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T11:46:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/camera-airpods-supposed-to-debut-today/",
+      "title": "AirPods With Cameras Were Supposed to Debut Today, Now Delayed",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T11:35:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-details-leaked-by-verizon/",
+      "title": "iPhone 18 Pro Details Purportedly Leaked By Verizon's AI Assistant",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T11:28:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-store-down-iphone-18-pro-event/",
+      "title": "Apple Store Down Ahead of 'Surprise and Shine' iPhone 18 Pro Event",
+      "author": "Tim Hardwick",
+      "published": "2026-09-09T11:20:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/foldable-iphone-duo-apple-pencil-support/",
+      "title": "Foldable iPhone Duo to Come With Apple Pencil Support",
+      "author": "Tim Hardwick",
+      "published": "2026-09-09T11:06:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-price-hike-to-be-lower-than-expected/",
+      "title": "iPhone 18 Pro Price Hike to Be Lower Than Expected",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T11:00:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-ultra-4-to-get-improved-battery-life/",
+      "title": "Apple Watch Ultra 4 to Get Improved Battery Life",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T10:41:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-dynamic-island-to-shrink/",
+      "title": "iPhone 18 Pro Dynamic Island to Shrink, Add Third Live Activity",
+      "author": "Tim Hardwick",
+      "published": "2026-09-09T10:39:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-ai-feature-that-summarizes-your-day/",
+      "title": "Apple Watch Series 12 and Ultra 4 to Gain New AI Feature That Summarizes Your Day",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T10:36:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/leak-reveals-foldable-iphone-name-price-colors/",
+      "title": "Last-Minute Leak Reveals iPhone Duo Color Options and Base Storage",
+      "author": "Tim Hardwick",
+      "published": "2026-09-09T10:08:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T12:22:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-09T08:20:38+00:00"
+  "last_checked": "2026-09-09T12:22:30+00:00"
 }
