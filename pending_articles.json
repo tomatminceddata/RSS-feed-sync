@@ -16756,7 +16756,227 @@
       "parser": "default",
       "discovered": "2026-09-09T16:16:16+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-leaked-image-of-the-new-sony-400mm-f-4-5-gm-lens/",
+      "title": "First leaked image of the new Sony 400mm f/4.5 GM lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-09T18:11:52+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-fe-8-14mm-f-3-5-fisheye-g-reviews/",
+      "title": "New Sony FE 8-14mm f/3.5 Fisheye G reviews",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-09T15:43:01+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-redesigned-vapor-chamber/",
+      "title": "iPhone 18 Pro's Redesigned Vapor Chamber Triples Cooling Surface Area",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T20:08:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-different-modem/",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max Have Different Modems",
+      "author": "Juli Clover",
+      "published": "2026-09-09T20:07:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-and-pro-max-ram/",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max: Here's How Much RAM Each Has",
+      "author": "Joe Rossignol",
+      "published": "2026-09-09T20:02:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-reference-image/",
+      "title": "iPhone 18 Pro Introduces 'Apple Reference Image' to Verify Photo Authenticity",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T20:00:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-siri-ai-usage-limits/",
+      "title": "Apple's Fine Print: Daily Usage Limits for Siri AI, 'Expanded Access' Coming for a Fee",
+      "author": "Juli Clover",
+      "published": "2026-09-09T19:51:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/texture-and-grain-controls-photographic-styles/",
+      "title": "New Texture and Grain Controls Coming to Photographic Styles With iPhone 18 Pro",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T19:45:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-battery-life/",
+      "title": "iPhone Duo Battery Life Depends on Which Screen You Use",
+      "author": "Juli Clover",
+      "published": "2026-09-09T19:38:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/developer-video-series-for-iphone-duo/",
+      "title": "Apple Publishes Developer Video Series for iPhone Duo",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T19:34:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-iphone-duo-new-c2-modem/",
+      "title": "iPhone 18 Pro and iPhone Duo Feature Apple's New C2 Modem [Updated]",
+      "author": "Tim Hardwick",
+      "published": "2026-09-09T19:28:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-max-battery/",
+      "title": "iPhone 18 Pro Max Has 'Longest Battery Life in an iPhone' at Up to 45 Hours",
+      "author": "Juli Clover",
+      "published": "2026-09-09T19:27:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-gains-manual-aperture-and-more/",
+      "title": "iPhone 18 Pro Gains Manual Aperture, Shutter Speed Controls, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T19:25:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-gets-its-own-case-and-folio/",
+      "title": "iPhone Duo Gets Its Own Case and Folio With Kickstand",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T19:09:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-ios-27-rc/",
+      "title": "Apple Seeds iOS 27 and iPadOS 27 Release Candidates",
+      "author": "Juli Clover",
+      "published": "2026-09-09T19:07:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-seeds-macos-27-rc/",
+      "title": "macOS Golden Gate Release Candidate Now Available",
+      "author": "Juli Clover",
+      "published": "2026-09-09T19:07:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-seeds-watchos-27-rc/",
+      "title": "Apple Seeds watchOS 27, visionOS 27, and tvOS 27 Release Candidates",
+      "author": "Juli Clover",
+      "published": "2026-09-09T19:07:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/new-accessories-for-iphone-18-pro/",
+      "title": "Apple Debuts New Accessories for iPhone 18 Pro and AirPods Pro 3",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T19:01:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-discontinues-iphone-17-pro-max/",
+      "title": "Apple Discontinues iPhone 17 Pro and iPhone 17 Pro Max",
+      "author": "Tim Hardwick",
+      "published": "2026-09-09T18:55:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-raises-iphone-17-prices/",
+      "title": "Apple Raises Prices of iPhone 16, iPhone 17, iPhone Air, and iPhone 17e",
+      "author": "Tim Hardwick",
+      "published": "2026-09-09T18:39:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-supports-magsafe-charging/",
+      "title": "iPhone Duo Supports MagSafe Charging",
+      "author": "Juli Clover",
+      "published": "2026-09-09T18:28:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-pricing-pre-orders-release-date/",
+      "title": "iPhone Duo: Pricing, Pre-Orders, and Release Date Announced",
+      "author": "Joe Rossignol",
+      "published": "2026-09-09T18:24:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T20:14:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-09T16:16:16+00:00"
+  "last_checked": "2026-09-09T20:14:28+00:00"
 }
