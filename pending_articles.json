@@ -16646,7 +16646,117 @@
       "parser": "default",
       "discovered": "2026-09-09T12:22:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-ready-for-table-discovery-in-OneLake-Catalog-search-Preview/ba-p/5365764",
+      "title": "Get ready for table discovery in OneLake Catalog search (Preview)",
+      "author": "nschachter",
+      "published": "2026-09-09T14:09:05+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-event-live-blog-september-2026/",
+      "title": "Apple Event Live Blog: iPhone Duo, iPhone 18 Pro, and More Expected",
+      "author": "Jordan Golson",
+      "published": "2026-09-09T16:10:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/september-2026-spoiler-free/",
+      "title": "September 2026 Apple Event Spoiler-Free Video Stream",
+      "author": "Eric Slivka",
+      "published": "2026-09-09T16:00:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/all-iphone-18-pro-iphone-duo-colors/",
+      "title": "All New iPhone 18 Pro and 'iPhone Duo' Colors Leaked",
+      "author": "Joe Rossignol",
+      "published": "2026-09-09T15:47:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/mac-mini-vs-mac-studio/",
+      "title": "Mac Mini vs. Mac Studio Buyer's Guide: 20 Differences Compared",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T14:20:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-event-20-last-minute-iphone-rumors/",
+      "title": "Apple Event Today: 20 Last-Minute 'iPhone Duo' and iPhone 18 Pro Rumors",
+      "author": "Joe Rossignol",
+      "published": "2026-09-09T14:12:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-just-shared-a-mysterious-teaser/",
+      "title": "Apple Shares Mysterious Teaser Video Before 'iPhone Duo' Event Today",
+      "author": "Joe Rossignol",
+      "published": "2026-09-09T13:54:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-day-summary-tracks-these-activities/",
+      "title": "Apple Watch's New AI Day Summary Tracks These Activities",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T13:16:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/macbook-pro-significant-discounts/",
+      "title": "2026 MacBook Pro Gets Significant Discounts, Up to $600 Off Select Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-09T13:02:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/leaked-video-shows-iphone-18-pro-dynamic-island/",
+      "title": "Leaked Video Shows iPhone 18 Pro's 3-in-1 Dynamic Island in Action",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T12:57:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-could-charge-faster/",
+      "title": "iPhone 18 Pro Could Charge 25% Faster",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T12:41:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-09T16:16:16+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-09T12:22:30+00:00"
+  "last_checked": "2026-09-09T16:16:16+00:00"
 }
