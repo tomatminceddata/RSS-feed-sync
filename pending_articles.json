@@ -17166,7 +17166,37 @@
       "parser": "default",
       "discovered": "2026-09-10T00:39:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-hands-on/",
+      "title": "Hands-On With the iPhone Duo: The Crease is Still There, But Barely",
+      "author": "Juli Clover",
+      "published": "2026-09-10T01:44:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T04:17:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-september-2026-event-recap/",
+      "title": "Everything Apple Announced at the September 2026 Event",
+      "author": "Juli Clover",
+      "published": "2026-09-10T01:25:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T04:17:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-ip68-durability/",
+      "title": "iPhone Duo is Dust-Tight With IP68 Rating, Unlike Samsung's Galaxy Z Fold8",
+      "author": "Juli Clover",
+      "published": "2026-09-10T00:46:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T04:17:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-10T00:39:28+00:00"
+  "last_checked": "2026-09-10T04:17:40+00:00"
 }
