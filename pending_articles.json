@@ -17386,7 +17386,117 @@
       "parser": "default",
       "discovered": "2026-09-10T16:15:04+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Lineage-aware-AI-with-the-Fabric-item-relations-API-Preview/ba-p/5366064",
+      "title": "Lineage-aware AI with the Fabric item relations API (Preview)",
+      "author": "yaronc",
+      "published": "2026-09-10T19:10:20+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Designing-scalable-Business-Events-in-Microsoft-Fabric/ba-p/5365863",
+      "title": "Designing scalable Business Events in Microsoft Fabric",
+      "author": "robece-msft",
+      "published": "2026-09-10T19:40:36+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Accelerate-JSON-workloads-with-the-Native-Execution-Engine-in/ba-p/5364366",
+      "title": "Accelerate JSON workloads with the Native Execution Engine in Microsoft Fabric",
+      "author": "Santhosh_Ravin1",
+      "published": "2026-09-10T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/mac-edge-light-feature-may-expand-to-iphone/",
+      "title": "Mac's Edge Light Feature Rumored to Expand to iPhone",
+      "author": "Joe Rossignol",
+      "published": "2026-09-10T19:59:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-eu-repair-rating/",
+      "title": "Apple Rates iPhone 18 Pro Slightly Easier to Repair Than 17 Pro",
+      "author": "Juli Clover",
+      "published": "2026-09-10T19:49:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-hypertension-alerts/",
+      "title": "Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications",
+      "author": "Juli Clover",
+      "published": "2026-09-10T19:33:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-health-app-new-features/",
+      "title": "iOS 27 Apple Health App Redesign: Every New Feature Coming in 2026",
+      "author": "Juli Clover",
+      "published": "2026-09-10T19:25:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/rip-iphone-ultra/",
+      "title": "RIP, iPhone Ultra",
+      "author": "Joe Rossignol",
+      "published": "2026-09-10T19:13:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-46mm-price-increase/",
+      "title": "Apple Watch Series 12 Received a Price Increase You Might Have Missed",
+      "author": "Joe Rossignol",
+      "published": "2026-09-10T18:11:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/ceramic-apple-watch-series-12-is-bigger/",
+      "title": "Ceramic Apple Watch Series 12 Is Bigger and Heavier Than Other Models",
+      "author": "Hartley Charlton",
+      "published": "2026-09-10T17:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-vs-iphone-20/",
+      "title": "Skipping the iPhone 18 Pro? Redesigned 'iPhone 20' is Coming Next Year",
+      "author": "Joe Rossignol",
+      "published": "2026-09-10T16:49:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T20:13:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-10T16:15:04+00:00"
+  "last_checked": "2026-09-10T20:13:31+00:00"
 }
