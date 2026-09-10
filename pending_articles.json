@@ -16976,7 +16976,197 @@
       "parser": "default",
       "discovered": "2026-09-09T20:14:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/ios-27-iphone-handoff-t-mobile/",
+      "title": "iOS 27's 'iPhone Handoff' Feature Limited to T-Mobile and Deutsche Telekom at Launch",
+      "author": "Juli Clover",
+      "published": "2026-09-09T23:49:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-folding-screen-layers/",
+      "title": "Apple Explains What's Inside the iPhone Duo's Folding Screen",
+      "author": "Juli Clover",
+      "published": "2026-09-09T23:38:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-thinnest-iphone/",
+      "title": "iPhone Duo Beats iPhone Air as Apple's Thinnest iPhone, But Only When Open",
+      "author": "Juli Clover",
+      "published": "2026-09-09T22:43:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-crease/",
+      "title": "Here's What Apple Says About the iPhone Duo's Crease",
+      "author": "Juli Clover",
+      "published": "2026-09-09T22:35:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-and-ultra-4-new-bands/",
+      "title": "Apple Watch Series 12 and Ultra 4 Get Wave of New Bands",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T22:24:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/ios-27-apple-gift-cards-tap-to-redeem-on-iphone/",
+      "title": "iOS 27 Will Let You Redeem Apple Gift Cards on the Back of Your iPhone",
+      "author": "Joe Rossignol",
+      "published": "2026-09-09T22:11:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-comes-new-finishes/",
+      "title": "Apple Watch Series 12 Comes in New Finishes, Including Ceramic",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T21:52:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-esim-only-countries/",
+      "title": "iPhone 18 Pro is eSIM-Only in These Countries",
+      "author": "Joe Rossignol",
+      "published": "2026-09-09T21:52:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-ios-27-1/",
+      "title": "iPhone Duo Will Ship With iOS 27.1, Hinting at Update's Release Date",
+      "author": "Juli Clover",
+      "published": "2026-09-09T21:36:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/audio-intelligence-features/",
+      "title": "Three All-New 'Audio Intelligence' Features Arrive With Apple Watch Series 12 and Ultra 4",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T21:23:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/",
+      "title": "iPhone Duo Only Works With the $79 USB-C Apple Pencil, Not the Apple Pencil Pro",
+      "author": "Juli Clover",
+      "published": "2026-09-09T21:15:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/apple-watch-series-12-and-ultra-4-health-and-fitness/",
+      "title": "Apple Watch Series 12 and Ultra 4 Offer These Eight New Health and Fitness Features",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T21:07:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-duo-doesnt-have-an-action-button/",
+      "title": "iPhone Duo Doesn't Have an Action Button",
+      "author": "Juli Clover",
+      "published": "2026-09-09T21:01:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-max-battery-capacities/",
+      "title": "Apple Reveals iPhone 18 Pro and iPhone 18 Pro Max Battery Capacities",
+      "author": "Joe Rossignol",
+      "published": "2026-09-09T20:56:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-max-heavier/",
+      "title": "iPhone 18 Pro Max Is Heavier Than iPhone 17 Pro Max, Not Thicker",
+      "author": "Juli Clover",
+      "published": "2026-09-09T20:41:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/airpods-5-include-anc-as-standard/",
+      "title": "AirPods 5 Include ANC as Standard, Pricier Variant Now Gatekeeps Wireless Charging Instead",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T20:36:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/samsung-mocks-iphone-duo/",
+      "title": "Samsung Mocks iPhone Duo",
+      "author": "Joe Rossignol",
+      "published": "2026-09-09T20:28:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/applecare-one-family-plan/",
+      "title": "Apple Adds AppleCare One Family Plan for Up to Six People",
+      "author": "Hartley Charlton",
+      "published": "2026-09-09T20:23:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-storage-price-hike/",
+      "title": "iPhone 18 Pro's $100 Price Increase is Actually $300 If You Want 1TB Storage",
+      "author": "Juli Clover",
+      "published": "2026-09-09T20:20:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T00:39:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-09T20:14:28+00:00"
+  "last_checked": "2026-09-10T00:39:28+00:00"
 }
