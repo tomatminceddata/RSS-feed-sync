@@ -17246,7 +17246,147 @@
       "parser": "default",
       "discovered": "2026-09-10T12:22:06+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Q-A-retirement-reminder-February-2027-timeline-update/ba-p/5365841",
+      "title": "Power BI Q&A retirement reminder: February 2027 timeline update",
+      "author": "mohammadali",
+      "published": "2026-09-10T16:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-new-600mm-f-6-3-has-25m-close-focus/",
+      "title": "Sony new 600mm f/6.3 has 2,5m close focus",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-10T11:05:18+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-has-smaller-screens/",
+      "title": "Apple Watch Series 12 Has Smaller Screens and Bigger Cases",
+      "author": "Hartley Charlton",
+      "published": "2026-09-10T15:52:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/amazon-pre-order-airpods-watch/",
+      "title": "AirPods 5 and Apple Watch Series 12 Pre-Orders Open on Amazon, With Early Discount",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-10T15:42:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-under-screen-camera-location/",
+      "title": "Why iPhone Duo's Under-Screen Camera Isn't in the Corner",
+      "author": "Tim Hardwick",
+      "published": "2026-09-10T15:37:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/best-cases-iphone-18-pro-iphone-duo/",
+      "title": "Shop the Best Cases for Your New iPhone 18 Pro or iPhone Duo",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-10T15:11:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-apple-under-display-camera-mystery/",
+      "title": "Apple Isn't Revealing the iPhone Duo's Under-Screen Camera Resolution",
+      "author": "Tim Hardwick",
+      "published": "2026-09-10T15:06:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/iphone-duo-has-similar-main-camera-to-iphone-17e/",
+      "title": "iPhone Duo Has Similar Main Camera to iPhone 17e",
+      "author": "Hartley Charlton",
+      "published": "2026-09-10T13:59:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-17-pro-vs-18-pro/",
+      "title": "iPhone 17 Pro vs. iPhone 18 Pro: 35+ Upgrades Compared",
+      "author": "Hartley Charlton",
+      "published": "2026-09-10T13:18:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-ultra-4-increased-ram/",
+      "title": "Apple Watch Series 12 and Apple Watch Ultra 4 Have Increased RAM Without Price Increase",
+      "author": "Joe Rossignol",
+      "published": "2026-09-10T13:15:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/apple-considering-ads-inside-visual-intelligence/",
+      "title": "Apple Considering Ads Inside Visual Intelligence, Code Suggests",
+      "author": "Hartley Charlton",
+      "published": "2026-09-10T12:55:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/ios-27-rc-camera-app-customization/",
+      "title": "iOS 27 RC Adds Long-Rumored Camera App Controls Customization",
+      "author": "Tim Hardwick",
+      "published": "2026-09-10T12:45:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/macos-27-golden-gate-release-date/",
+      "title": "Apple Announces macOS Golden Gate Release Date",
+      "author": "Joe Rossignol",
+      "published": "2026-09-10T07:15:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-pro-max-10-new-features/",
+      "title": "iPhone 18 Pro Launching on September 18 With These 10 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-09-10T07:05:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-10T16:15:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-10T12:22:06+00:00"
+  "last_checked": "2026-09-10T16:15:04+00:00"
 }
