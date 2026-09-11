@@ -17646,7 +17646,57 @@
       "parser": "default",
       "discovered": "2026-09-11T16:15:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/apple-watch-series-11-vs-12/",
+      "title": "Apple Watch Series 11 vs. Series 12 Buyer's Guide: 25+ Upgrades Compared",
+      "author": "Hartley Charlton",
+      "published": "2026-09-11T19:44:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T20:14:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on/",
+      "title": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
+      "author": "Juli Clover",
+      "published": "2026-09-11T19:37:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T20:14:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-get-ready/",
+      "title": "iPhone 18 Pro Pre-Orders: Deadline to 'Get Ready' Early is Tonight",
+      "author": "Joe Rossignol",
+      "published": "2026-09-11T19:37:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T20:14:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/apple-still-has-8-products-to-announce-this-year/",
+      "title": "Apple Still Has 8 More Products to Announce Later This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-09-11T18:14:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T20:14:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/iphone-duo-split-view-not-like-ipad/",
+      "title": "iPhone Duo Can Do Split View, But Not Like Your iPad",
+      "author": "Tim Hardwick",
+      "published": "2026-09-11T16:26:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T20:14:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-11T16:15:46+00:00"
+  "last_checked": "2026-09-11T20:14:22+00:00"
 }
