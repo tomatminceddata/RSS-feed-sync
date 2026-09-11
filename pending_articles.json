@@ -17586,7 +17586,67 @@
       "parser": "default",
       "discovered": "2026-09-11T12:22:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-sony-400-and-600mm-gm-lenses-to-be-announced-on-sept-15-at-3pm-london-time/",
+      "title": "Confirmed: Sony 400 and 600mm GM lenses to be announced on Sept 15 at 3pm London time!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-11T14:30:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T16:15:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/the-macrumors-show-iphone-duo/",
+      "title": "The MacRumors Show: iPhone 18 Pro and iPhone Duo Announced!",
+      "author": "Hartley Charlton",
+      "published": "2026-09-11T16:05:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T16:15:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/iphone-duo-is-missing-these-features/",
+      "title": "iPhone Duo is Missing These 10 iPhone 18 Pro Features",
+      "author": "Joe Rossignol",
+      "published": "2026-09-11T15:13:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T16:15:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/best-apple-deals-of-the-week-9-11-26/",
+      "title": "Amazon Offers Up to $600 Off M5 MacBook Pro, $330 Off Studio Display",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-11T13:48:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T16:15:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/airpods-5-lack-charging-cable-in-box/",
+      "title": "Reminder: AirPods 5 Do Not Include a Charging Cable in the Box",
+      "author": "Joe Rossignol",
+      "published": "2026-09-11T13:32:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T16:15:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/upgrade-to-iphone-18-pro-from-iphone-17-pro/",
+      "title": "What Upgrading to iPhone 18 Pro From iPhone 17 Pro Gets You",
+      "author": "Tim Hardwick",
+      "published": "2026-09-11T12:44:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T16:15:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-11T12:22:36+00:00"
+  "last_checked": "2026-09-11T16:15:46+00:00"
 }
