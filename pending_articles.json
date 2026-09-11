@@ -17546,7 +17546,47 @@
       "parser": "default",
       "discovered": "2026-09-11T00:40:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/its-official-sony-fx5-shipments-delayed-until-mid-october/",
+      "title": "It’s Official: Sony FX5 Shipments Delayed Until Mid-October",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-11T10:42:41+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T12:22:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/imax-reacts-to-iphone-duo-displays/",
+      "title": "IMAX Reacts to iPhone Duo's 1:1.4 Aspect Ratio Displays",
+      "author": "Tim Hardwick",
+      "published": "2026-09-11T11:42:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T12:22:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/apple-explains-iphone-duo-design-secrecy-price/",
+      "title": "Apple Execs Explain iPhone Duo's Display Design, Secrecy, and Price",
+      "author": "Tim Hardwick",
+      "published": "2026-09-11T11:09:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T12:22:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/apple-pay-250-dollars-iphone-duo-display-samsung/",
+      "title": "Apple to Pay $250 Per iPhone Duo Foldable Display in Samsung Deal",
+      "author": "Tim Hardwick",
+      "published": "2026-09-11T10:10:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T12:22:36+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-11T00:40:14+00:00"
+  "last_checked": "2026-09-11T12:22:36+00:00"
 }
