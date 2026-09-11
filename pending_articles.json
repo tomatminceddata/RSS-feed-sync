@@ -17496,7 +17496,57 @@
       "parser": "default",
       "discovered": "2026-09-10T20:13:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-siri-recap/",
+      "title": "Apple Explains What Happens to Conversations Siri Recap Hears",
+      "author": "Juli Clover",
+      "published": "2026-09-10T23:38:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T00:40:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-ultra-4-glonass/",
+      "title": "Apple Watch Ultra 4 Drops GLONASS Support",
+      "author": "Juli Clover",
+      "published": "2026-09-10T23:16:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T00:40:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost/",
+      "title": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff",
+      "author": "Juli Clover",
+      "published": "2026-09-10T22:58:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T00:40:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/",
+      "title": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says",
+      "author": "Juli Clover",
+      "published": "2026-09-10T22:11:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T00:40:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/10/ceramic-series-12-repair-costs/",
+      "title": "Ceramic Series 12 is Pricier to Repair Than Apple Watch Ultra 4",
+      "author": "Juli Clover",
+      "published": "2026-09-10T20:31:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-11T00:40:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-10T20:13:31+00:00"
+  "last_checked": "2026-09-11T00:40:14+00:00"
 }
