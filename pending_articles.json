@@ -17746,7 +17746,27 @@
       "parser": "default",
       "discovered": "2026-09-12T08:17:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-available-to-pre-order/",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max Now Available to Pre-Order",
+      "author": "Juli Clover",
+      "published": "2026-09-12T12:01:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T12:19:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/12/best-carrier-deals-iphone-18-pro/",
+      "title": "Here Are The Best Carrier Deals You Can Get When Pre-Ordering iPhone 18 Pro Today",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-12T12:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T12:19:13+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-12T08:17:38+00:00"
+  "last_checked": "2026-09-12T12:19:13+00:00"
 }
