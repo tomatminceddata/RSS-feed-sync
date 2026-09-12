@@ -17736,7 +17736,17 @@
       "parser": "default",
       "discovered": "2026-09-12T04:16:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/12/apple-store-down-iphone-18-pro-pre-orders/",
+      "title": "Apple Store Down Ahead of iPhone 18 Pro Pre-Orders",
+      "author": "Tim Hardwick",
+      "published": "2026-09-12T06:30:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T08:17:38+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-12T04:16:08+00:00"
+  "last_checked": "2026-09-12T08:17:38+00:00"
 }
