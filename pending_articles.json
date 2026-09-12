@@ -17726,7 +17726,17 @@
       "parser": "default",
       "discovered": "2026-09-12T00:38:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/pre-order-your-iphone-18-pro-from-apple/",
+      "title": "How to Pre-Order Your iPhone 18 Pro From Apple",
+      "author": "Tim Hardwick",
+      "published": "2026-09-12T03:22:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T04:16:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-12T00:38:49+00:00"
+  "last_checked": "2026-09-12T04:16:08+00:00"
 }
