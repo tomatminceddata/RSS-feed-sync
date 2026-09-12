@@ -17766,7 +17766,37 @@
       "parser": "default",
       "discovered": "2026-09-12T12:19:13+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7r-vi-sony-100m-g-master-macro-top-notch-macro-gear/",
+      "title": "Sony a7R VI + Sony 100m G-Master Macro | Top-Notch Macro Gear",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-12T11:00:10+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T16:14:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/12/top-stories-apple-event-recap-iphone-duo/",
+      "title": "Top Stories: Apple Event Recap With iPhone Duo, iPhone 18 Pro, Apple Watch, and AirPods",
+      "author": "MacRumors Staff",
+      "published": "2026-09-12T16:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T16:14:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-pre-order-shipping-dates/",
+      "title": "Didn't Pre-Order iPhone 18 Pro Yet? Here's How Long the Wait is Now",
+      "author": "Joe Rossignol",
+      "published": "2026-09-12T13:48:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T16:14:10+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-12T12:19:13+00:00"
+  "last_checked": "2026-09-12T16:14:10+00:00"
 }
