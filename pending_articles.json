@@ -17696,7 +17696,37 @@
       "parser": "default",
       "discovered": "2026-09-11T20:14:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/a-ton-of-new-sony-and-electronic-deals-at-amazon/",
+      "title": "A ton of new Sony and Electronic deals at Amazon",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-11T19:39:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T00:38:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-pre-orders-time-zones/",
+      "title": "Here's When iPhone 18 Pro Pre-Orders Begin in Every Time Zone",
+      "author": "Eric Slivka",
+      "published": "2026-09-11T22:02:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T00:38:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/11/ios-27-delayed-features/",
+      "title": "Two iOS 27 Features Won't Be Ready for Monday's Launch",
+      "author": "Juli Clover",
+      "published": "2026-09-11T20:37:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-12T00:38:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-11T20:14:22+00:00"
+  "last_checked": "2026-09-12T00:38:49+00:00"
 }
