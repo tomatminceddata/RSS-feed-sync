@@ -17806,7 +17806,17 @@
       "parser": "default",
       "discovered": "2026-09-13T00:45:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/13/ios-27-release-date-time-zones/",
+      "title": "Here's When iOS 27 Rolls Out in Every Time Zone",
+      "author": "Eric Slivka",
+      "published": "2026-09-13T10:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-13T12:20:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-13T00:45:42+00:00"
+  "last_checked": "2026-09-13T12:20:00+00:00"
 }
