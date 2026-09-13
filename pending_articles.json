@@ -17796,7 +17796,17 @@
       "parser": "default",
       "discovered": "2026-09-12T16:14:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/",
+      "title": "Apple Says iPhone 18 Pro Max Sold in U.S. Differs in One Way",
+      "author": "Joe Rossignol",
+      "published": "2026-09-12T22:27:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-13T00:45:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-12T16:14:10+00:00"
+  "last_checked": "2026-09-13T00:45:42+00:00"
 }
