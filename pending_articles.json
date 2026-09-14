@@ -15955,7 +15955,97 @@
       "parser": "default",
       "discovered": "2026-09-14T12:23:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Business-Events-Fabric-Events-and-Azure-Events-to-Real-Time/ba-p/5365864",
+      "title": "From Business Events, Fabric Events, and Azure Events to Real-Time Hub",
+      "author": "robece-msft",
+      "published": "2026-09-14T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-14T16:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/angelbird-launched-new-av-pro-cfexpress-v4-type-a-memory-cards/",
+      "title": "Angelbird launched new AV PRO CFexpress v4 Type A Memory Cards",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-14T11:44:19+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T16:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/top-charging-accessories-iphone-18-pro/",
+      "title": "Top Charging Accessories for iPhone 18 Pro and Pro Max on Sale Ahead of Launch",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-14T16:07:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T16:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/airpods-4-vs-5/",
+      "title": "AirPods 4 vs. AirPods 5 Buyer's Guide",
+      "author": "Hartley Charlton",
+      "published": "2026-09-14T16:06:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T16:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-reveals-new-wallet-designs/",
+      "title": "iOS 27 Code Reveals New MagSafe Wallet Designs and Animation",
+      "author": "Hartley Charlton",
+      "published": "2026-09-14T14:47:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T16:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/things-3-updated-for-ios-27/",
+      "title": "Things 3 Updated for iOS 27 With Siri AI and Spotlight Integration",
+      "author": "Hartley Charlton",
+      "published": "2026-09-14T14:32:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T16:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/m4-ipad-air-150-off/",
+      "title": "M4 iPad Air Gets Up to $149 Off at Amazon and Best Buy This Week",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-14T14:13:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T16:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-stores-to-lose-video-walls/",
+      "title": "Apple Stores Said to Lose Video Walls, Regain Dedicated Genius Bars",
+      "author": "Hartley Charlton",
+      "published": "2026-09-14T13:23:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T16:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/iphone-18-pro-pre-orders-shipping-delivery-dates/",
+      "title": "Didn't Pre-Order an iPhone 18 Pro Yet? Wait Times Are Even Longer Now",
+      "author": "Joe Rossignol",
+      "published": "2026-09-14T13:12:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T16:15:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-14T12:23:07+00:00"
+  "last_checked": "2026-09-14T16:15:12+00:00"
 }
