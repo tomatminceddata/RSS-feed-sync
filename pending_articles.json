@@ -15855,7 +15855,17 @@
       "parser": "default",
       "discovered": "2026-09-14T00:45:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
+      "title": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
+      "author": "Joe Rossignol",
+      "published": "2026-09-14T03:06:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T04:19:18+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-14T00:45:29+00:00"
+  "last_checked": "2026-09-14T04:19:18+00:00"
 }
