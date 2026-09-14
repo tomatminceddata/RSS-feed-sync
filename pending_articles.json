@@ -16045,7 +16045,187 @@
       "parser": "default",
       "discovered": "2026-09-14T16:15:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Diagnose-Fabric-Data-Warehouse-workloads-with-the-SQL-DW/ba-p/5366102",
+      "title": "Diagnose Fabric Data Warehouse workloads with the SQL DW operations skill (Generally Available)",
+      "author": "Mariyaali",
+      "published": "2026-09-14T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/big-savings-on-lexar-cards-and-storage/",
+      "title": "Big savings on Lexar Cards and Storage",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-14T17:50:18+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/at-last-tomorrow-sept-15-we-will-get-the-new-400-and-60mm-gm-lenses/",
+      "title": "At last: Tomorrow (Sept 15) we will get the new 400 and 600mm GM lenses!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-14T14:55:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/applecare-one-family-launches/",
+      "title": "AppleCare One Family Launches at $49.99 Per Month",
+      "author": "Juli Clover",
+      "published": "2026-09-14T20:06:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-features-to-try-first/",
+      "title": "iOS 27 Now Available: 10 Features to Try First",
+      "author": "Juli Clover",
+      "published": "2026-09-14T20:02:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/more-than-1000-apple-watch-bands/",
+      "title": "More Than 1,000 Apple Watch Bands Have Been Released Since 2015",
+      "author": "Joe Rossignol",
+      "published": "2026-09-14T19:18:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-airpods-ios-27-firmware/",
+      "title": "Apple Releases New AirPods Firmware With iOS 27 Features",
+      "author": "Juli Clover",
+      "published": "2026-09-14T18:42:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-bug-fixes/",
+      "title": "iOS 27 and iOS 26.7 Fix More Than 100 Security Bugs",
+      "author": "Juli Clover",
+      "published": "2026-09-14T18:36:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-tahoe-26-7/",
+      "title": "Apple Releases macOS Tahoe 26.7 and macOS Sequoia 15.8",
+      "author": "Juli Clover",
+      "published": "2026-09-14T17:40:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
+      "title": "Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update",
+      "author": "Juli Clover",
+      "published": "2026-09-14T17:39:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/",
+      "title": "Apple Releases iOS 26.7 With Security Fixes",
+      "author": "Juli Clover",
+      "published": "2026-09-14T17:32:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-macos-golden-gate/",
+      "title": "macOS Golden Gate Now Available With Siri AI, Visual Intelligence and More",
+      "author": "Juli Clover",
+      "published": "2026-09-14T17:07:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-watchos-27/",
+      "title": "Apple Releases watchOS 27 With Siri AI, New Watch Face, Smart Stack Improvements and More",
+      "author": "Juli Clover",
+      "published": "2026-09-14T17:03:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-visionos-27/",
+      "title": "Apple Releases visionOS 27 With Siri AI and New Spatial Experiences",
+      "author": "Juli Clover",
+      "published": "2026-09-14T17:02:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-tvos-27/",
+      "title": "Apple Releases tvOS 27",
+      "author": "Juli Clover",
+      "published": "2026-09-14T17:01:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-homepod-software-27/",
+      "title": "Apple Releases HomePod Software 27 With AutoMix Support",
+      "author": "Juli Clover",
+      "published": "2026-09-14T17:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-iphone-handoff-more-carriers-soon/",
+      "title": "iOS 27's iPhone Handoff Feature Expanding to More Carriers This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-09-14T16:55:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-1-new-features-release-date/",
+      "title": "iOS 27.1: New Features to Expect and Release Date",
+      "author": "Joe Rossignol",
+      "published": "2026-09-14T16:30:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T20:14:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-14T16:15:12+00:00"
+  "last_checked": "2026-09-14T20:14:26+00:00"
 }
