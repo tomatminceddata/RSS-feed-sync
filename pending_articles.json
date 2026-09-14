@@ -15885,7 +15885,77 @@
       "parser": "default",
       "discovered": "2026-09-14T08:23:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/top-10-august-bcnranking-sony-a7v-only-full-frame-camera-in-a-world-dominated-by-aps-c/",
+      "title": "Top 10 August BCNranking: Sony A7V only Full Frame camera in a world dominated by APS-C",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-14T06:55:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T12:23:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/iphone-duo-dock-limited-four-app-icons/",
+      "title": "iPhone Duo's Vertical Dock Seemingly Limited to Four App Icons",
+      "author": "Tim Hardwick",
+      "published": "2026-09-14T12:05:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T12:23:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "author": "Tim Hardwick",
+      "published": "2026-09-14T11:37:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T12:23:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-18-pro-max/",
+      "title": "iPhone 18 Pro vs. iPhone 18 Pro Max Buyer's Guide",
+      "author": "Hartley Charlton",
+      "published": "2026-09-14T11:26:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T12:23:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/third-gen-iphone-duo-face-id-telephoto-lens/",
+      "title": "Third-Gen iPhone Duo to Get Face ID, Telephoto Lens, Expects Gurman",
+      "author": "Tim Hardwick",
+      "published": "2026-09-14T09:30:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T12:23:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/iphone-duo-hidden-display-setting-explained/",
+      "title": "iPhone Duo Has a Hidden Display Setting for Case Compatibility",
+      "author": "Tim Hardwick",
+      "published": "2026-09-14T09:06:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T12:23:07+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-features-available-tomorrow/",
+      "title": "iOS 27 Available Today With These 8 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-09-14T07:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-14T12:23:07+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-14T08:23:47+00:00"
+  "last_checked": "2026-09-14T12:23:07+00:00"
 }
