@@ -16225,7 +16225,107 @@
       "parser": "default",
       "discovered": "2026-09-14T20:14:26+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-ultimate-mega-guide/",
+      "title": "iOS 27 Features: The Ultimate Mega Guide",
+      "author": "Juli Clover",
+      "published": "2026-09-15T00:34:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/macos-golden-gate-10-features-2/",
+      "title": "macOS Golden Gate: 10 Features to Try First",
+      "author": "Juli Clover",
+      "published": "2026-09-15T00:02:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/appzapper-3000-for-mac/",
+      "title": "AppZapper Mac Uninstaller Returns as AppZapper 3000",
+      "author": "Juli Clover",
+      "published": "2026-09-14T23:58:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/spacexai-drops-apple-lawsuit/",
+      "title": "Musk Drops Apple Lawsuit Over ChatGPT Siri Deal, Keeps Suing OpenAI",
+      "author": "Juli Clover",
+      "published": "2026-09-14T23:52:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apple-supreme-court-contempt-ruling/",
+      "title": "Apple Asks Supreme Court to Throw Out App Store Contempt Ruling",
+      "author": "Juli Clover",
+      "published": "2026-09-14T23:28:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/xchat-app-disappears-from-app-store/",
+      "title": "X's Standalone Messaging App XChat Disappears From App Store",
+      "author": "Juli Clover",
+      "published": "2026-09-14T22:25:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
+      "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five",
+      "author": "Juli Clover",
+      "published": "2026-09-14T21:46:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/new-apple-tv-homepod-mini-on-track-for-2026/",
+      "title": "New Apple TV, HomePod Mini, and More on Track to Launch This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-09-14T21:18:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/oled-macbook-pro-macos-27-1-testing/",
+      "title": "MacBook Pro With OLED Touch Screen Running macOS 27.1 Inside Apple",
+      "author": "Joe Rossignol",
+      "published": "2026-09-14T21:16:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/14/apples-newest-store-features-three-changes/",
+      "title": "Apple's Newest Store Features Three Design Changes",
+      "author": "Joe Rossignol",
+      "published": "2026-09-14T20:23:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T00:42:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-14T20:14:26+00:00"
+  "last_checked": "2026-09-15T00:42:03+00:00"
 }
