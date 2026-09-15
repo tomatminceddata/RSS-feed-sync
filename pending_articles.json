@@ -16335,7 +16335,57 @@
       "parser": "default",
       "discovered": "2026-09-15T08:20:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-leaked-image-of-the-new-400mm-and-600mm-gm-lenses/",
+      "title": "New leaked image of the new 400mm and 600mm GM lenses!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-15T09:01:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T12:22:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/apples-strangest-support-page-turned-12-today/",
+      "title": "Apple's Weirdest iTunes Walk-Back Turns 12 Today",
+      "author": "Tim Hardwick",
+      "published": "2026-09-15T11:13:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T12:22:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/apple-snuck-dogcow-into-ios-27-how-to-find/",
+      "title": "Moof! Apple Snuck a Dogcow Into iOS 27 - Here's How to Find It",
+      "author": "Tim Hardwick",
+      "published": "2026-09-15T10:44:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T12:22:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/iphone-18-pro-orders-muted-start/",
+      "title": "iPhone 18 Pro Pre-Orders Off to a Muted Start, Analyst Says",
+      "author": "Tim Hardwick",
+      "published": "2026-09-15T10:18:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T12:22:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/icloud-plus-includes-apple-tv-arcade-100-countries/",
+      "title": "iCloud+ Now Includes Apple TV, Apple Arcade, and Curated Apple Music Stations in Over 100 Countries",
+      "author": "Tim Hardwick",
+      "published": "2026-09-15T08:43:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T12:22:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-15T08:20:57+00:00"
+  "last_checked": "2026-09-15T12:22:15+00:00"
 }
