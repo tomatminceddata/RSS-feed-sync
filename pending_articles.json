@@ -16385,7 +16385,107 @@
       "parser": "default",
       "discovered": "2026-09-15T12:22:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-sonys-ultra-light-400mm-and-600mm-gm-telephoto-primes/",
+      "title": "Just Announced: Sony’s Ultra-Light 400mm and 600mm GM Telephoto Primes!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-15T14:01:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/press-text-sony-electronics-announces-new-400-mm-and-600-mm-g-master-super-telephoto-prime-lenses-the-worlds-lightest1-lenses-in-their-class/",
+      "title": "Press text: Sony Electronics Announces New 400mm and 600mm G Master™ Super-Telephoto Prime Lenses, the World’s Lightest Lenses in Their Class",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-15T13:52:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/ios-27-siri-ai-has-waitlist-how-to-join/",
+      "title": "Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up",
+      "author": "Joe Rossignol",
+      "published": "2026-09-15T15:54:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/apple-tv-homepod-mini-shipping-delays/",
+      "title": "Apple TV Shipping Delays Persist, HomePod Mini Unavailable in Orange",
+      "author": "Joe Rossignol",
+      "published": "2026-09-15T15:39:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/apple-watch-pre-order-discounts/",
+      "title": "Apple Watch Pre-Order Discounts Expand With Up to $20 In Savings",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-15T15:27:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/airpods-pre-order-deal/",
+      "title": "AirPods 5 Sees Initial Pre-Order Deal Ahead of Launch This Friday",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-15T14:29:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/iphone-car-keys-coming-to-three-more-automakers/",
+      "title": "iPhone Car Keys in Apple Wallet Expanding to Three More Vehicle Brands",
+      "author": "Joe Rossignol",
+      "published": "2026-09-15T14:17:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/apple-cuts-iphone-trade-in-value/",
+      "title": "Apple Cuts iPhone Trade-In Values While Raising Mac and iPad",
+      "author": "Hartley Charlton",
+      "published": "2026-09-15T13:43:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/spotify-keep-kids-music-out-of-taste-profile/",
+      "title": "Spotify Now Lets You Keep Kids' Music Out of Your Wrapped",
+      "author": "Tim Hardwick",
+      "published": "2026-09-15T12:59:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/widows-bay-apple-tv-record-emmy-wins/",
+      "title": "'Widow's Bay' Leads Apple TV to Record 29 Emmy Wins",
+      "author": "Tim Hardwick",
+      "published": "2026-09-15T12:34:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T16:15:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-15T12:22:15+00:00"
+  "last_checked": "2026-09-15T16:15:30+00:00"
 }
