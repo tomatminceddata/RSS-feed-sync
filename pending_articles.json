@@ -16485,7 +16485,77 @@
       "parser": "default",
       "discovered": "2026-09-15T16:15:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Moving-off-ODBC-A-self-serve-scanner-for-your-ADBC-migration/ba-p/5365622",
+      "title": "Moving off ODBC — A self-serve scanner for your ADBC migration",
+      "author": "MichaelaIsaacs",
+      "published": "2026-09-15T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-15T20:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/apple-last-intel-imac-vintage/",
+      "title": "Apple's Last Intel 21.5-Inch iMac is Now Vintage",
+      "author": "Juli Clover",
+      "published": "2026-09-15T19:53:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T20:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-16-pro-vs-18-pro/",
+      "title": "iPhone 16 Pro vs. iPhone 18 Pro Buyer's Guide: Worth Upgrading?",
+      "author": "Hartley Charlton",
+      "published": "2026-09-15T19:17:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T20:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/airpods-5-hands-on/",
+      "title": "AirPods 5 Hands-On: Better Noise Cancellation, Lower Price",
+      "author": "Juli Clover",
+      "published": "2026-09-15T18:19:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T20:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/apple-m5-ultra-chip-benchmark/",
+      "title": "M5 Ultra Chip's Impressive Performance Boost Revealed in First Benchmark Result",
+      "author": "Joe Rossignol",
+      "published": "2026-09-15T18:00:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T20:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/owcs-mac-sale-macrumors/",
+      "title": "OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-15T17:38:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T20:14:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/apple-m6-chip-benchmark/",
+      "title": "M6 Chip Benchmark Surfaces Ahead of New Mac Mini Launch Next Week",
+      "author": "Joe Rossignol",
+      "published": "2026-09-15T16:38:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-15T20:14:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-15T16:15:30+00:00"
+  "last_checked": "2026-09-15T20:14:42+00:00"
 }
