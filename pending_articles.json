@@ -16555,7 +16555,27 @@
       "parser": "default",
       "discovered": "2026-09-15T20:14:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/15/apple-reference-image-info/",
+      "title": "Apple Details How Reference Image Proves a Photo is Real",
+      "author": "Juli Clover",
+      "published": "2026-09-15T23:46:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T00:40:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-duo-camera/",
+      "title": "What the iPhone Duo's Camera Can and Can't Do",
+      "author": "Juli Clover",
+      "published": "2026-09-15T22:11:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T00:40:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-15T20:14:42+00:00"
+  "last_checked": "2026-09-16T00:40:37+00:00"
 }
