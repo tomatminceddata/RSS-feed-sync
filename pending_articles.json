@@ -16605,7 +16605,97 @@
       "parser": "default",
       "discovered": "2026-09-16T12:22:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/nikkei-shared-the-data-about-sonys-sensor-business/",
+      "title": "Nikkei shared the data about Sony’s sensor business",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-16T13:59:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T16:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/new-apple-watch-charging-puck/",
+      "title": "Here's Why a New Apple Watch Charging Puck Was Just Released",
+      "author": "Joe Rossignol",
+      "published": "2026-09-16T15:54:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T16:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/apple-memory-supplier-explores-us-manufacturing/",
+      "title": "Apple Memory Supplier Explores U.S. Manufacturing With Intel",
+      "author": "Hartley Charlton",
+      "published": "2026-09-16T15:16:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T16:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/pre-order-mac-mini-studio/",
+      "title": "Get In On Pre-Order Discounts for the New Mac Mini and Mac Studio Before They Launch Next Week",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-16T14:36:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T16:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/ios-use-visual-intelligence-camera-app/",
+      "title": "iOS 27: Use Visual Intelligence in the Camera App",
+      "author": "Tim Hardwick",
+      "published": "2026-09-16T14:31:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T16:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/iphone-18-pro/",
+      "title": "iPhone 18 Pro Reviews: Excellent Yet... Meh?",
+      "author": "Joe Rossignol",
+      "published": "2026-09-16T14:31:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T16:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/iphone-18-pro-photography-exhibition/",
+      "title": "Apple Announces iPhone 18 Pro Photography Exhibition",
+      "author": "Hartley Charlton",
+      "published": "2026-09-16T14:21:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T16:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/",
+      "title": "Apple May Return to Server Market With Nvidia Technology",
+      "author": "Hartley Charlton",
+      "published": "2026-09-16T13:53:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T16:16:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/apple-watch-ultra-3-vs-ultra-4/",
+      "title": "Apple Watch Ultra 3 vs. Ultra 4 Buyer's Guide",
+      "author": "Hartley Charlton",
+      "published": "2026-09-16T12:40:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T16:16:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-16T12:22:48+00:00"
+  "last_checked": "2026-09-16T16:16:23+00:00"
 }
