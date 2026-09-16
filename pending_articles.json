@@ -16695,7 +16695,107 @@
       "parser": "default",
       "discovered": "2026-09-16T16:16:23+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/endings-soon-up-to-800-off-on-sony-cards-and-140-off-on-lexar-256gb-sd-card/",
+      "title": "Endings soon: Up to $800 off on Sony cards and $140 off on Lexar 256GB SD card!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-16T16:52:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/apple-releases-first-ios-27-2-beta/",
+      "title": "Apple Releases First iOS 27.2 Beta",
+      "author": "Juli Clover",
+      "published": "2026-09-16T20:13:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-vs-iphone-duo/",
+      "title": "iPhone 18 Pro vs. iPhone Duo Buyer's Guide: Which Should You Choose?",
+      "author": "Hartley Charlton",
+      "published": "2026-09-16T19:28:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-tv-app-profiles/",
+      "title": "iOS 27.2 Adds Profiles to Apple TV App",
+      "author": "Juli Clover",
+      "published": "2026-09-16T19:23:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/siri-ai-new-languages-ios-27-2/",
+      "title": "iOS 27.2 Adds Siri AI in New Languages",
+      "author": "Juli Clover",
+      "published": "2026-09-16T18:18:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/",
+      "title": "Here's Why Apple Just Released an iOS 27.2 Beta Instead of iOS 27.1",
+      "author": "Joe Rossignol",
+      "published": "2026-09-16T17:53:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-beta-health-app/",
+      "title": "iOS 27.2 Beta Previews New Apple Intelligence Health App",
+      "author": "Juli Clover",
+      "published": "2026-09-16T17:32:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/apple-releases-macos-27-2-beta-1/",
+      "title": "Apple Seeds First macOS Golden Gate 27.2 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-09-16T17:15:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/apple-releases-watchos-27-2/",
+      "title": "Apple Releases First watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
+      "author": "Juli Clover",
+      "published": "2026-09-16T17:12:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-new-way-to-redeem-apple-gift-cards/",
+      "title": "iOS 27 to Offer New Way to Redeem Apple Gift Cards",
+      "author": "Joe Rossignol",
+      "published": "2026-09-16T17:08:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-16T20:15:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-16T16:16:23+00:00"
+  "last_checked": "2026-09-16T20:15:25+00:00"
 }
