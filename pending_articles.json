@@ -16835,7 +16835,17 @@
       "parser": "default",
       "discovered": "2026-09-17T00:40:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/preorder-now-the-new-on1-photo-raw-2027/",
+      "title": "Preorder now the new ON1 Photo RAW 2027",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-17T06:20:40+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T08:22:07+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-17T00:40:29+00:00"
+  "last_checked": "2026-09-17T08:22:07+00:00"
 }
