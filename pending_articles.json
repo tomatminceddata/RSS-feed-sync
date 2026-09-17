@@ -16795,7 +16795,47 @@
       "parser": "default",
       "discovered": "2026-09-16T20:15:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ios-27-2-beta-features/",
+      "title": "Everything New in iOS 27.2 Beta 1",
+      "author": "Juli Clover",
+      "published": "2026-09-16T23:44:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T00:40:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/tim-cook-state-dinner-xi-jinping/",
+      "title": "Tim Cook to Attend White House State Dinner for Xi Jinping",
+      "author": "Juli Clover",
+      "published": "2026-09-16T23:41:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T00:40:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-health-app-beta/",
+      "title": "Hands-On With the Redesigned Health App in the iOS 27.2 Beta",
+      "author": "Juli Clover",
+      "published": "2026-09-16T21:21:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T00:40:29+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/16/ios-27-2-could-save-your-marriage/",
+      "title": "iOS 27.2 Could Save Your Marriage",
+      "author": "Juli Clover",
+      "published": "2026-09-16T20:42:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T00:40:29+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-16T20:15:25+00:00"
+  "last_checked": "2026-09-17T00:40:29+00:00"
 }
