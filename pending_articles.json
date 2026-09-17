@@ -16034,7 +16034,87 @@
       "parser": "default",
       "discovered": "2026-09-17T16:17:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Soft-delete-for-On-premises-data-gateways-in-Microsoft-Fabric/ba-p/5365712",
+      "title": "Soft delete for On-premises data gateways in Microsoft Fabric (Preview)",
+      "author": "goupadhy",
+      "published": "2026-09-17T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-17T20:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Mirroring-for-Google-BigQuery-in-Microsoft-Fabric-Generally/ba-p/5364851",
+      "title": "Mirroring for Google BigQuery in Microsoft Fabric (Generally Available)",
+      "author": "MichaelaIsaacs",
+      "published": "2026-09-17T16:24:38+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-17T20:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-600mm-gm-review-by-mathphotographer-exceptional-image-quality-sharpness/",
+      "title": "Sony 600mm GM review by MathPhotographer: “Exceptional Image Quality & Sharpness”",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-17T16:11:16+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T20:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/apple-higher-iphone-18-pro-battery-fee/",
+      "title": "Apple Increases Battery Replacement Fee for iPhone 18 Pro and Pro Max",
+      "author": "Joe Rossignol",
+      "published": "2026-09-17T20:05:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T20:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-day-one-update/",
+      "title": "New iPhone 18 Pro Models Will Have Day One Update",
+      "author": "Juli Clover",
+      "published": "2026-09-17T19:25:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T20:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/",
+      "title": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island",
+      "author": "Juli Clover",
+      "published": "2026-09-17T18:34:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T20:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-15-pro-vs-18-pro/",
+      "title": "iPhone 15 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
+      "author": "Hartley Charlton",
+      "published": "2026-09-17T16:28:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T20:15:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/new-features-changes-macos-27/",
+      "title": "50 New macOS Golden Gate Features and Changes Worth Checking Out",
+      "author": "Tim Hardwick",
+      "published": "2026-09-17T16:18:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T20:15:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-17T16:17:02+00:00"
+  "last_checked": "2026-09-17T20:15:12+00:00"
 }
