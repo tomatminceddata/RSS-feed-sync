@@ -16845,7 +16845,27 @@
       "parser": "default",
       "discovered": "2026-09-17T08:22:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/which-ios-27-carplay-features-actually-work/",
+      "title": "Which iOS 27 CarPlay Features Actually Work in Your Car?",
+      "author": "Tim Hardwick",
+      "published": "2026-09-17T11:17:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T12:22:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/watchos-27-removes-useful-apple-watch-feature/",
+      "title": "PSA: watchOS 27 Removes This Useful Feature From Your Apple Watch",
+      "author": "Tim Hardwick",
+      "published": "2026-09-17T08:34:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-17T12:22:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-17T08:22:07+00:00"
+  "last_checked": "2026-09-17T12:22:47+00:00"
 }
