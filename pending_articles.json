@@ -16304,7 +16304,97 @@
       "parser": "default",
       "discovered": "2026-09-18T16:14:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
+      "title": "Hands-On With the Apple Watch Series 12",
+      "author": "Juli Clover",
+      "published": "2026-09-18T20:08:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T20:14:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
+      "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
+      "author": "Joe Rossignol",
+      "published": "2026-09-18T19:56:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T20:14:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-us-qualcomm-x80/",
+      "title": "iPhone 18 Pro Max in U.S. Has Qualcomm's Snapdragon X80 Modem",
+      "author": "Joe Rossignol",
+      "published": "2026-09-18T19:41:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T20:14:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/",
+      "title": "Apple Releases Xcode 27.1 Beta With iPhone Duo Support",
+      "author": "Joe Rossignol",
+      "published": "2026-09-18T18:06:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T20:14:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/apple-watch-series-12-vs-ultra-4/",
+      "title": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide",
+      "author": "Hartley Charlton",
+      "published": "2026-09-18T18:03:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T20:14:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/macrumors-giveaway-imazing-iphone-duo/",
+      "title": "MacRumors Giveaway: Win an iPhone Duo From iMazing",
+      "author": "Juli Clover",
+      "published": "2026-09-18T17:50:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T20:14:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/shop-different-ron-johnson-apple-retail-book/",
+      "title": "'Shop Different': Apple Retail Pioneer Ron Johnson Shares the Inside Story",
+      "author": "Eric Slivka",
+      "published": "2026-09-18T17:37:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T20:14:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/apple-iphone-18-pro-camera-ad/",
+      "title": "Apple Teams Up With ROSÉ for iPhone 18 Pro Camera Ad",
+      "author": "Juli Clover",
+      "published": "2026-09-18T16:36:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T20:14:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/the-macrumors-show-is-iphone-duo-worth-it/",
+      "title": "The MacRumors Show: Is the iPhone Duo Actually Worth It?",
+      "author": "Hartley Charlton",
+      "published": "2026-09-18T16:15:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T20:14:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-18T16:14:19+00:00"
+  "last_checked": "2026-09-18T20:14:02+00:00"
 }
