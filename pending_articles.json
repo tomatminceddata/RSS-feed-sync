@@ -16114,7 +16114,57 @@
       "parser": "default",
       "discovered": "2026-09-17T20:15:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Upcoming-changes-to-legacy-Teams-and-Outlook-activities-in/ba-p/5314499",
+      "title": "Upcoming changes to legacy Teams and Outlook activities in Fabric Data Factory pipelines",
+      "author": "conxu-ms",
+      "published": "2026-09-17T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-18T00:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/apple-higher-ram-storage-prices-2027-report/",
+      "title": "Apple Reportedly Accepts Even Higher RAM and Storage Prices in 2027",
+      "author": "Joe Rossignol",
+      "published": "2026-09-17T22:46:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T00:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-australia-nz/",
+      "title": "First iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5 Orders Arriving to Customers",
+      "author": "Juli Clover",
+      "published": "2026-09-17T21:59:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T00:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/iphone-18-pro-release-date-and-features/",
+      "title": "iPhone 18 Pro Launching Tomorrow With These 10 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-09-17T20:45:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T00:40:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/apple-one-three-month-trial/",
+      "title": "How to Get the New 3-Month Trial of Apple One Premier ($120 Value)",
+      "author": "Joe Rossignol",
+      "published": "2026-09-17T20:23:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T00:40:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-17T20:15:12+00:00"
+  "last_checked": "2026-09-18T00:40:32+00:00"
 }
