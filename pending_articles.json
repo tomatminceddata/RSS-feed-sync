@@ -16164,7 +16164,17 @@
       "parser": "default",
       "discovered": "2026-09-18T00:40:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
+      "title": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
+      "author": "Joe Rossignol",
+      "published": "2026-09-18T03:11:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T04:16:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-18T00:40:32+00:00"
+  "last_checked": "2026-09-18T04:16:57+00:00"
 }
