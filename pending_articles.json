@@ -16184,7 +16184,37 @@
       "parser": "default",
       "discovered": "2026-09-18T08:20:04+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-smallrig-nano36-and-nano72-power-banks/",
+      "title": "New SmallRig Nano36 and Nano72 power banks",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-18T10:22:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T12:21:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-how-to-use-new-features/",
+      "title": "iPhone 18 Pro Models: How to Use All the New Features",
+      "author": "Tim Hardwick",
+      "published": "2026-09-18T12:11:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T12:21:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/iphone-18-pro-using-variable-aperture/",
+      "title": "iPhone 18 Pro: Using the New Variable Aperture Lens",
+      "author": "Tim Hardwick",
+      "published": "2026-09-18T09:00:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T12:21:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-18T08:20:04+00:00"
+  "last_checked": "2026-09-18T12:21:37+00:00"
 }
