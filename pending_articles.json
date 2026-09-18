@@ -16174,7 +16174,17 @@
       "parser": "default",
       "discovered": "2026-09-18T04:16:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-apple-store-pickup-available-today/",
+      "title": "Forgot to Pre-Order iPhone 18 Pro? Apple Store Pickup Available Today at Most Locations",
+      "author": "Tim Hardwick",
+      "published": "2026-09-18T08:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T08:20:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-18T04:16:57+00:00"
+  "last_checked": "2026-09-18T08:20:04+00:00"
 }
