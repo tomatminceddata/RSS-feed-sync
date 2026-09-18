@@ -16214,7 +16214,97 @@
       "parser": "default",
       "discovered": "2026-09-18T12:21:37+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-shipment-start-is-now-oct-22-in-europe-and-oct-15-in-the-usa/",
+      "title": "Sony FX5 shipment start is now Oct 22 in Europe and Oct 15 in the USA",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-18T13:43:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T16:14:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
+      "title": "Apple Designers Explain the Thinking Behind iPhone Duo",
+      "author": "Hartley Charlton",
+      "published": "2026-09-18T16:11:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T16:14:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/iphone-17-pro-vs-iphone-18-pro-case-compatibility/",
+      "title": "Are iPhone 17 Pro Cases Compatible With iPhone 18 Pro? Here's What Apple Says",
+      "author": "Joe Rossignol",
+      "published": "2026-09-18T15:54:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T16:14:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/best-apple-deals-of-the-week-9-18-26/",
+      "title": "Apple Launch Day Deals on iPhone 18 Pro, AirPods 5, Apple Watch Series 12, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-18T15:15:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T16:14:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/apple-supplier-subsidiary-considering-us-factory/",
+      "title": "Apple Supplier Subsidiary Considering U.S. Flash Memory Factory",
+      "author": "Hartley Charlton",
+      "published": "2026-09-18T15:01:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T16:14:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-teardown/",
+      "title": "iPhone 18 Pro Teardown Reveals How Apple Shrunk the Dynamic Island",
+      "author": "Joe Rossignol",
+      "published": "2026-09-18T14:35:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T16:14:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-demand-stronger-than-expected/",
+      "title": "iPhone 18 Pro Demand Stronger Than Expected",
+      "author": "Hartley Charlton",
+      "published": "2026-09-18T14:01:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T16:14:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/fan-site-lets-you-design-the-next-iphone/",
+      "title": "Fan Site Lets You 'Design the Next iPhone'",
+      "author": "Hartley Charlton",
+      "published": "2026-09-18T13:02:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T16:14:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/apple-stores-have-new-hello-easter-egg/",
+      "title": "Apple Stores Have a New 'Hello' Easter Egg, Here's Why",
+      "author": "Joe Rossignol",
+      "published": "2026-09-18T12:42:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-18T16:14:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-18T12:21:37+00:00"
+  "last_checked": "2026-09-18T16:14:19+00:00"
 }
