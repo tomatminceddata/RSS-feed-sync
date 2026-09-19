@@ -16394,7 +16394,17 @@
       "parser": "default",
       "discovered": "2026-09-18T20:14:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+      "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
+      "author": "Juli Clover",
+      "published": "2026-09-18T23:28:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-19T00:39:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-18T20:14:02+00:00"
+  "last_checked": "2026-09-19T00:39:48+00:00"
 }
