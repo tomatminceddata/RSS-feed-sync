@@ -16414,7 +16414,37 @@
       "parser": "default",
       "discovered": "2026-09-19T08:17:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/venus-optics-launched-the-35mm-f-2-8-1x-macro-lens/",
+      "title": "Venus Optics launched the 35mm f/2.8 1x macro lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-19T11:04:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-19T16:13:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/19/apple-watch-ultra-4-launch-discounts/",
+      "title": "Apple Watch Ultra 4 Sees First Discount After Launch, Now $779.99 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-19T14:46:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-19T16:13:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/19/top-stories-ios-27-macos-golden-gate-out-now/",
+      "title": "Top Stories: iOS 27 and macOS Golden Gate Out Now, Siri AI Waitlist, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-09-19T13:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-19T16:13:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-19T08:17:53+00:00"
+  "last_checked": "2026-09-19T16:13:53+00:00"
 }
