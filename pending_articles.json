@@ -16404,7 +16404,17 @@
       "parser": "default",
       "discovered": "2026-09-19T00:39:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
+      "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
+      "author": "Juli Clover",
+      "published": "2026-09-19T04:51:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-19T08:17:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-19T00:39:48+00:00"
+  "last_checked": "2026-09-19T08:17:53+00:00"
 }
