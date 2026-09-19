@@ -16444,7 +16444,17 @@
       "parser": "default",
       "discovered": "2026-09-19T16:13:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/",
+      "title": "M6 Pro Chip Result on Geekbench is Likely Fake",
+      "author": "Joe Rossignol",
+      "published": "2026-09-19T17:59:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-19T20:13:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-19T16:13:53+00:00"
+  "last_checked": "2026-09-19T20:13:19+00:00"
 }
