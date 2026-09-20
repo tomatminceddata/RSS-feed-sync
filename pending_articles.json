@@ -16454,7 +16454,17 @@
       "parser": "default",
       "discovered": "2026-09-19T20:13:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sigma-lens-reviews-by-petapixel-northrup-and-abbott/",
+      "title": "New Sigma Lens reviews by Petapixel, Northrup and Abbott",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-20T12:02:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-20T16:14:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-19T20:13:19+00:00"
+  "last_checked": "2026-09-20T16:14:27+00:00"
 }
