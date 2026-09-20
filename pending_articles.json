@@ -16464,7 +16464,17 @@
       "parser": "default",
       "discovered": "2026-09-20T16:14:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-europe-published-this-fx5-guide-but-we-still-cant-get-the-camera/",
+      "title": "Sony Europe published this FX5 guide….but we still can’t get the camera…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-20T16:52:08+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-20T20:13:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-20T16:14:27+00:00"
+  "last_checked": "2026-09-20T20:13:33+00:00"
 }
