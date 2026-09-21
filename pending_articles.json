@@ -16644,7 +16644,77 @@
       "parser": "default",
       "discovered": "2026-09-21T16:16:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/21/gm-stance-on-apple-carplay/",
+      "title": "GM Wants You to Know It Still Plans to Ditch Apple CarPlay in Future EVs",
+      "author": "Joe Rossignol",
+      "published": "2026-09-21T19:56:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-21T20:14:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-14-pro-vs-18-pro/",
+      "title": "iPhone 14 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
+      "author": "Hartley Charlton",
+      "published": "2026-09-21T18:05:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-21T20:14:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/21/m4-ipad-air-149-off/",
+      "title": "M4 iPad Air Now Starting at $649 on Amazon, Save Up to $149",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-21T17:48:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-21T20:14:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/21/apple-seeds-macos-27-2-beta-2/",
+      "title": "Apple Seeds Second macOS Golden Gate 27.2 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-09-21T17:23:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-21T20:14:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/21/apple-releases-second-ios-27-2-beta/",
+      "title": "Apple Releases Second iOS 27.2 Beta",
+      "author": "Juli Clover",
+      "published": "2026-09-21T17:21:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-21T20:14:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/21/apple-releases-watchos-27-2-beta-2/",
+      "title": "Apple Releases Second watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
+      "author": "Juli Clover",
+      "published": "2026-09-21T17:20:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-21T20:14:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/21/mac-mini-m6-m5-pro-reviews/",
+      "title": "New Mac Mini Reviews: A Good But No Longer 'Insanely Great' Deal",
+      "author": "Joe Rossignol",
+      "published": "2026-09-21T17:08:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-21T20:14:10+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-21T16:16:38+00:00"
+  "last_checked": "2026-09-21T20:14:10+00:00"
 }
