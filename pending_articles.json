@@ -16894,7 +16894,97 @@
       "parser": "default",
       "discovered": "2026-09-22T16:15:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-park-visitor-center-loses-exhibition/",
+      "title": "Apple Park Visitor Center Just Lost an Attraction Offered Since 2017",
+      "author": "Joe Rossignol",
+      "published": "2026-09-22T19:42:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T20:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/shazam-app-new-icon-and-stickers/",
+      "title": "Shazam App for iPhone Updated With New Icon and iMessage Stickers",
+      "author": "Joe Rossignol",
+      "published": "2026-09-22T19:40:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T20:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/",
+      "title": "Anthropic Launches Claude Opus 5.5 With Fable-Level Performance at a Lower Price",
+      "author": "Juli Clover",
+      "published": "2026-09-22T19:23:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T20:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-screenless-fitness-band/",
+      "title": "Apple Testing Prototypes of Whoop-Like Screenless Fitness Band",
+      "author": "Juli Clover",
+      "published": "2026-09-22T18:21:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T20:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-beats-360-firmware-update/",
+      "title": "Apple Releases Firmware Update for Beats 360",
+      "author": "Juli Clover",
+      "published": "2026-09-22T18:05:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T20:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/beats-360-pre-orders-open-amazon/",
+      "title": "Beats 360 Pre-Orders Open at Amazon With Cushion Kits on Sale, Plus More Beats Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-22T17:40:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T20:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-pauses-ai-pin-development/",
+      "title": "Apple Puts AirTag-Sized AI Pin on Hold",
+      "author": "Juli Clover",
+      "published": "2026-09-22T17:23:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T20:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/beats-360-ear-cushions-special-pricing/",
+      "title": "Beats 360 Ear Cushion Kits Just $9.99 Each Until the End of October",
+      "author": "Joe Rossignol",
+      "published": "2026-09-22T17:11:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T20:13:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-working-on-an-all-new-operating-system/",
+      "title": "Apple Will Soon Announce an All-New Operating System",
+      "author": "Joe Rossignol",
+      "published": "2026-09-22T16:19:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T20:13:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-22T16:15:53+00:00"
+  "last_checked": "2026-09-22T20:13:51+00:00"
 }
