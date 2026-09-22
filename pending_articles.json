@@ -16744,7 +16744,27 @@
       "parser": "default",
       "discovered": "2026-09-22T00:40:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1918/",
+      "title": "Sony Tidbits…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-22T06:52:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T08:20:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-music-hall-battersea-power-station/",
+      "title": "Apple Music Hall Spatial Audio Venue Opens in Battersea Power Station",
+      "author": "Tim Hardwick",
+      "published": "2026-09-22T08:07:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T08:20:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-22T00:40:56+00:00"
+  "last_checked": "2026-09-22T08:20:51+00:00"
 }
