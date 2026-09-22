@@ -16764,7 +16764,57 @@
       "parser": "default",
       "discovered": "2026-09-22T08:20:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-reviews-of-the-new-7artisans-af-10mm-f-2-5-full-frame-fisheye-lens/",
+      "title": "New reviews of the new 7Artisans AF 10mm f/2.5 Full-frame Fisheye Lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-22T09:15:59+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T12:22:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-mac-studio-same-day-pickup/",
+      "title": "New Mac Mini and Mac Studio Now Available for Same-Day Pickup at Apple Stores",
+      "author": "Tim Hardwick",
+      "published": "2026-09-22T12:00:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T12:22:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-still-working-on-iphone-anti-snatching/",
+      "title": "Apple Still Working on Anti-Snatching Feature That Locks Stolen iPhones",
+      "author": "Tim Hardwick",
+      "published": "2026-09-22T11:45:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T12:22:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/",
+      "title": "Apple Quietly Excludes Older iPhones From New Camera Feature",
+      "author": "Tim Hardwick",
+      "published": "2026-09-22T10:15:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T12:22:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/app-switcher-returns-watchos-27-2-beta/",
+      "title": "App Switcher Returns in watchOS 27.2 Beta With New Launch Gesture",
+      "author": "Tim Hardwick",
+      "published": "2026-09-22T08:41:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-22T12:22:06+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-22T08:20:51+00:00"
+  "last_checked": "2026-09-22T12:22:06+00:00"
 }
