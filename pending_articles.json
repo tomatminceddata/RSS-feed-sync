@@ -16984,7 +16984,27 @@
       "parser": "default",
       "discovered": "2026-09-22T20:13:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/",
+      "title": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
+      "author": "Juli Clover",
+      "published": "2026-09-22T23:32:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T00:39:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/openai-gpt-6-sol-luna/",
+      "title": "OpenAI's New GPT-6 Sol and Luna Models Bring Astra Improvements to Cheaper Tiers",
+      "author": "Juli Clover",
+      "published": "2026-09-22T20:58:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T00:39:10+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-22T20:13:51+00:00"
+  "last_checked": "2026-09-23T00:39:10+00:00"
 }
