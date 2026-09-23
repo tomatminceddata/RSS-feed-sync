@@ -17004,7 +17004,27 @@
       "parser": "default",
       "discovered": "2026-09-23T00:39:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
+      "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
+      "author": "Joe Rossignol",
+      "published": "2026-09-23T03:23:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T04:18:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/22/apple-card-savings-interest-rate-increase/",
+      "title": "Apple Card Savings Account's Interest Rate Just Went Up",
+      "author": "Joe Rossignol",
+      "published": "2026-09-23T02:47:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T04:18:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-23T00:39:10+00:00"
+  "last_checked": "2026-09-23T04:18:00+00:00"
 }
