@@ -17124,7 +17124,77 @@
       "parser": "default",
       "discovered": "2026-09-23T16:17:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/today-only-at-bh-220-off-on-the-samyang-24-70mm-fe-and-680-off-on-the-samsung-4tb-t7/",
+      "title": "Today only at BH: $220 off on the Samyang 24-70mm FE and $680 off on the Samsung 4TB T7",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-23T16:58:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T20:15:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/watchos-27-0-1-release/",
+      "title": "Apple Releases watchOS 27.0.1 With Fix for Restart Bug",
+      "author": "Juli Clover",
+      "published": "2026-09-23T20:10:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T20:15:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/ios-27-0-1-is-coming-soon/",
+      "title": "iOS 27.0.1 is Coming Soon",
+      "author": "Joe Rossignol",
+      "published": "2026-09-23T20:06:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T20:15:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/disney-plus-hulu-price-increase/",
+      "title": "Disney+ and Hulu Raise Prices Again, Ad-Free Plans Now $21.49",
+      "author": "Juli Clover",
+      "published": "2026-09-23T19:20:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T20:15:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/apple-sports-more-soccer-leagues/",
+      "title": "Apple Sports App Updated With Even More Soccer Leagues",
+      "author": "Joe Rossignol",
+      "published": "2026-09-23T19:16:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T20:15:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/airtag-2-4-pack-hits-79-99/",
+      "title": "AirTag 2 4-Pack Hits $79.99 on Amazon, Matching Record Low",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-23T17:13:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T20:15:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/siri-ai-coming-to-homepod/",
+      "title": "Siri AI Coming to HomePod",
+      "author": "Juli Clover",
+      "published": "2026-09-23T17:04:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T20:15:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-23T16:17:25+00:00"
+  "last_checked": "2026-09-23T20:15:44+00:00"
 }
