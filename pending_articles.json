@@ -17064,7 +17064,67 @@
       "parser": "default",
       "discovered": "2026-09-23T12:22:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/is-the-dram-shortage-going-to-kill-the-next-sony-alpha-camera-announcement-planed-for-november/",
+      "title": "Is the DRAM shortage going to kill the next Sony Alpha Camera announcement planed for November?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-23T14:25:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T16:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/apple-watch-ultra-3-599/",
+      "title": "Apple Watch Ultra 3 Drops to Record Low $599.97 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-23T16:09:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T16:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-air-vs-18-pro/",
+      "title": "iPhone Air vs. iPhone 18 Pro Buyer's Guide: Which Should You Buy?",
+      "author": "Hartley Charlton",
+      "published": "2026-09-23T16:06:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T16:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/apple-podcasts-subscriptions-to-support-video/",
+      "title": "Apple Podcasts Subscriptions Will Soon Support Video",
+      "author": "Hartley Charlton",
+      "published": "2026-09-23T14:26:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T16:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/att-on-ios-27-iphone-handoff/",
+      "title": "AT&T Responds to iOS 27's New iPhone Handoff Feature",
+      "author": "Joe Rossignol",
+      "published": "2026-09-23T14:06:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T16:17:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/23/launch-mac-mini-studio-deals/",
+      "title": "Launch Discounts Arrive for New Mac Mini and Mac Studio, Plus Massive Deal on Samsung's Portable SSD",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-23T14:02:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-23T16:17:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-23T12:22:57+00:00"
+  "last_checked": "2026-09-23T16:17:25+00:00"
 }
