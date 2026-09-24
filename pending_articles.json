@@ -17244,7 +17244,87 @@
       "parser": "default",
       "discovered": "2026-09-24T12:22:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/there-is-definitely-one-more-sigma-e-mount-lens-launch-event-coming-in-october-november/",
+      "title": "There is definitely one more Sigma E-mount lens launch event coming in October/November!",
+      "author": "Andreapazzo",
+      "published": "2026-09-24T13:53:23+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T16:17:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/apple-watch-ultra-2-vs-ultra-4/",
+      "title": "Apple Watch Ultra 2 vs. Ultra 4 Buyer's Guide: Should You Upgrade?",
+      "author": "Hartley Charlton",
+      "published": "2026-09-24T15:55:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T16:17:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/apple-tv-free-peanuts-specials/",
+      "title": "Here's When Apple TV is Airing Free 'Peanuts' Holiday Specials This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-09-24T15:38:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T16:17:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/square-announces-apple-business-integration/",
+      "title": "Square Announces Apple Business Integration",
+      "author": "Joe Rossignol",
+      "published": "2026-09-24T14:28:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T16:17:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/airpods-pro-3-on-sale/",
+      "title": "AirPods Pro 3 on Sale for $199 This Week on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-24T13:41:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T16:17:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/qualcomm-apple-renewed-agreement/",
+      "title": "Qualcomm Announces Renewed Agreement With Apple",
+      "author": "Joe Rossignol",
+      "published": "2026-09-24T13:39:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T16:17:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/apple-confirms-iphone-18-pro-fix-coming/",
+      "title": "Apple Confirms iPhone 18 Pro Bug Fix Update is Coming Next Week",
+      "author": "Joe Rossignol",
+      "published": "2026-09-24T13:10:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T16:17:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/iphone-4-antennagate-qa-video-surfaces/",
+      "title": "Full iPhone 4 'Antennagate' Q&A Video Surfaces After 16 Years",
+      "author": "Hartley Charlton",
+      "published": "2026-09-24T12:39:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T16:17:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-24T12:22:48+00:00"
+  "last_checked": "2026-09-24T16:17:21+00:00"
 }
