@@ -17324,7 +17324,57 @@
       "parser": "default",
       "discovered": "2026-09-24T16:17:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/apple-music-head-trip-livestream/",
+      "title": "Apple Music to Host Free Head Trip Festival Livestream",
+      "author": "Juli Clover",
+      "published": "2026-09-24T19:48:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T20:16:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/watchos-27-2-screenshot-previews/",
+      "title": "watchOS 27.2 Code Hints at iPhone-Style Screenshot Previews",
+      "author": "Juli Clover",
+      "published": "2026-09-24T17:36:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T20:16:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/beats-360-apple-store-launch/",
+      "title": "Beats 360 Headphones Now Available in Apple Stores",
+      "author": "Juli Clover",
+      "published": "2026-09-24T17:14:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T20:16:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/ios-27-parental-controls-video/",
+      "title": "Apple Shares New Video Promoting iOS 27 Parental Controls",
+      "author": "Juli Clover",
+      "published": "2026-09-24T16:58:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T20:16:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/apple-12-new-products-in-past-month/",
+      "title": "Apple Has Announced 12 New Products in the Past Month",
+      "author": "Joe Rossignol",
+      "published": "2026-09-24T16:52:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T20:16:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-24T16:17:21+00:00"
+  "last_checked": "2026-09-24T20:16:21+00:00"
 }
