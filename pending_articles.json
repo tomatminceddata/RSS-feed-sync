@@ -17214,7 +17214,27 @@
       "parser": "default",
       "discovered": "2026-09-24T00:40:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/competition-news-nikon-announced-a-new-1400-full-frame-camera/",
+      "title": "Competition news: Nikon announced a new $1400 Full Frame camera",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-24T05:13:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T08:21:58+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-handoff-how-it-works-carrier-support-cost/",
+      "title": "iPhone Handoff in iOS 27: How It Works, Pricing, and Carrier Support",
+      "author": "Tim Hardwick",
+      "published": "2026-09-24T06:25:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-24T08:21:58+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-24T00:40:43+00:00"
+  "last_checked": "2026-09-24T08:21:58+00:00"
 }
