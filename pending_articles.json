@@ -17374,7 +17374,47 @@
       "parser": "default",
       "discovered": "2026-09-24T20:16:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/today-only-at-bh-110-off-on-the-lexar-128gb-sd-2-pack/",
+      "title": "Today only at BH: $110 off on the Lexar 128GB SD 2 pack!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-24T19:23:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T00:41:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/macos-golden-gate-features-removed/",
+      "title": "What's Gone in macOS Golden Gate and What's Next in macOS 28",
+      "author": "Juli Clover",
+      "published": "2026-09-24T23:06:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T00:41:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/testflight-ios-27-update/",
+      "title": "TestFlight App Gets New iOS 27 Features",
+      "author": "Juli Clover",
+      "published": "2026-09-24T22:28:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T00:41:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/24/google-photos-wardrobe-ios/",
+      "title": "Google Photos Wardrobe Feature Comes to iOS",
+      "author": "Juli Clover",
+      "published": "2026-09-24T20:33:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T00:41:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-24T20:16:21+00:00"
+  "last_checked": "2026-09-25T00:41:12+00:00"
 }
