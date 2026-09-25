@@ -17454,7 +17454,77 @@
       "parser": "default",
       "discovered": "2026-09-25T12:22:58+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-September-2026-release/ba-p/5368525",
+      "title": "On-premises data gateway September 2026 release",
+      "author": "goupadhy",
+      "published": "2026-09-25T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-25T16:17:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7cii-vs-the-new-nikon-z5iic/",
+      "title": "Sony A7cII vs the new Nikon Z5IIc",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-25T14:14:00+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T16:17:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/the-macrumors-show-tyler-stalman-iphone-18-pro-camera/",
+      "title": "The MacRumors Show: Tyler Stalman Talks iPhone 18 Pro's Camera",
+      "author": "Hartley Charlton",
+      "published": "2026-09-25T15:58:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T16:17:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/new-ipad-mini-homepod-mini-apple-tv-leaked/",
+      "title": "iPad Mini With A20 Pro, New HomePod Mini Colors, and New Apple TV 4K All Just Leaked",
+      "author": "Joe Rossignol",
+      "published": "2026-09-25T15:18:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T16:17:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/ipad-mini-8-leaked/",
+      "title": "iPad Mini 8 Leaked: A20 Pro Chip, Landscape Camera, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-09-25T15:18:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T16:17:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/first-look-at-homepod-mini-2/",
+      "title": "Exclusive: First Look at HomePod Mini 2 in Three New Colors",
+      "author": "Hartley Charlton",
+      "published": "2026-09-25T15:17:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T16:17:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/new-apple-tv-4k-leaked/",
+      "title": "New Apple TV 4K Leaked",
+      "author": "Joe Rossignol",
+      "published": "2026-09-25T15:16:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T16:17:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-25T12:22:58+00:00"
+  "last_checked": "2026-09-25T16:17:31+00:00"
 }
