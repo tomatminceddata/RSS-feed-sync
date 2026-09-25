@@ -17524,7 +17524,77 @@
       "parser": "default",
       "discovered": "2026-09-25T16:17:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "author": "Juli Clover",
+      "published": "2026-09-25T19:22:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T20:13:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/",
+      "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-09-25T19:07:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T20:13:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/apple-watch-ultra-3-returns/",
+      "title": "Amazon's $199 Discount on Apple Watch Ultra 3 Returns to Help Clear Stock",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-25T18:28:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T20:13:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/ipad-12-feature-leak/",
+      "title": "Apple Code Confirms iPad 12 Specs: A19, 8GB RAM, N1, C1X Modem",
+      "author": "Juli Clover",
+      "published": "2026-09-25T18:01:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T20:13:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/macrumors-giveaway-lululook-ultra-4/",
+      "title": "MacRumors Giveaway: Win an Apple Watch Ultra 4 From Lululook",
+      "author": "Juli Clover",
+      "published": "2026-09-25T17:56:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T20:13:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/best-apple-deals-of-the-week-9-25-26/",
+      "title": "Launch Week Deals Hit Latest Macs, Apple Watch Ultra 4, and Apple Accessories",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-25T17:25:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T20:13:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/25/iphone-18-pro-max-att-cellular-issues/",
+      "title": "Some iPhone 18 Pro Max Users Experiencing AT&T Cellular Issues",
+      "author": "Joe Rossignol",
+      "published": "2026-09-25T17:07:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-25T20:13:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-25T16:17:31+00:00"
+  "last_checked": "2026-09-25T20:13:28+00:00"
 }
