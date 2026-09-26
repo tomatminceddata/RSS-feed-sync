@@ -17604,7 +17604,27 @@
       "parser": "default",
       "discovered": "2026-09-26T08:19:20+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-images-of-the-full-sony-e-mount-lens-lineup/",
+      "title": "New images of the full Sony E-mount lens lineup!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-26T12:02:44+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-26T16:15:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/26/top-stories-apple-leaks-siri-ai-settlement/",
+      "title": "Top Stories: Apple Leaks, Siri AI Settlement, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-09-26T13:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-26T16:15:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-26T08:19:20+00:00"
+  "last_checked": "2026-09-26T16:15:24+00:00"
 }
