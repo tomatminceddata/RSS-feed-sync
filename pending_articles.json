@@ -17674,7 +17674,47 @@
       "parser": "default",
       "discovered": "2026-09-28T12:26:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/finally-sony-registered-the-new-a7siv-in-china/",
+      "title": "Finally: Sony registered the new A7sIV in China!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-28T13:25:40+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-28T16:18:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/28/last-chance-owcs-sale/",
+      "title": "Last Chance: OWC's Best Mac Accessories Are on Sale Just for MacRumors Readers",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-28T14:32:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-28T16:18:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/28/12-new-things-from-apple-this-october/",
+      "title": "12 New Things to Expect From Apple This October",
+      "author": "Joe Rossignol",
+      "published": "2026-09-28T14:13:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-28T16:18:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/airpods-5-vs-airpods-pro-3/",
+      "title": "AirPods 5 vs. AirPods Pro 3 Buyer's Guide: Which Should You Buy?",
+      "author": "Hartley Charlton",
+      "published": "2026-09-28T13:10:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-28T16:18:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-28T12:26:14+00:00"
+  "last_checked": "2026-09-28T16:18:22+00:00"
 }
