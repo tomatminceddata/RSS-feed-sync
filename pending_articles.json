@@ -15804,7 +15804,137 @@
       "parser": "default",
       "discovered": "2026-09-29T00:44:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Planning-in-Microsoft-Fabric-From-insight-to-action/ba-p/5369552",
+      "title": "Planning in Microsoft Fabric: From insight to action",
+      "author": "diptiborkar",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-deploy-and-govern-Microsoft-Fabric-at-scale/ba-p/5369145",
+      "title": "Build, deploy, and govern Microsoft Fabric at scale",
+      "author": "kimani",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-prompt-to-production-What-s-new-in-Fabric-Apps/ba-p/5369134",
+      "title": "From prompt to production: What's new in Fabric Apps",
+      "author": "sapatney",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Modernize-your-Azure-Data-Estate-with-Microsoft-Fabric-A-guided/ba-p/5369129",
+      "title": "Modernize your Azure Data Estate with Microsoft Fabric: A guided path from Azure Data Factory and Azure Synapse",
+      "author": "FaisalMohamood",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825",
+      "title": "Fabric September 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146",
+      "title": "FabCon and SQLCon Barcelona 2026: What’s new in Microsoft OneLake and its rapidly growing ecosystem",
+      "author": "diptiborkar",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-SQLCon-Barcelona-2026-What-s-new-in-Fabric-Data-Factory/ba-p/5369551",
+      "title": "FabCon/SQLCon Barcelona 2026: What’s new in Fabric Data Factory",
+      "author": "FaisalMohamood",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528",
+      "title": "Trusted AI starts with Microsoft Fabric, Real-Time Intelligence, and IQ",
+      "author": "yitzhak",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-governed-analytics-into-the-flow-of-work-Fabric/ba-p/5368918",
+      "title": "Bringing governed analytics into the flow of work: Fabric Analytics at FabCon Europe 2026",
+      "author": "bogdanc",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connecting-apps-databases-and-AI-on-one-foundation-new/ba-p/5369538",
+      "title": "Connecting apps, databases, and AI on one foundation: new innovations at SQLCon and FabCon EU 2026",
+      "author": "shireesht",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-s-next-chapter-The-evolution-of-business-intelligence/ba-p/5369131",
+      "title": "Power BI’s next chapter: The evolution of business intelligence",
+      "author": "mohammadali",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-September-2026-Feature-Summary/ba-p/5325831",
+      "title": "Power BI September 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-09-29T06:30:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-brightin-star-50mm-f-2-0-tri-sight-full-frame-art-lens/",
+      "title": "Just announced. New Brightin Star 50mm f/2.0 TRI-SIGHT Full-Frame Art Lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-29T07:13:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T08:22:13+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-29T00:44:12+00:00"
+  "last_checked": "2026-09-29T08:22:13+00:00"
 }
