@@ -16024,7 +16024,107 @@
       "parser": "default",
       "discovered": "2026-09-29T16:17:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
+      "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12",
+      "author": "Juli Clover",
+      "published": "2026-09-29T20:10:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/apple-pay-reportedly-launching-in-india-today/",
+      "title": "Apple Pay Reportedly Launching in India Today",
+      "author": "Joe Rossignol",
+      "published": "2026-09-29T19:52:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/apple-releases-new-airpods-beta-firmware-september/",
+      "title": "Apple Releases New AirPods Beta Firmware",
+      "author": "Juli Clover",
+      "published": "2026-09-29T18:38:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/apple-ios-27-parental-control-guide/",
+      "title": "Apple Shares New Guide for Using iOS 27 Parental Controls",
+      "author": "Juli Clover",
+      "published": "2026-09-29T18:28:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/apple-creator-studio-new-features/",
+      "title": "Apple Creator Studio and Final Cut Camera Get New Features",
+      "author": "Juli Clover",
+      "published": "2026-09-29T17:57:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/apple-explains-why-it-removed-ice-tracking-apps/",
+      "title": "Apple Explains Why It Removed ICE Tracking Apps Last Year",
+      "author": "Joe Rossignol",
+      "published": "2026-09-29T17:33:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/amazon-779-99-apple-watch-ultra-4/",
+      "title": "Amazon Expands $779.99 Apple Watch Ultra 4 Deal to More Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-29T17:13:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/make-chatgpt-answer-siri-mac/",
+      "title": "Switch Siri AI for ChatGPT on Your Mac",
+      "author": "Tim Hardwick",
+      "published": "2026-09-29T17:08:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/emergency-sos-via-satellite-in-norway/",
+      "title": "Apple Says Emergency SOS via Satellite Now Available in Norway",
+      "author": "Joe Rossignol",
+      "published": "2026-09-29T16:57:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/applecare/",
+      "title": "AppleCare Guide: Is it Worth Paying For?",
+      "author": "Hartley Charlton",
+      "published": "2026-09-29T16:29:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T20:16:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-29T16:17:59+00:00"
+  "last_checked": "2026-09-29T20:16:57+00:00"
 }
