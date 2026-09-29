@@ -15944,7 +15944,87 @@
       "parser": "default",
       "discovered": "2026-09-29T12:25:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/amazon-is-refusing-to-take-sony-fx5-preorders-until-the-shipment-date-is-confirmed/",
+      "title": "Amazon is refusing to take Sony FX5 preorders until the shipment date is confirmed.",
+      "author": "Andreapazzo",
+      "published": "2026-09-29T13:46:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T16:17:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-lab-test-at-cined-shows-the-camera-has-superb-values/",
+      "title": "Sony FX5 Lab Test at CineD shows the camera has superb values!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-29T12:45:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T16:17:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/apple-reportedly-planned-5000-applecare-layoffs/",
+      "title": "Apple Reportedly Planned to Replace 5,000 Support Employees With AI",
+      "author": "Joe Rossignol",
+      "published": "2026-09-29T16:11:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T16:17:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/apple-to-launch-products-faster-and-more-often/",
+      "title": "Apple Planning to Launch Products Faster and More Often",
+      "author": "Hartley Charlton",
+      "published": "2026-09-29T15:55:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T16:17:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/amazon-mac-prime-day-monitors/",
+      "title": "Amazon Discounting New Mac Mini and Mac Studio Alongside Early Prime Day Deals on Monitors",
+      "author": "Mitchel Broussard",
+      "published": "2026-09-29T14:42:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T16:17:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/new-apple-tv-4k-hinted-at-in-support-document/",
+      "title": "New Apple TV 4K Hinted at in Support Document",
+      "author": "Joe Rossignol",
+      "published": "2026-09-29T13:49:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T16:17:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-reportedly-facing-production-problems/",
+      "title": "iPhone Duo Reportedly Facing Production Problems Ahead of Launch",
+      "author": "Hartley Charlton",
+      "published": "2026-09-29T13:16:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T16:17:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/heres-why-iphone-apps-were-crashing/",
+      "title": "Here's Why iPhone Apps Were Crashing",
+      "author": "Joe Rossignol",
+      "published": "2026-09-29T13:11:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-29T16:17:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-29T12:25:10+00:00"
+  "last_checked": "2026-09-29T16:17:59+00:00"
 }
