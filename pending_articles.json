@@ -16124,7 +16124,47 @@
       "parser": "default",
       "discovered": "2026-09-29T20:16:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/apple-pay-india/",
+      "title": "Apple Pay Now Available in India With Axis Bank Cards",
+      "author": "Juli Clover",
+      "published": "2026-09-30T00:02:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T00:45:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/openai-launches-dots/",
+      "title": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse",
+      "author": "Juli Clover",
+      "published": "2026-09-29T22:45:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T00:45:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/ifixit-airpods-5-teardown/",
+      "title": "AirPods 5 Teardown: Batteries Removable, Case Still Tough",
+      "author": "Juli Clover",
+      "published": "2026-09-29T21:38:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T00:45:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/29/iphone-18-pro-speaker-crackling/",
+      "title": "iPhone 18 Pro Owners Complain of Speaker Crackling or Popping",
+      "author": "Juli Clover",
+      "published": "2026-09-29T21:03:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T00:45:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-29T20:16:57+00:00"
+  "last_checked": "2026-09-30T00:45:23+00:00"
 }
