@@ -16274,7 +16274,37 @@
       "parser": "default",
       "discovered": "2026-09-30T16:18:26+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/samyang-28-135mm-f-2-8-fe-is-coming-in-february/",
+      "title": "Samyang 28-135mm f/2.8 FE is coming in February!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-09-30T16:05:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T20:17:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/30/apple-invites-app-three-new-features/",
+      "title": "Apple Invites App Updated With Three New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-09-30T19:40:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T20:17:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/30/apple-event-on-october-13/",
+      "title": "Apple Event on October 13?",
+      "author": "Joe Rossignol",
+      "published": "2026-09-30T17:53:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T20:17:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-30T16:18:26+00:00"
+  "last_checked": "2026-09-30T20:17:19+00:00"
 }
