@@ -16184,7 +16184,37 @@
       "parser": "default",
       "discovered": "2026-09-30T08:22:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/30/apple-working-to-expand-homekit/",
+      "title": "Apple Working to Expand HomeKit",
+      "author": "Hartley Charlton",
+      "published": "2026-09-30T11:46:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T12:27:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/30/apple-home-hub-imac-g4-style-design/",
+      "title": "Apple Smart Home Hub to Feature iMac G4-Style Design",
+      "author": "Hartley Charlton",
+      "published": "2026-09-30T11:36:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T12:27:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/30/apple-home-products-coming-on-october-13/",
+      "title": "Three New Apple Smart Home Products Coming on October 13",
+      "author": "Hartley Charlton",
+      "published": "2026-09-30T11:04:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-09-30T12:27:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-30T08:22:17+00:00"
+  "last_checked": "2026-09-30T12:27:43+00:00"
 }
