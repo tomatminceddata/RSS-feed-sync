@@ -16384,7 +16384,77 @@
       "parser": "default",
       "discovered": "2026-10-01T12:24:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/thypoch-prepares-to-unveil-three-new-lenses-new-24-70mm-fe-and-tele-zoom-coming/",
+      "title": "Thypoch Prepares to Unveil Three New Lenses: New 24-70mm FE and tele zoom coming?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-01T14:05:27+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T16:16:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/apple-tv-new-bonus-movies/",
+      "title": "Apple TV Just Updated Its Selection of 'Bonus' Movies",
+      "author": "Joe Rossignol",
+      "published": "2026-10-01T16:08:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T16:16:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/best-early-prime-day-deals-on-accessories/",
+      "title": "Early Prime Big Deal Days: Best Discounts on Accessories, TVs, and More at Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-01T16:02:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T16:16:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-18-pro-colors/",
+      "title": "iPhone 18 Pro Colors Buyer's Guide: Which Should You Choose?",
+      "author": "Hartley Charlton",
+      "published": "2026-10-01T16:01:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T16:16:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/oled-macbook-pro-release-date/",
+      "title": "MacBook Pro With OLED Touch Screen Rumored to Launch in October or November",
+      "author": "Joe Rossignol",
+      "published": "2026-10-01T14:24:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T16:16:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/apple-home-hub-four-colors-rumored/",
+      "title": "Apple's All-New Home Hub Rumored to Launch in These Four Colors",
+      "author": "Joe Rossignol",
+      "published": "2026-10-01T13:48:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T16:16:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/iphone-18-pro-aperture-control-fully-manual-halide/",
+      "title": "iPhone 18 Pro Aperture Control Goes Fully Manual in Halide 3.2",
+      "author": "Tim Hardwick",
+      "published": "2026-10-01T12:39:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T16:16:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-01T12:24:49+00:00"
+  "last_checked": "2026-10-01T16:16:37+00:00"
 }
