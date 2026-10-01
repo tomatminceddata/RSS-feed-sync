@@ -16324,7 +16324,17 @@
       "parser": "default",
       "discovered": "2026-10-01T00:51:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-short-doc-with-sigma-ceo-kazuto-yamaki/",
+      "title": "New short doc with Sigma CEO Kazuto Yamaki",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-01T06:15:57+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T08:23:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-01T00:51:25+00:00"
+  "last_checked": "2026-10-01T08:23:08+00:00"
 }
