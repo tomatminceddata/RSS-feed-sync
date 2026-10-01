@@ -16334,7 +16334,57 @@
       "parser": "default",
       "discovered": "2026-10-01T08:23:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/venus-optics-announced-the-worlds-first-full-frame-35mm-lens-with-true-11-magnification/",
+      "title": "Venus Optics announced the World’s First Full-Frame 35mm Lens with True 1:1 Magnification",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-01T09:20:32+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T12:24:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/apple-stores-receive-do-not-open-boxes/",
+      "title": "Apple Stores Receive 'Do Not Open' Boxes Ahead of Smart Home Products Launch",
+      "author": "Hartley Charlton",
+      "published": "2026-10-01T11:59:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T12:24:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/strong-iphone-18-pro-launch-sales-china/",
+      "title": "iPhone 18 Pro Sales Jump in China Ahead of iPhone Duo Launch",
+      "author": "Tim Hardwick",
+      "published": "2026-10-01T11:37:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T12:24:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/apple-tv-still-down-for-some-users/",
+      "title": "Apple TV Still Down for Some Users Following Apple Services Outage",
+      "author": "Tim Hardwick",
+      "published": "2026-10-01T10:51:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T12:24:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/apple-mail-mac-stop-sync-microsoft-365/",
+      "title": "PSA: Apple Mail on Mac May Stop Syncing Microsoft 365 Accounts Today",
+      "author": "Tim Hardwick",
+      "published": "2026-10-01T10:17:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T12:24:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-01T08:23:08+00:00"
+  "last_checked": "2026-10-01T12:24:49+00:00"
 }
