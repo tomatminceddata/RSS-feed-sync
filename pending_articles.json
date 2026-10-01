@@ -16304,7 +16304,27 @@
       "parser": "default",
       "discovered": "2026-09-30T20:17:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/apple-command-center/",
+      "title": "Apple's Smart Home Hub: Everything We Know So Far",
+      "author": "Juli Clover",
+      "published": "2026-09-30T23:58:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T00:51:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/09/30/home-hub-photo-face/",
+      "title": "Apple's Home Hub Borrows From the iPhone Duo's StandBy Mode",
+      "author": "Juli Clover",
+      "published": "2026-09-30T22:57:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-01T00:51:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-09-30T20:17:19+00:00"
+  "last_checked": "2026-10-01T00:51:25+00:00"
 }
