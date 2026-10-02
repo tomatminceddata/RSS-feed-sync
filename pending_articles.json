@@ -16474,7 +16474,27 @@
       "parser": "default",
       "discovered": "2026-10-01T20:17:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/twelve-south-airfly-drive/",
+      "title": "New 'AirFly Drive' Accessory Turns Wired CarPlay Into Wireless CarPlay",
+      "author": "Joe Rossignol",
+      "published": "2026-10-01T22:08:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-02T00:43:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/",
+      "title": "Apple Shares Photos Shot on iPhone Duo",
+      "author": "Joe Rossignol",
+      "published": "2026-10-01T20:56:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-02T00:43:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-01T20:17:10+00:00"
+  "last_checked": "2026-10-02T00:43:28+00:00"
 }
