@@ -16524,7 +16524,47 @@
       "parser": "default",
       "discovered": "2026-10-02T12:24:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/next-sony-fx5-delay-now-official-new-shipment-start-date-is-november-16/",
+      "title": "Next Sony FX5 delay now official: new shipment start date is November 16",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-02T11:20:10+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-02T16:16:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/02/best-apple-deals-of-the-week-10-2-26/",
+      "title": "Beats 360 Cushion Kits and Apple Accessories See Early Prime Day Price Drops",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-02T16:05:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-02T16:16:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/upgrading-from-older-apple-watch/",
+      "title": "Upgrading From an Older Apple Watch? Here's How the New Features Stack Up",
+      "author": "Hartley Charlton",
+      "published": "2026-10-02T15:20:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-02T16:16:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/02/apple-store-in-uk-reopens-on-iphone-duo-launch-day/",
+      "title": "Apple Store in UK Reopening on iPhone Duo Launch Day",
+      "author": "Joe Rossignol",
+      "published": "2026-10-02T14:17:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-02T16:16:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-02T12:24:03+00:00"
+  "last_checked": "2026-10-02T16:16:39+00:00"
 }
