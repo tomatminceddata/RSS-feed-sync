@@ -16504,7 +16504,27 @@
       "parser": "default",
       "discovered": "2026-10-02T04:18:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-eu-deals-up-to-19-off-on-sony-cameras-and-lenses-and-new-3000-euro-cashback/",
+      "title": "New EU deals: Up to 19% off on Sony cameras and lenses and new 3000 Euro cashback!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-02T07:52:01+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-02T12:24:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1920/",
+      "title": "Sony Tidbits…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-02T06:52:12+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-02T12:24:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-02T04:18:18+00:00"
+  "last_checked": "2026-10-02T12:24:03+00:00"
 }
