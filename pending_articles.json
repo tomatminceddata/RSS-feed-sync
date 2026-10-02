@@ -16494,7 +16494,17 @@
       "parser": "default",
       "discovered": "2026-10-02T00:43:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
+      "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately'",
+      "author": "Joe Rossignol",
+      "published": "2026-10-02T03:42:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-02T04:18:18+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-02T00:43:28+00:00"
+  "last_checked": "2026-10-02T04:18:18+00:00"
 }
