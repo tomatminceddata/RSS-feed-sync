@@ -16614,7 +16614,17 @@
       "parser": "default",
       "discovered": "2026-10-03T04:20:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/",
+      "title": "Top Stories: Apple Smart Home Launch on October 13, iPhone Duo Production Issues, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-10-03T13:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-03T13:47:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-03T04:20:00+00:00"
+  "last_checked": "2026-10-03T13:47:05+00:00"
 }
