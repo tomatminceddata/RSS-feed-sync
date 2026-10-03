@@ -16624,7 +16624,17 @@
       "parser": "default",
       "discovered": "2026-10-03T13:47:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/here-is-the-sony-fx5-lcd-defect-and-why-this-might-be-good-news/",
+      "title": "Here is the Sony FX5 LCD defect…and why this might be good news!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-03T12:31:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-03T17:23:06+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-03T13:47:05+00:00"
+  "last_checked": "2026-10-03T17:23:06+00:00"
 }
