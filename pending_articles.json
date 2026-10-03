@@ -16604,7 +16604,17 @@
       "parser": "default",
       "discovered": "2026-10-02T20:14:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
+      "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
+      "author": "Joe Rossignol",
+      "published": "2026-10-03T03:21:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-03T04:20:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-02T20:14:59+00:00"
+  "last_checked": "2026-10-03T04:20:00+00:00"
 }
