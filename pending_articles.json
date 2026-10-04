@@ -16634,7 +16634,37 @@
       "parser": "default",
       "discovered": "2026-10-03T17:23:06+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-fe-8-14mm-f3-5-fisheye-g-reviews-and-funny-stereoscopic-rig/",
+      "title": "New Sony FE 8-14mm F3.5 Fisheye G reviews and funny stereoscopic rig!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-04T12:59:17+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-04T17:29:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/04/amazon-early-prime-day-apple/",
+      "title": "Amazon Launches Early Prime Day Discounts on AirPods, iPad, MacBook Air, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-04T16:15:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-04T17:29:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/04/airpods-pro-3-179-prime-day/",
+      "title": "AirPods Pro 3 Hit Record Low $179 Price During Early Prime Day Sale",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-04T15:33:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-04T17:29:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-03T17:23:06+00:00"
+  "last_checked": "2026-10-04T17:29:54+00:00"
 }
