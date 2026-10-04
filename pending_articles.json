@@ -16664,7 +16664,17 @@
       "parser": "default",
       "discovered": "2026-10-04T17:29:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-india-promoting-the-fx-series-with-ai-generated-image-full-of-errors/",
+      "title": "Sony India promoting the FX series with AI generated image full of errors",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-04T17:56:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-04T20:57:07+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-04T17:29:54+00:00"
+  "last_checked": "2026-10-04T20:57:07+00:00"
 }
