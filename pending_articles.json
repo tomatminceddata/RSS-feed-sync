@@ -16714,7 +16714,17 @@
       "parser": "default",
       "discovered": "2026-10-05T04:24:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/iphone-18-pro-three-live-activities-dynamic-island/",
+      "title": "iPhone 18 Pro's Triple Live Activity Support Comes With a Catch",
+      "author": "Tim Hardwick",
+      "published": "2026-10-05T08:25:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T08:30:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-05T04:24:00+00:00"
+  "last_checked": "2026-10-05T08:30:34+00:00"
 }
