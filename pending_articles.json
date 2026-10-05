@@ -16784,7 +16784,87 @@
       "parser": "default",
       "discovered": "2026-10-05T12:25:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-japan-warns-of-fe-600mm-f6-3-gm-shipping-delays-following-strong-preorders/",
+      "title": "Sony Japan Warns of FE 600mm F6.3 GM Shipping Delays Following Strong Preorders",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-05T10:57:59+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T16:18:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-13-pro-vs-18-pro/",
+      "title": "iPhone 13 Pro vs. iPhone 18 Pro Buyer's Guide: Is It Worth Upgrading?",
+      "author": "Hartley Charlton",
+      "published": "2026-10-05T15:58:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T16:18:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/ipad-to-get-thinner-bezels/",
+      "title": "iPad Could Get Significantly Thinner Bezels, Leaker Says",
+      "author": "Hartley Charlton",
+      "published": "2026-10-05T15:39:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T16:18:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/prime-day-competitor-sales/",
+      "title": "Prime Day Is Not Just Amazon: See the Biggest Competing Deals From Sony, Best Buy, and Walmart",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-05T15:21:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T16:18:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apples-new-mac-mini-prime-day/",
+      "title": "Apple's Newest Macs Just Got Their Biggest Price Cuts Yet on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-05T14:56:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T16:18:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-watch-prime-day-deals-2/",
+      "title": "Apple Watch Prime Day Deals Arrive With New All-Time Low Prices for Series 12 and Ultra 4",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-05T13:59:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T16:18:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/magsafe-3-cable-firmware-update/",
+      "title": "Apple Releases MagSafe 3 Charging Cable Firmware Update",
+      "author": "Joe Rossignol",
+      "published": "2026-10-05T13:13:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T16:18:20+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/airpods-max-2-drop-to-429/",
+      "title": "AirPods Max 2 Drop to $429 in All Colors for Prime Day",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-05T12:40:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T16:18:20+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-05T12:25:45+00:00"
+  "last_checked": "2026-10-05T16:18:20+00:00"
 }
