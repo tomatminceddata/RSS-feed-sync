@@ -16864,7 +16864,67 @@
       "parser": "default",
       "discovered": "2026-10-05T16:18:20+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-seeds-macos-27-2-beta-3/",
+      "title": "Apple Seeds Third macOS Golden Gate 27.2 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-10-05T18:23:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T20:22:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-seeds-ios-27-2-beta-3/",
+      "title": "Apple Releases Third iOS 27.2 Beta",
+      "author": "Juli Clover",
+      "published": "2026-10-05T18:23:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T20:22:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-releases-watchos-27-2-beta-3/",
+      "title": "Apple Releases Third watchOS 27.2, tvOS 27.2 and visionOS 27.2 Betas",
+      "author": "Juli Clover",
+      "published": "2026-10-05T18:20:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T20:22:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-cash-reload-id-check/",
+      "title": "Apple Cash Adds ID Check for Reloads, Teases Bank Funding",
+      "author": "Juli Clover",
+      "published": "2026-10-05T18:18:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T20:22:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-configurator-app-updated/",
+      "title": "Apple Configurator App Updated",
+      "author": "Joe Rossignol",
+      "published": "2026-10-05T17:25:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T20:22:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-one-price-increases-in-select-countries/",
+      "title": "Apple One Just Went Up in Price in These Countries",
+      "author": "Joe Rossignol",
+      "published": "2026-10-05T16:43:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T20:22:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-05T16:18:20+00:00"
+  "last_checked": "2026-10-05T20:22:19+00:00"
 }
