@@ -16724,7 +16724,67 @@
       "parser": "default",
       "discovered": "2026-10-05T08:30:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-September-2026/ba-p/5372276",
+      "title": "Fabric Influencers Spotlight: September 2026",
+      "author": "slindsay",
+      "published": "2026-10-05T09:56:45+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-05T12:25:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-triples-icloud-mail-alias-limit/",
+      "title": "Apple Quietly Triples iCloud Mail Alias Limit to Nine",
+      "author": "Tim Hardwick",
+      "published": "2026-10-05T12:16:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T12:25:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-intelligence-removal-tool-frees-mac-storage/",
+      "title": "Mac Users Reclaim Storage With New Apple Intelligence Removal Tool",
+      "author": "Tim Hardwick",
+      "published": "2026-10-05T11:12:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T12:25:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/iphone-duo-focus-modes-easier-toggle-lock-screen/",
+      "title": "iPhone Duo Makes Focus Modes Easier to Toggle From the Lock Screen",
+      "author": "Tim Hardwick",
+      "published": "2026-10-05T10:18:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T12:25:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/extended-eu-wait-predicted-for-siri-ai/",
+      "title": "EU iPhone and iPad Users Could Still Face Months-Long Wait for Siri AI",
+      "author": "Tim Hardwick",
+      "published": "2026-10-05T09:51:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T12:25:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/today-15th-anniversary-steve-jobs-death/",
+      "title": "Today Marks the 15th Anniversary of Steve Jobs' Death",
+      "author": "Tim Hardwick",
+      "published": "2026-10-05T09:12:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-05T12:25:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-05T08:30:34+00:00"
+  "last_checked": "2026-10-05T12:25:45+00:00"
 }
