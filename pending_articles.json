@@ -16924,7 +16924,37 @@
       "parser": "default",
       "discovered": "2026-10-05T20:22:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
+      "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
+      "author": "Juli Clover",
+      "published": "2026-10-05T21:19:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T00:44:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/macos-27-2-touch-gestures/",
+      "title": "macOS 27.2 Adds Touch Gestures Ahead of MacBook Ultra",
+      "author": "Juli Clover",
+      "published": "2026-10-05T21:14:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T00:44:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-att-yet-to-share-cause-of-iphone-issue/",
+      "title": "Apple and AT&T Have Yet to Explain Cause of iPhone 18 Pro Max Issue",
+      "author": "Joe Rossignol",
+      "published": "2026-10-05T21:10:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T00:44:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-05T20:22:19+00:00"
+  "last_checked": "2026-10-06T00:44:15+00:00"
 }
