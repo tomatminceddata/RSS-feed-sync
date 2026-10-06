@@ -16954,7 +16954,27 @@
       "parser": "default",
       "discovered": "2026-10-06T00:44:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
+      "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+      "author": "Joe Rossignol",
+      "published": "2026-10-06T03:20:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T04:19:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october/",
+      "title": "Sources: Apple Planning Two Sets of Product Launches in October",
+      "author": "Joe Rossignol",
+      "published": "2026-10-06T02:25:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T04:19:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-06T00:44:15+00:00"
+  "last_checked": "2026-10-06T04:19:33+00:00"
 }
