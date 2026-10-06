@@ -16984,7 +16984,67 @@
       "parser": "default",
       "discovered": "2026-10-06T08:22:06+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-leaked-images-and-specs-of-the-new-sigma-50-120mm-f-2-8-aps-c-e-mount-lens/",
+      "title": "First leaked images and specs of the new Sigma 50-120mm f/2.8 APS-C E-mount lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-06T08:17:20+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T12:23:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/06/microsoft-onedrive-drop-support-iphone-models/",
+      "title": "Microsoft OneDrive to Drop Support for These iPhone Models",
+      "author": "Tim Hardwick",
+      "published": "2026-10-06T11:53:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T12:23:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/06/homepod-mini-waits-reach-eight-weeks/",
+      "title": "HomePod Mini Waits Reach Eight Weeks Ahead of Rumored Refresh",
+      "author": "Hartley Charlton",
+      "published": "2026-10-06T11:31:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T12:23:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/06/apple-music-is-getting-a-new-logo/",
+      "title": "Apple Music Is Getting a New Logo",
+      "author": "Tim Hardwick",
+      "published": "2026-10-06T11:06:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T12:23:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/06/apple-quietly-icloud-plus-email-feature/",
+      "title": "Apple Quietly Boosts Email Feature for iCloud+ Subscribers",
+      "author": "Tim Hardwick",
+      "published": "2026-10-06T10:27:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T12:23:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/06/ios-27-2-switch-off-messages-suggestions/",
+      "title": "iOS 27.2 May Let You Hide Specific Suggested Actions in Messages",
+      "author": "Tim Hardwick",
+      "published": "2026-10-06T09:43:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-06T12:23:36+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-06T08:22:06+00:00"
+  "last_checked": "2026-10-06T12:23:36+00:00"
 }
