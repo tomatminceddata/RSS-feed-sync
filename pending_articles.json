@@ -17224,7 +17224,47 @@
       "parser": "default",
       "discovered": "2026-10-07T08:22:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/apple-samsung-ultimate-bezel-free-iphone-display/",
+      "title": "Apple Reportedly Waiting on Samsung for Ultimate Bezel-Free iPhone Display",
+      "author": "Tim Hardwick",
+      "published": "2026-10-07T12:20:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T12:25:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/apple-home-security-camera-still-coming-next-year/",
+      "title": "Apple's Own Home Security Camera Still Coming Next Year",
+      "author": "Tim Hardwick",
+      "published": "2026-10-07T10:35:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T12:25:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/iphone-duo-document-preview-two-page-layout/",
+      "title": "Unfolded iPhone Duo Lets You Preview Documents in a Two-Page Layout",
+      "author": "Tim Hardwick",
+      "published": "2026-10-07T10:06:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T12:25:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/formula-1-apple-tv-dolby-atmos-this-month/",
+      "title": "Formula 1 Coverage on Apple TV to Get Dolby Atmos Later This Month",
+      "author": "Tim Hardwick",
+      "published": "2026-10-07T08:44:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T12:25:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-07T08:22:51+00:00"
+  "last_checked": "2026-10-07T12:25:03+00:00"
 }
