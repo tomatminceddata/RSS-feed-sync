@@ -17214,7 +17214,17 @@
       "parser": "default",
       "discovered": "2026-10-07T00:45:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/ending-tonight-last-chance-to-save-big-on-amazon-prime-day-deals/",
+      "title": "Ending tonight: Last chance to save big on Amazon Prime Day Deals!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-07T05:59:42+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T08:22:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-07T00:45:51+00:00"
+  "last_checked": "2026-10-07T08:22:51+00:00"
 }
