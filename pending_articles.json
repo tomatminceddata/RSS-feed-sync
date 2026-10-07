@@ -17374,7 +17374,37 @@
       "parser": "default",
       "discovered": "2026-10-07T16:17:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-skin-irritation/",
+      "title": "Apple Watch Series 12, Ultra 4 Owners Report Skin Irritation",
+      "author": "Juli Clover",
+      "published": "2026-10-07T19:02:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T20:17:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/new-charlie-card-apple-wallet-test/",
+      "title": "Boston's MBTA Testing New Charlie Card With Apple Wallet Support",
+      "author": "Joe Rossignol",
+      "published": "2026-10-07T18:03:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T20:17:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/",
+      "title": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-07T17:55:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T20:17:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-07T16:17:51+00:00"
+  "last_checked": "2026-10-07T20:17:30+00:00"
 }
