@@ -17194,7 +17194,27 @@
       "parser": "default",
       "discovered": "2026-10-06T20:16:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/06/lg-apple-smart-home-products/",
+      "title": "LG Making Doorbell, Lock, and Cameras for Apple's Home Hub",
+      "author": "Juli Clover",
+      "published": "2026-10-06T21:58:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T00:45:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/",
+      "title": "Apple to Report Q4 2026 Earnings on November 2",
+      "author": "Juli Clover",
+      "published": "2026-10-06T21:44:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-07T00:45:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-06T20:16:49+00:00"
+  "last_checked": "2026-10-07T00:45:51+00:00"
 }
