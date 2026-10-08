@@ -17454,7 +17454,17 @@
       "parser": "default",
       "discovered": "2026-10-08T04:19:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-is-finally-going-to-ship-out-on-november-16/",
+      "title": "Sony FX5 is finally going to ship out on November 16",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-08T06:17:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T08:23:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-08T04:19:30+00:00"
+  "last_checked": "2026-10-08T08:23:45+00:00"
 }
