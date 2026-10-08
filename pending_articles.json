@@ -17464,7 +17464,47 @@
       "parser": "default",
       "discovered": "2026-10-08T08:23:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-sigma-50-120mm-f-2-8-aps-c-e-mount-lens/",
+      "title": "Just announced: New Sigma 50-120mm f/2.8 APS-C E-mount lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-08T07:03:25+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T12:24:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/iphone-air-2-could-be-as-thin-unfolded-iphone-duo/",
+      "title": "iPhone Air 2 Could Be as Thin as an Unfolded iPhone Duo",
+      "author": "Tim Hardwick",
+      "published": "2026-10-08T11:21:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T12:24:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/new-ipad-mini-rumored-60hz-oled-display/",
+      "title": "New iPad Mini Rumored to Have 60Hz OLED Display Ahead of Launch",
+      "author": "Tim Hardwick",
+      "published": "2026-10-08T09:15:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T12:24:51+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/oled-macbook-pro-wont-be-thinner/",
+      "title": "Gurman: OLED MacBook Pro Won't Be 'Significantly Thinner'",
+      "author": "Tim Hardwick",
+      "published": "2026-10-08T08:30:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T12:24:51+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-08T08:23:45+00:00"
+  "last_checked": "2026-10-08T12:24:51+00:00"
 }
