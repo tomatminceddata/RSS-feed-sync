@@ -17404,7 +17404,47 @@
       "parser": "default",
       "discovered": "2026-10-07T20:17:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/google-synthid-detector/",
+      "title": "Google's SynthID AI Detector is Now Available to Everyone",
+      "author": "Juli Clover",
+      "published": "2026-10-07T23:42:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T00:45:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/chatgpt-intelligent-ui/",
+      "title": "ChatGPT Gets GPT-6 and New Intelligent UI With Visual Answers",
+      "author": "Juli Clover",
+      "published": "2026-10-07T22:27:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T00:45:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/apple-watch-series-12-teardown/",
+      "title": "Apple Watch Series 12 and Ultra 4 Score 4/10 for Repairability",
+      "author": "Juli Clover",
+      "published": "2026-10-07T21:44:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T00:45:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/apple-creative-labs-kings-trust/",
+      "title": "Apple Launches Creative Labs Program With The King's Trust",
+      "author": "Juli Clover",
+      "published": "2026-10-07T21:29:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T00:45:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-07T20:17:30+00:00"
+  "last_checked": "2026-10-08T00:45:09+00:00"
 }
