@@ -17444,7 +17444,17 @@
       "parser": "default",
       "discovered": "2026-10-08T00:45:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra/",
+      "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro",
+      "author": "Juli Clover",
+      "published": "2026-10-08T00:45:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T04:19:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-08T00:45:09+00:00"
+  "last_checked": "2026-10-08T04:19:30+00:00"
 }
