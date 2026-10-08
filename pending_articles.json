@@ -17504,7 +17504,77 @@
       "parser": "default",
       "discovered": "2026-10-08T12:24:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sigma-fp-ii-would-like-to-compete-with-the-sony-fx5-for-half-the-price/",
+      "title": "Sigma FP II would like to compete with the Sony FX5 for half the price",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-08T12:10:39+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T16:18:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/apple-product-launch-october-13/",
+      "title": "Apple Product Launch Announced for October 13: 'Welcome Home'",
+      "author": "Juli Clover",
+      "published": "2026-10-08T16:04:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T16:18:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/16-inch-macbook-pro-massive-discount/",
+      "title": "Apple's Cheapest 16-Inch MacBook Pro Just Got a Massive $563 Discount on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-08T15:20:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T16:18:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/amazon-unveils-new-ipad-rivals/",
+      "title": "Amazon Unveils New iPad Rivals With Alexa+ and Google Play",
+      "author": "Hartley Charlton",
+      "published": "2026-10-08T14:50:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T16:18:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/missed-prime-day-october-26/",
+      "title": "Missed Prime Day? You Can Still Score Big on Apple Devices Today",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-08T14:30:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T16:18:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/new-apple-product-still-expected-october-13/",
+      "title": "Apple Still Expected to Announce Three New Products on October 13",
+      "author": "Joe Rossignol",
+      "published": "2026-10-08T13:58:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T16:18:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/prosser-pushes-back-as-apple-seeks-youtube-data/",
+      "title": "Leaker Jon Prosser Pushes Back as Apple Seeks His YouTube Data",
+      "author": "Hartley Charlton",
+      "published": "2026-10-08T12:51:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-08T16:18:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-08T12:24:51+00:00"
+  "last_checked": "2026-10-08T16:18:54+00:00"
 }
