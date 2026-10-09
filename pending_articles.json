@@ -17664,7 +17664,27 @@
       "parser": "default",
       "discovered": "2026-10-09T00:46:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-400mm-and-600mm-gm-lens-reviews/",
+      "title": "New Sony 400mm and 600mm GM lens reviews",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-09T09:25:57+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T12:22:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/09/apple-signs-hiring-deal-ai-podcast-startup-huxe/",
+      "title": "Apple Signs Hiring and Licensing Deal With AI Podcast Startup Huxe",
+      "author": "Tim Hardwick",
+      "published": "2026-10-09T08:44:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T12:22:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-09T00:46:40+00:00"
+  "last_checked": "2026-10-09T12:22:43+00:00"
 }
