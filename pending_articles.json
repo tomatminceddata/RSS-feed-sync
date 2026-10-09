@@ -17684,7 +17684,87 @@
       "parser": "default",
       "discovered": "2026-10-09T12:22:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/the-caim-1-is-a-e-mount-camera-with-four-thirds-sensor-and-hardware-level-encryption/",
+      "title": "The CAIM 1  is a E-mount camera with Four Thirds sensor and hardware-level encryption",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-09T13:47:59+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T16:16:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/09/apple-shares-fall-after-iphone-18-pro-order-cuts/",
+      "title": "Apple Shares Fall After News of iPhone 18 Pro Order Cuts",
+      "author": "Hartley Charlton",
+      "published": "2026-10-09T15:49:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T16:16:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/09/prime-day-leftover-deals/",
+      "title": "Prime Day Leftover Deals: AirPods Max 2 for $429, Mac Mini for $779.99, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-09T15:43:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T16:16:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/09/the-macrumors-show-smart-home-products/",
+      "title": "The MacRumors Show: Apple's Smart Home Products Are Coming",
+      "author": "Hartley Charlton",
+      "published": "2026-10-09T15:36:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T16:16:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/09/every-m5-macbook-air-200-off/",
+      "title": "Every M5 MacBook Air Now $200 Off on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-09T15:23:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T16:16:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/09/leak-details-iphone-features-for-home-accessories/",
+      "title": "Leak Details iPhone Features for Apple's LG Home Accessories",
+      "author": "Hartley Charlton",
+      "published": "2026-10-09T14:50:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T16:16:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/09/mac-shipments-fall-but-apple-gains-ground/",
+      "title": "Mac Shipments Fall, But Apple Still Gains Ground in Shrinking Market",
+      "author": "Hartley Charlton",
+      "published": "2026-10-09T13:16:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T16:16:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/09/apple-cuts-iphone-18-pro-orders-price-demand/",
+      "title": "Apple Reportedly Cuts iPhone 18 Pro Orders After Price Hike Dampens Demand",
+      "author": "Tim Hardwick",
+      "published": "2026-10-09T12:23:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T16:16:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-09T12:22:43+00:00"
+  "last_checked": "2026-10-09T16:16:27+00:00"
 }
