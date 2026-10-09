@@ -17614,7 +17614,57 @@
       "parser": "default",
       "discovered": "2026-10-08T20:16:24+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sigma-a85mm-f-1-2-and-20-60mm-are-now-in-stock/",
+      "title": "New Sigma 85mm f/1.2 and 20-60mm are now in Stock",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-08T18:50:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T00:46:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/apple-october-13-launch/",
+      "title": "Apple's October 13 Launch: What's Coming",
+      "author": "Juli Clover",
+      "published": "2026-10-08T23:48:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T00:46:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/anthropic-user-guideline-update/",
+      "title": "Anthropic Says Users Can't Be Needlessly Cruel to Claude",
+      "author": "Juli Clover",
+      "published": "2026-10-08T21:53:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T00:46:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro/",
+      "title": "Apple to Launch Touchscreen OLED MacBook Pro and OLED iPad mini on October 27",
+      "author": "Juli Clover",
+      "published": "2026-10-08T21:12:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T00:46:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
+      "title": "Apple Now Pushing iPhone Users Still on iOS 26 to Install iOS 27",
+      "author": "Joe Rossignol",
+      "published": "2026-10-08T20:17:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-09T00:46:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-08T20:16:24+00:00"
+  "last_checked": "2026-10-09T00:46:40+00:00"
 }
