@@ -16276,7 +16276,17 @@
       "parser": "default",
       "discovered": "2026-10-10T16:15:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/ahead-of-the-next-rumor-wave-join-us-on-our-whatsapp-ig-fb-signal-youtube-channel-to-not-miss-any-news/",
+      "title": "Ahead of the next rumor wave: Join us on our Whatsapp-IG-FB-Signal-Youtube channel to not miss any news!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-10T16:12:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-10T20:14:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-10T16:15:53+00:00"
+  "last_checked": "2026-10-10T20:14:59+00:00"
 }
