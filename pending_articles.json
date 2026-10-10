@@ -16216,7 +16216,67 @@
       "parser": "default",
       "discovered": "2026-10-10T12:22:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/airpods-5-vs-with-wireless-charging-case/",
+      "title": "AirPods 5 vs. AirPods 5 With Wireless Charging Case Buyer's Guide",
+      "author": "Hartley Charlton",
+      "published": "2026-10-10T15:00:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-10T16:15:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/10/accessory-deals-this-weekend/",
+      "title": "Accessory Deals This Weekend: Save on TVs, Headphones, and Smart Home Gear",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-10T13:59:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-10T16:15:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/10/apple-to-unveil-all-new-type-of-device/",
+      "title": "Apple's All-New Home Hub Will Be Revealed October 13: What to Expect",
+      "author": "Joe Rossignol",
+      "published": "2026-10-10T13:58:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-10T16:15:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/10/apple-to-announce-new-homepod-mini-next-week/",
+      "title": "Apple Announcing HomePod Mini 2 Next Week With These New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-10-10T13:55:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-10T16:15:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/10/new-apple-tv-4k-is-coming-tuesday/",
+      "title": "A New Apple TV 4K is Finally Coming on Tuesday",
+      "author": "Joe Rossignol",
+      "published": "2026-10-10T13:45:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-10T16:15:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/10/top-stories-apple-welcome-home-launch-october-13/",
+      "title": "Top Stories: Apple's 'Welcome Home' Launch on October 13 and More",
+      "author": "MacRumors Staff",
+      "published": "2026-10-10T13:00:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-10T16:15:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-10T12:22:01+00:00"
+  "last_checked": "2026-10-10T16:15:53+00:00"
 }
