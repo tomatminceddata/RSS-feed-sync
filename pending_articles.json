@@ -16286,7 +16286,17 @@
       "parser": "default",
       "discovered": "2026-10-10T20:14:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/10/rumored-apple-adt-partnership/",
+      "title": "Rumor: Apple to Announce New Partnership With ADT",
+      "author": "Joe Rossignol",
+      "published": "2026-10-11T02:17:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-11T04:19:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-10T20:14:59+00:00"
+  "last_checked": "2026-10-11T04:19:09+00:00"
 }
