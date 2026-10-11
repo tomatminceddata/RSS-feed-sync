@@ -16296,7 +16296,87 @@
       "parser": "default",
       "discovered": "2026-10-11T04:19:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/petapixel-just-how-similar-are-sonys-new-telephoto-primes-after-all/",
+      "title": "PetaPixel: Just How Similar Are Sony’s New Telephoto Primes, After All?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-11T10:31:32+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-11T16:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/11/new-entry-level-ipad-not-expected-until-2027/",
+      "title": "New Entry-Level iPad Not Expected Until Early 2027",
+      "author": "Hartley Charlton",
+      "published": "2026-10-11T15:57:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-11T16:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/11/iphone-duo-retail-showcase/",
+      "title": "Apple Plans Major iPhone Duo Retail Showcase, But Supply Will Be Limited",
+      "author": "Hartley Charlton",
+      "published": "2026-10-11T15:44:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-11T16:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-a19-chip-easier-to-find-remote/",
+      "title": "Apple TV 4K Getting A19 Chip and a Potentially Easier-to-Find Siri Remote",
+      "author": "Tim Hardwick",
+      "published": "2026-10-11T15:08:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-11T16:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/11/mac-mini-studio-200-off/",
+      "title": "New Mac Mini and Mac Studio Receive Up to $200 Price Cuts at Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-11T14:44:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-11T16:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/11/apple-homeview-smart-home-hub-ship-next-month/",
+      "title": "Apple HomeView Smart Hub to Ship in Mid-November in Four Colors",
+      "author": "Tim Hardwick",
+      "published": "2026-10-11T14:40:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-11T16:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-4k-homepod-mini-ship-oct-30/",
+      "title": "New Apple TV 4K and HomePod Mini to Ship on October 30",
+      "author": "Tim Hardwick",
+      "published": "2026-10-11T14:24:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-11T16:16:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/11/airpods-max-2-for-429/",
+      "title": "AirPods Max 2 Available for $429 in All Colors on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-11T14:05:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-11T16:16:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-11T04:19:09+00:00"
+  "last_checked": "2026-10-11T16:16:48+00:00"
 }
