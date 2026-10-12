@@ -16386,7 +16386,17 @@
       "parser": "default",
       "discovered": "2026-10-11T20:15:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-homepod-mini-2-preorders/",
+      "title": "New Apple TV 4K and HomePod Mini 2 Pre-Orders Expected to Begin This Week",
+      "author": "Joe Rossignol",
+      "published": "2026-10-12T03:17:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T04:25:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-11T20:15:38+00:00"
+  "last_checked": "2026-10-12T04:25:35+00:00"
 }
