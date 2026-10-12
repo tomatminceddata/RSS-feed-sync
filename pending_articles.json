@@ -57,17 +57,6 @@
       "status": "pending"
     },
     {
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Real-Time/ba-p/5241179",
-      "title": "Workspace Outbound Access Protection (OAP) for Real-Time Intelligence (Preview)",
-      "author": "galir",
-      "published": "2026-07-02T16:00:00+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "parser": "wordpress",
-      "discovered": "2026-07-02T16:39:54+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
       "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-visual-calculations-Adding-calculations-directly/ba-p/5255359",
       "title": "Deep dive into visual calculations: Adding calculations directly to your Power BI visuals (Generally Available)",
       "author": "DataZoe",
@@ -76,17 +65,6 @@
       "parser": "wordpress",
       "discovered": "2026-07-02T16:39:54+00:00",
       "status": "pending"
-    },
-    {
-      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Securing-zero-copy-distribution-patterns-with-OneLake-security/ba-p/5227853",
-      "title": "Securing zero-copy distribution patterns with OneLake security and shortcuts",
-      "author": "aonelakeuser",
-      "published": "2026-07-02T18:00:00+00:00",
-      "feed": "MicrosoftFabricBlog",
-      "parser": "wordpress",
-      "discovered": "2026-07-02T20:32:17+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplifying-secure-data-access-with-Delegated-OneLake-Shortcuts/ba-p/5254632",
@@ -147,325 +125,6 @@
       "parser": "wordpress",
       "discovered": "2026-07-06T20:41:59+00:00",
       "status": "pending"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/there-is-also-this-new-viltrox-28mm-f-1-8-ii-coming-on-july-15/",
-      "title": "There is also this new Viltrox 28mm f/1.8 II coming on July 15",
-      "author": "SonyAlpha Admin",
-      "published": "2026-07-12T09:31:21+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-07-12T12:23:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
-      "title": "Curiosity: Sony FX5 has IBIS….you can remove?",
-      "author": "SonyAlpha Admin",
-      "published": "2026-07-12T14:19:19+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-07-12T16:22:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/12/apple-stores-to-expand-tap-to-pay-on-iphone/",
-      "title": "Apple Stores to Expand Use of 'Tap to Pay on iPhone'",
-      "author": "Joe Rossignol",
-      "published": "2026-07-12T16:11:31+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-12T16:22:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/12/m7-ultra-chip-may-match-2019-mac-pro-feat/",
-      "title": "Apple's M7 Ultra Chip Designed to Match a 2019 Mac Pro Feat",
-      "author": "Joe Rossignol",
-      "published": "2026-07-12T15:53:10+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-12T16:22:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/12/two-new-apple-pencils-next-year-report/",
-      "title": "Two New Apple Pencils Reportedly Launching Next Year",
-      "author": "Joe Rossignol",
-      "published": "2026-07-12T15:45:40+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-12T16:22:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/12/ios-27-public-beta-release-date-timing/",
-      "title": "iOS 27 Public Beta Reportedly Available This Week",
-      "author": "Joe Rossignol",
-      "published": "2026-07-12T15:22:30+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-12T16:22:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/12/why-apple-is-skipping-m6-pro-m6-max-chips/",
-      "title": "Here's Why Apple is Reportedly Skipping M6 Pro and M6 Max Chips",
-      "author": "Joe Rossignol",
-      "published": "2026-07-12T15:12:08+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-12T16:22:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/12/airpods-pro-3-at-199-99/",
-      "title": "AirPods Pro 3 Hit Best Price Since Prime Day at $199.99",
-      "author": "Mitchel Broussard",
-      "published": "2026-07-12T14:32:24+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-12T16:22:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/12/apple-2026-back-to-school-offer-soon/",
-      "title": "Apple's 2026 Back to School Offer is Coming Soon",
-      "author": "Joe Rossignol",
-      "published": "2026-07-12T14:29:46+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-12T16:22:50+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/dear-sources-whats-coming-after-the-sony-fx5/",
-      "title": "Dear sources….what’s coming after the Sony FX5?",
-      "author": "SonyAlpha Admin",
-      "published": "2026-07-13T09:32:51+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T12:54:46+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apple-stock-record-territory/",
-      "title": "Apple Stock Hits Record Territory as Traders Sour on AI Spending",
-      "author": "Tim Hardwick",
-      "published": "2026-07-13T12:02:04+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T12:54:46+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/meta-pulls-ai-image-feature-from-instagram/",
-      "title": "Meta Pulls AI Image Feature From Instagram Days After Launch",
-      "author": "Tim Hardwick",
-      "published": "2026-07-13T11:18:42+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T12:54:46+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/five-new-waze-features-rolling-out/",
-      "title": "5 New Waze Features Rolling Out Now: Here Are All the Details",
-      "author": "Tim Hardwick",
-      "published": "2026-07-13T10:32:25+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T12:54:46+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apple-agreed-intel-chips-trump-tariff-talks/",
-      "title": "Report: Apple Agreed to Intel Chips Amid White House Tariff Talks",
-      "author": "Tim Hardwick",
-      "published": "2026-07-13T09:47:18+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T12:54:46+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/exclusive-sony-fx5-has-new-compact-internal-16-bit-raw-format-and-same-codec-as-25k-sony-camera/",
-      "title": "Exclusive: Sony FX5 has new compact internal 16 Bit RAW format and same codec as 25k Sony camera!",
-      "author": "SonyAlpha Admin",
-      "published": "2026-07-13T13:18:56+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T16:50:53+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/you-can-already-buy-the-new-viltrox-af-26mm-f-2-8-evo-on-aliexpress/",
-      "title": "You can already buy the new Viltrox AF 26mm f/2.8 EVO on AliExpress.",
-      "author": "SonyAlpha Admin",
-      "published": "2026-07-13T12:41:42+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T16:50:53+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/openai-lawsuit-threatens-plans/",
-      "title": "Report: Apple's OpenAI Lawsuit Threatens iPhone Rival Plans",
-      "author": "Hartley Charlton",
-      "published": "2026-07-13T16:31:48+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T16:50:53+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apples-steady-iphone-pricing-pays-off/",
-      "title": "Apple's Steady iPhone Pricing Pays Off as Rivals Scramble",
-      "author": "Hartley Charlton",
-      "published": "2026-07-13T14:44:21+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T16:50:53+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apple-acquires-sigscalr-assets/",
-      "title": "Apple Acquiring SigScalr",
-      "author": "Joe Rossignol",
-      "published": "2026-07-13T14:01:26+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T16:50:53+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apple-watch-11-to-299/",
-      "title": "Missed the Last Apple Watch Sale? Series 11 Now $100 Off on Amazon",
-      "author": "Mitchel Broussard",
-      "published": "2026-07-13T13:49:19+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T16:50:53+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apple-plans-airpods-like-pairing-for-meta/",
-      "title": "Apple Plans AirPods-Like Pairing for Meta's Glasses and Quest",
-      "author": "Hartley Charlton",
-      "published": "2026-07-13T13:45:59+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T16:50:53+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-26-6-beta-5/",
-      "title": "Apple Seeds Fifth iOS 26.6 and iPadOS 26.6 Betas to Developers",
-      "author": "Juli Clover",
-      "published": "2026-07-13T17:28:35+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T20:30:05+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-macos-tahoe-26-6-beta-5/",
-      "title": "Fifth macOS Tahoe 26.6 Beta Now Available for Developers",
-      "author": "Juli Clover",
-      "published": "2026-07-13T17:28:15+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T20:30:05+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-watchos-26-6-beta-5/",
-      "title": "Apple Releases Fifth watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
-      "author": "Juli Clover",
-      "published": "2026-07-13T17:28:00+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-13T20:30:05+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/guide/ios-27-public-beta-features/",
-      "title": "iOS 27 Public Beta Is Here: 10 New Features Worth Testing",
-      "author": "Juli Clover",
-      "published": "2026-07-13T23:07:18+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T00:39:20+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/ios-26-6-malicious-message-warning/",
-      "title": "iOS 26.6 Will Warn You About Malicious iMessages",
-      "author": "Juli Clover",
-      "published": "2026-07-13T23:02:48+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T00:39:20+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/",
-      "title": "First macOS Golden Gate Public Beta Now Available",
-      "author": "Juli Clover",
-      "published": "2026-07-13T20:41:27+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T00:39:20+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/apple-seeds-ios-27-public-beta-1/",
-      "title": "iOS 27 and iPadOS 27 Now Available to Public Beta Testers",
-      "author": "Juli Clover",
-      "published": "2026-07-13T20:39:18+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T00:39:20+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/13/watchos-27-public-beta/",
-      "title": "tvOS 27 and watchOS 27 Now Available to Public Beta Testers",
-      "author": "Juli Clover",
-      "published": "2026-07-13T20:38:00+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T00:39:20+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
     },
     {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-new-for-Dataverse-Fabric-Link-More-control-stronger/ba-p/5279493",
@@ -538,50 +197,6 @@
       "status": "pending"
     },
     {
-      "url": "https://www.sonyalpharumors.com/kase-24mm-f-3-8-pancake-now-listed-at-aliexpress/",
-      "title": "Kase 24mm f/3.8 pancake now listed at Aliexpress",
-      "author": "SonyAlpha Admin",
-      "published": "2026-07-14T09:36:49+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T12:33:14+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/14/iphone-17-pricing-helped-apple-china-q2-26/",
-      "title": "iPhone 17 Pricing Helped Apple Buck China's Q2 Smartphone Decline",
-      "author": "Tim Hardwick",
-      "published": "2026-07-14T11:27:09+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T12:33:14+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/14/whatsapp-backup-cloud-provider-for-ios/",
-      "title": "WhatsApp Beta Reveals iCloud Backup Alternative for iPhone",
-      "author": "Tim Hardwick",
-      "published": "2026-07-14T10:06:46+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T12:33:14+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/14/google-chrome-gemini-ai-features-uk/",
-      "title": "Google Chrome's Gemini AI Features Roll Out to UK Users",
-      "author": "Tim Hardwick",
-      "published": "2026-07-14T09:32:37+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T12:33:14+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
       "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Intelligent-streaming-Real-time-game-day-operations-with-Fabric/ba-p/5287533",
       "title": "Intelligent streaming: Real-time game-day operations with Fabric Eventstreams, Spark and AI functions",
       "author": "arindamc",
@@ -590,72 +205,6 @@
       "parser": "khoros",
       "discovered": "2026-07-14T16:31:44+00:00",
       "status": "pending"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/sony-fx5-to-cost-close-to-e5500-in-europe/",
-      "title": "Sony FX5 to costs €5,399 in Europe?",
-      "author": "SonyAlpha Admin",
-      "published": "2026-07-14T14:59:33+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T16:31:44+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/things-the-sony-fx5-doesnt-have-no-internal-nd-no-photo-mode-no-8k/",
-      "title": "Things the Sony FX5 doesn’t have: No internal ND, no photo mode and no SSD output?",
-      "author": "SonyAlpha Admin",
-      "published": "2026-07-14T12:58:35+00:00",
-      "feed": "SonyAlphaRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T16:31:44+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/14/madden-nfl-27-arcade-edition/",
-      "title": "Madden NFL 27 Arcade Edition Coming to Apple Arcade",
-      "author": "Hartley Charlton",
-      "published": "2026-07-14T14:57:28+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T16:31:44+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/14/amazon-30-off-airpods-4/",
-      "title": "Amazon Takes $30 Off AirPods 4 Models This Week",
-      "author": "Mitchel Broussard",
-      "published": "2026-07-14T13:53:56+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T16:31:44+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/",
-      "title": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims",
-      "author": "Hartley Charlton",
-      "published": "2026-07-14T12:47:03+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T16:31:44+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/07/14/oled-ipad-mini-has-60hz-display/",
-      "title": "Upcoming OLED iPad Mini Allegedly Uses 60Hz 8.4-Inch Display Panel",
-      "author": "Tim Hardwick",
-      "published": "2026-07-14T12:36:48+00:00",
-      "feed": "MacRumors",
-      "parser": "default",
-      "discovered": "2026-07-14T16:31:44+00:00",
-      "status": "synced",
-      "synced_at": "2026-07-14T19:44:03+00:00"
     },
     {
       "url": "https://www.sonyalpharumors.com/last-minute-leaked-image-of-the-new-tamron-12-20mm-f-2-8-fe-lens/",
@@ -16506,7 +16055,67 @@
       "parser": "default",
       "discovered": "2026-10-12T16:16:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/What-s-new-for-Business-Events-and-real-time-events-in-Microsoft/ba-p/5367401",
+      "title": "What’s new for Business Events and real-time events in Microsoft Fabric",
+      "author": "robece-msft",
+      "published": "2026-10-12T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-12T20:16:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-look-and-new-capabilities-in-the-Capacity-Metrics-App/ba-p/5374114",
+      "title": "A new look and new capabilities in the Capacity Metrics App (Preview)",
+      "author": "pankajarora",
+      "published": "2026-10-12T17:28:57+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-12T20:16:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/great-news-folks-sony-is-sending-our-repaired-fx5-to-early-customers/",
+      "title": "Great news, everyone: Sony is shipping our repaired FX5 units to the first customers!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-12T15:25:48+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T20:16:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/apple-welcome-home-product-recap/",
+      "title": "Apple 'Welcome Home' Launch: Everything to Expect Tomorrow",
+      "author": "Juli Clover",
+      "published": "2026-10-12T17:17:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T20:16:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/12/new-macs-and-ipad-mini-in-los-angeles/",
+      "title": "Apple Plans Two-Day Event to Showcase Trio of New Macs and iPad Mini",
+      "author": "Joe Rossignol",
+      "published": "2026-10-12T16:49:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T20:16:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/12/you-can-now-set-up-your-iphone-duo-pre-order/",
+      "title": "You Can Now Set Up Your iPhone Duo Pre-Order - Do It Before Friday",
+      "author": "Tim Hardwick",
+      "published": "2026-10-12T16:16:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T20:16:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-12T16:16:45+00:00"
+  "last_checked": "2026-10-12T20:16:22+00:00"
 }
