@@ -16406,7 +16406,37 @@
       "parser": "default",
       "discovered": "2026-10-12T08:35:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-japanese-sales-ranking-by-kitamura-sony-a7cii-still-on-top/",
+      "title": "New Japanese sales ranking by Kitamura: Sony A7cII still on top!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-12T12:29:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T12:33:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/12/oled-ipad-mini-more-expensive-than-current-model/",
+      "title": "OLED iPad Mini Could Be $200 More Expensive Than Current Model",
+      "author": "Tim Hardwick",
+      "published": "2026-10-12T11:10:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T12:33:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/12/apple-launches-special-edition-airpods-5-in-india/",
+      "title": "Apple Launches Special Edition AirPods 5 in India",
+      "author": "Hartley Charlton",
+      "published": "2026-10-12T10:28:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T12:33:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-12T08:35:52+00:00"
+  "last_checked": "2026-10-12T12:33:40+00:00"
 }
