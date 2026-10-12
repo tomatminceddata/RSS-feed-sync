@@ -16436,7 +16436,77 @@
       "parser": "default",
       "discovered": "2026-10-12T12:33:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-SQL-Pools-in-Fabric-Data-Warehouse-Generally-Available/ba-p/5368292",
+      "title": "Custom SQL Pools in Fabric Data Warehouse (Generally Available)",
+      "author": "TwinkleCyril",
+      "published": "2026-10-12T15:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-12T16:16:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/12/beats-pokemon-teaser/",
+      "title": "Apple and Pokémon Tease Special Pikachu-Themed Beats Pill Speaker",
+      "author": "Joe Rossignol",
+      "published": "2026-10-12T16:09:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T16:16:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/12/app-store-indie-games-week/",
+      "title": "Apple Announces 'Indie Games Week' on App Store",
+      "author": "Joe Rossignol",
+      "published": "2026-10-12T15:16:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T16:16:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/12/2026-macbook-pro-600-week/",
+      "title": "Amazon Discounting 2026 MacBook Pro by as Much as $600 This Week",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-12T14:26:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T16:16:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/apple-watch-ultra-1-vs-ultra-4/",
+      "title": "Apple Watch Ultra 1 vs. Ultra 4 Buyer's Guide: Is It Worth Upgrading?",
+      "author": "Hartley Charlton",
+      "published": "2026-10-12T14:07:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T16:16:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/12/apple-watch-se-3-199-99/",
+      "title": "Apple Watch SE 3 Available From Just $199.99 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-12T14:03:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T16:16:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/12/tim-cook-visits-china/",
+      "title": "Tim Cook Visits China for the Third Time in 2026",
+      "author": "Hartley Charlton",
+      "published": "2026-10-12T13:54:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-12T16:16:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-12T12:33:40+00:00"
+  "last_checked": "2026-10-12T16:16:45+00:00"
 }
