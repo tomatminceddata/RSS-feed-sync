@@ -16375,7 +16375,137 @@
       "parser": "default",
       "discovered": "2026-10-13T16:17:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-App-functions-to-use-secure-server-side-custom-logic/ba-p/5368691",
+      "title": "Fabric App functions to use secure server-side custom logic (Preview)",
+      "author": "mk_sunitha",
+      "published": "2026-10-13T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Amazon-Redshift-V2-Connector-for-Microsoft-Data-Factory/ba-p/5365631",
+      "title": "Amazon Redshift V2 Connector for Microsoft Data Factory",
+      "author": "MichaelaIsaacs",
+      "published": "2026-10-13T19:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/iphone-duo-day-one-update/",
+      "title": "iPhone Duo Will Have Day-One iOS 27.1 Update",
+      "author": "Juli Clover",
+      "published": "2026-10-13T20:01:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/pre-order-homeview/",
+      "title": "Where to Pre-Order Apple's New HomeView, HomePod Mini 2, and Apple TV 4K",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-13T19:34:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/airpods-beta-firmware-9b5043a/",
+      "title": "Apple Releases New AirPods Beta Firmware",
+      "author": "Juli Clover",
+      "published": "2026-10-13T18:28:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-beta-4/",
+      "title": "Apple Releases Fourth iOS 27.2 Beta",
+      "author": "Juli Clover",
+      "published": "2026-10-13T18:27:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/macos-golden-gate-27-2-beta-4/",
+      "title": "Apple Seeds Fourth macOS Golden Gate 27.2 Beta to Developers",
+      "author": "Juli Clover",
+      "published": "2026-10-13T18:25:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-releases-watchos-27-2-beta-4/",
+      "title": "Apple Releases Fourth watchOS 27.2 and visionOS 27.2 Betas",
+      "author": "Juli Clover",
+      "published": "2026-10-13T18:20:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/anker-and-jackery-prime-day-encore/",
+      "title": "Anker and Jackery Offer Prime Day Encore Discounts on Power Stations",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-13T17:29:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/new-apple-tv-and-siri-remote-14-new-features/",
+      "title": "New Apple TV 4K and Siri Remote Have These 14 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T17:29:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/homeview-third-party-apps/",
+      "title": "HomeView Runs Third-Party Apps From Your iPhone or iPad",
+      "author": "Juli Clover",
+      "published": "2026-10-13T17:03:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/rip-homeos/",
+      "title": "RIP, homeOS",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T16:50:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/new-apple-tv-4k-four-homepods-surround-sound/",
+      "title": "New Apple TV 4K Supports Surround Sound via Four HomePods",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T16:32:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T20:15:36+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-13T16:17:48+00:00"
+  "last_checked": "2026-10-13T20:15:36+00:00"
 }
