@@ -16145,7 +16145,237 @@
       "parser": "default",
       "discovered": "2026-10-13T12:25:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/My-workspace-governance-improvements-Generally-Available/ba-p/5368442",
+      "title": "My workspace governance improvements (Generally Available)",
+      "author": "sergeig888",
+      "published": "2026-10-13T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/here-is-an-ai-generated-sony-medium-format-system-photo-based-on-real-patent-designs/",
+      "title": "Here is an AI generated Sony medium format system photo based on REAL patent designs!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-13T13:54:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-ttartisan-af-24mm-f-3-8-pancake-fe-lens/",
+      "title": "Just announced: New TTartisan AF 24mm f/3.8 pancake FE lens weights 57g only!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-13T13:11:08+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-siri-ai-coming-later/",
+      "title": "Apple Says HomePod Mini 2 Won't Support Siri AI Right Away",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T16:11:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/homeview-can-dim-to-lowest-ever-brightness/",
+      "title": "HomeView Can Dim to Apple's Lowest-Ever Display Brightness",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T16:00:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/new-apple-tv-4k-adds-far-field-microphones/",
+      "title": "New Apple TV 4K Adds Far-Field Microphones for Hands-Free Siri",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T15:54:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/new-siri-remote-compatible-apple-tv-models/",
+      "title": "New Siri Remote is $59 and Compatible With These Apple TV Models",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T15:45:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-details-homeview-audio-hardware/",
+      "title": "Apple Details HomeView's Audio Hardware",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T15:44:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/homeview-wall-mount-option-price/",
+      "title": "HomeView's Wall Model: Pay More, Get Less Speaker",
+      "author": "Juli Clover",
+      "published": "2026-10-13T15:41:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-shares-videos-for-homeview-and-more/",
+      "title": "Apple Shares Videos for HomeView, Apple TV 4K, and HomePod Mini 2",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T15:39:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/homeview-comes-in-four-colors/",
+      "title": "HomeView Comes in Four Colors, but Wall-Mounted Model Gets Just Two",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T15:24:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/older-apple-tv-4k-models-apple-intelligence/",
+      "title": "Older Apple TV 4K Models to Gain Apple Intelligence and Siri AI Support",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T15:16:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/adt-apple-homeview-installation/",
+      "title": "ADT to Offer In-Home Installation of Apple's New HomeView and More",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T15:12:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/homeview-for-kitchen/",
+      "title": "HomeView Brings Guided Recipes and Hands-Free Timers to the Kitchen",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T15:11:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/homeview-touts-5-privacy-features/",
+      "title": "Apple's HomeView Touts These 5 Privacy Features",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T14:31:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-watch-ultra-3-discounts/",
+      "title": "Apple Watch Ultra 3 Gets Major Discounts at Amazon and Best Buy",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-13T14:23:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-tv-finally-gaining-apple-intelligence/",
+      "title": "Apple TV Finally Gaining Apple Intelligence and Siri AI",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T14:20:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/homeview-needs-an-iphone-for-some-ai-features/",
+      "title": "HomeView Needs an iPhone or iPad for Some AI Features",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T13:53:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-homepod-mini-2/",
+      "title": "Apple Announces $149 HomePod Mini 2 With Siri AI, 'Sound Glow', and Four-Speaker Surround Sound",
+      "author": "Juli Clover",
+      "published": "2026-10-13T13:40:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-home-collection/",
+      "title": "Apple Launches 'Apple Home Collection' With Cameras, Lock, Thermostats and More",
+      "author": "Juli Clover",
+      "published": "2026-10-13T13:32:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-tv-4k-is-now-even-more-expensive/",
+      "title": "Apple TV 4K is Now Even More Expensive, 128GB Model Priced at $299",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T13:32:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/",
+      "title": "Apple HomeView Won't Be Available in the European Union",
+      "author": "Hartley Charlton",
+      "published": "2026-10-13T13:09:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/new-apple-tv-4k-announced/",
+      "title": "New Apple TV 4K Announced With A19 Chip, Updated Siri Remote, More",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T13:08:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-13T16:17:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-13T12:25:28+00:00"
+  "last_checked": "2026-10-13T16:17:48+00:00"
 }
