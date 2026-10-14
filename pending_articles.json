@@ -16645,7 +16645,157 @@
       "parser": "default",
       "discovered": "2026-10-14T12:23:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/dont-worry-you-megapixel-fans-a-new-sony-180mp-medium-format-sensor-will-be-unveiled-soon/",
+      "title": "Don’t worry you Megapixel fans….a new Sony 180MP Medium format sensor will be unveiled soon!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-14T13:20:43+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-compromises/",
+      "title": "iPhone Duo Compromises: Everything You Have to Give Up",
+      "author": "Hartley Charlton",
+      "published": "2026-10-14T16:08:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-homeview-apps-carplay/",
+      "title": "Apple HomeView Has These 15 Apps, Some CarPlay Apps and Widgets Also Supported",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T16:03:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-cover-layer-and-battery-fees/",
+      "title": "iPhone Duo: Apple Charging $49 for New Cover Layer, $229 for Battery",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T15:46:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-repair-fees/",
+      "title": "iPhone Duo: Skipping AppleCare+ Could Be $1,499 Mistake",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T15:37:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-says-homepod-2-works-as-default-mac-speaker/",
+      "title": "Apple Says HomePod 2 Also Works as Default Speaker With Select Macs",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T15:25:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/homepod-mini-2-all-the-new-features/",
+      "title": "HomePod Mini 2: All the New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T15:22:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/smart-home-accessory-deals/",
+      "title": "Ready for HomeView? Don't Miss These Smart Home Accessory Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-14T14:26:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/whatsapp-guest-calls/",
+      "title": "WhatsApp Now Lets Anyone Join Calls, No Account Needed",
+      "author": "Juli Clover",
+      "published": "2026-10-14T14:00:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/applecare-launched-15-years-ago-today/",
+      "title": "AppleCare+ Launched 15 Years Ago Today",
+      "author": "Hartley Charlton",
+      "published": "2026-10-14T13:48:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-reportedly-planning-iphone-18-production/",
+      "title": "Apple Reportedly Planning Large iPhone 18 Production Run",
+      "author": "Hartley Charlton",
+      "published": "2026-10-14T13:42:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-three-more-obsolete-products/",
+      "title": "Apple Says These Products Are Now Obsolete",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T13:38:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/first-discounts-hit-homeview/",
+      "title": "First Pre-Order Discounts Now Available for HomeView",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-14T12:47:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-launched-iphone-4s-15-years-ago/",
+      "title": "Apple Launched iPhone 4S With Siri 15 Years Ago Today",
+      "author": "Hartley Charlton",
+      "published": "2026-10-14T12:30:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-homeview-includes-sensors/",
+      "title": "Apple HomeView Includes Temperature and Humidity Sensors",
+      "author": "Hartley Charlton",
+      "published": "2026-10-14T12:27:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T16:16:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-14T12:23:11+00:00"
+  "last_checked": "2026-10-14T16:16:03+00:00"
 }
