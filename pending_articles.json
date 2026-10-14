@@ -16595,7 +16595,17 @@
       "parser": "default",
       "discovered": "2026-10-14T00:36:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-homeview-repair-fees/",
+      "title": "Apple's HomeView Repair Fees Revealed",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T00:44:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T04:18:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-14T00:36:48+00:00"
+  "last_checked": "2026-10-14T04:18:28+00:00"
 }
