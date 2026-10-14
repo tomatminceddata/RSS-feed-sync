@@ -16505,7 +16505,97 @@
       "parser": "default",
       "discovered": "2026-10-13T20:15:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/File-Data-Ingestion-with-Materialized-Lake-Views-in-Microsoft/ba-p/5367801",
+      "title": "File Data Ingestion with Materialized Lake Views in Microsoft Fabric (Preview)",
+      "author": "hareshgowri",
+      "published": "2026-10-13T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-14T00:36:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/",
+      "title": "Everything Apple Still Has Coming in October",
+      "author": "Juli Clover",
+      "published": "2026-10-13T23:47:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T00:36:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-october-13-recap/",
+      "title": "Welcome Home: Everything Apple Announced on October 13",
+      "author": "Juli Clover",
+      "published": "2026-10-13T22:22:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T00:36:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/full-sized-homepod-siri-ai-alt-text/",
+      "title": "Will the Full-Sized HomePod Get Siri AI? Apple's Website Offers a Clue",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T22:20:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T00:36:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/",
+      "title": "Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
+      "author": "Juli Clover",
+      "published": "2026-10-13T22:11:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T00:36:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/",
+      "title": "iOS 27.2 Adds New Apple Music Icon",
+      "author": "Juli Clover",
+      "published": "2026-10-13T22:04:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T00:36:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/",
+      "title": "HomePod Mini 2 Works as Default Speaker With Select Macs",
+      "author": "Joe Rossignol",
+      "published": "2026-10-13T21:38:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T00:36:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer/",
+      "title": "Elevation Lab Pulls AirTag Silencer After Stalking Concerns",
+      "author": "Juli Clover",
+      "published": "2026-10-13T21:14:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T00:36:48+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/13/ios-27-2-beta-4-health-app/",
+      "title": "iOS 27.2 Beta 4 Removes New Health App",
+      "author": "Juli Clover",
+      "published": "2026-10-13T20:31:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T00:36:48+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-13T20:15:36+00:00"
+  "last_checked": "2026-10-14T00:36:48+00:00"
 }
