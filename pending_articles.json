@@ -16615,7 +16615,37 @@
       "parser": "default",
       "discovered": "2026-10-14T08:20:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/homepod-mini-vs-homepod-mini-2/",
+      "title": "HomePod Mini vs. HomePod Mini 2 Buyer's Guide: All Differences Compared",
+      "author": "Hartley Charlton",
+      "published": "2026-10-14T12:14:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T12:23:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-watch-sleep-apnea-notifications-china/",
+      "title": "Apple Watch Sleep Apnea Notifications Launch in China",
+      "author": "Hartley Charlton",
+      "published": "2026-10-14T11:05:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T12:23:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/homeviews-faces-include-snoopy-and-more/",
+      "title": "HomeView's Faces Include Snoopy, Photos, and Interactive Artwork",
+      "author": "Hartley Charlton",
+      "published": "2026-10-14T11:00:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T12:23:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-14T08:20:41+00:00"
+  "last_checked": "2026-10-14T12:23:11+00:00"
 }
