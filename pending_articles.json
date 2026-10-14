@@ -16605,7 +16605,17 @@
       "parser": "default",
       "discovered": "2026-10-14T04:18:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/announced-new-tamron-16-50mm-f-2-8-aps-c-e-mount-lens/",
+      "title": "Announced: New Tamron 16-50mm f/2.8 APS-C E-mount lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-14T04:47:22+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T08:20:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-14T04:18:28+00:00"
+  "last_checked": "2026-10-14T08:20:41+00:00"
 }
