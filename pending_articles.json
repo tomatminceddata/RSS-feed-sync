@@ -16795,7 +16795,57 @@
       "parser": "default",
       "discovered": "2026-10-14T16:16:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-electronics-introduces-the-ecm-w5-wireless-microphone-with-high-resolution-audio-recording-and-stable-connectivity/",
+      "title": "Sony Electronics Introduces the ECM-W5 Wireless Microphone with High-Resolution Audio Recording and Stable Connectivity",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-14T14:53:43+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T20:14:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/openai-apple-potential-counterclaim/",
+      "title": "OpenAI Says Ex-Employee Showed Its Device Plans to Apple",
+      "author": "Juli Clover",
+      "published": "2026-10-14T18:55:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T20:14:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/cases-protectors-iphone-duo/",
+      "title": "Discover the Best Cases and Screen Protectors for Your New iPhone Duo",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-14T18:32:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T20:14:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-del-amo-temporarily-closed/",
+      "title": "Apple Store Near Los Angeles Closed Due to 'Events Beyond Our Control'",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T17:32:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T20:14:52+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/",
+      "title": "No, HomePod Mini 1 Won't Support Siri AI as CNET Reported",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T17:20:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-14T20:14:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-14T16:16:03+00:00"
+  "last_checked": "2026-10-14T20:14:52+00:00"
 }
