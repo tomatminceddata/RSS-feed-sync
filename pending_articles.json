@@ -16845,7 +16845,77 @@
       "parser": "default",
       "discovered": "2026-10-14T20:14:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
+      "title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch",
+      "author": "Juli Clover",
+      "published": "2026-10-15T00:20:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T00:37:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/homeview-tidbits/",
+      "title": "10 HomeView Features You Might Have Missed",
+      "author": "Juli Clover",
+      "published": "2026-10-14T23:02:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T00:37:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-5-trillion-close/",
+      "title": "Apple Becomes Second Company to Close Above $5 Trillion",
+      "author": "Juli Clover",
+      "published": "2026-10-14T22:37:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T00:37:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-home-devices-siri-ai/",
+      "title": "Which Apple Home Devices Get Siri AI, and When",
+      "author": "Juli Clover",
+      "published": "2026-10-14T21:23:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T00:37:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-homeview-tested/",
+      "title": "Apple's Long-Delayed HomeView Was Already Being Tested in 2024",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T20:59:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T00:37:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-invites-two-new-features/",
+      "title": "Apple Invites App Updated With Two New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-10-14T20:54:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T00:37:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
+      "title": "Apple Intelligence Coming to China in December With iOS 27.3",
+      "author": "Juli Clover",
+      "published": "2026-10-14T20:24:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T00:37:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-14T20:14:52+00:00"
+  "last_checked": "2026-10-15T00:37:02+00:00"
 }
