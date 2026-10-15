@@ -17035,7 +17035,87 @@
       "parser": "default",
       "discovered": "2026-10-15T16:15:57+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Policies-Granular-governance-at-scale-Preview/ba-p/5368144",
+      "title": "Fabric Policies: Granular governance at scale (Preview)",
+      "author": "t-dmarcovich1",
+      "published": "2026-10-15T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-15T20:13:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-level-private-link-for-SQL-database-in-Microsoft/ba-p/5323519",
+      "title": "Workspace-level private link for SQL database in Microsoft Fabric (Preview)",
+      "author": "sukkaur",
+      "published": "2026-10-14T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-15T20:13:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Databricks-ADBC-connector-for-Power-BI-and-Microsoft-Fabric/ba-p/5369591",
+      "title": "Databricks ADBC connector for Power BI and Microsoft Fabric (Generally Available)",
+      "author": "MichaelaIsaacs",
+      "published": "2026-10-15T17:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-15T20:13:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-400mm-and-600mm-gm-lenses-are-now-shipping-out-in-the-us/",
+      "title": "New Sony 400mm and 600mm GM lenses are now shipping out in the US",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-15T16:35:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T20:13:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/touchscreen-macbook-pro-november-6/",
+      "title": "Touchscreen MacBook Pro Could Launch on November 6",
+      "author": "Juli Clover",
+      "published": "2026-10-15T19:09:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T20:13:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/withings-plus-apple-health-syncing/",
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "author": "Joe Rossignol",
+      "published": "2026-10-15T19:07:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T20:13:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/ipad-mini-8-120hz-tested/",
+      "title": "iPad Mini 8: Apple Has Tested Both 60Hz and 120Hz ProMotion Displays",
+      "author": "Joe Rossignol",
+      "published": "2026-10-15T18:33:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T20:13:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
+      "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
+      "author": "Juli Clover",
+      "published": "2026-10-15T17:47:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T20:13:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-15T16:15:57+00:00"
+  "last_checked": "2026-10-15T20:13:09+00:00"
 }
