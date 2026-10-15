@@ -16915,7 +16915,47 @@
       "parser": "default",
       "discovered": "2026-10-15T00:37:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/reviews-of-the-new-sony-ecm-w5-wireless-microphone/",
+      "title": "Reviews of the new Sony ECM-W5 Wireless Microphone",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-15T10:31:17+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T12:22:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/wall-mounted-homeview-ships-without-power-adapter/",
+      "title": "Apple's Wall-Mounted HomeView Ships Without a Power Adapter",
+      "author": "Hartley Charlton",
+      "published": "2026-10-15T12:18:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T12:22:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/rare-apple-1-with-steve-jobs-letter-sells/",
+      "title": "Rare Apple-1 With Steve Jobs Letter Sells for $1.15 Million",
+      "author": "Hartley Charlton",
+      "published": "2026-10-15T12:01:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T12:22:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/apple-inviting-media-to-october-28-experience/",
+      "title": "Apple Now Inviting Media to October 28 'Launch Experience'",
+      "author": "Hartley Charlton",
+      "published": "2026-10-15T11:13:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-15T12:22:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-15T00:37:02+00:00"
+  "last_checked": "2026-10-15T12:22:27+00:00"
 }
