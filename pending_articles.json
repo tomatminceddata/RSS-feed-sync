@@ -17215,7 +17215,97 @@
       "parser": "default",
       "discovered": "2026-10-16T12:22:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/i-have-been-interviewed-by-cined/",
+      "title": "I have been interviewed by CineD :)",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-16T13:09:10+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T16:15:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/september-bcn-ranking-sony-zv-e10ii-keeps-being-the-best-selling-mirrorless-camera-in-japan/",
+      "title": "September BCN ranking: Sony ZV-E10II keeps being the best selling mirrorless camera in Japan",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-16T10:37:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T16:15:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/the-macrumors-show-homeview-worth-the-wait/",
+      "title": "The MacRumors Show: Was HomeView Worth the Wait?",
+      "author": "Hartley Charlton",
+      "published": "2026-10-16T16:13:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T16:15:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/apple-homeview-homepoddevice/",
+      "title": "Apple Refers to HomeView as 'HomePodDevice' in Legal Document",
+      "author": "Joe Rossignol",
+      "published": "2026-10-16T15:47:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T16:15:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/discounts-macbook-pro/",
+      "title": "Massive Discounts Hit 2026 MacBook Pro With Up to $800 Off",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-16T14:45:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T16:15:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/apple-pre-orders-first-discounts/",
+      "title": "Apple Pre-Orders Kick Off With First Discounts on HomeView and Apple TV 4K",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-16T14:13:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T16:15:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-resold-for-5000-dollars-on-ebay/",
+      "title": "iPhone Duo Resold for $5,000 on eBay After Selling Out",
+      "author": "Joe Rossignol",
+      "published": "2026-10-16T13:50:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T16:15:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/developers-question-scope-of-antitrust-settlement/",
+      "title": "Developers Question Scope of Potential Apple Antitrust Settlement",
+      "author": "Hartley Charlton",
+      "published": "2026-10-16T13:41:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T16:15:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/",
+      "title": "iPhone Duo is Sold Out for Christmas as Shipping Estimates Slip to 2027",
+      "author": "Joe Rossignol",
+      "published": "2026-10-16T13:11:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T16:15:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-16T12:22:29+00:00"
+  "last_checked": "2026-10-16T16:15:39+00:00"
 }
