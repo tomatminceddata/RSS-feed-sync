@@ -17305,7 +17305,37 @@
       "parser": "default",
       "discovered": "2026-10-16T16:15:39+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
+      "title": "Didn't Pre-Order Apple's HomeView? Here's How Long the Wait is Now",
+      "author": "Joe Rossignol",
+      "published": "2026-10-16T20:05:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T20:13:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
+      "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive",
+      "author": "Juli Clover",
+      "published": "2026-10-16T19:51:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T20:13:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
+      "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-10-16T19:35:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T20:13:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-16T16:15:39+00:00"
+  "last_checked": "2026-10-16T20:13:49+00:00"
 }
