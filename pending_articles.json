@@ -17115,7 +17115,47 @@
       "parser": "default",
       "discovered": "2026-10-15T20:13:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-October-2026-Feature-Summary/ba-p/5374650",
+      "title": "Power BI October 2026 Feature Summary",
+      "author": "murray-kp",
+      "published": "2026-10-15T21:25:10+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-16T00:37:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
+      "title": "Oops, Apple's Website Just Hinted at iPad Mini 8",
+      "author": "Juli Clover",
+      "published": "2026-10-16T00:27:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T00:37:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/macbook-pro-m7-late-2027/",
+      "title": "OLED MacBook Pro Won't Get M7 Chips Until Late 2027",
+      "author": "Juli Clover",
+      "published": "2026-10-15T22:10:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T00:37:26+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/15/apple-25-million-white-house-ballroom/",
+      "title": "Apple Pledged $25 Million to Trump's White House Ballroom",
+      "author": "Juli Clover",
+      "published": "2026-10-15T20:48:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-16T00:37:26+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-15T20:13:09+00:00"
+  "last_checked": "2026-10-16T00:37:26+00:00"
 }
