@@ -17395,7 +17395,17 @@
       "parser": "default",
       "discovered": "2026-10-17T16:13:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/maven-launched-the-new-portable-talon-lights/",
+      "title": "Maven launched the new portable Talon lights",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-17T17:53:15+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-17T20:13:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-17T16:13:53+00:00"
+  "last_checked": "2026-10-17T20:13:00+00:00"
 }
