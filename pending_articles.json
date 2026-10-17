@@ -17375,7 +17375,27 @@
       "parser": "default",
       "discovered": "2026-10-17T00:38:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sigma-ceo-kazuto-yamaki-sees-endless-possibilities-for-new-optics/",
+      "title": "Sigma CEO Kazuto Yamaki sees “Endless Possibilities for New Optics”",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-17T11:22:53+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-17T16:13:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/17/top-stories-apple-homeview-intro/",
+      "title": "Top Stories: Apple HomeView, New Apple TV and HomePod mini, and Sold-Out iPhone Duo",
+      "author": "MacRumors Staff",
+      "published": "2026-10-17T13:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-17T16:13:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-17T00:38:12+00:00"
+  "last_checked": "2026-10-17T16:13:53+00:00"
 }
