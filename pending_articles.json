@@ -17335,7 +17335,47 @@
       "parser": "default",
       "discovered": "2026-10-16T20:13:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-viltrox-26mm-f-2-8-fe-pancake-silver-and-grey-finished-lenses/",
+      "title": "New Viltrox 26mm f/2.8 FE pancake Silver and Grey finished lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-16T19:43:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-17T00:38:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
+      "title": "Verizon Will Charge $10 a Month for iPhone Handoff",
+      "author": "Juli Clover",
+      "published": "2026-10-16T23:37:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-17T00:38:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/apple-iphone-duo-demand-extraordinary/",
+      "title": "Apple Calls iPhone Duo Demand 'Extraordinary' After Orders Slip to 2027",
+      "author": "Juli Clover",
+      "published": "2026-10-16T22:53:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-17T00:38:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes/",
+      "title": "New App Store Rules Target AI Deepfakes and Nudify Apps",
+      "author": "Juli Clover",
+      "published": "2026-10-16T22:21:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-17T00:38:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-16T20:13:49+00:00"
+  "last_checked": "2026-10-17T00:38:12+00:00"
 }
