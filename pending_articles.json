@@ -17425,7 +17425,17 @@
       "parser": "default",
       "discovered": "2026-10-18T00:42:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/reddit-user-reports-he-shot-over-1-million-images-with-the-sony-a7siii/",
+      "title": "Reddit user reports he shot over 1 Million images with the Sony A7sIII",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-18T09:06:02+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-18T12:19:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-18T00:42:42+00:00"
+  "last_checked": "2026-10-18T12:19:08+00:00"
 }
