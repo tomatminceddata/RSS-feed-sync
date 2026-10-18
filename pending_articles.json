@@ -17435,7 +17435,37 @@
       "parser": "default",
       "discovered": "2026-10-18T12:19:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
+      "title": "Apple Reveals iPhone Duo's Battery Capacity",
+      "author": "Joe Rossignol",
+      "published": "2026-10-18T15:07:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-18T16:14:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/18/apple-rumored-to-launch-homeview-max/",
+      "title": "Apple Planning 'HomeView Max' With 9-Inch, 360-Degree Screen",
+      "author": "Joe Rossignol",
+      "published": "2026-10-18T14:54:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-18T16:14:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/",
+      "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders",
+      "author": "Joe Rossignol",
+      "published": "2026-10-18T14:33:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-18T16:14:13+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-18T12:19:08+00:00"
+  "last_checked": "2026-10-18T16:14:13+00:00"
 }
