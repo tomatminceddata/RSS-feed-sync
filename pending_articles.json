@@ -17405,7 +17405,27 @@
       "parser": "default",
       "discovered": "2026-10-17T20:13:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
+      "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
+      "author": "Hartley Charlton",
+      "published": "2026-10-17T21:30:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-18T00:42:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
+      "title": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
+      "author": "Hartley Charlton",
+      "published": "2026-10-17T20:21:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-18T00:42:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-17T20:13:00+00:00"
+  "last_checked": "2026-10-18T00:42:42+00:00"
 }
