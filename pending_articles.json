@@ -17475,7 +17475,37 @@
       "parser": "default",
       "discovered": "2026-10-18T20:13:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/adorama-says-sony-has-finally-confirmed-fx5-shipments-will-begin-in-november/",
+      "title": "Adorama Says Sony Has Finally Confirmed FX5 Shipments Will Begin in November",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-18T19:51:19+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T00:41:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/2-days-left-to-save-25-on-the-ultimate-landscape-photography-masterclass-from-albert-dros/",
+      "title": "2 days left to save $25 on The Ultimate Landscape Photography Masterclass from Albert Dros",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-18T19:37:11+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T00:41:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/18/new-mac-mini-149/",
+      "title": "Amazon Discounts New Mac Mini by Up to $149, Mac Studio by $200",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-18T20:15:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T00:41:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-18T20:13:19+00:00"
+  "last_checked": "2026-10-19T00:41:44+00:00"
 }
