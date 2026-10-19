@@ -17505,7 +17505,57 @@
       "parser": "default",
       "discovered": "2026-10-19T00:41:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advanced-NL2SQL-and-advanced-DAX-generation-in-Fabric-data/ba-p/5374654",
+      "title": "Advanced NL2SQL and advanced DAX generation in Fabric data agents (Generally Available)",
+      "author": "midesa",
+      "published": "2026-10-19T15:56:36+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-19T16:17:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sigma-china-teases-october-23-event-is-the-worlds-fastest-autofocus-prime-on-the-way/",
+      "title": "Sigma China teases October 23 event: Is the world’s fastest Full Frame autofocus prime on the way?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-19T12:51:09+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T16:17:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/apple-pro-and-tell/",
+      "title": "Apple Announcing New Products Next Week: 'Pro and Tell'",
+      "author": "Juli Clover",
+      "published": "2026-10-19T16:05:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T16:17:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/gm-vehicles-iphone-apple-wallet-car-keys/",
+      "title": "GM Says Apple Wallet Car Keys Coming to These Vehicles",
+      "author": "Joe Rossignol",
+      "published": "2026-10-19T13:51:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T16:17:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/900-off-2026-macbook-pro/",
+      "title": "Amazon Offers $900 Off 2026 16-Inch MacBook Pro With M5 Max Chip",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-19T13:09:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T16:17:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-19T00:41:44+00:00"
+  "last_checked": "2026-10-19T16:17:01+00:00"
 }
