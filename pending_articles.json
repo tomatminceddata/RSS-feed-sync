@@ -17555,7 +17555,97 @@
       "parser": "default",
       "discovered": "2026-10-19T16:17:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Retiring-the-Fabric-data-agent-custom-tool-in-Microsoft-Foundry/ba-p/5374418",
+      "title": "Retiring the Fabric data agent custom tool in Microsoft Foundry: move to Fabric IQ",
+      "author": "AmirJafari",
+      "published": "2026-10-19T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-19T20:15:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/apple-starts-moving-up-iphone-duo-delivery-dates/",
+      "title": "Apple Starts Moving Up iPhone Duo Delivery Dates",
+      "author": "Joe Rossignol",
+      "published": "2026-10-19T19:31:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T20:15:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/tvos-27-2-homepod-surround-sound/",
+      "title": "tvOS 27.2 RC Lays Groundwork for HomePod Surround Sound",
+      "author": "Juli Clover",
+      "published": "2026-10-19T19:09:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T20:15:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/samsung-frame-tvs-2026-models/",
+      "title": "Samsung Slashes Prices on Frame TVs With Biggest Savings Yet for 2026 Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-19T18:41:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T20:15:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/apple-says-no-iphone-duo-walk-ins-japan-korea/",
+      "title": "Apple Says iPhone Duo Not Available on Walk-In Basis in Two Countries",
+      "author": "Joe Rossignol",
+      "published": "2026-10-19T18:10:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T20:15:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/apple-seeds-macos-golden-gate-27-2-rc/",
+      "title": "Apple Seeds macOS Golden Gate 27.2 Release Candidate to Developers",
+      "author": "Juli Clover",
+      "published": "2026-10-19T17:28:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T20:15:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/apple-releases-ios-27-2-rc/",
+      "title": "Apple Releases iOS 27.2 Release Candidate",
+      "author": "Juli Clover",
+      "published": "2026-10-19T17:26:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T20:15:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/watchos-27-2-release-candidate/",
+      "title": "Apple Seeds watchOS 27.2, tvOS 27.2 and visionOS 27.2 Release Candidates",
+      "author": "Juli Clover",
+      "published": "2026-10-19T17:25:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T20:15:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/rip-macbook-ultra/",
+      "title": "RIP, MacBook Ultra",
+      "author": "Joe Rossignol",
+      "published": "2026-10-19T16:57:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-19T20:15:18+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-19T16:17:01+00:00"
+  "last_checked": "2026-10-19T20:15:18+00:00"
 }
