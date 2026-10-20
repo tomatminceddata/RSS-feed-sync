@@ -17715,7 +17715,97 @@
       "parser": "default",
       "discovered": "2026-10-20T12:22:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/New-analytical-functions-in-Microsoft-Fabric-Data-Warehouse/ba-p/5375432",
+      "title": "New analytical functions in Microsoft Fabric Data Warehouse (Preview)",
+      "author": "jovanpop-msft",
+      "published": "2026-10-20T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-20T16:16:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sigma-50mm-f-1-4-i-series-lens-will-be-announced-on-october-23/",
+      "title": "New Sigma 50mm f/1.4 i-series lens will be announced on October 23",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-20T12:45:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T16:16:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/telstra-may-support-rcs-on-ios-27-3/",
+      "title": "iOS 27.3 May Expand RCS Support to Australia's Telstra in December",
+      "author": "Joe Rossignol",
+      "published": "2026-10-20T16:04:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T16:16:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/apple-iphone-18-pro-m6-mac-mini-repair-parts/",
+      "title": "Apple Now Sells DIY Repair Parts for iPhone 18 Pro and Two New Macs",
+      "author": "Joe Rossignol",
+      "published": "2026-10-20T15:53:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T16:16:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/new-apple-tv-4k-whole-room-audio/",
+      "title": "New Apple TV 4K Features 'Whole Room Audio' With Four HomePods",
+      "author": "Joe Rossignol",
+      "published": "2026-10-20T14:49:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T16:16:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/mac-mini-assembly-in-us-later-this-year/",
+      "title": "Apple Says Mac Mini Assembly in U.S. to Begin Later This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-10-20T14:17:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T16:16:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/apple-touts-iphone-duo-18-pro-parts-made-in-usa/",
+      "title": "Apple Says Nearly 100 iPhone Duo and iPhone 18 Pro Parts Made in USA",
+      "author": "Joe Rossignol",
+      "published": "2026-10-20T13:39:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T16:16:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/apple-watch-ultra-3-new-low-2/",
+      "title": "Apple Watch Ultra 3 Hits New Low Price With Amazon's $299 Discount [Updated]",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-20T13:29:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T16:16:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/amazons-homeview-pre-order-returns/",
+      "title": "Amazon's HomeView Pre-Order Discount Returns, Plus Save on Apple TV 4K",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-20T13:19:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T16:16:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-20T12:22:30+00:00"
+  "last_checked": "2026-10-20T16:16:47+00:00"
 }
