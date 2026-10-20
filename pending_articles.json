@@ -17705,7 +17705,17 @@
       "parser": "default",
       "discovered": "2026-10-20T00:39:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/viltrox-teases-the-launch-of-a-new-35mm-f-1-4-prime-lens/",
+      "title": "Viltrox teases the launch of a new 35mm f/1.4 prime lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-20T06:39:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T12:22:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-20T00:39:22+00:00"
+  "last_checked": "2026-10-20T12:22:30+00:00"
 }
