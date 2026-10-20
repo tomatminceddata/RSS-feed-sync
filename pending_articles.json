@@ -17805,7 +17805,47 @@
       "parser": "default",
       "discovered": "2026-10-20T16:16:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/More-expressive-graph-analysis-GQL-improvements-in-Microsoft/ba-p/5375740",
+      "title": "More expressive graph analysis: GQL improvements in Microsoft Fabric Graph",
+      "author": "tushar-msft",
+      "published": "2026-10-20T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-20T20:15:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/T-SQL-language-enhancements-in-Microsoft-Fabric-Data-Warehouse/ba-p/5375433",
+      "title": "T-SQL language enhancements in Microsoft Fabric Data Warehouse (Preview)",
+      "author": "jovanpop-msft",
+      "published": "2026-10-20T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-20T20:15:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/touchscreen-macbook-pro/",
+      "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know",
+      "author": "Juli Clover",
+      "published": "2026-10-20T19:51:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T20:15:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/",
+      "title": "Here's What Apple's Apps Look Like on the iPhone Duo",
+      "author": "Juli Clover",
+      "published": "2026-10-20T18:12:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T20:15:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-20T16:16:47+00:00"
+  "last_checked": "2026-10-20T20:15:15+00:00"
 }
