@@ -17645,7 +17645,67 @@
       "parser": "default",
       "discovered": "2026-10-19T20:15:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Fabric-Data-Warehouse-integration-with-Fabric-User-Data/ba-p/5375137",
+      "title": "Fabric Data Warehouse integration with Fabric User Data Functions (Preview)",
+      "author": "jovanpop-msft",
+      "published": "2026-10-19T21:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-20T00:39:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
+      "title": "Apple's October 28 'Pro and Tell' Launch: What's Coming",
+      "author": "Juli Clover",
+      "published": "2026-10-19T23:51:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T00:39:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/",
+      "title": "Apple Limiting U.S. iPhone Duo Orders to Two Per Customer",
+      "author": "Juli Clover",
+      "published": "2026-10-19T23:42:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T00:39:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition/",
+      "title": "Apple Buys AI Audio Editing App Samplab",
+      "author": "Juli Clover",
+      "published": "2026-10-19T22:35:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T00:39:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/eff-privacy-badger-safari/",
+      "title": "EFF's Privacy Badger Anti-Tracking Extension Expands to Safari",
+      "author": "Juli Clover",
+      "published": "2026-10-19T21:10:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T00:39:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/19/homepod-27-2-sound-glow/",
+      "title": "HomePod 27.2 Adds Sound Glow to Existing HomePod Models",
+      "author": "Juli Clover",
+      "published": "2026-10-19T20:31:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-20T00:39:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-19T20:15:18+00:00"
+  "last_checked": "2026-10-20T00:39:22+00:00"
 }
