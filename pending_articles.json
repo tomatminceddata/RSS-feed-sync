@@ -17845,7 +17845,57 @@
       "parser": "default",
       "discovered": "2026-10-20T20:15:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-mixed-events-to-real-time-action-Fabric-Eventstreams-Q3/ba-p/5375736",
+      "title": "From mixed events to real-time action: Fabric Eventstreams Q3 2026",
+      "author": "Alicia_Li_MSFT",
+      "published": "2026-10-20T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-21T00:38:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/",
+      "title": "Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones",
+      "author": "Juli Clover",
+      "published": "2026-10-20T23:46:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T00:38:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
+      "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch",
+      "author": "Juli Clover",
+      "published": "2026-10-20T23:31:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T00:38:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
+      "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
+      "author": "Juli Clover",
+      "published": "2026-10-20T22:20:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T00:38:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
+      "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-10-20T19:35:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T00:38:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-20T20:15:15+00:00"
+  "last_checked": "2026-10-21T00:38:04+00:00"
 }
