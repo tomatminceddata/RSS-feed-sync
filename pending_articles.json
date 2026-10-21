@@ -18005,7 +18005,67 @@
       "parser": "default",
       "discovered": "2026-10-21T12:21:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/apple-music-new-look-announced/",
+      "title": "Apple Music's New Look Officially Announced",
+      "author": "Joe Rossignol",
+      "published": "2026-10-21T16:06:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T16:15:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-apple-pencil-support-ios-27-2/",
+      "title": "iPhone Duo Supports Apple Pencil Starting With iOS 27.2",
+      "author": "Joe Rossignol",
+      "published": "2026-10-21T15:45:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T16:15:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-accessories-roundup/",
+      "title": "iPhone Duo Accessories Roundup: Cases and Screen Protectors From OtterBox, ZAGG, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-21T14:25:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T16:15:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/apple-stores-limited-iphone-duo-for-walk-in/",
+      "title": "Apple Stores Will Have 'Limited' Availability of iPhone Duo for Walk-In Customers",
+      "author": "Joe Rossignol",
+      "published": "2026-10-21T14:24:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T16:15:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/review/iphone-duo/",
+      "title": "iPhone Duo Reviews Explain Why Device is Both 'Fun' and 'Frustrating'",
+      "author": "Joe Rossignol",
+      "published": "2026-10-21T13:45:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T16:15:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/",
+      "title": "Apple Says 'Reachability' Feature Coming to iPhone Duo Later This Year",
+      "author": "Joe Rossignol",
+      "published": "2026-10-21T13:05:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T16:15:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-21T12:21:54+00:00"
+  "last_checked": "2026-10-21T16:15:03+00:00"
 }
