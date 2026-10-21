@@ -18065,7 +18065,107 @@
       "parser": "default",
       "discovered": "2026-10-21T16:15:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Incrementally-migrate-and-re-migrate-database-objects-with/ba-p/5376060",
+      "title": "Incrementally migrate and re-migrate database objects with Migration Assistant for Fabric Warehouse (Preview)",
+      "author": "prl",
+      "published": "2026-10-21T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Teradata-migrations-with-Fabric-Migration-Assistant/ba-p/5376058",
+      "title": "Simplify Teradata migrations with Fabric Migration Assistant (Preview)",
+      "author": "prl",
+      "published": "2026-10-21T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Connect-coding-agents-to-Fabric-notebooks-with-FNTK-Preview/ba-p/5375986",
+      "title": "Connect coding agents to Fabric notebooks with FNTK (Preview)",
+      "author": "QixiaoWang",
+      "published": "2026-10-21T16:44:34+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/fire-damaged-sony-a7-iv-brought-back-to-life-in-impressive-repair-video/",
+      "title": "Fire-Damaged Sony A7 IV Brought Back to Life in Impressive Repair Video",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-21T14:26:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge/",
+      "title": "What 32,000 Folds Did to the iPhone Duo's Hinge",
+      "author": "Juli Clover",
+      "published": "2026-10-21T20:05:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-facetime-camera/",
+      "title": "iPhone Duo's Hidden FaceTime Camera Takes 'Trash' Photos",
+      "author": "Juli Clover",
+      "published": "2026-10-21T18:36:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-magsafe-charging/",
+      "title": "iPhone Duo Tips Over on MagSafe Stands When Unfolded",
+      "author": "Juli Clover",
+      "published": "2026-10-21T18:16:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-edge-light-feature/",
+      "title": "iPhone Duo Has 'Edge Light' Feature That Debuted on Macs Last Year",
+      "author": "Joe Rossignol",
+      "published": "2026-10-21T17:57:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/apple-support-app-iphone-duo/",
+      "title": "Apple Support App Updated for iPhone Duo's Larger Display",
+      "author": "Juli Clover",
+      "published": "2026-10-21T17:55:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/amazon-16-inch-macbook-pro-570/",
+      "title": "Amazon Sweetens the Deal on Entry-Level 16-Inch MacBook Pro With $570 Off",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-21T17:34:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T20:14:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-21T16:15:03+00:00"
+  "last_checked": "2026-10-21T20:14:09+00:00"
 }
