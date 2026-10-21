@@ -17975,7 +17975,37 @@
       "parser": "default",
       "discovered": "2026-10-21T08:19:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/andy-wodd-created-this-tool-to-add-voice-recognition-on-the-sony-fx3-fx6/",
+      "title": "﻿﻿﻿Andy Wood created this tool to add voice recognition on the Sony FX3/ FX6",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-21T09:18:53+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T12:21:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/apple-stores-looted-during-french-protests/",
+      "title": "Apple Stores in Bordeaux and Lille Looted During French Protests",
+      "author": "Hartley Charlton",
+      "published": "2026-10-21T08:59:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T12:21:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/loop-capital-cuts-apple-rating-over-iphone-sales-outlook/",
+      "title": "Loop Capital Cuts Apple Rating Over iPhone Sales Outlook",
+      "author": "Hartley Charlton",
+      "published": "2026-10-21T08:38:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T12:21:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-21T08:19:27+00:00"
+  "last_checked": "2026-10-21T12:21:54+00:00"
 }
