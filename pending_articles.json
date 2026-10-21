@@ -17945,7 +17945,37 @@
       "parser": "default",
       "discovered": "2026-10-21T04:17:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/bluesound-adds-native-apple-music-support/",
+      "title": "Bluesound Adds Native Apple Music Support",
+      "author": "Hartley Charlton",
+      "published": "2026-10-21T08:16:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T08:19:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/john-ternus-explains-good-design/",
+      "title": "Apple CEO John Ternus Explains What Makes Good Product Design",
+      "author": "Hartley Charlton",
+      "published": "2026-10-21T08:03:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T08:19:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/uk-proposes-to-help-apple-pay-rivals/",
+      "title": "UK Proposes New Ways to Help Apple Pay Rivals",
+      "author": "Hartley Charlton",
+      "published": "2026-10-21T04:57:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-21T08:19:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-21T04:17:43+00:00"
+  "last_checked": "2026-10-21T08:19:27+00:00"
 }
