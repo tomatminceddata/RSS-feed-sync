@@ -18205,7 +18205,87 @@
       "parser": "default",
       "discovered": "2026-10-22T00:39:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-a7riv-firmware-update-1-02/",
+      "title": "New Sony A7rIV firmware update 1.02",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-22T06:30:08+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T08:20:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/tesla-app-gains-ipad-and-iphone-duo-support/",
+      "title": "Tesla App Gains iPad and iPhone Duo Support",
+      "author": "Hartley Charlton",
+      "published": "2026-10-22T06:48:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T08:20:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/apple-boosts-iphone-duo-orders/",
+      "title": "Apple Reportedly Boosts iPhone Duo Orders by 44%",
+      "author": "Hartley Charlton",
+      "published": "2026-10-22T06:23:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T08:20:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/",
+      "title": "Fortnite Returning to Australian App Store After Court Ruling",
+      "author": "Hartley Charlton",
+      "published": "2026-10-22T05:55:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T08:20:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
+      "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
+      "author": "Hartley Charlton",
+      "published": "2026-10-22T05:41:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T08:20:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/apple-hurdles-cutting-circuit-board-emissions/",
+      "title": "Apple Suppliers Face Hurdles Cutting Circuit Board Emissions",
+      "author": "Hartley Charlton",
+      "published": "2026-10-22T05:15:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T08:20:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/things-updated-for-iphone-duo/",
+      "title": "Things Updated for iPhone Duo With Adaptive Layout",
+      "author": "Hartley Charlton",
+      "published": "2026-10-22T04:52:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T08:20:14+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/simplicity-and-siri-ai-homeview-killer-features/",
+      "title": "Simplicity and Siri AI Are HomeView's Killer Features, Apple Says",
+      "author": "Hartley Charlton",
+      "published": "2026-10-22T04:28:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T08:20:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-22T00:39:00+00:00"
+  "last_checked": "2026-10-22T08:20:14+00:00"
 }
