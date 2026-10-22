@@ -18325,7 +18325,57 @@
       "parser": "default",
       "discovered": "2026-10-22T12:22:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-shutter-angle-hack-works-on-the-sony-a7siii-too/",
+      "title": "New Shutter Angle hack works on the Sony A7sIII too!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-22T14:49:41+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T16:17:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
+      "title": "Apple Will Label Apps 'Made for iPhone Duo' in App Store",
+      "author": "Joe Rossignol",
+      "published": "2026-10-22T14:40:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T16:17:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/f1-apple-tv-dolby-atmos/",
+      "title": "F1 on Apple TV Now Available in Dolby Atmos",
+      "author": "Joe Rossignol",
+      "published": "2026-10-22T14:11:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T16:17:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/amazon-49-off-ipad/",
+      "title": "Amazon Takes $49 Off iPad With Prices Starting at $399.99",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-22T14:05:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T16:17:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
+      "title": "Apple Reveals More Than 50 Apps That Will Be Updated for iPhone Duo",
+      "author": "Joe Rossignol",
+      "published": "2026-10-22T13:52:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T16:17:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-22T12:22:51+00:00"
+  "last_checked": "2026-10-22T16:17:09+00:00"
 }
