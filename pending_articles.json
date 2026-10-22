@@ -18165,7 +18165,47 @@
       "parser": "default",
       "discovered": "2026-10-21T20:14:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-touch-id-complaints/",
+      "title": "iPhone Duo Reviewers Really Miss Face ID",
+      "author": "Juli Clover",
+      "published": "2026-10-21T23:27:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T00:39:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/apple-music-website-rebranded/",
+      "title": "Apple Music's New Look is Now Live on Apple's Website",
+      "author": "Joe Rossignol",
+      "published": "2026-10-21T22:51:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T00:39:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/iphone-duo-heat-reviews/",
+      "title": "Does the iPhone Duo Run Hot? Here's What Reviews Found",
+      "author": "Juli Clover",
+      "published": "2026-10-21T22:05:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T00:39:00+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+      "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+      "author": "Juli Clover",
+      "published": "2026-10-21T20:53:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T00:39:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-21T20:14:09+00:00"
+  "last_checked": "2026-10-22T00:39:00+00:00"
 }
