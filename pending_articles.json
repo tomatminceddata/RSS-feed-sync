@@ -18375,7 +18375,87 @@
       "parser": "default",
       "discovered": "2026-10-22T16:17:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Explore-and-process-multiple-event-types-with-Schema-aware/ba-p/5376384",
+      "title": "Explore and process multiple event types with Schema-aware Fabric Eventstreams (Preview)",
+      "author": "arindamc",
+      "published": "2026-10-22T20:01:43+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-22T20:14:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Create-purpose-built-custom-visuals-in-Real-Time-Dashboards-with/ba-p/5376359",
+      "title": "Create purpose-built custom visuals in Real-Time Dashboards with Copilot (Preview)",
+      "author": "MichalBar",
+      "published": "2026-10-22T16:55:50+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-22T20:14:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/topaz-labs-is-now-50-off/",
+      "title": "Topaz Labs is now 50% off",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-22T16:28:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T20:14:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/slightly-larger-iphone-duo-rumor/",
+      "title": "Apple is Apparently Considering a Slightly Larger iPhone Duo",
+      "author": "Joe Rossignol",
+      "published": "2026-10-22T20:10:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T20:14:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant/",
+      "title": "Apple's iWork Apps Get 'Intelligent Assistant' and iPhone Duo Support",
+      "author": "Juli Clover",
+      "published": "2026-10-22T20:02:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T20:14:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/giant-iphone-duos-at-four-apple-stores/",
+      "title": "Giant iPhone Duo Displays Coming to Four Apple Stores",
+      "author": "Joe Rossignol",
+      "published": "2026-10-22T18:50:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T20:14:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/apple-removes-iwork-apps-app-store/",
+      "title": "Apple Pulls Keynote, Pages and Numbers From App Store [Update: Back]",
+      "author": "Juli Clover",
+      "published": "2026-10-22T18:01:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T20:14:33+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/apple-iphone-duo-apps-garageband/",
+      "title": "Apple Updates More Apps With iPhone Duo Support",
+      "author": "Juli Clover",
+      "published": "2026-10-22T17:31:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-22T20:14:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-22T16:17:09+00:00"
+  "last_checked": "2026-10-22T20:14:33+00:00"
 }
