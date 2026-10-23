@@ -18615,7 +18615,57 @@
       "parser": "default",
       "discovered": "2026-10-23T16:16:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/23/apple-southgate-reopens/",
+      "title": "Apple Store in UK Reopens With New Design on iPhone Duo Launch Day",
+      "author": "Joe Rossignol",
+      "published": "2026-10-23T20:02:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T20:14:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/",
+      "title": "iPhone Duo Jailbroken on Launch Day",
+      "author": "Juli Clover",
+      "published": "2026-10-23T19:53:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T20:14:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/23/apple-seeds-watchos-27-2-rc-2/",
+      "title": "Apple Seeds Updated watchOS 27.2 Release Candidate",
+      "author": "Juli Clover",
+      "published": "2026-10-23T19:28:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T20:14:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-long-lines-at-apple-stores/",
+      "title": "iPhone Duo Brings Back Long Lines at Apple Stores",
+      "author": "Joe Rossignol",
+      "published": "2026-10-23T18:42:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T20:14:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks/",
+      "title": "Crackgate? iPhone Duo Owners Report Screens Breaking Along the Hinge",
+      "author": "Juli Clover",
+      "published": "2026-10-23T18:05:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T20:14:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-23T16:16:25+00:00"
+  "last_checked": "2026-10-23T20:14:27+00:00"
 }
