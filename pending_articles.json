@@ -18525,7 +18525,17 @@
       "parser": "default",
       "discovered": "2026-10-23T08:19:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/",
+      "title": "Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times",
+      "author": "Tim Hardwick",
+      "published": "2026-10-23T11:10:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T12:20:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-23T08:19:30+00:00"
+  "last_checked": "2026-10-23T12:20:55+00:00"
 }
