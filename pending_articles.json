@@ -18485,7 +18485,47 @@
       "parser": "default",
       "discovered": "2026-10-23T00:40:04+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-super-compact-sigma-50mm-f-1-4-i-series-lens/",
+      "title": "Just announced: New super compact Sigma 50mm f/1.4 i-series lens!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-23T06:38:36+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T08:19:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/23/macbook-neo-helps-apple-outpace-rivals-as-market-declines/",
+      "title": "MacBook Neo Helps Apple Outpace Rivals as Market Declines",
+      "author": "Hartley Charlton",
+      "published": "2026-10-23T07:30:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T08:19:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/23/ipod-25th-anniversary/",
+      "title": "Happy 25th Anniversary, iPod",
+      "author": "Hartley Charlton",
+      "published": "2026-10-23T07:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T08:19:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-demand-exceeds-expectations/",
+      "title": "iPhone Duo Demand Reportedly Exceeds Apple's Expectations",
+      "author": "Hartley Charlton",
+      "published": "2026-10-23T04:24:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T08:19:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-23T00:40:04+00:00"
+  "last_checked": "2026-10-23T08:19:30+00:00"
 }
