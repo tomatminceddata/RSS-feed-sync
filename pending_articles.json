@@ -18455,7 +18455,37 @@
       "parser": "default",
       "discovered": "2026-10-22T20:14:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch/",
+      "title": "iPhone Duo Launch Begins as First Orders Reach Customers",
+      "author": "Juli Clover",
+      "published": "2026-10-22T22:21:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T00:40:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/1password-for-agents/",
+      "title": "1Password for Agents Keeps Your Passwords Hidden From AI",
+      "author": "Juli Clover",
+      "published": "2026-10-22T21:27:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T00:40:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-24-hours-hands-on/",
+      "title": "iPhone Duo 24 Hours Later: Your Questions Answered",
+      "author": "Juli Clover",
+      "published": "2026-10-22T20:55:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-23T00:40:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-22T20:14:33+00:00"
+  "last_checked": "2026-10-23T00:40:04+00:00"
 }
