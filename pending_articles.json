@@ -18715,7 +18715,27 @@
       "parser": "default",
       "discovered": "2026-10-24T08:17:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7r-iv-owner-combines-telescope-reducer-and-teleconverter-for-saturn/",
+      "title": "Sony A7R IV owner combines telescope, reducer and teleconverter for Saturn",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-24T09:36:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-24T12:18:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/24/apple-store-pickup-iphone-duo-us/",
+      "title": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S.",
+      "author": "Joe Rossignol",
+      "published": "2026-10-24T12:12:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-24T12:18:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-24T08:17:35+00:00"
+  "last_checked": "2026-10-24T12:18:50+00:00"
 }
