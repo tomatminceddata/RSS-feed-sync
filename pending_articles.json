@@ -18775,7 +18775,47 @@
       "parser": "default",
       "discovered": "2026-10-24T16:13:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-thypoch-simera-c-100mm-t1-9-cine-lens/",
+      "title": "Just announced: New Thypoch Simera-C 100mm T1.9 Cine Lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-24T17:18:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-24T20:13:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/24/verizon-apologizes-for-iphone-duo-preorder-delays/",
+      "title": "Verizon Apologizes for iPhone Duo Pre-Order Delays, Giving Customers $100 Gift Card",
+      "author": "Joe Rossignol",
+      "published": "2026-10-24T18:29:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-24T20:13:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/unlock-iphone-duo-apple-watch/",
+      "title": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch",
+      "author": "Tim Hardwick",
+      "published": "2026-10-24T18:28:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-24T20:13:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+      "author": "Tim Hardwick",
+      "published": "2026-10-24T18:27:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-24T20:13:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-24T16:13:40+00:00"
+  "last_checked": "2026-10-24T20:13:04+00:00"
 }
