@@ -18855,7 +18855,47 @@
       "parser": "default",
       "discovered": "2026-10-25T08:17:43+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
+      "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
+      "author": "Joe Rossignol",
+      "published": "2026-10-25T15:18:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-25T16:13:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/airtag-2-new-low-price-of-23/",
+      "title": "AirTag 2 Drops to New Low Price of $23 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-25T14:31:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-25T16:13:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
+      "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week",
+      "author": "Joe Rossignol",
+      "published": "2026-10-25T14:30:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-25T16:13:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/",
+      "title": "Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday",
+      "author": "Joe Rossignol",
+      "published": "2026-10-25T14:30:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-25T16:13:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-25T08:17:43+00:00"
+  "last_checked": "2026-10-25T16:13:32+00:00"
 }
