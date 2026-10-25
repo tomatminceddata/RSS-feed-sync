@@ -18895,7 +18895,17 @@
       "parser": "default",
       "discovered": "2026-10-25T16:13:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/interview-with-julien-salazar-european-product-manager-fx-zv-camera-systems-at-sony/",
+      "title": "Interview with Julien Salazar, European Product Manager, FX & ZV Camera Systems at Sony",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-25T16:04:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-25T20:13:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-25T16:13:32+00:00"
+  "last_checked": "2026-10-25T20:13:02+00:00"
 }
