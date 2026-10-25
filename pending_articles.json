@@ -18835,7 +18835,27 @@
       "parser": "default",
       "discovered": "2026-10-25T04:16:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/apple-wants-to-fix-safari-on-iphone-duo/",
+      "title": "Apple Wants to Fix Safari's Cramped Layout on iPhone Duo",
+      "author": "Hartley Charlton",
+      "published": "2026-10-25T04:58:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-25T08:17:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/",
+      "title": "Instagram Launches Apple TV App With Reels and More",
+      "author": "Hartley Charlton",
+      "published": "2026-10-25T04:27:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-25T08:17:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-25T04:16:01+00:00"
+  "last_checked": "2026-10-25T08:17:43+00:00"
 }
