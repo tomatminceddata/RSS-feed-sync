@@ -18825,7 +18825,17 @@
       "parser": "default",
       "discovered": "2026-10-25T00:41:54+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/servant-lawsuit-win-upheld/",
+      "title": "Apple's 'Servant' Copyright Lawsuit Win Upheld on Appeal",
+      "author": "Hartley Charlton",
+      "published": "2026-10-25T04:05:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-25T04:16:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-25T00:41:54+00:00"
+  "last_checked": "2026-10-25T04:16:01+00:00"
 }
