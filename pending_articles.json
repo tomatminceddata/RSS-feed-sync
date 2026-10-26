@@ -19125,7 +19125,117 @@
       "parser": "default",
       "discovered": "2026-10-26T13:44:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Announcing-workspace-monitoring-integration-for-Fabric-Data/ba-p/5376599",
+      "title": "Announcing workspace monitoring integration for Fabric Data Warehouse (Preview)",
+      "author": "Mariyaali",
+      "published": "2026-10-26T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-12-new-features/",
+      "title": "New iPad Mini Announced Today Has More Than 12 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-10-26T16:18:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/apple-raises-ipad-and-mac-trade-in-values/",
+      "title": "Apple Raises iPad and Mac Trade-In Values",
+      "author": "Hartley Charlton",
+      "published": "2026-10-26T15:17:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/ipad-mini-adaptive-true-tone-flash/",
+      "title": "New iPad Mini Gains Adaptive True Tone Flash",
+      "author": "Hartley Charlton",
+      "published": "2026-10-26T14:57:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/quickly-silence-iphone-duo-without-mute-switch/",
+      "title": "Quickly Silence iPhone Duo Without a Ring/Mute Switch",
+      "author": "Tim Hardwick",
+      "published": "2026-10-26T14:36:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/anker-halloween-sale-2/",
+      "title": "Anker Launches Halloween Sale With Sitewide Discounts and Labubu Bundles",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-26T14:29:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-fast-charge-35w-adapter/",
+      "title": "OLED iPad Mini Fast Charge Needs a 35W Adapter, Sold Separately",
+      "author": "Tim Hardwick",
+      "published": "2026-10-26T14:14:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/techwoven-ipad-mini-smart-folio/",
+      "title": "Apple Brings TechWoven to iPad With All-New $79 iPad Mini Smart Folio",
+      "author": "Hartley Charlton",
+      "published": "2026-10-26T14:07:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/all-ipads-now-feature-landscape-front-camera/",
+      "title": "All Current iPads Now Feature a Landscape Front Camera",
+      "author": "Hartley Charlton",
+      "published": "2026-10-26T14:02:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-second-price-hike-2026/",
+      "title": "OLED iPad Mini Starts at $699 After Second Price Hike This Year",
+      "author": "Tim Hardwick",
+      "published": "2026-10-26T13:58:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/new-ipad-mini-two-colors/",
+      "title": "New iPad Mini Available in Just Two Colors",
+      "author": "Hartley Charlton",
+      "published": "2026-10-26T13:52:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T16:18:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-26T13:44:17+00:00"
+  "last_checked": "2026-10-26T16:18:34+00:00"
 }
