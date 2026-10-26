@@ -18905,7 +18905,57 @@
       "parser": "default",
       "discovered": "2026-10-25T20:13:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/from-sony-fx5-screens-to-iphone-duo-hinges-cracks-in-quality-control/",
+      "title": "From Sony FX5 Screens to iPhone Duo Hinges: Cracks in Quality Control?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-25T21:40:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T00:40:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+      "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
+      "author": "Joe Rossignol",
+      "published": "2026-10-25T23:07:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T00:40:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
+      "title": "iPhone Duo Can Run Automations When You Open or Close It",
+      "author": "Tim Hardwick",
+      "published": "2026-10-25T22:26:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T00:40:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
+      "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
+      "author": "Tim Hardwick",
+      "published": "2026-10-25T22:00:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T00:40:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
+      "title": "iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks",
+      "author": "Juli Clover",
+      "published": "2026-10-25T21:44:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T00:40:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-25T20:13:02+00:00"
+  "last_checked": "2026-10-26T00:40:37+00:00"
 }
