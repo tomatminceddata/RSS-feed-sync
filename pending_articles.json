@@ -18955,7 +18955,27 @@
       "parser": "default",
       "discovered": "2026-10-26T00:40:37+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/apple-display-veterans-step-back/",
+      "title": "Apple Display Veterans Step Back as New Leaders Take Over",
+      "author": "Hartley Charlton",
+      "published": "2026-10-26T04:14:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T04:18:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/25/oled-macbook-air-and-imac-in-testing/",
+      "title": "OLED MacBook Air and iMac Remain in Testing",
+      "author": "Hartley Charlton",
+      "published": "2026-10-26T03:41:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-26T04:18:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-26T00:40:37+00:00"
+  "last_checked": "2026-10-26T04:18:55+00:00"
 }
