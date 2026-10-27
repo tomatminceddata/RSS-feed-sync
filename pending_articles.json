@@ -19665,7 +19665,47 @@
       "parser": "default",
       "discovered": "2026-10-27T16:12:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-clearer-more-expressive-Real-Time-Dashboards-with-new/ba-p/5377578",
+      "title": "Build clearer, more expressive Real-Time Dashboards with new design and KPI capabilities (Generally Available)",
+      "author": "Naorbt",
+      "published": "2026-10-27T16:44:58+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-27T20:11:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
+      "title": "ChatGPT Can Now Access Your iCloud Mail and Calendar",
+      "author": "Juli Clover",
+      "published": "2026-10-27T19:51:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T20:11:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/macbook-neo-2-first-half-2027-report/",
+      "title": "Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027",
+      "author": "Joe Rossignol",
+      "published": "2026-10-27T17:32:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T20:11:35+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/best-buy-black-friday-plans-26/",
+      "title": "Best Buy Details Black Friday Plans With Early Deals Available on Halloween",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-27T17:28:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T20:11:35+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-27T16:12:56+00:00"
+  "last_checked": "2026-10-27T20:11:35+00:00"
 }
