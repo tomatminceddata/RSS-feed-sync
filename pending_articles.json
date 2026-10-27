@@ -19475,7 +19475,57 @@
       "parser": "default",
       "discovered": "2026-10-27T04:16:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/apple-fixes-coregraphics-flaw-older-iphones/",
+      "title": "Apple Fixes Possibly Exploited CoreGraphics Flaw on Older iPhones",
+      "author": "Tim Hardwick",
+      "published": "2026-10-27T12:16:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T12:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/macbook-pro-touch-bar-announced-10-years-ago/",
+      "title": "Apple's MacBook Pro Touch Bar Was Announced 10 Years Ago Today",
+      "author": "Tim Hardwick",
+      "published": "2026-10-27T10:45:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T12:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/",
+      "title": "iPhone 18e Could Get Two Key Upgrades While Keeping 60Hz Display",
+      "author": "Hartley Charlton",
+      "published": "2026-10-27T10:41:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T12:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/macos-27-2-stops-removing-rosetta/",
+      "title": "macOS 27.2 Stops Upgrades From Removing Rosetta",
+      "author": "Hartley Charlton",
+      "published": "2026-10-27T01:55:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T12:22:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/iphone-duo-independent-rotation-lock-controls/",
+      "title": "iPhone Duo Features Independent Rotation Lock Controls",
+      "author": "Tim Hardwick",
+      "published": "2026-10-27T00:00:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T12:22:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-27T04:16:33+00:00"
+  "last_checked": "2026-10-27T12:22:50+00:00"
 }
