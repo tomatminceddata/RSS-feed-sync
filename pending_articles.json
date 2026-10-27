@@ -19525,7 +19525,147 @@
       "parser": "default",
       "discovered": "2026-10-27T12:22:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-October-2026-release/ba-p/5376557",
+      "title": "On-premises data gateway October 2026 release",
+      "author": "goupadhy",
+      "published": "2026-10-27T14:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/thephoblographer-hacked-into-the-early-sony-alpha-cameras-and-added-a-ton-of-features/",
+      "title": "ThePhoBlographer hacked into the early Sony Alpha cameras and added a ton of features",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-27T14:16:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/thypoch-24-50-f-2-8-review-by-math-photographer/",
+      "title": "Thypoch 24-50 f/2.8 review by Math Photographer",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-27T12:22:14+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
+      "title": "Apple Expected to Announce MacBook Pro With Touchscreen Tomorrow",
+      "author": "Joe Rossignol",
+      "published": "2026-10-27T15:57:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/m5-vs-m6-macbook-pro/",
+      "title": "M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared",
+      "author": "Hartley Charlton",
+      "published": "2026-10-27T15:42:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/new-imac-2-5-gigabit-ethernet/",
+      "title": "New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter",
+      "author": "Joe Rossignol",
+      "published": "2026-10-27T15:34:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/m4-vs-m6-imac/",
+      "title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
+      "author": "Hartley Charlton",
+      "published": "2026-10-27T15:30:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/banktivity-30-off-first-year/",
+      "title": "Banktivity Offers 30% Off First Year Subscriptions for MacRumors Readers",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-27T14:25:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-memory-bandwidth-split/",
+      "title": "M6 MacBook Pro's 170GB/s Memory Bandwidth Skips Base 16GB Model",
+      "author": "Tim Hardwick",
+      "published": "2026-10-27T13:55:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/",
+      "title": "M6 iMac Pre-Orders and Release Date Announced",
+      "author": "Tim Hardwick",
+      "published": "2026-10-27T13:44:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/",
+      "title": "Apple Updates Creator Studio With New Tools and AI Features",
+      "author": "Tim Hardwick",
+      "published": "2026-10-27T13:36:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-pre-orders-release-date/",
+      "title": "M6 14-Inch MacBook Pro: Pre-Orders and Release Date Announced",
+      "author": "Tim Hardwick",
+      "published": "2026-10-27T13:21:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/14-inch-macbook-pro-with-m6-chip/",
+      "title": "Apple Announces New 14-Inch MacBook Pro With M6 Chip",
+      "author": "Hartley Charlton",
+      "published": "2026-10-27T13:01:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/apple-announces-new-imac-with-m6-chip-and-more/",
+      "title": "Apple Announces New iMac With M6 Chip and More",
+      "author": "Joe Rossignol",
+      "published": "2026-10-27T13:00:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T16:12:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-27T12:22:50+00:00"
+  "last_checked": "2026-10-27T16:12:56+00:00"
 }
