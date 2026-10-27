@@ -19385,7 +19385,77 @@
       "parser": "default",
       "discovered": "2026-10-26T20:15:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Visualization-in-the-Agentic-Era/ba-p/5376290",
+      "title": "Data Visualization in the Agentic Era",
+      "author": "yelper",
+      "published": "2026-10-26T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-27T00:39:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Warehouse-integration-with-Fabric-User-Data/ba-p/5375137",
+      "title": "Fabric Data Warehouse integration with Fabric User Data Functions (Preview)",
+      "author": "jovanpop-msft",
+      "published": "2026-10-19T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-27T00:39:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/siri-remote-find-my-ios-27-2/",
+      "title": "Older Siri Remotes Now Show Up in Find My With iOS 27.2",
+      "author": "Juli Clover",
+      "published": "2026-10-27T00:13:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T00:39:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/ios-27-2-features/",
+      "title": "iOS 27.2 Features: Everything New in iOS 27.2",
+      "author": "Juli Clover",
+      "published": "2026-10-26T22:56:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T00:39:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/iphone-duo-users-not-make-eye-contact-facetime/",
+      "title": "Why Can't iPhone Duo Users Make Eye Contact on FaceTime?",
+      "author": "Tim Hardwick",
+      "published": "2026-10-26T22:49:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T00:39:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/ios-27-2-security-fixes/",
+      "title": "iOS 27.2 Fixes Over 160 Security Vulnerabilities",
+      "author": "Juli Clover",
+      "published": "2026-10-26T21:55:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T00:39:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
+      "title": "iPhone AI Images and Edits Now Have a Hidden Watermark",
+      "author": "Juli Clover",
+      "published": "2026-10-26T21:15:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-27T00:39:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-26T20:15:08+00:00"
+  "last_checked": "2026-10-27T00:39:04+00:00"
 }
