@@ -19705,7 +19705,47 @@
       "parser": "default",
       "discovered": "2026-10-27T20:11:35+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/apple-watch-survival-stories/",
+      "title": "Apple Shares New Apple Watch Survival Stories",
+      "author": "Juli Clover",
+      "published": "2026-10-27T23:20:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T00:30:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
+      "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-10-27T23:16:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T00:30:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/oled-macbook-pro-pricing/",
+      "title": "OLED Touchscreen MacBook Pro Could Start at $2,899",
+      "author": "Juli Clover",
+      "published": "2026-10-27T22:29:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T00:30:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/27/imac-m6-color-options/",
+      "title": "M6 iMac Sticks With Its Five-Year-Old Color Lineup",
+      "author": "Juli Clover",
+      "published": "2026-10-27T21:07:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T00:30:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-27T20:11:35+00:00"
+  "last_checked": "2026-10-28T00:30:28+00:00"
 }
