@@ -19745,7 +19745,57 @@
       "parser": "default",
       "discovered": "2026-10-28T00:30:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-images-of-the-new-7artisans-71g-af-10mm-f-4-pancake-aps-c-e-lens/",
+      "title": "First images of the new 7artisans 71g AF 10mm f/4 pancake APS-C E lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-28T07:51:27+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T12:16:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/macpaw-launches-eney-ai-assistant-mac/",
+      "title": "MacPaw Launches 'Eney' AI Assistant for Mac and iPhone",
+      "author": "Tim Hardwick",
+      "published": "2026-10-28T11:52:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T12:16:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/pill-shaped-macos-27-dynamic-island-macbook-pro/",
+      "title": "macOS 27 Assets Hint at Dynamic Island for MacBook Pro",
+      "author": "Tim Hardwick",
+      "published": "2026-10-28T11:28:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T12:16:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/touchscreen-macbook-pro-debut-these-5-features/",
+      "title": "Touchscreen MacBook Pro to Debut Today With These 5 Features",
+      "author": "Tim Hardwick",
+      "published": "2026-10-28T10:17:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T12:16:06+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-open-pre-orders-five-new-products-today/",
+      "title": "Apple to Open Pre-Orders for Five New Products Today",
+      "author": "Tim Hardwick",
+      "published": "2026-10-28T09:49:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T12:16:06+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-28T00:30:28+00:00"
+  "last_checked": "2026-10-28T12:16:06+00:00"
 }
