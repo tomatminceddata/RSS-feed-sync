@@ -19795,7 +19795,97 @@
       "parser": "default",
       "discovered": "2026-10-28T12:16:06+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/surprise-deal-first-ever-200-discount-on-the-sony-alpha-a7r-vi-at-amazon-only/",
+      "title": "Surprise deal: First ever $200 discount on the Sony Alpha a7R VI at Amazon only!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-28T14:22:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T16:12:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sony-fx5-reviews-while-we-are-getting-closer-to-the-first-shipment/",
+      "title": "Sony Japan confirms shipment start is November 20 in Japan",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-28T11:18:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T16:12:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/south-korea-rules-against-apple/",
+      "title": "South Korea Rules Against Apple Over App Store Payment Rules",
+      "author": "Hartley Charlton",
+      "published": "2026-10-28T16:00:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T16:12:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-raises-macbook-neo-education-pricing/",
+      "title": "Apple Raises MacBook Neo's Starting Price to $649 on Education Store",
+      "author": "Joe Rossignol",
+      "published": "2026-10-28T14:42:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T16:12:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/ios-27-2-adds-selfie-based-age-verification/",
+      "title": "iOS 27.2 Adds Selfie-Based Age Verification",
+      "author": "Hartley Charlton",
+      "published": "2026-10-28T14:40:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T16:12:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/beats-360-first-price-drop/",
+      "title": "Beats 360 Get First Price Drop Alongside Return of Record Low for AirPods 4",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-28T14:21:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T16:12:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/macbook-studio/",
+      "title": "MacBook Studio?",
+      "author": "Joe Rossignol",
+      "published": "2026-10-28T13:41:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T16:12:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-ceo-john-ternus-teases-touchscreen-macbook/",
+      "title": "Apple CEO John Ternus Teases Touchscreen MacBooks: 12 Final Rumors",
+      "author": "Joe Rossignol",
+      "published": "2026-10-28T13:21:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T16:12:30+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/macbook-pro-hinge-iphone-duo-2/",
+      "title": "Touchscreen MacBook Pro's New Hinge Linked to iPhone Duo 2",
+      "author": "Hartley Charlton",
+      "published": "2026-10-28T12:19:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T16:12:30+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-28T12:16:06+00:00"
+  "last_checked": "2026-10-28T16:12:30+00:00"
 }
