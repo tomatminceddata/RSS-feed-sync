@@ -19885,7 +19885,167 @@
       "parser": "default",
       "discovered": "2026-10-28T16:12:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Govern-your-Microsoft-Fabric-data-estate-from-one-place-with-the/ba-p/5377369",
+      "title": "Govern your Microsoft Fabric data estate from one place with the OneLake catalog and Govern Skills (Generally Available)",
+      "author": "LeeBenjamin",
+      "published": "2026-10-28T19:47:19+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/More-ways-to-use-scalar-UDFs-in-Microsoft-Fabric-Data-Warehouse/ba-p/5376708",
+      "title": "More ways to use scalar UDFs in Microsoft Fabric Data Warehouse (Preview)",
+      "author": "SMATIN",
+      "published": "2026-10-28T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-worlds-first-one-click-travel-tripod/",
+      "title": "Just announced: World’s First One-Click Travel Tripod",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-28T18:37:31+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/oled-macbook-pro-size-weight/",
+      "title": "OLED MacBook Pro vs. Mini-LED MacBook Pro: Size and Weight Compared",
+      "author": "Juli Clover",
+      "published": "2026-10-28T20:11:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/best-buy-gift-cards-ipad-macbook/",
+      "title": "Best Buy Offering Up to $100 Gift Cards With iPad Mini 8 and M6 MacBook Pro Pre-Orders",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-28T20:05:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-new-world-travel-adapter-kit/",
+      "title": "Apple Releases Redesigned Mac Chargers and 'World Travel Adapter Kit'",
+      "author": "Joe Rossignol",
+      "published": "2026-10-28T19:30:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/macbook-pro-touch-battery-life/",
+      "title": "Adding Touch Didn't Cost the MacBook Pro Any Battery Life",
+      "author": "Juli Clover",
+      "published": "2026-10-28T18:55:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-executives-touch-screen-explanation/",
+      "title": "Apple Executives Explain Why the MacBook Pro Finally Has a Touch Screen",
+      "author": "Juli Clover",
+      "published": "2026-10-28T18:25:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-improved-audio/",
+      "title": "New MacBook Pro Features Deeper Bass and Improved Closed-Lid Audio",
+      "author": "Hartley Charlton",
+      "published": "2026-10-28T18:03:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-offers-up-to-16tb/",
+      "title": "New MacBook Pro Offers Up to 16TB of Storage, Double Previous Limit",
+      "author": "Hartley Charlton",
+      "published": "2026-10-28T17:52:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/new-macbook-pro-maxed-out-cost/",
+      "title": "Apple's New Touchscreen MacBook Pro Costs Up to $14,549",
+      "author": "Hartley Charlton",
+      "published": "2026-10-28T17:46:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-brings-dynamic-island-to-mac/",
+      "title": "Apple Brings Dynamic Island to Mac for the First Time",
+      "author": "Hartley Charlton",
+      "published": "2026-10-28T17:28:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/",
+      "title": "Mac Studio With M5 Ultra Now Available With 512GB RAM for $22,299",
+      "author": "Joe Rossignol",
+      "published": "2026-10-28T17:26:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/illuminated-logo-returns-to-macbook-pro/",
+      "title": "Illuminated Apple Logo Returns to MacBook Pro After 10 Years",
+      "author": "Hartley Charlton",
+      "published": "2026-10-28T17:12:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/",
+      "title": "Apple Announces OLED MacBook Pro With Touch Display",
+      "author": "Juli Clover",
+      "published": "2026-10-28T17:11:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-store-down-ahead-of-pro-and-tell/",
+      "title": "Apple Store Down Ahead of 'Pro and Tell' Launch Today",
+      "author": "Joe Rossignol",
+      "published": "2026-10-28T16:46:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-28T20:11:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-28T16:12:30+00:00"
+  "last_checked": "2026-10-28T20:11:12+00:00"
 }
