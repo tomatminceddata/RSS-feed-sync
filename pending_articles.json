@@ -20135,7 +20135,67 @@
       "parser": "default",
       "discovered": "2026-10-29T12:16:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-the-data-engineering-agent-for-Fabric-Project-Osmos/ba-p/5377944",
+      "title": "Introducing the data engineering agent for Fabric (Project Osmos)",
+      "author": "nareshvenkat",
+      "published": "2026-10-29T15:55:24+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-29T16:12:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sirui-is-teasing-the-launch-of-a-new-full-frame-autofocus-lens-for-sony/",
+      "title": "Sirui is teasing the launch of a new Full Frame Autofocus lens for Sony",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-29T13:29:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T16:12:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/macbook-pro-mini-led-vs-oled/",
+      "title": "MacBook Pro Mini-LED vs. OLED Buyer's Guide: Every Difference",
+      "author": "Hartley Charlton",
+      "published": "2026-10-29T15:59:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T16:12:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/pre-order-apples-new-macbooks/",
+      "title": "Where to Pre-Order Apple's New MacBooks, iPad Mini, and iMac",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-29T14:35:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T16:12:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-release-date-features/",
+      "title": "Apple Releasing HomePod Mini 2 Tomorrow With These New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-10-29T14:32:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T16:12:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/macos-adapts-controls-touch-macbook-pro/",
+      "title": "How macOS Adapts Its Controls for Touch on the New MacBook Pro",
+      "author": "Tim Hardwick",
+      "published": "2026-10-29T12:33:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T16:12:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-29T12:16:30+00:00"
+  "last_checked": "2026-10-29T16:12:22+00:00"
 }
