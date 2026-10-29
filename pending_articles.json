@@ -20045,7 +20045,67 @@
       "parser": "default",
       "discovered": "2026-10-28T20:11:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/best-buy-proled-xdr-macbook-pro-gift-cards/",
+      "title": "Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With $100 Bonus Gift Cards",
+      "author": "Eric Slivka",
+      "published": "2026-10-28T23:04:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T00:29:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-announcements-october-2026/",
+      "title": "Here's Everything Apple Announced This Week",
+      "author": "Juli Clover",
+      "published": "2026-10-28T22:45:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T00:29:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/macbook-pro-glowing-apple-logo/",
+      "title": "Here's a Real-World Look at the New MacBook Pro's Glowing Apple Logo",
+      "author": "Joe Rossignol",
+      "published": "2026-10-28T22:24:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T00:29:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/macbook-pro-touchscreen-rumors/",
+      "title": "How Accurate Were Rumors About Apple's OLED Touchscreen MacBook Pro?",
+      "author": "Juli Clover",
+      "published": "2026-10-28T22:04:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T00:29:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/28/apple-8-new-products-available-for-pre-order/",
+      "title": "Apple Has 8 New Products Available for Pre-Order",
+      "author": "Joe Rossignol",
+      "published": "2026-10-28T21:51:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T00:29:54+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/iphone-duo-app-launch-on-open/",
+      "title": "iPhone Duo: Turn the Hinge Into an App Launcher",
+      "author": "Tim Hardwick",
+      "published": "2026-10-28T20:27:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T00:29:54+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-28T20:11:12+00:00"
+  "last_checked": "2026-10-29T00:29:54+00:00"
 }
