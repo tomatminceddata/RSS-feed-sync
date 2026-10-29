@@ -20195,7 +20195,117 @@
       "parser": "default",
       "discovered": "2026-10-29T16:12:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Allow-workspace-settings-editing-policy-in-Fabric-Preview/ba-p/5377845",
+      "title": "Using Allow workspace settings editing policy in Fabric (Preview)",
+      "author": "yaelbiss",
+      "published": "2026-10-29T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-once-reuse-everywhere-Introducing-variable-library/ba-p/5377349",
+      "title": "Manage once, reuse everywhere: Introducing variable library support for Eventstream (Preview)",
+      "author": "spurthikommajos",
+      "published": "2026-10-29T18:20:11+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-Rust-native-Spark-compatibility-to-Microsoft-OneLake/ba-p/5377595",
+      "title": "Bringing Rust-native Spark compatibility to Microsoft OneLake with Sail and LakeSail",
+      "author": "amitch",
+      "published": "2026-10-29T17:48:58+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Access-versioned-lakeFS-data-from-Microsoft-Fabric-with/ba-p/5377386",
+      "title": "Access versioned lakeFS data from Microsoft Fabric with Microsoft OneLake shortcuts",
+      "author": "amitch",
+      "published": "2026-10-29T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/compeition-news-nikon-announced-a-new-14k-lens-sony-doesnt-have-yet/",
+      "title": "Competition news: Nikon announced a new 14k lens Sony doesn’t have yet…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-29T16:38:19+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/homepod-mini-2-two-tone-colors/",
+      "title": "Here's a Hands-On Look at HomePod Mini 2's New Two-Tone Colors",
+      "author": "Juli Clover",
+      "published": "2026-10-29T20:04:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan/",
+      "title": "Apple Lowers App Store Fees in Taiwan Starting October 31",
+      "author": "Juli Clover",
+      "published": "2026-10-29T19:06:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/homeview-pre-order-289/",
+      "title": "HomeView Pre-Order Returns to $289.99 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-29T18:55:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
+      "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea",
+      "author": "Joe Rossignol",
+      "published": "2026-10-29T18:52:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off/",
+      "title": "You Can Turn Off the New MacBook Pro's Touchscreen Functionality",
+      "author": "Joe Rossignol",
+      "published": "2026-10-29T17:47:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/old-popcorn-time-app-macs-at-risk/",
+      "title": "Old 'Popcorn Time' App Left Hundreds of Thousands of Macs at Risk",
+      "author": "Tim Hardwick",
+      "published": "2026-10-29T17:12:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-29T20:11:13+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-29T16:12:22+00:00"
+  "last_checked": "2026-10-29T20:11:13+00:00"
 }
