@@ -20325,7 +20325,17 @@
       "parser": "default",
       "discovered": "2026-10-30T00:30:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/",
+      "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
+      "author": "Joe Rossignol",
+      "published": "2026-10-30T00:50:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-30T04:12:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-30T00:30:27+00:00"
+  "last_checked": "2026-10-30T04:12:15+00:00"
 }
