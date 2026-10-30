@@ -20305,7 +20305,27 @@
       "parser": "default",
       "discovered": "2026-10-29T20:11:13+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Strengthening-data-security-with-workspace-level-private/ba-p/5377347",
+      "title": "Strengthening data security with workspace-level private connectivity for custom endpoints for Eventstream (Preview)",
+      "author": "spurthikommajos",
+      "published": "2026-10-29T21:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-10-30T00:30:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
+      "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display",
+      "author": "Joe Rossignol",
+      "published": "2026-10-29T21:14:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-30T00:30:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-29T20:11:13+00:00"
+  "last_checked": "2026-10-30T00:30:27+00:00"
 }
