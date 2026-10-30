@@ -20345,7 +20345,27 @@
       "parser": "default",
       "discovered": "2026-10-30T08:14:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/apple-stores-as-few-as-50-iphone-duo-units/",
+      "title": "Where Did All the iPhone Duos Go? Mostly to Apple's Stores",
+      "author": "Tim Hardwick",
+      "published": "2026-10-30T10:10:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-30T12:16:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/oled-macbook-pro-1-5m-shipments-2027/",
+      "title": "Apple's Touchscreen MacBook Pro Could Ship 1.5M Units in 2027",
+      "author": "Tim Hardwick",
+      "published": "2026-10-30T09:28:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-30T12:16:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-30T08:14:53+00:00"
+  "last_checked": "2026-10-30T12:16:34+00:00"
 }
