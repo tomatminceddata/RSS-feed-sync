@@ -20465,7 +20465,57 @@
       "parser": "default",
       "discovered": "2026-10-30T16:11:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/new-things-iphone-can-do-ios-27-2/",
+      "title": "14 New Things Your iPhone Can Do in iOS 27.2",
+      "author": "Tim Hardwick",
+      "published": "2026-10-30T19:42:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-30T20:08:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/iphone-duo-one-week-later/",
+      "title": "iPhone Duo Review: One Week Later",
+      "author": "Juli Clover",
+      "published": "2026-10-30T19:06:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-30T20:08:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/macbook-pro-proled-xdr-details/",
+      "title": "MacBook Pro With Touch Display: 15 More Details Revealed",
+      "author": "Joe Rossignol",
+      "published": "2026-10-30T18:59:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-30T20:08:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/samsung-iphone-duo-display-campaign/",
+      "title": "Samsung Mocks iPhone Duo Display Cracks in New Ad Campaign",
+      "author": "Juli Clover",
+      "published": "2026-10-30T17:20:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-30T20:08:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/the-macrumors-show-oled-macbook-pro/",
+      "title": "The MacRumors Show: OLED MacBook Pro, iPad Mini 8, and More",
+      "author": "Hartley Charlton",
+      "published": "2026-10-30T16:50:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-30T20:08:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-30T16:11:36+00:00"
+  "last_checked": "2026-10-30T20:08:41+00:00"
 }
