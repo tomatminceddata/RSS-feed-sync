@@ -20585,7 +20585,17 @@
       "parser": "default",
       "discovered": "2026-10-31T08:11:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/version-3-1-0-of-the-sony-monitor-control-app-adds-support-for-the-a6700-and-zv-e10-ii/",
+      "title": "Version 3.1.0 of the Sony | Monitor & Control app adds support for the A6700 and ZV-E10 II",
+      "author": "SonyAlpha Admin",
+      "published": "2026-10-31T07:33:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T12:11:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-31T08:11:22+00:00"
+  "last_checked": "2026-10-31T12:11:49+00:00"
 }
