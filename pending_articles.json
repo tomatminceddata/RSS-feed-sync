@@ -20515,7 +20515,57 @@
       "parser": "default",
       "discovered": "2026-10-30T20:08:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/homeview-software-27-2/",
+      "title": "HomeView Software 27.2: Wallpapers, Control Center, and More",
+      "author": "Juli Clover",
+      "published": "2026-10-30T23:15:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T00:25:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
+      "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
+      "author": "Joe Rossignol",
+      "published": "2026-10-30T22:20:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T00:25:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/ios-27-3-apple-intelligence-china/",
+      "title": "iOS 27.3 Will Enable These Apple Intelligence Features in China",
+      "author": "Joe Rossignol",
+      "published": "2026-10-30T21:46:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T00:25:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/",
+      "title": "Apple Says iOS 27.3 Beta Coming Next Week",
+      "author": "Joe Rossignol",
+      "published": "2026-10-30T21:45:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T00:25:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/30/apple-flash-storage-suppliers-revenge-report/",
+      "title": "Apple's Flash Storage Suppliers Are Finally 'Getting Their Revenge'",
+      "author": "Joe Rossignol",
+      "published": "2026-10-30T21:18:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T00:25:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-30T20:08:41+00:00"
+  "last_checked": "2026-10-31T00:25:02+00:00"
 }
