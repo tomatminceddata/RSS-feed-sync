@@ -20595,7 +20595,47 @@
       "parser": "default",
       "discovered": "2026-10-31T12:11:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts/",
+      "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
+      "author": "Mitchel Broussard",
+      "published": "2026-10-31T15:54:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T16:08:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
+      "title": "Here's a New Tour of Apple's HomeView Software",
+      "author": "Joe Rossignol",
+      "published": "2026-10-31T15:47:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T16:08:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
+      "title": "Apple Reveals New iPad Mini's Battery Capacity",
+      "author": "Joe Rossignol",
+      "published": "2026-10-31T14:24:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T16:08:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/31/top-stories-apple-macbook-pro-ipad-mini-imac-updates/",
+      "title": "Top Stories: Apple's Big MacBook Pro, iPad mini and iMac Updates",
+      "author": "MacRumors Staff",
+      "published": "2026-10-31T13:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T16:08:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-31T12:11:49+00:00"
+  "last_checked": "2026-10-31T16:08:56+00:00"
 }
