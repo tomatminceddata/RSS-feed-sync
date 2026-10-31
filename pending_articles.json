@@ -20565,7 +20565,27 @@
       "parser": "default",
       "discovered": "2026-10-31T00:25:02+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
+      "title": "'Pluribus' Season 2 Reportedly Starts Production Today",
+      "author": "Hartley Charlton",
+      "published": "2026-10-31T06:41:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T08:11:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
+      "title": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
+      "author": "Hartley Charlton",
+      "published": "2026-10-31T05:55:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T08:11:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-31T00:25:02+00:00"
+  "last_checked": "2026-10-31T08:11:22+00:00"
 }
