@@ -20635,7 +20635,17 @@
       "parser": "default",
       "discovered": "2026-10-31T16:08:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/31/beats-360-ear-cushions-discount-ends-today/",
+      "title": "Reminder: Apple's Big Discount on Beats 360 Ear Cushions Ends Today",
+      "author": "Joe Rossignol",
+      "published": "2026-10-31T15:50:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-10-31T20:08:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-10-31T16:08:56+00:00"
+  "last_checked": "2026-10-31T20:08:22+00:00"
 }
