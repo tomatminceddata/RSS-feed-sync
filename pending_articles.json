@@ -20655,7 +20655,37 @@
       "parser": "default",
       "discovered": "2026-11-01T12:12:05+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-audio-expert-talks-about-2-4-ghz-uhf-32-bit-float/",
+      "title": "Sony Audio Expert talks about 2.4 GHz, UHF & 32-Bit Float",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-01T12:56:26+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-01T16:08:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software/",
+      "title": "Apple's HomeView Ships With Six-Month-Old Software",
+      "author": "Joe Rossignol",
+      "published": "2026-11-01T15:37:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-01T16:08:55+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
+      "title": "Three New iPads Rumored to Launch in First Half of 2027",
+      "author": "Joe Rossignol",
+      "published": "2026-11-01T15:27:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-01T16:08:55+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-01T12:12:05+00:00"
+  "last_checked": "2026-11-01T16:08:55+00:00"
 }
