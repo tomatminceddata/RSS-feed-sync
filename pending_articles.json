@@ -20685,7 +20685,27 @@
       "parser": "default",
       "discovered": "2026-11-01T16:08:55+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/black-friday-deal-save-up-to-77-on-luminar-software/",
+      "title": "Black Friday deal: Save up to 77% on Luminar software!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-01T19:02:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-01T20:08:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/01/m5-macbook-air-200-off/",
+      "title": "Nearly Every M5 MacBook Air Now $200 Off on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-01T17:33:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-01T20:08:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-01T16:08:55+00:00"
+  "last_checked": "2026-11-01T20:08:25+00:00"
 }
