@@ -20745,7 +20745,107 @@
       "parser": "default",
       "discovered": "2026-11-02T12:15:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/still-no-confirmation-about-a-possible-sony-a7s-iv-launch/",
+      "title": "Still no confirmation about a possible Sony A7s IV launch",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-02T14:41:19+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-reviews-of-the-new-sigma-50-120mm-f-2-8-aps-c-e-mount-lens/",
+      "title": "New reviews of the new Sigma 50-120mm f/2.8 APS-C E-mount lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-02T11:31:21+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/best-early-black-friday-deals-2026/",
+      "title": "Best Early Black Friday Deals on Apple Products Available Now",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-02T15:56:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-november/",
+      "title": "Mark Gurman: Apple Initially Aimed to Release iPhone Duo in November",
+      "author": "Joe Rossignol",
+      "published": "2026-11-02T15:44:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/",
+      "title": "Apple Isn't Done With 2026: Here's What's Still Coming",
+      "author": "Tim Hardwick",
+      "published": "2026-11-02T15:27:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/homeview-ultra-report/",
+      "title": "Apple 'HomeView Ultra' With 9-Inch 360º Screen Detailed in New Report",
+      "author": "Joe Rossignol",
+      "published": "2026-11-02T15:08:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/zoom-microsoft-apps-iphone-duo-optimized/",
+      "title": "Zoom and These Microsoft Apps Now Optimized for iPhone Duo",
+      "author": "Joe Rossignol",
+      "published": "2026-11-02T14:48:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/apple-tv-4k-pre-order/",
+      "title": "Apple TV 4K Pre-Order Discount Returns at Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-02T14:35:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/canva-free-affinity-app-ipad/",
+      "title": "Canva Brings Free All-in-One Affinity App to iPad",
+      "author": "Tim Hardwick",
+      "published": "2026-11-02T14:00:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-latest-buyer-wait-times/",
+      "title": "iPhone Duo: Latest Buyer Wait Times",
+      "author": "Tim Hardwick",
+      "published": "2026-11-02T12:32:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T16:10:36+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-02T12:15:03+00:00"
+  "last_checked": "2026-11-02T16:10:36+00:00"
 }
