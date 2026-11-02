@@ -20705,7 +20705,47 @@
       "parser": "default",
       "discovered": "2026-11-01T20:08:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/up-to-300-e-cashback-in-europe/",
+      "title": "Up to 300 € Cashback in Europe",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-02T08:10:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T12:15:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-missing-display-zoom-option/",
+      "title": "This iPhone Duo Screen Setting Is Proving Hard to Change",
+      "author": "Tim Hardwick",
+      "published": "2026-11-02T11:54:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T12:15:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/apple-homeview-could-work-security-camera/",
+      "title": "Apple HomeView Could Double as a Security Camera",
+      "author": "Tim Hardwick",
+      "published": "2026-11-02T09:57:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T12:15:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/apple-launching-five-new-products-this-friday/",
+      "title": "Apple Launching Five New Products This Friday",
+      "author": "Tim Hardwick",
+      "published": "2026-11-02T09:22:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T12:15:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-01T20:08:25+00:00"
+  "last_checked": "2026-11-02T12:15:03+00:00"
 }
