@@ -20845,7 +20845,77 @@
       "parser": "default",
       "discovered": "2026-11-02T16:10:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-a-prompt-to-an-operational-dashboard-Generate-Real-Time/ba-p/5380258",
+      "title": "From a prompt to an operational dashboard: Generate Real-Time Dashboards with Copilot (Preview)",
+      "author": "MichalBar",
+      "published": "2026-11-02T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-02T20:08:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Days-Learn-build-and-connect-with-AI-Work/ba-p/5382446",
+      "title": "Data Days: Learn, build, and connect with AI @Work",
+      "author": "slindsay",
+      "published": "2026-11-02T16:19:22+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-02T20:08:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/brand-new-sony-usa-holiday-deals-first-ever-discount-on-the-sony-a1ii-and-a9iii/",
+      "title": "Brand new Sony USA holiday deals: First ever discount on the Sony A1II and A9III",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-02T19:11:03+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T20:08:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/john-ternus-first-apple-earnings-call/",
+      "title": "John Ternus Hosting His First Earnings Call as Apple CEO Today",
+      "author": "Joe Rossignol",
+      "published": "2026-11-02T19:24:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T20:08:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/early-black-friday-cases/",
+      "title": "Early Black Friday Brings Steep Price Drops on Apple's Latest iPhone Cases",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-02T18:42:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T20:08:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/spotify-on-apple-homeview/",
+      "title": "Here's What Spotify Looks Like on Apple's HomeView",
+      "author": "Joe Rossignol",
+      "published": "2026-11-02T17:09:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T20:08:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/ios-27-2-1-and-ios-27-3-beta-coming-soon/",
+      "title": "iOS 27.2.1 Coming Soon, iOS 27.3 Beta Likely Available Tomorrow",
+      "author": "Joe Rossignol",
+      "published": "2026-11-02T16:49:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-02T20:08:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-02T16:10:36+00:00"
+  "last_checked": "2026-11-02T20:08:53+00:00"
 }
