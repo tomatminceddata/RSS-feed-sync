@@ -20955,7 +20955,27 @@
       "parser": "default",
       "discovered": "2026-11-03T00:25:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/apple-developer-dating-app-requirement/",
+      "title": "Apple Requiring Developers to Disclose Location Sharing and Dating Features in Apps",
+      "author": "Juli Clover",
+      "published": "2026-11-03T00:43:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T04:11:23+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/apple-q4-2026-earnings-takeaways/",
+      "title": "Apple's Q4 2026 Earnings Call Takeaways",
+      "author": "Juli Clover",
+      "published": "2026-11-03T00:26:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T04:11:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-03T00:25:01+00:00"
+  "last_checked": "2026-11-03T04:11:23+00:00"
 }
