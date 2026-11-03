@@ -20915,7 +20915,47 @@
       "parser": "default",
       "discovered": "2026-11-02T20:08:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-insights-and-action-together-with-Fabric-Apps-in-Org-apps/ba-p/5377690",
+      "title": "Bring insights and action together with Fabric Apps in Org apps",
+      "author": "mk_sunitha",
+      "published": "2026-11-02T22:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-03T00:25:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/apple-memory-costs-increase-december/",
+      "title": "Apple Dodges Question on More Price Hikes as Memory Costs Climb",
+      "author": "Juli Clover",
+      "published": "2026-11-03T00:02:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T00:25:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-shortages-no-end/",
+      "title": "Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight",
+      "author": "Juli Clover",
+      "published": "2026-11-02T22:03:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T00:25:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
+      "title": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
+      "author": "Jordan Golson",
+      "published": "2026-11-02T21:38:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T00:25:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-02T20:08:53+00:00"
+  "last_checked": "2026-11-03T00:25:01+00:00"
 }
