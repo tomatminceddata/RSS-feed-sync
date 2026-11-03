@@ -20985,7 +20985,27 @@
       "parser": "default",
       "discovered": "2026-11-03T08:12:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apple-exploring-next-gen-oled-tech-macs/",
+      "title": "Apple Explores Cheaper Way to Make New MacBook Pro's OLED Tech",
+      "author": "Tim Hardwick",
+      "published": "2026-11-03T11:47:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T12:13:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apple-released-iphone-x-nine-years-ago-today/",
+      "title": "Apple Released the iPhone X Nine Years Ago Today",
+      "author": "Tim Hardwick",
+      "published": "2026-11-03T08:58:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T12:13:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-03T08:12:42+00:00"
+  "last_checked": "2026-11-03T12:13:46+00:00"
 }
