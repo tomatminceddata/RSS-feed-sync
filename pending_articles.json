@@ -20975,7 +20975,17 @@
       "parser": "default",
       "discovered": "2026-11-03T04:11:23+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-meike-50mm-f-1-4-fe-lens-is-coming-soon/",
+      "title": "New Meike 50mm f/1.4 FE lens is coming soon",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-03T07:02:55+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T08:12:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-03T04:11:23+00:00"
+  "last_checked": "2026-11-03T08:12:42+00:00"
 }
