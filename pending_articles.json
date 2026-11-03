@@ -21115,7 +21115,227 @@
       "parser": "default",
       "discovered": "2026-11-03T16:10:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Announcing-support-for-Materialized-views-and-streaming-tables/ba-p/5377928",
+      "title": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
+      "author": "shilmenon",
+      "published": "2026-11-03T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Adding-the-Context-Streaming-Events-Need-Reference-Data-Joins/ba-p/5382230",
+      "title": "Adding the Context Streaming Events Need: Reference Data Joins with OneLake Delta Tables in Fabric Eventstream",
+      "author": "bytecascade",
+      "published": "2026-11-03T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-The-file-system-for-agent-first-data-engineering/ba-p/5383035",
+      "title": "OneLake: The file system for agent-first data engineering",
+      "author": "tompeplow",
+      "published": "2026-11-03T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Modernize-data-integration-strategy-with-Microsoft-Fabric-when/ba-p/5377581",
+      "title": "Modernize data integration strategy with Microsoft Fabric when using Snowflake and Databricks",
+      "author": "grakhra",
+      "published": "2026-11-03T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-reviews-of-the-new-worlds-first-one-click-travel-tripod/",
+      "title": "First reviews of the new world’s First One-Click Travel Tripod",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-03T19:03:05+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/the-hacking-continues-variable-shutter-and-big6-added-on-the-sony-a7s-iii/",
+      "title": "The hacking continues: Variable Shutter and BIG6 added on the Sony A7S III",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-03T15:58:22+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-safari/",
+      "title": "iOS 27.3 Adds Vertical Tabs and Adaptive Dark Mode to Safari",
+      "author": "Juli Clover",
+      "published": "2026-11-03T19:47:50+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apple-fitness-plus-gym-strength/",
+      "title": "Apple Fitness+ Gets Gym Strength Plans in iOS 27.3",
+      "author": "Juli Clover",
+      "published": "2026-11-03T19:35:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-new-standby-features-on-more-iphones/",
+      "title": "iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer",
+      "author": "Joe Rossignol",
+      "published": "2026-11-03T19:31:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/airpods-beta-firmware-9b5045a/",
+      "title": "Apple Releases New AirPods Beta Firmware",
+      "author": "Juli Clover",
+      "published": "2026-11-03T19:29:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-apple-intelligence-china-2/",
+      "title": "iOS 27.3 Beta Brings Apple Intelligence to China",
+      "author": "Juli Clover",
+      "published": "2026-11-03T19:25:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
+      "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
+      "author": "Juli Clover",
+      "published": "2026-11-03T19:22:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/iphone-duo-reachability-ios-27-3/",
+      "title": "iPhone Duo Gets Reachability in iOS 27.3 Beta",
+      "author": "Juli Clover",
+      "published": "2026-11-03T19:19:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-siri-ai/",
+      "title": "Siri AI Gets More Capable in iOS 27.3",
+      "author": "Juli Clover",
+      "published": "2026-11-03T19:06:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-health-app/",
+      "title": "iOS 27.3 Beta Brings Back Apple's Redesigned Health App",
+      "author": "Juli Clover",
+      "published": "2026-11-03T19:03:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/ipad-mini-8-review-highlights-lack-of-120hz/",
+      "title": "iPad Mini 8 Reviewer Isn't Satisfied With Apple's Excuse for Lack of 120Hz Display",
+      "author": "Joe Rossignol",
+      "published": "2026-11-03T18:42:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/ipad-mini-8-review-finds-longer-battery-life/",
+      "title": "iPad Mini 8 Review Claims Battery Life is Way Better Than Apple Says",
+      "author": "Joe Rossignol",
+      "published": "2026-11-03T18:30:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apple-releases-first-macos-golden-gate-27-3-beta/",
+      "title": "Apple Releases First macOS Golden Gate 27.3 Beta",
+      "author": "Juli Clover",
+      "published": "2026-11-03T18:10:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apple-seeds-first-ios-27-3-beta/",
+      "title": "Apple Seeds First iOS 27.3 Beta",
+      "author": "Juli Clover",
+      "published": "2026-11-03T18:09:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apple-watchos-27-3-beta-1/",
+      "title": "Apple Releases First watchOS 27.3, tvOS 27.3 and visionOS 27.3 Betas",
+      "author": "Juli Clover",
+      "published": "2026-11-03T18:07:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/bh-photo-early-black-friday/",
+      "title": "B&H Photo Launches Early Black Friday Sale With Discounts on Macs and Accessories",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-03T16:59:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/iphone-duo-could-take-30-percent-of-market/",
+      "title": "iPhone Duo Could Take Nearly 30% of Foldable Market in 2027",
+      "author": "Hartley Charlton",
+      "published": "2026-11-03T16:47:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T20:09:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-03T16:10:47+00:00"
+  "last_checked": "2026-11-03T20:09:21+00:00"
 }
