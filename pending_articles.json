@@ -21005,7 +21005,117 @@
       "parser": "default",
       "discovered": "2026-11-03T12:13:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-sirui-aurora-15mm-f-1-6-and-24mm-f-1-4-full-frame-autofocus-lenses-are-coming-on-november-9/",
+      "title": "New SIRUI Aurora 15mm f/1.6 and 24mm f/1.4 Full-Frame Autofocus Lenses are coming on November 9",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-03T12:06:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/apple-watch-music-recognition-shazam/",
+      "title": "Apple Watch Automatically Identifies Songs Around You",
+      "author": "Tim Hardwick",
+      "published": "2026-11-03T16:02:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/best-early-black-friday-mac-2026/",
+      "title": "Best Early Black Friday Mac Deals: Save Hundreds on MacBook Air, Mac Mini, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-03T15:56:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/iphone-18-rumored-to-get-larger-battery/",
+      "title": "iPhone 18 Rumored to Get Larger Battery and Potential Price Increase",
+      "author": "Hartley Charlton",
+      "published": "2026-11-03T15:50:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apple-store-in-uk-permanently-closing/",
+      "title": "Apple Store in UK Permanently Closing Later This Month",
+      "author": "Joe Rossignol",
+      "published": "2026-11-03T15:35:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/tvos-and-macos-27-2-1-likely-coming-soon/",
+      "title": "tvOS 27.2.1 and macOS 27.2.1 Likely Coming Soon",
+      "author": "Joe Rossignol",
+      "published": "2026-11-03T14:56:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apples-annual-rd-spending-jumps/",
+      "title": "Apple's Annual R&D Spending Jumps by More Than $11 Billion",
+      "author": "Hartley Charlton",
+      "published": "2026-11-03T14:22:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/john-ternus-on-ipados-and-macos-merging/",
+      "title": "Will Apple Ever Merge iPadOS and macOS? John Ternus Responds",
+      "author": "Joe Rossignol",
+      "published": "2026-11-03T14:21:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/macbook-neo-30-discount/",
+      "title": "MacBook Neo Gets Rare $30 Amazon Discount",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-03T14:12:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/oled-ipad-mini-hands-on/",
+      "title": "Hands-On: The OLED iPad Mini is Almost an iPad Pro Mini",
+      "author": "Juli Clover",
+      "published": "2026-11-03T14:01:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/mkbhd-switches-back-to-iphone-18-pro/",
+      "title": "MKBHD Switches Back to iPhone 18 Pro After Testing iPhone Duo",
+      "author": "Hartley Charlton",
+      "published": "2026-11-03T13:10:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-03T16:10:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-03T12:13:46+00:00"
+  "last_checked": "2026-11-03T16:10:47+00:00"
 }
