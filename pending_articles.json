@@ -21505,7 +21505,127 @@
       "parser": "default",
       "discovered": "2026-11-04T16:09:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Find-expensive-queries-from-Capacity-Metrics-Generally-Available/ba-p/5393588",
+      "title": "Find expensive queries from Capacity Metrics (Generally Available)",
+      "author": "Mariyaali",
+      "published": "2026-11-04T20:03:23+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-table-APIs-Now-with-Iceberg-writes-plus-richer-table/ba-p/5391262",
+      "title": "OneLake table APIs: Now with Iceberg writes, plus richer table metadata (Preview)",
+      "author": "MattH_OneLake",
+      "published": "2026-11-04T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Govern-Fabric-connections-with-admin-APIs-and-data-connection/ba-p/5383656",
+      "title": "Govern Fabric connections with admin APIs and data connection policies (Preview)",
+      "author": "alexathompson",
+      "published": "2026-11-04T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Fabric-data-into-your-next-app-with-connectors/ba-p/5377609",
+      "title": "Bring your Fabric data into your next app with connectors",
+      "author": "mk_sunitha",
+      "published": "2026-11-04T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Salesforce-Data-360-integration-with-OneLake-Preview/ba-p/5384626",
+      "title": "Salesforce Data 360 integration with OneLake (Preview)",
+      "author": "shiv_narayanan",
+      "published": "2026-11-04T16:10:26+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-holiday-deals-save-big-on-sandisk-cards-and-storage-and-tamron-lenses/",
+      "title": "New Holiday Deals: Save big on Sandisk cards and storage and Tamron lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-04T18:58:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/xcode-27-3-beta-new-features/",
+      "title": "Apple Releases Xcode 27.3 Beta With Three New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-11-04T19:27:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/",
+      "title": "Apple Will Check Public iCloud Links for Harmful Content Starting in iOS 27.3",
+      "author": "Juli Clover",
+      "published": "2026-11-04T19:12:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/",
+      "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island",
+      "author": "Joe Rossignol",
+      "published": "2026-11-04T18:43:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/macos-27-3-important-security-fix/",
+      "title": "macOS 27.3 Includes an Important Security Fix",
+      "author": "Joe Rossignol",
+      "published": "2026-11-04T17:41:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/apple-tv-reportedly-planning-silo-spinoff/",
+      "title": "Apple TV Reportedly Planning 'Silo' Spinoff",
+      "author": "Hartley Charlton",
+      "published": "2026-11-04T16:57:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/is-it-worth-buying-a-titanium-apple-watch/",
+      "title": "Is It Worth Buying a Titanium Apple Watch?",
+      "author": "Hartley Charlton",
+      "published": "2026-11-04T16:32:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T20:09:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-04T16:09:44+00:00"
+  "last_checked": "2026-11-04T20:09:44+00:00"
 }
