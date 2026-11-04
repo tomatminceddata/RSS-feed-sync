@@ -21395,7 +21395,117 @@
       "parser": "default",
       "discovered": "2026-11-04T12:14:13+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Share-data-and-context-across-organizations-with-IQ-Share/ba-p/5378764",
+      "title": "Share data and context across organizations with IQ Share (Preview)",
+      "author": "shiv_narayanan",
+      "published": "2026-11-04T16:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-viltrox-and-meike-will-launch-their-first-new-e-mount-zoom-lenses-in-2027-is-the-35-50mm-f-1-4-fe-coming/",
+      "title": "Confirmed: Viltrox and Meike will launch their first new E-mount zoom lenses in 2027: Is the 35-50mm f/1.4 FE coming?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-04T14:04:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/homepod-mini-2-sound-quality/",
+      "title": "Does HomePod Mini 2 Have Improved Sound? Here's What Reviews Say",
+      "author": "Joe Rossignol",
+      "published": "2026-11-04T15:13:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/apple-watch-ultra-3-250-discounts/",
+      "title": "Massive Sale Hits Apple Watch Ultra 3 With Record Low $250 Discounts",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-04T15:07:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/macos-27-3-makes-markdown-files-easier-to-read/",
+      "title": "macOS 27.3 Makes Markdown Files Easier to Read",
+      "author": "Hartley Charlton",
+      "published": "2026-11-04T14:39:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/homeview-pre-order-returns/",
+      "title": "HomeView Pre-Order Returns to $289.99 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-04T13:44:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/",
+      "title": "Apple May Phase Out Non-Touch High-End MacBook Pros",
+      "author": "Hartley Charlton",
+      "published": "2026-11-04T13:35:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/apple-bans-confidential-info-prediction-markets/",
+      "title": "Apple's Insider Trading Policy Now Covers Prediction Markets",
+      "author": "Tim Hardwick",
+      "published": "2026-11-04T12:45:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/stick-season-2-premieres-today/",
+      "title": "'Stick' Season 2 Premieres Today on Apple TV",
+      "author": "Hartley Charlton",
+      "published": "2026-11-04T12:41:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/iphone-18e-rumored-to-focus-on-chip-upgrade/",
+      "title": "iPhone 18e Rumored to Focus on Chip Upgrade With Few Major Changes",
+      "author": "Hartley Charlton",
+      "published": "2026-11-04T12:31:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/",
+      "title": "Google Maps Updated to Fully Support iPhone Duo Displays",
+      "author": "Tim Hardwick",
+      "published": "2026-11-04T12:24:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T16:09:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-04T12:14:13+00:00"
+  "last_checked": "2026-11-04T16:09:44+00:00"
 }
