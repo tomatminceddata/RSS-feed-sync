@@ -21335,7 +21335,47 @@
       "parser": "default",
       "discovered": "2026-11-03T20:09:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/",
+      "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
+      "author": "Juli Clover",
+      "published": "2026-11-04T00:05:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T00:25:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/iphone-jailbreak-lockdown-mode/",
+      "title": "iPhone Jailbreak Gets Past Lockdown Mode and Survives an Update",
+      "author": "Juli Clover",
+      "published": "2026-11-03T22:20:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T00:25:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/ipados-27-3-siri-mode-in-camera-app/",
+      "title": "iPadOS 27.3 Expands Siri Mode to Camera App",
+      "author": "Joe Rossignol",
+      "published": "2026-11-03T21:07:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T00:25:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/03/apple-watch-veterans-day-challenge-2026/",
+      "title": "Veterans Day Apple Watch Activity Challenge Launches November 11",
+      "author": "Juli Clover",
+      "published": "2026-11-03T20:18:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-04T00:25:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-03T20:09:21+00:00"
+  "last_checked": "2026-11-04T00:25:08+00:00"
 }
