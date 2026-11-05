@@ -21745,7 +21745,167 @@
       "parser": "default",
       "discovered": "2026-11-05T12:14:24+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Regular-expression-functions-in-Microsoft-Fabric-Data-Warehouse/ba-p/5382375",
+      "title": "Regular expression functions in Microsoft Fabric Data Warehouse (Preview)",
+      "author": "jovanpop-msft",
+      "published": "2026-11-05T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Generally/ba-p/5377939",
+      "title": "Use OneLake as native storage for Azure Databricks (Generally Available)",
+      "author": "shilmenon",
+      "published": "2026-11-05T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-Query-Corner-Finding-and-connecting-to-data-in-the-new/ba-p/5382053",
+      "title": "Power Query Corner: Finding and connecting to data in the new experience (Preview)",
+      "author": "miguel",
+      "published": "2026-11-05T17:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-announced-the-new-50-megapixel-lytia-sensor-for-mobile-phones-larger-sensor-coming-soon/",
+      "title": "Sony announced the new 50 Megapixel LYTIA sensor for mobile phones. Larger sensor coming soon?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-05T14:16:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/ios-27-3-public-beta/",
+      "title": "First iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
+      "author": "Juli Clover",
+      "published": "2026-11-05T19:06:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/apple-announces-a-new-mac-sales-record/",
+      "title": "Apple Announces a New Mac Sales Record",
+      "author": "Joe Rossignol",
+      "published": "2026-11-05T18:52:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription/",
+      "title": "Paid $200 for Logic Pro? Apple Says You Won't Get This New Feature",
+      "author": "Joe Rossignol",
+      "published": "2026-11-05T18:48:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/instagram-edits-mac/",
+      "title": "Instagram's Edits Video Editor is Now Available on Mac",
+      "author": "Juli Clover",
+      "published": "2026-11-05T17:36:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/stop-siri-search-accessing-iphone-apps/",
+      "title": "Prevent Siri and Search From Accessing Specific iPhone Apps",
+      "author": "Tim Hardwick",
+      "published": "2026-11-05T17:10:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/macbook-pro-proled-xdr-reviews/",
+      "title": "MacBook Pro PROLED XDR Reviews Are In: Is the Touchscreen Worth It?",
+      "author": "Joe Rossignol",
+      "published": "2026-11-05T16:20:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/early-black-friday-accessory-deals/",
+      "title": "Early Black Friday Accessory Deals at Amazon Include TVs, Headphones, and Charging Devices",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-05T16:14:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/early-black-friday-deals-iphone/",
+      "title": "Best Early Black Friday Deals on iPhone 18 Pro and iPhone Duo",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-05T15:56:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/apples-creator-studio-updates-start-rolling-out/",
+      "title": "Apple Creator Studio App Updates Rolling Out, Starting With Logic Pro",
+      "author": "Joe Rossignol",
+      "published": "2026-11-05T15:33:04+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/siri-ai-waitlist-limited-times-high-demand-apple/",
+      "title": "Siri AI Waitlist Now Limited to Times of 'High Demand,' Says Apple",
+      "author": "Tim Hardwick",
+      "published": "2026-11-05T12:54:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/see-apples-touchscreen-macbook-pro-in-action/",
+      "title": "See Apple's Touchscreen MacBook Pro in Action",
+      "author": "Hartley Charlton",
+      "published": "2026-11-05T12:31:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/macbook-neo-shipments-expected-to-double-in-2027/",
+      "title": "MacBook Neo Shipments Expected to Double in 2027",
+      "author": "Tim Hardwick",
+      "published": "2026-11-05T12:21:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T20:09:13+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-05T12:14:24+00:00"
+  "last_checked": "2026-11-05T20:09:13+00:00"
 }
