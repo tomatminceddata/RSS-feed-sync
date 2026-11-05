@@ -21625,7 +21625,87 @@
       "parser": "default",
       "discovered": "2026-11-04T20:09:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Eventhouse-support-for-OneLake-security-Generally-Available/ba-p/5377875",
+      "title": "Eventhouse support for OneLake security (Generally Available)",
+      "author": "aonelakeuser",
+      "published": "2026-11-04T22:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-05T00:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/apple-releases-safari-technology-preview-256/",
+      "title": "Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements",
+      "author": "Juli Clover",
+      "published": "2026-11-05T00:21:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T00:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/",
+      "title": "Apps Can Now Try to Stop You From Canceling Subscriptions",
+      "author": "Juli Clover",
+      "published": "2026-11-05T00:11:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T00:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/",
+      "title": "HomePod Mini 2's Amount of RAM Confirmed",
+      "author": "Joe Rossignol",
+      "published": "2026-11-05T00:08:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T00:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/nintendo-games-apple-tv/",
+      "title": "'Super Mario Odyssey' Can Now Run on Apple TV Thanks to AI",
+      "author": "Juli Clover",
+      "published": "2026-11-04T23:20:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T00:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/zach-cregger-iphone-resident-evil/",
+      "title": "How 'Resident Evil' Director Zach Cregger Uses His iPhone to Make Movies",
+      "author": "Juli Clover",
+      "published": "2026-11-04T22:11:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T00:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/",
+      "title": "Apple is Putting Employees on an AI Budget",
+      "author": "Juli Clover",
+      "published": "2026-11-04T21:46:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T00:26:03+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/04/apple-12-days-of-snoopy/",
+      "title": "Apple TV's '12 Days of Snoopy' Special Arrives November 13",
+      "author": "Juli Clover",
+      "published": "2026-11-04T21:20:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T00:26:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-04T20:09:44+00:00"
+  "last_checked": "2026-11-05T00:26:03+00:00"
 }
