@@ -21705,7 +21705,47 @@
       "parser": "default",
       "discovered": "2026-11-05T00:26:03+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/how-the-worlds-best-camera-lenses-are-made/",
+      "title": "How the World’s Best Camera Lenses Are Made",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-05T11:11:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T12:14:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/homeview-code-suggests-support-ai-chatbot-apps/",
+      "title": "HomeView Code Suggests Future Support for AI Chatbot Apps, Anti-Spoofing Protection",
+      "author": "Tim Hardwick",
+      "published": "2026-11-05T11:43:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T12:14:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/iphone-duo-launch-day-nov-6-last-chance-return/",
+      "title": "Got an iPhone Duo on Launch Day? Tomorrow Could Be Your Last Chance to Return It",
+      "author": "Tim Hardwick",
+      "published": "2026-11-05T10:32:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T12:14:24+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/",
+      "title": "Apple Launching Five New Products Tomorrow",
+      "author": "Tim Hardwick",
+      "published": "2026-11-05T08:59:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-05T12:14:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-05T00:26:03+00:00"
+  "last_checked": "2026-11-05T12:14:24+00:00"
 }
