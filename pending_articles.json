@@ -21985,7 +21985,37 @@
       "parser": "default",
       "discovered": "2026-11-06T00:26:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-alpha-sales-q2-dipped-first-half-still-up/",
+      "title": "Sony Alpha sales: Q2 dipped, first half still up",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-06T11:08:25+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-06T12:14:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-laowa-24mm-f-2-zero-d-tilt-shift/",
+      "title": "Just announced: new Laowa 24mm f/2 Zero-D Tilt-Shift",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-06T08:02:57+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-06T12:14:13+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/06/ipad-mini-oled-and-m6-imac-available-today/",
+      "title": "OLED iPad Mini, M6 iMac, and New MacBook Pros Available From Today",
+      "author": "Tim Hardwick",
+      "published": "2026-11-06T10:51:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-06T12:14:13+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-06T00:26:22+00:00"
+  "last_checked": "2026-11-06T12:14:13+00:00"
 }
