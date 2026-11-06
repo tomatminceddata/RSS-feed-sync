@@ -21905,7 +21905,87 @@
       "parser": "default",
       "discovered": "2026-11-05T20:09:13+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-more-connected-workflows-with-Fabric-Actions-and-Business/ba-p/5377911",
+      "title": "Build more connected workflows with Fabric Actions and Business Actions in Fabric Pipelines (Preview)",
+      "author": "conxu-ms",
+      "published": "2026-11-05T22:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-06T00:26:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-reports-support-OAP-exceptions-for-semantic-models-in/ba-p/5377907",
+      "title": "Power BI reports support OAP exceptions for semantic models in separate workspaces (Preview)",
+      "author": "kayu",
+      "published": "2026-11-05T22:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-06T00:26:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/",
+      "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera",
+      "author": "Juli Clover",
+      "published": "2026-11-06T00:22:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-06T00:26:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/",
+      "title": "Apple's First Touchscreen Mac is Now Arriving to Customers",
+      "author": "Juli Clover",
+      "published": "2026-11-05T23:12:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-06T00:26:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/apple-homeview-how-much-ram/",
+      "title": "Apple's New HomeView Smart Home Hub: Here's How Much RAM It Has",
+      "author": "Joe Rossignol",
+      "published": "2026-11-05T22:47:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-06T00:26:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
+      "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
+      "author": "Juli Clover",
+      "published": "2026-11-05T22:47:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-06T00:26:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/05/apple-arcade-crossy-road-rush/",
+      "title": "Apple Arcade Adds Crossy Road Rush and NBA 2K27",
+      "author": "Juli Clover",
+      "published": "2026-11-05T22:12:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-06T00:26:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ipad-mini-vs-ipad-air-2026/",
+      "title": "iPad Mini vs. iPad Air Buyer's Guide: Now Just $50 Apart",
+      "author": "Hartley Charlton",
+      "published": "2026-11-05T20:41:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-06T00:26:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-05T20:09:13+00:00"
+  "last_checked": "2026-11-06T00:26:22+00:00"
 }
