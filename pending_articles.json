@@ -22145,7 +22145,47 @@
       "parser": "default",
       "discovered": "2026-11-06T20:09:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/dont-miss-out-on-the-ton-of-holiday-deals-at-bh-and-adorama/",
+      "title": "Huge Holiday Deals at B&H and Adorama—Don’t Miss Out!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-06T20:48:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-07T00:23:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/",
+      "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
+      "author": "Juli Clover",
+      "published": "2026-11-06T23:46:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-07T00:23:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/06/iphone-duo-app-suggestions/",
+      "title": "More Fun iPhone Duo Apps: 30 New Picks to Try",
+      "author": "Juli Clover",
+      "published": "2026-11-06T23:27:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-07T00:23:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/06/apple-carlsbad-reopening-soon/",
+      "title": "Apple Store With All-New Design Opening Soon in Southern California",
+      "author": "Joe Rossignol",
+      "published": "2026-11-06T21:48:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-07T00:23:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-06T20:09:29+00:00"
+  "last_checked": "2026-11-07T00:23:11+00:00"
 }
