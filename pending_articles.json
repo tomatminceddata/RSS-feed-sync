@@ -22185,7 +22185,17 @@
       "parser": "default",
       "discovered": "2026-11-07T00:23:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1923/",
+      "title": "Sony Tidbits…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-07T08:38:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-07T12:12:03+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-07T00:23:11+00:00"
+  "last_checked": "2026-11-07T12:12:03+00:00"
 }
