@@ -22265,7 +22265,17 @@
       "parser": "default",
       "discovered": "2026-11-08T16:08:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+      "title": "Siri AI Rumored to Become 'More Like an Agent' as Early as Next Year",
+      "author": "Joe Rossignol",
+      "published": "2026-11-08T17:24:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-08T20:08:24+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-08T16:08:50+00:00"
+  "last_checked": "2026-11-08T20:08:24+00:00"
 }
