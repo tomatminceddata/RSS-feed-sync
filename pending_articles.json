@@ -22235,7 +22235,27 @@
       "parser": "default",
       "discovered": "2026-11-08T00:27:51+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-meike-58mm-f-1-2-mix-aps-c-lens/",
+      "title": "Just announced: New Meike 58mm f/1.2 MIX APS-C lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-08T11:10:23+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-08T12:11:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-european-deals-fotokoch-special-deals-at-fototage-event/",
+      "title": "New European deals: Fotokoch special deals at Fototage event",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-08T09:23:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-08T12:11:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-08T00:27:51+00:00"
+  "last_checked": "2026-11-08T12:11:46+00:00"
 }
