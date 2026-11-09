@@ -22305,7 +22305,147 @@
       "parser": "default",
       "discovered": "2026-11-09T04:12:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-Leader-in-Data-Integration-six-years-running/ba-p/5400776",
+      "title": "A Leader in Data Integration—six years running",
+      "author": "FaisalMohamood",
+      "published": "2026-11-09T15:58:55+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-sirui-aurora-15mm-f-1-6-and-24mm-f-1-4-fe-autofocus-lenses/",
+      "title": "Just announced: New Sirui Aurora 15mm f/1.6 and 24mm f/1.4 FE autofocus lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-09T14:51:32+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/nextorage-announced-new-video-ready-sd-cards/",
+      "title": "Nextorage announced new video-ready SD cards",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-09T13:01:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/olivia-dean-apple-music-artist-of-the-year/",
+      "title": "Apple Music's 2026 Artist of the Year is Olivia Dean",
+      "author": "Joe Rossignol",
+      "published": "2026-11-09T16:07:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/last-chance-pre-order-homeview-discount/",
+      "title": "This Could Be Your Last Chance to Pre-Order the HomeView at a Discount",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-09T15:48:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/macbook-pro-proled-xdr-tidbits/",
+      "title": "MacBook Pro With PROLED XDR Display: Details You Might Have Missed",
+      "author": "Joe Rossignol",
+      "published": "2026-11-09T15:44:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/homepod-mini-2-mac-speaker-issues/",
+      "title": "Some HomePod Mini 2 Buyers Returning Units Over Mac Speaker Issues",
+      "author": "Tim Hardwick",
+      "published": "2026-11-09T15:34:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/satechi-early-black-friday-sale/",
+      "title": "Satechi Offers MacRumors Readers 30% Off Select Accessories in Early Black Friday Sale",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-09T15:16:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/leaker-envisions-shorter-iphone/",
+      "title": "Leaker Envisions a Shorter iPhone With a New iOS Layout",
+      "author": "Hartley Charlton",
+      "published": "2026-11-09T14:34:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-mac-passwords-app-lock-options/",
+      "title": "Apple to Give You More Control Over When Your Mac Passwords Lock",
+      "author": "Tim Hardwick",
+      "published": "2026-11-09T13:42:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/siri-could-get-better-remembering-your-life/",
+      "title": "Siri Is Getting a Better Memory",
+      "author": "Tim Hardwick",
+      "published": "2026-11-09T13:15:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/iphone-18e-bigger-display-and-battery/",
+      "title": "iPhone 18e Could Feature Bigger Display and Battery",
+      "author": "Hartley Charlton",
+      "published": "2026-11-09T12:45:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-siri-boss-may-leave/",
+      "title": "Apple's Siri Boss May Leave - Here's Who Could Take Over",
+      "author": "Tim Hardwick",
+      "published": "2026-11-09T12:31:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/",
+      "title": "Apple Launching Two More New Products This Friday",
+      "author": "Tim Hardwick",
+      "published": "2026-11-09T12:22:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T16:10:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-09T04:12:10+00:00"
+  "last_checked": "2026-11-09T16:10:17+00:00"
 }
