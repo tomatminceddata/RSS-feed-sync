@@ -22445,7 +22445,127 @@
       "parser": "default",
       "discovered": "2026-11-09T16:10:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Unifying-SQL-Pools-Upcoming-changes-to-UI-and-APIs/ba-p/5397390",
+      "title": "Unifying SQL Pools: Upcoming changes to UI and APIs",
+      "author": "Sosivara_msft",
+      "published": "2026-11-09T17:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Announcing-the-retirement-of-R-and-Python-visuals-in-Power-BI/ba-p/5400748",
+      "title": "Announcing the retirement of R and Python visuals in Power BI",
+      "author": "DataZoe",
+      "published": "2026-11-09T19:00:39+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Securing-and-governing-your-medallion-layers-in-Fabric-Data/ba-p/5377539",
+      "title": "Securing and governing your medallion layers in Fabric Data Warehouse",
+      "author": "Scirqueira",
+      "published": "2026-11-09T18:42:33+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
+      "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+      "author": "Juli Clover",
+      "published": "2026-11-09T19:38:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-releases-ios-27-2-1-with-bug-fixes/",
+      "title": "Apple Releases iOS 27.2.1 With Bug Fixes",
+      "author": "Juli Clover",
+      "published": "2026-11-09T18:27:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-intelligence-extra-usage-fees-planned/",
+      "title": "Apple Continues to Say Some AI Features Will Have Fees for Extra Usage",
+      "author": "Joe Rossignol",
+      "published": "2026-11-09T18:23:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-releases-macos-golden-gate-27-2-1/",
+      "title": "Apple Releases macOS Golden Gate 27.2.1",
+      "author": "Juli Clover",
+      "published": "2026-11-09T18:13:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-releases-watchos-27-2-1/",
+      "title": "Apple Releases watchOS 27.2.1 and visionOS 27.2.1 With Security Fixes",
+      "author": "Juli Clover",
+      "published": "2026-11-09T18:08:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-watch-ultra-4-99-discounts-2/",
+      "title": "Apple Watch Ultra 4 Gets $99 Amazon Discounts, Starting at $699.99",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-09T17:59:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-pay-ad-food-fight/",
+      "title": "Apple Pay Ad Features Martial Arts Convenience Store Food Fight",
+      "author": "Juli Clover",
+      "published": "2026-11-09T17:52:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/apple-announces-turkiye-initiatives/",
+      "title": "Apple Announces Türkiye Expansion Plans as Tim Cook Visits",
+      "author": "Joe Rossignol",
+      "published": "2026-11-09T17:45:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/singapore-saved-apple-2-7-billion-in-tax/",
+      "title": "Singapore Saved Apple $2.7 Billion in Taxes This Year",
+      "author": "Hartley Charlton",
+      "published": "2026-11-09T16:27:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-09T20:09:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-09T16:10:17+00:00"
+  "last_checked": "2026-11-09T20:09:11+00:00"
 }
