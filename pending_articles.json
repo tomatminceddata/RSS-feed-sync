@@ -22675,7 +22675,87 @@
       "parser": "default",
       "discovered": "2026-11-10T12:13:32+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-registered-a-new-camera-code-in-california/",
+      "title": "Sony registered a new camera code in California!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-10T14:15:23+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T16:10:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/disable-touch-macbook-pro-proled-xdr-sidecar/",
+      "title": "Disable Touch on MacBook Pro PROLED XDR and When Using Sidecar",
+      "author": "Tim Hardwick",
+      "published": "2026-11-10T16:05:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T16:10:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/ankers-early-black-friday/",
+      "title": "Anker's Early Black Friday Sale Surprises With Mystery Boxes and Big Discounts",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-10T15:54:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T16:10:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/apple-arcade-games-december-2026/",
+      "title": "Apple Arcade Adding These Four Games in December",
+      "author": "Joe Rossignol",
+      "published": "2026-11-10T15:42:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T16:10:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/amazon-early-black-friday/",
+      "title": "Amazon Begins Early Black Friday Sale, Featuring Sitewide Discounts on Tech and Decor",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-10T15:14:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T16:10:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/",
+      "title": "OLED iPad Air Rumored to Launch in Two Sizes in Early 2027",
+      "author": "Hartley Charlton",
+      "published": "2026-11-10T13:42:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T16:10:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/original-ipod-went-on-sale-25-years-ago/",
+      "title": "The Original iPod Went on Sale 25 Years Ago Today",
+      "author": "Hartley Charlton",
+      "published": "2026-11-10T12:54:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T16:10:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/apple-maps-factor-parking-into-arrival-time/",
+      "title": "Apple Maps Could Factor Parking Into Your Arrival Time",
+      "author": "Tim Hardwick",
+      "published": "2026-11-10T12:15:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T16:10:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-10T12:13:32+00:00"
+  "last_checked": "2026-11-10T16:10:41+00:00"
 }
