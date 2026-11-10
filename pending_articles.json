@@ -22755,7 +22755,47 @@
       "parser": "default",
       "discovered": "2026-11-10T16:10:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
+      "title": "Next iPad Air Likely to Have These 10 New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-11-10T17:53:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T20:09:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/apple-2027-swift-student-challenge/",
+      "title": "Apple Announces Swift Student Challenge Ahead of WWDC 2027",
+      "author": "Juli Clover",
+      "published": "2026-11-10T17:28:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T20:09:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/ipad-mini-2021-vs-2026/",
+      "title": "iPad Mini 2021 vs. 2026 Buyer's Guide: Is It Worth Upgrading?",
+      "author": "Hartley Charlton",
+      "published": "2026-11-10T17:11:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T20:09:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/apple-tv-sign-language-interpretation/",
+      "title": "New Apple TV Sign Language Feature Announced",
+      "author": "Joe Rossignol",
+      "published": "2026-11-10T17:11:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T20:09:10+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-10T16:10:41+00:00"
+  "last_checked": "2026-11-10T20:09:10+00:00"
 }
