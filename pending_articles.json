@@ -22565,7 +22565,77 @@
       "parser": "default",
       "discovered": "2026-11-09T20:09:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Securing-and-governing-your-medallion-layers-in-Fabric-Data/ba-p/5377539",
+      "title": "Securing and governing your medallion layers in Fabric Data Warehouse",
+      "author": "Scirqueira",
+      "published": "2026-11-09T21:32:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-10T00:23:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/today-only-at-bh-480-off-on-the-sigma-28mm-f-1-4-fe-lens/",
+      "title": "Today only at BH: $480 off on the Sigma 28mm f/1.4 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-09T20:36:33+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T00:23:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
+      "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1",
+      "author": "Juli Clover",
+      "published": "2026-11-09T23:43:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T00:23:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/webex-gets-iphone-duo-support/",
+      "title": "Webex Gets iPhone Duo Support",
+      "author": "Juli Clover",
+      "published": "2026-11-09T22:31:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T00:23:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+      "title": "Meta's Muse AI Agent Comes to Apple Watch",
+      "author": "Juli Clover",
+      "published": "2026-11-09T21:55:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T00:23:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/anker-auto-tracking-security-camera/",
+      "title": "Anker Launches Eufy Security Cam With Auto-Tracking Light",
+      "author": "Juli Clover",
+      "published": "2026-11-09T21:47:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T00:23:56+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/09/macos-27-2-1-emudhra-fix/",
+      "title": "macOS 27.2.1 Fixes eMudhra Certificate Flaw in Command-Line Tools",
+      "author": "Juli Clover",
+      "published": "2026-11-09T21:28:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T00:23:56+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-09T20:09:11+00:00"
+  "last_checked": "2026-11-10T00:23:56+00:00"
 }
