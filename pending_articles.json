@@ -22635,7 +22635,47 @@
       "parser": "default",
       "discovered": "2026-11-10T00:23:56+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/this-is-so-cool-using-the-iphone-duo-as-a-monitor-for-the-sony-fx5/",
+      "title": "This is so cool: Using the iPhone Duo as a monitor for the Sony FX5",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-10T10:36:12+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T12:13:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-tidbits-1922/",
+      "title": "Sony Tidbits…",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-10T08:16:43+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T12:13:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/waze-alerts-drivers-nearby-cyclists-garmin/",
+      "title": "Waze Now Alerts Drivers to Nearby Cyclists Using Garmin LiveTrack",
+      "author": "Tim Hardwick",
+      "published": "2026-11-10T12:00:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T12:13:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/iphone-20-pro-rumors-ten-big-changes/",
+      "title": "iPhone 20 Pro: Ten Big Changes That Could Redefine Apple's Flagship",
+      "author": "Tim Hardwick",
+      "published": "2026-11-10T11:39:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-10T12:13:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-10T00:23:56+00:00"
+  "last_checked": "2026-11-10T12:13:32+00:00"
 }
