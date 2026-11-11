@@ -22985,7 +22985,37 @@
       "parser": "default",
       "discovered": "2026-11-11T16:10:08+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/The-next-chapter-for-CI-CD-in-Fabric-Warehouse-Preview/ba-p/5401222",
+      "title": "The next chapter for CI/CD in Fabric Warehouse (Preview)",
+      "author": "pradeepsvs",
+      "published": "2026-11-11T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-11T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
+      "title": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today",
+      "author": "Joe Rossignol",
+      "published": "2026-11-11T19:50:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T20:09:21+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/is-it-worth-buying-a-ceramic-apple-watch/",
+      "title": "Is It Worth Buying a Ceramic Apple Watch?",
+      "author": "Hartley Charlton",
+      "published": "2026-11-11T17:05:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T20:09:21+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-11T16:10:08+00:00"
+  "last_checked": "2026-11-11T20:09:21+00:00"
 }
