@@ -22885,7 +22885,47 @@
       "parser": "default",
       "discovered": "2026-11-11T04:11:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks-Preview/ba-p/5377939",
+      "title": "Use OneLake as native storage for Azure Databricks (Preview)",
+      "author": "shilmenon",
+      "published": "2026-11-11T12:13:55+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-11T12:14:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sirui-aurora-15mm-f-1-6-and-24mm-f-1-4-fe-size-comparisons-with-sony-and-sigma-lenses/",
+      "title": "Sirui Aurora 15mm f/1.6 and 24mm f/1.4 FE size comparisons with Sony and Sigma lenses",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-11T08:38:06+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T12:14:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/",
+      "title": "Apple Chip Supplier TSMC Approves $1 Billion AI Investment",
+      "author": "Hartley Charlton",
+      "published": "2026-11-11T11:44:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T12:14:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/how-to/enable-sound-recognition-apple-watch-listen/",
+      "title": "Make Apple Watch Listen for Sounds Like the Doorbell",
+      "author": "Tim Hardwick",
+      "published": "2026-11-11T10:03:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T12:14:18+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-11T04:11:22+00:00"
+  "last_checked": "2026-11-11T12:14:18+00:00"
 }
