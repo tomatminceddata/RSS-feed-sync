@@ -22795,7 +22795,67 @@
       "parser": "default",
       "discovered": "2026-11-10T20:09:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/holiday-deals-here-are-the-cameras-selling-hot-at-bhphoto-and-amazon/",
+      "title": "Holiday deals: Here are the cameras selling hot at BHphoto and Amazon",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-10T20:00:41+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T00:25:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/apple-icloud-calendar-outage/",
+      "title": "iCloud Mail, Calendar, Contacts and More Experiencing Outage",
+      "author": "Juli Clover",
+      "published": "2026-11-10T23:53:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T00:25:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "author": "Juli Clover",
+      "published": "2026-11-10T23:34:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T00:25:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/",
+      "title": "iFixit's PROLED MacBook Pro Teardown Reveals Logo LEDs",
+      "author": "Juli Clover",
+      "published": "2026-11-10T22:02:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T00:25:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/",
+      "title": "10 Free iPhone Duo Apps Worth Downloading",
+      "author": "Juli Clover",
+      "published": "2026-11-10T20:27:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T00:25:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/",
+      "title": "Apple Releases New AirPods Firmware",
+      "author": "Juli Clover",
+      "published": "2026-11-10T20:11:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T00:25:10+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-10T20:09:10+00:00"
+  "last_checked": "2026-11-11T00:25:10+00:00"
 }
