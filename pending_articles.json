@@ -22855,7 +22855,37 @@
       "parser": "default",
       "discovered": "2026-11-11T00:25:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/",
+      "title": "'Apple Support Community' Permanently Closing on November 20",
+      "author": "Joe Rossignol",
+      "published": "2026-11-11T03:50:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T04:11:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/apple-hoilday-gift-guide/",
+      "title": "Apple's Holiday Gift Guide Highlights iPhone Duo and More",
+      "author": "Juli Clover",
+      "published": "2026-11-11T00:57:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T04:11:22+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/10/india-tata-electronics-gas-incident/",
+      "title": "Three Workers Die at Tata iPhone Parts Plant in India",
+      "author": "Juli Clover",
+      "published": "2026-11-11T00:46:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T04:11:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-11T00:25:10+00:00"
+  "last_checked": "2026-11-11T04:11:22+00:00"
 }
