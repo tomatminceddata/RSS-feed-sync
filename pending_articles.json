@@ -22925,7 +22925,67 @@
       "parser": "default",
       "discovered": "2026-11-11T12:14:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/and-the-hacking-festival-is-continuing-a7iii-29min-limit-gone-a6000-gets-silent-shutter-and-sony-a1-file-transfer-app/",
+      "title": "And the hacking festival is continuing: A7III 29min limit gone, A6000 gets silent shutter and Sony A1 file transfer app!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-11T14:00:14+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T16:10:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-rx10-v-for-wildlife-photography-is-it-worth-it/",
+      "title": "Sony RX10 V for Wildlife Photography – Is It Worth It?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-11T11:27:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T16:10:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/11/samsung-early-black-friday/",
+      "title": "Samsung Early Black Friday Event Brings Major Sales to Frame TVs and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-11T15:37:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T16:10:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/11/iphone-18-pro-max-wins-battery-test/",
+      "title": "iPhone 18 Pro Max Wins Battery Test Involving 32 Smartphones",
+      "author": "Hartley Charlton",
+      "published": "2026-11-11T15:20:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T16:10:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/11/airtag-2-record-low-black-friday/",
+      "title": "AirTag 2 4-Pack Hits Record Low $69.99 Price Ahead of Black Friday",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-11T13:50:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T16:10:08+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/11/apple-smart-glasses-mentioned-by-suppliers/",
+      "title": "Rumored Apple Smart Glasses Mentioned in Supplier's Earnings Briefing",
+      "author": "Tim Hardwick",
+      "published": "2026-11-11T13:49:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-11T16:10:08+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-11T12:14:18+00:00"
+  "last_checked": "2026-11-11T16:10:08+00:00"
 }
