@@ -23015,7 +23015,37 @@
       "parser": "default",
       "discovered": "2026-11-11T20:09:21+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/up-to-20-off-at-amazon-resale/",
+      "title": "Up to 20% off at Amazon Resale!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-11T20:36:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T00:26:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/",
+      "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
+      "author": "Joe Rossignol",
+      "published": "2026-11-11T21:37:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T00:26:11+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
+      "title": "Apple Invites App Updated With Two New Features",
+      "author": "Joe Rossignol",
+      "published": "2026-11-11T21:01:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T00:26:11+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-11T20:09:21+00:00"
+  "last_checked": "2026-11-12T00:26:11+00:00"
 }
