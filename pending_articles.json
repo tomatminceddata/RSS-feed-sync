@@ -23065,7 +23065,107 @@
       "parser": "default",
       "discovered": "2026-11-12T12:14:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/manny-ortiz-is-certain-the-sony-a7siv-is-coming/",
+      "title": "Manny Ortiz is certain the Sony A7sIV is coming",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-12T14:18:54+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/apple-2026-holiday-ad/",
+      "title": "Apple Releases Emotional 2026 Holiday Ad Featuring MacBook Neo",
+      "author": "Joe Rossignol",
+      "published": "2026-11-12T15:50:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/apple-accessories-amazon-sale/",
+      "title": "Apple's Official iPhone 18 Pro Cases and Watch Bands Get Big Discounts on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-12T15:46:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/nintendo-to-end-sign-in-with-apple-support/",
+      "title": "Nintendo to End 'Sign in With Apple' Support in January",
+      "author": "Hartley Charlton",
+      "published": "2026-11-12T15:32:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/walmart-black-friday-sale-begins/",
+      "title": "Walmart Black Friday Sale Begins With Early Deals on TVs, Laptops, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-12T15:04:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/apple-home-collection-orders/",
+      "title": "Apple Home Collection: Select Accessories Available to Order This Friday",
+      "author": "Joe Rossignol",
+      "published": "2026-11-12T14:50:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
+      "title": "Apple Says HomeView Software Update Coming Next Month With Siri Fix",
+      "author": "Joe Rossignol",
+      "published": "2026-11-12T14:44:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/apple-homeview-review/",
+      "title": "Review: Is Apple's All-New HomeView Smart Home Hub Worth $299?",
+      "author": "Joe Rossignol",
+      "published": "2026-11-12T14:00:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/ratchet-clank-ranger-rumble-to-leave-app-store/",
+      "title": "'Ratchet & Clank: Ranger Rumble' to Leave App Store This Month",
+      "author": "Hartley Charlton",
+      "published": "2026-11-12T12:52:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/johny-srouji-eyed-as-potential-nvidia-ceo/",
+      "title": "Apple's Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang",
+      "author": "Hartley Charlton",
+      "published": "2026-11-12T12:29:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T16:10:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-12T12:14:15+00:00"
+  "last_checked": "2026-11-12T16:10:47+00:00"
 }
