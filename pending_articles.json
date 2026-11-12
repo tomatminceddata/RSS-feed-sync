@@ -23045,7 +23045,17 @@
       "parser": "default",
       "discovered": "2026-11-12T00:26:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/11/apple-support-community-deserved-a-proper-goodbye/",
+      "title": "Apple Support Community Deserved a Proper Goodbye",
+      "author": "Joe Rossignol",
+      "published": "2026-11-12T04:51:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-12T08:12:20+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-12T00:26:11+00:00"
+  "last_checked": "2026-11-12T08:12:20+00:00"
 }
