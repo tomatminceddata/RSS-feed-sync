@@ -23305,7 +23305,87 @@
       "parser": "default",
       "discovered": "2026-11-13T12:13:36+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/look-at-this-new-sony-65mm-sensor-wafer/",
+      "title": "Look at this new Sony 65mm sensor wafer",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-13T14:06:57+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T16:09:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/13/homeview-quebec-canadian-french/",
+      "title": "HomeView in Québec: Apple Says Canadian French Support to Arrive in Software Update",
+      "author": "Joe Rossignol",
+      "published": "2026-11-13T16:02:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T16:09:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/13/apple-says-homeview-sets-new-record/",
+      "title": "Apple Says HomeView Sets New Record in Design-Focused Interview",
+      "author": "Joe Rossignol",
+      "published": "2026-11-13T15:20:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T16:09:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/13/apple-watch-ultra-3-250-off/",
+      "title": "Apple Watch Ultra 3 Gets Big $250 Discounts Ahead of Black Friday",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-13T15:10:46+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T16:09:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/13/best-apple-deals-of-the-week-11-13-26/",
+      "title": "Best Apple Deals of the Week: AirTag 2 Hits Record Low Price, Plus Early Black Friday Sales",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-13T14:53:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T16:09:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/13/iphone-18-and-18e-coming-in-spring-2027/",
+      "title": "iPhone 18 and 18e Coming in Spring 2027 With A20 Chip",
+      "author": "Hartley Charlton",
+      "published": "2026-11-13T14:37:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T16:09:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/13/king-charles-to-join-apple-music-radio-show/",
+      "title": "King Charles to Join Elton John's Apple Music Radio Show",
+      "author": "Hartley Charlton",
+      "published": "2026-11-13T14:28:41+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T16:09:57+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/13/apple-home-collection-orders-begin/",
+      "title": "Select 'Apple Home Collection' Accessories Now Available to Order",
+      "author": "Joe Rossignol",
+      "published": "2026-11-13T13:53:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T16:09:57+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-13T12:13:36+00:00"
+  "last_checked": "2026-11-13T16:09:57+00:00"
 }
