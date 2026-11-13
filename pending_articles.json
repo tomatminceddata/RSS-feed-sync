@@ -23255,7 +23255,17 @@
       "parser": "default",
       "discovered": "2026-11-13T00:25:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/",
+      "title": "Hands-On With the New Apple TV 4K and Siri AI",
+      "author": "Juli Clover",
+      "published": "2026-11-13T00:42:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T04:11:14+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-13T00:25:19+00:00"
+  "last_checked": "2026-11-13T04:11:14+00:00"
 }
