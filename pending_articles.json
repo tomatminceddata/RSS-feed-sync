@@ -23265,7 +23265,17 @@
       "parser": "default",
       "discovered": "2026-11-13T04:11:14+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Use-OneLake-as-native-storage-for-Azure-Databricks/ba-p/5377939",
+      "title": "Use OneLake as native storage for Azure Databricks",
+      "author": "shilmenon",
+      "published": "2026-11-13T08:01:45+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-13T08:12:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-13T04:11:14+00:00"
+  "last_checked": "2026-11-13T08:12:00+00:00"
 }
