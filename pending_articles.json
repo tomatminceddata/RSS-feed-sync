@@ -23225,7 +23225,37 @@
       "parser": "default",
       "discovered": "2026-11-12T20:09:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/",
+      "title": "Siri AI Coming to Older Apple TV 4K Models in tvOS 27.2.1",
+      "author": "Juli Clover",
+      "published": "2026-11-12T23:57:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T00:25:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/",
+      "title": "HomeView Launch Kicks Off as First Orders Reach Customers",
+      "author": "Juli Clover",
+      "published": "2026-11-12T22:50:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T00:25:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/",
+      "title": "Apple Continues to Move Up iPhone Duo Delivery Dates",
+      "author": "Joe Rossignol",
+      "published": "2026-11-12T21:01:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-13T00:25:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-12T20:09:29+00:00"
+  "last_checked": "2026-11-13T00:25:19+00:00"
 }
