@@ -23495,7 +23495,37 @@
       "parser": "default",
       "discovered": "2026-11-14T00:24:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/announced-new-voigtlander-35mm-f-1-2-fe-lens/",
+      "title": "Announced: New Voigtländer 35mm f/1.2 FE lens",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-14T12:11:16+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-14T16:08:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/",
+      "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-14T15:25:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-14T16:08:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/",
+      "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-11-14T14:00:08+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-14T16:08:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-14T00:24:42+00:00"
+  "last_checked": "2026-11-14T16:08:40+00:00"
 }
