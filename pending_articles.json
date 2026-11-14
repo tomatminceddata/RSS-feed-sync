@@ -23465,7 +23465,37 @@
       "parser": "default",
       "discovered": "2026-11-13T20:09:11+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-bhphoto-preorders-finally-shipped-out-yesterday/",
+      "title": "Sony FX5 BHphoto preorders finally shipped out yesterday!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-13T21:29:04+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-14T00:24:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/13/homeview-tidbits-2/",
+      "title": "HomeView Tidbits: Mirror, Sleep Timer, and Other Details",
+      "author": "Juli Clover",
+      "published": "2026-11-13T22:04:47+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-14T00:24:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai/",
+      "title": "Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update",
+      "author": "Joe Rossignol",
+      "published": "2026-11-13T20:35:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-14T00:24:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-13T20:09:11+00:00"
+  "last_checked": "2026-11-14T00:24:42+00:00"
 }
