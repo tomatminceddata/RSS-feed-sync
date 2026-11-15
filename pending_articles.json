@@ -23525,7 +23525,17 @@
       "parser": "default",
       "discovered": "2026-11-14T16:08:40+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/samyang-60-180mm-f-2-8-review-by-petapixel/",
+      "title": "Samyang 60-180mm f/2.8 review by PetaPixel",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-15T13:34:17+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-15T16:09:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-14T16:08:40+00:00"
+  "last_checked": "2026-11-15T16:09:04+00:00"
 }
