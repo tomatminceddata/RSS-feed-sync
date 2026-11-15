@@ -23535,7 +23535,47 @@
       "parser": "default",
       "discovered": "2026-11-15T16:09:04+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/",
+      "title": "Early Apple Watch Black Friday Deals Arrive With Series 12 Hitting New Record Lows",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-15T17:59:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-15T20:08:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+      "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps",
+      "author": "Hartley Charlton",
+      "published": "2026-11-15T17:55:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-15T20:08:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/15/airpods-pro-3-discounted/",
+      "title": "AirPods Pro 3 Discounted to $179.99 in Early Black Friday Sale",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-15T17:27:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-15T20:08:43+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/",
+      "title": "Apple Aiming to Upgrade the iPhone Duo in Four Ways",
+      "author": "Joe Rossignol",
+      "published": "2026-11-15T16:42:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-15T20:08:43+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-15T16:09:04+00:00"
+  "last_checked": "2026-11-15T20:08:43+00:00"
 }
