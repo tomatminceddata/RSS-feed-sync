@@ -23735,7 +23735,167 @@
       "parser": "default",
       "discovered": "2026-11-16T16:10:16+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/hot-deal-first-ever-200-discount-on-the-sony-a7v/",
+      "title": "Hot deal: First ever $200 discount on the Sony A7V",
+      "author": "AndreaMobile",
+      "published": "2026-11-16T16:35:08+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-news-puzzles-expanding/",
+      "title": "Apple News+ Puzzles Come to UK, Australia, and French Canada",
+      "author": "Juli Clover",
+      "published": "2026-11-16T19:43:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-pokemon-gift-card-iphone-wallpapers/",
+      "title": "Apple Celebrates Pokémon With iPhone Wallpapers and Special Gift Card",
+      "author": "Joe Rossignol",
+      "published": "2026-11-16T19:39:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/ios-27-3-apple-tv-app-podcasts/",
+      "title": "Apple TV App Gets Video Podcasts in iOS 27.3",
+      "author": "Juli Clover",
+      "published": "2026-11-16T19:34:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/siri-ai-ask-about-page-safari/",
+      "title": "iOS 27.3 Adds 'Ask About Page' Siri AI Feature to Safari",
+      "author": "Juli Clover",
+      "published": "2026-11-16T19:30:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-says-200k-apps-optimized-for-iphone-duo/",
+      "title": "Apple Says More Than 200,000 Apps Now Optimized for iPhone Duo",
+      "author": "Joe Rossignol",
+      "published": "2026-11-16T19:27:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/",
+      "title": "Apple Adds Facial Unlock Option on iPhone Duo in iOS 27.3",
+      "author": "Juli Clover",
+      "published": "2026-11-16T19:26:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/macos-golden-gate-27-3-beta-2/",
+      "title": "macOS Golden Gate 27.3 Beta 2 Now Available for Developers",
+      "author": "Juli Clover",
+      "published": "2026-11-16T19:15:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/",
+      "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
+      "author": "Juli Clover",
+      "published": "2026-11-16T18:36:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-spanish-us-website/",
+      "title": "Apple Launches Spanish Version of Its U.S. Website",
+      "author": "Juli Clover",
+      "published": "2026-11-16T18:32:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/early-airpods-black-friday-deals/",
+      "title": "Best Early AirPods Black Friday Deals Include AirPods Pro 3 for $179",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-16T18:29:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-releases-ios-27-3-beta-2/",
+      "title": "iOS 27.3 Beta 2 Now Available for Developers",
+      "author": "Juli Clover",
+      "published": "2026-11-16T18:08:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-releases-watchos-27-3-beta-1/",
+      "title": "Apple Releases Second watchOS 27.3, tvOS 27.3 and visionOS 27.3 Betas",
+      "author": "Juli Clover",
+      "published": "2026-11-16T18:07:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/oled-macbook-pro-owners-report-eye-strain/",
+      "title": "Some OLED MacBook Pro Owners Report Eye Strain and Dizziness",
+      "author": "Hartley Charlton",
+      "published": "2026-11-16T17:51:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-homeview-shipping-delivery-dates/",
+      "title": "Didn't Order Apple's HomeView Yet? Wait Times Are Significant Now",
+      "author": "Joe Rossignol",
+      "published": "2026-11-16T17:08:38+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-pushes-back-against-canada-plan/",
+      "title": "Apple Pushes Back Against Canada's Plan to Access User Data",
+      "author": "Hartley Charlton",
+      "published": "2026-11-16T16:30:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T20:09:34+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-16T16:10:16+00:00"
+  "last_checked": "2026-11-16T20:09:34+00:00"
 }
