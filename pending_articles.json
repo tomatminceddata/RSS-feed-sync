@@ -23645,7 +23645,97 @@
       "parser": "default",
       "discovered": "2026-11-16T12:18:25+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/the-sony-a7-iv-hacking-project-is-crazy-you-can-now-customize-your-shutter-sound/",
+      "title": "The Sony A7 IV hacking project is crazy: You can now customize your shutter sound !!!",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-16T14:19:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T16:10:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/black-friday-tv-deals-2026/",
+      "title": "Black Friday TV Deals Include Year's Best Prices on Samsung, Sony, LG, and Many More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-16T16:01:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T16:10:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/",
+      "title": "Adobe's Black Friday Sale Takes 57% Off Creative Cloud Pro for Your First Year",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-16T15:49:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T16:10:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-coming-today/",
+      "title": "Apple Confirms iOS 27.3 Beta 2 Coming Today",
+      "author": "Joe Rossignol",
+      "published": "2026-11-16T14:51:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T16:10:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-homeview-smart-home-hub-has-some-issues/",
+      "title": "Apple's New HomeView Smart Home Hub Has Issues, Say Owners",
+      "author": "Tim Hardwick",
+      "published": "2026-11-16T14:32:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T16:10:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/slow-horses-to-hit-10-season-milestone/",
+      "title": "'Slow Horses' to Hit 10-Season Milestone With Apple TV Renewal",
+      "author": "Hartley Charlton",
+      "published": "2026-11-16T14:12:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T16:10:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-watch-se-3-black-friday-deals/",
+      "title": "Apple Watch SE 3 Black Friday Deals Arrive With $50 Off Every Model",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-16T13:55:30+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T16:10:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-to-be-based-on-iphone-air/",
+      "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air",
+      "author": "Hartley Charlton",
+      "published": "2026-11-16T13:40:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T16:10:16+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-new-17nm-camera-sensor/",
+      "title": "iPhone 20 Pro Rumored to Feature New 17nm Camera Sensor",
+      "author": "Tim Hardwick",
+      "published": "2026-11-16T12:22:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T16:10:16+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-16T12:18:25+00:00"
+  "last_checked": "2026-11-16T16:10:16+00:00"
 }
