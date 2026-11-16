@@ -23595,7 +23595,57 @@
       "parser": "default",
       "discovered": "2026-11-16T00:31:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-copied-nikon-but-did-they-make-better-lenses/",
+      "title": "Sony COPIED Nikon…But Did They Make BETTER Lenses?",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-16T11:03:58+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T12:18:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/the-october-best-selling-cameras-at-kitamura/",
+      "title": "The October Best Selling cameras at Kitamura",
+      "author": "AndreaMobile",
+      "published": "2026-11-16T08:43:31+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T12:18:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-tv-4k-a19-chip-one-core-disabled/",
+      "title": "New Apple TV 4K's A19 Chip Has One Core Switched Off",
+      "author": "Tim Hardwick",
+      "published": "2026-11-16T11:43:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T12:18:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/",
+      "title": "Apple Seeks 200,000 People for AI Health Study",
+      "author": "Tim Hardwick",
+      "published": "2026-11-16T11:13:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T12:18:25+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-tv-app-to-get-video-podcasts-section/",
+      "title": "Apple TV App to Get Video Podcasts Section Today",
+      "author": "Tim Hardwick",
+      "published": "2026-11-16T10:35:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-16T12:18:25+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-16T00:31:09+00:00"
+  "last_checked": "2026-11-16T12:18:25+00:00"
 }
