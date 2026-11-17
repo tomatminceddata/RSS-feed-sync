@@ -24005,7 +24005,97 @@
       "parser": "default",
       "discovered": "2026-11-17T12:13:53+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/still-no-sony-event-scheduled-in-new-york-for-november-or-december/",
+      "title": "Still No Sony Event Scheduled in New York for November or December :(",
+      "author": "SonyAlpha Admin",
+      "published": "2026-11-17T14:42:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T16:11:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/apple-store-app-optimized-for-iphone-duo/",
+      "title": "Apple Store App Now Optimized for iPhone Duo",
+      "author": "Joe Rossignol",
+      "published": "2026-11-17T15:49:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T16:11:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/icloud-plus-no-increased-siri-ai-access-in-uk/",
+      "title": "Apple Says iCloud+ Plans Will Not Include Increased Siri AI Usage in UK",
+      "author": "Joe Rossignol",
+      "published": "2026-11-17T15:07:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T16:11:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/amazon-black-friday-discounts-on-tvs-headphones/",
+      "title": "Amazon Offering Early Black Friday Discounts on TVs, Headphones, and Charging Devices",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-17T15:02:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T16:11:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/apple-now-sells-iphone-duo-repair-parts/",
+      "title": "Apple Now Sells DIY Repair Parts for iPhone Duo",
+      "author": "Joe Rossignol",
+      "published": "2026-11-17T14:47:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T16:11:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/iphone-20-pro-screen-protectors-rumored-design/",
+      "title": "iPhone 20 Pro Screen Protectors Show Rumored Curved Design",
+      "author": "Hartley Charlton",
+      "published": "2026-11-17T14:08:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T16:11:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/macbook-neo-rare-50-discount/",
+      "title": "MacBook Neo Black Friday Deals Arrive With $49 Discounts on Nearly Every Model at Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-17T13:36:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T16:11:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/iphone-users-targeted-website-security-breach/",
+      "title": "iPhone Users Targeted in Major Website Security Breach",
+      "author": "Tim Hardwick",
+      "published": "2026-11-17T12:42:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T16:11:05+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/this-is-keke-palmer-podcast-of-the-year/",
+      "title": "Apple Names 'Baby, This Is Keke Palmer' Podcast of the Year",
+      "author": "Hartley Charlton",
+      "published": "2026-11-17T12:30:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T16:11:05+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-17T12:13:53+00:00"
+  "last_checked": "2026-11-17T16:11:05+00:00"
 }
