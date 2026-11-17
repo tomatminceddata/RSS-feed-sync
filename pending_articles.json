@@ -23965,7 +23965,17 @@
       "parser": "default",
       "discovered": "2026-11-17T00:25:42+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/here-are-the-european-black-friday-deals/",
+      "title": "Here are the European Black Friday deals",
+      "author": "AndreaMobile",
+      "published": "2026-11-17T06:10:16+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T08:12:52+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-17T00:25:42+00:00"
+  "last_checked": "2026-11-17T08:12:52+00:00"
 }
