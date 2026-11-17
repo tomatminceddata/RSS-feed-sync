@@ -23895,7 +23895,77 @@
       "parser": "default",
       "discovered": "2026-11-16T20:09:34+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/ios-27-3-beta-2-everything-new/",
+      "title": "Everything New in iOS 27.3 Beta 2",
+      "author": "Juli Clover",
+      "published": "2026-11-17T00:15:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T00:25:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/iphone-duo-orders-early-arrival/",
+      "title": "iPhone Duo Orders Will Now Arrive Before the Holidays",
+      "author": "Juli Clover",
+      "published": "2026-11-16T23:29:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T00:25:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock-hands-on/",
+      "title": "Hands-On With the iPhone Duo's New Face Unlock",
+      "author": "Juli Clover",
+      "published": "2026-11-16T23:27:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T00:25:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/apple-18-new-products-next-year/",
+      "title": "Apple Plans to Release These 18 New Products Next Year",
+      "author": "Joe Rossignol",
+      "published": "2026-11-16T22:40:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T00:25:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/new-apple-tv-4k-discount-returns-at-amazon/",
+      "title": "New Apple TV 4K Discount Returns at Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-16T21:53:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T00:25:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
+      "title": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control",
+      "author": "Juli Clover",
+      "published": "2026-11-16T21:08:20+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T00:25:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/16/ipad-mac-apple-intelligence-china/",
+      "title": "iPad and Mac Get Apple Intelligence in China in 27.3 Betas",
+      "author": "Juli Clover",
+      "published": "2026-11-16T20:56:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T00:25:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-16T20:09:34+00:00"
+  "last_checked": "2026-11-17T00:25:42+00:00"
 }
