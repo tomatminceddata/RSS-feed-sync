@@ -23975,7 +23975,37 @@
       "parser": "default",
       "discovered": "2026-11-17T08:12:52+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-black-friday-deal-get-up-to-50-off-on-dxo-software/",
+      "title": "New Black Friday deal: Get up to 50% off on DxO software!",
+      "author": "AndreaMobile",
+      "published": "2026-11-17T10:27:51+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T12:13:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/apple-tests-softer-side-of-liquid-glass/",
+      "title": "Apple Tests Bringing Back a Softer Side of Liquid Glass",
+      "author": "Tim Hardwick",
+      "published": "2026-11-17T11:16:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T12:13:53+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/apple-rare-long-term-memory-deal-samsung/",
+      "title": "Apple Close to Rare Long-Term Memory Deal With Samsung",
+      "author": "Tim Hardwick",
+      "published": "2026-11-17T10:28:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-17T12:13:53+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-17T08:12:52+00:00"
+  "last_checked": "2026-11-17T12:13:53+00:00"
 }
