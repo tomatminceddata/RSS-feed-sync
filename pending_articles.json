@@ -24355,7 +24355,117 @@
       "parser": "default",
       "discovered": "2026-11-18T12:13:37+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/hacker-just-added-open-gate-on-the-sony-a7iv/",
+      "title": "Hacker just added Open gate on the Sony A7IV",
+      "author": "AndreaMobile",
+      "published": "2026-11-18T14:28:54+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
+      "title": "Apple Releases Firmware Update for New Siri Remote",
+      "author": "Joe Rossignol",
+      "published": "2026-11-18T15:38:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/targets-early-black-friday/",
+      "title": "Target's Early Black Friday Event Offers Savings on Apple, TVs, and Accessories",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-18T15:24:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/2026-app-store-award-finalists/",
+      "title": "Apple Announces 2026 App Store Award Finalists",
+      "author": "Hartley Charlton",
+      "published": "2026-11-18T14:57:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/amazon-100-off-m4-ipad-air-models/",
+      "title": "Amazon Offering $100 Off Nearly All M4 iPad Air Models",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-18T14:40:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/iphone-duo-2-likely-to-retain-touch-id/",
+      "title": "iPhone Duo 2 Likely to Retain Touch ID as Face ID Remains Uncertain",
+      "author": "Hartley Charlton",
+      "published": "2026-11-18T14:16:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/amazon-850-off-macbook-pro/",
+      "title": "Amazon Takes $850 Off 2026 16-Inch MacBook Pro With M5 Max Chip",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-18T13:54:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/whatsapp-backup-alternative-rolls-out-beta-ios/",
+      "title": "WhatsApp's iCloud Backup Alternative Rolls Out to Beta Users on iPhone",
+      "author": "Tim Hardwick",
+      "published": "2026-11-18T13:14:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/macpaw-moonlock-cybersecurity-app-iphone/",
+      "title": "MacPaw's Moonlock Cybersecurity App Launches for iPhone",
+      "author": "Tim Hardwick",
+      "published": "2026-11-18T13:00:05+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/two-designs-for-20th-anniversary-iphone/",
+      "title": "Apple Reportedly Developing Two Designs for 20th Anniversary iPhone",
+      "author": "Hartley Charlton",
+      "published": "2026-11-18T12:57:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/apple-rolls-out-all-new-maps-across-india/",
+      "title": "Apple Rolls Out All-New Maps Experience Across India",
+      "author": "Tim Hardwick",
+      "published": "2026-11-18T12:23:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T16:09:39+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-18T12:13:37+00:00"
+  "last_checked": "2026-11-18T16:09:39+00:00"
 }
