@@ -24275,7 +24275,47 @@
       "parser": "default",
       "discovered": "2026-11-17T20:09:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/",
+      "title": "Aqara Debuts Six Matter Smart Lights That Work With Apple Home",
+      "author": "Juli Clover",
+      "published": "2026-11-18T00:22:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T00:25:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/",
+      "title": "Disney+ and Hulu Will Fully Merge Into One App in December",
+      "author": "Juli Clover",
+      "published": "2026-11-17T23:56:28+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T00:25:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/ifixit-homeview-teardown/",
+      "title": "iFixit Says Apple's HomeView is Unnecessarily Hard to Repair",
+      "author": "Juli Clover",
+      "published": "2026-11-17T22:04:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T00:25:47+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/17/final-cut-pro-motionvfx/",
+      "title": "Final Cut Pro Now Includes MotionVFX for Creator Studio Users",
+      "author": "Juli Clover",
+      "published": "2026-11-17T20:58:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T00:25:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-17T20:09:18+00:00"
+  "last_checked": "2026-11-18T00:25:47+00:00"
 }
