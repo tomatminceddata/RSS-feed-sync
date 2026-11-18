@@ -24325,7 +24325,37 @@
       "parser": "default",
       "discovered": "2026-11-18T08:12:23+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/full-interactive-sony-fx5-guide-is-now-online/",
+      "title": "Full interactive Sony FX5 guide is now online",
+      "author": "AndreaMobile",
+      "published": "2026-11-18T11:18:51+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T12:13:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/iphone-air-2-reportedly-sticks-with-same-display/",
+      "title": "iPhone Air 2 Reportedly Sticks With Same Display",
+      "author": "Tim Hardwick",
+      "published": "2026-11-18T11:50:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T12:13:37+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/",
+      "title": "iPhone 18 and iPhone Air 2 Display Production to Begin Soon Ahead of Expected March Launch",
+      "author": "Tim Hardwick",
+      "published": "2026-11-18T11:46:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T12:13:37+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-18T08:12:23+00:00"
+  "last_checked": "2026-11-18T12:13:37+00:00"
 }
