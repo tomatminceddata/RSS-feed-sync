@@ -24315,7 +24315,17 @@
       "parser": "default",
       "discovered": "2026-11-18T00:25:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/curiosity-foxconn-agrees-to-buy-sonys-automotive-camera-module-business/",
+      "title": "Curiosity: Foxconn agrees to buy Sony’s automotive camera-module business",
+      "author": "AndreaMobile",
+      "published": "2026-11-18T05:37:28+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-18T08:12:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-18T00:25:47+00:00"
+  "last_checked": "2026-11-18T08:12:23+00:00"
 }
