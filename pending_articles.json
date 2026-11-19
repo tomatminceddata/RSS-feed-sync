@@ -24505,7 +24505,37 @@
       "parser": "default",
       "discovered": "2026-11-18T20:09:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-hot-storage-and-apple-deals/",
+      "title": "New hot storage and Apple deals!",
+      "author": "AndreaMobile",
+      "published": "2026-11-18T20:08:14+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T00:25:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/",
+      "title": "Apple Releases Safari Technology Preview 257 With Bug Fixes and Performance Improvements",
+      "author": "Juli Clover",
+      "published": "2026-11-18T23:15:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T00:25:32+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-update-fixes-siri-bugs/",
+      "title": "HomeView 27.2.1 Update Fixes Siri Bugs",
+      "author": "Juli Clover",
+      "published": "2026-11-18T20:41:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T00:25:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-18T20:09:44+00:00"
+  "last_checked": "2026-11-19T00:25:32+00:00"
 }
