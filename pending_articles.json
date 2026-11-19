@@ -24685,7 +24685,77 @@
       "parser": "default",
       "discovered": "2026-11-19T16:09:59+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
+      "title": "Google's Gemini Can Now Control Apps on Your Mac",
+      "author": "Juli Clover",
+      "published": "2026-11-19T20:03:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T20:09:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/",
+      "title": "Apple Executive in Charge of iPhone's Camera App Reportedly Retires",
+      "author": "Joe Rossignol",
+      "published": "2026-11-19T19:37:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T20:09:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/",
+      "title": "iPhone Duo vs. Samsung Galaxy Z Fold8: Which is Better?",
+      "author": "Juli Clover",
+      "published": "2026-11-19T18:51:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T20:09:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
+      "title": "AirPods Black Friday Deals Hit Pro 3 at $179 and Max 2 at $429",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-19T18:27:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T20:09:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/apple-announces-2026-black-friday-event/",
+      "title": "Apple Announces 2026 Black Friday Event, Here's What You Can Get",
+      "author": "Joe Rossignol",
+      "published": "2026-11-19T17:11:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T20:09:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/sonos-black-friday-sale-3/",
+      "title": "Sonos Black Friday Sale Takes Up to 25% Off Speakers, Soundbars, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-19T17:04:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T20:09:40+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/apple-tv-f1-academy/",
+      "title": "Apple TV to Stream Female 'F1 Academy' Races in U.S. Starting in 2027",
+      "author": "Joe Rossignol",
+      "published": "2026-11-19T16:47:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T20:09:40+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-19T16:09:59+00:00"
+  "last_checked": "2026-11-19T20:09:40+00:00"
 }
