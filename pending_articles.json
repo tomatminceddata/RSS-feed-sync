@@ -24545,7 +24545,17 @@
       "parser": "default",
       "discovered": "2026-11-19T04:11:30+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/european-black-friday-deals-now-live/",
+      "title": "European Black Friday deals now live!",
+      "author": "AndreaMobile",
+      "published": "2026-11-19T06:02:12+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T08:12:22+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-19T04:11:30+00:00"
+  "last_checked": "2026-11-19T08:12:22+00:00"
 }
