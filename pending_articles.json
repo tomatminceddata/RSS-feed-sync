@@ -24585,7 +24585,107 @@
       "parser": "default",
       "discovered": "2026-11-19T12:13:44+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/amazon-us-black-friday-deals-are-now-live-save-big-on-sony-cameras-reconditioned-gear-and-gift-cards/",
+      "title": "Amazon US Black Friday deals are now live: Save big on Sony cameras, third party lenses and gift cards",
+      "author": "AndreaMobile",
+      "published": "2026-11-19T13:15:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/clean-up-noisy-shots-and-enlarge-crops-with-aiarty-lifetime-deal-no-subscription/",
+      "title": "Clean Up Noisy Shots and Enlarge Crops with Aiarty | Lifetime Deal, No Subscription",
+      "author": "AndreaMobile",
+      "published": "2026-11-19T03:26:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
+      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-19T15:20:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/tomorrow-marks-end-of-28-year-era-at-apple/",
+      "title": "Tomorrow Marks the End of a 28-Year Era at Apple",
+      "author": "Joe Rossignol",
+      "published": "2026-11-19T15:08:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/200-off-apple-studio-display/",
+      "title": "Amazon Takes $200 Off Every Apple Studio Display for Black Friday",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-19T14:40:35+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/",
+      "title": "UK Loses Secrecy Fight Over Apple 'Backdoor' Order",
+      "author": "Hartley Charlton",
+      "published": "2026-11-19T14:06:17+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/beats-360-black-friday-deal/",
+      "title": "Beats 360 Black Friday Deal Arrives With Massive $100 Discount on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-19T13:56:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/apple-music-radio-50-million-listeners/",
+      "title": "Apple Music Radio Now Reaches Over 50 Million Monthly Listeners",
+      "author": "Hartley Charlton",
+      "published": "2026-11-19T13:31:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/future-macs-could-get-brighter-oled-displays/",
+      "title": "Future Macs Could Get Brighter, Longer-Lasting OLED Displays in 2030",
+      "author": "Hartley Charlton",
+      "published": "2026-11-19T13:09:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/",
+      "title": "Apple Faces 'Planned Obsolescence' Trial Over iPhone Repairs",
+      "author": "Hartley Charlton",
+      "published": "2026-11-19T12:51:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T16:09:59+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-19T12:13:44+00:00"
+  "last_checked": "2026-11-19T16:09:59+00:00"
 }
