@@ -24555,7 +24555,37 @@
       "parser": "default",
       "discovered": "2026-11-19T08:12:22+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7-iv-hack-gets-a-library-of-19-fujifilm-ricoh-kodak-and-leica-inspired-looks/",
+      "title": "Sony A7 IV hack gets a library of 19 Fujifilm, Ricoh, Kodak and Leica-inspired looks!",
+      "author": "AndreaMobile",
+      "published": "2026-11-19T10:25:16+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T12:13:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-ecm-w5-and-ecm-w5r-firmware-1-1-fixes-wireless-monitoring-audio-interruptions/",
+      "title": "Sony ECM-W5 and ECM-W5R firmware 1.1 fixes wireless monitoring audio interruptions",
+      "author": "AndreaMobile",
+      "published": "2026-11-19T04:36:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T12:13:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/19/apple-may-cancel-oled-imac/",
+      "title": "Apple May Cancel OLED iMac",
+      "author": "Hartley Charlton",
+      "published": "2026-11-19T11:55:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-19T12:13:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-19T08:12:22+00:00"
+  "last_checked": "2026-11-19T12:13:44+00:00"
 }
