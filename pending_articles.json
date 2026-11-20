@@ -24785,7 +24785,17 @@
       "parser": "default",
       "discovered": "2026-11-20T00:23:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/owc-expects-storage-prices-to-stabilize-heading-into-2027-but-not-drop-soon/",
+      "title": "OWC expects storage prices to stabilize heading into 2027—but not drop soon",
+      "author": "AndreaMobile",
+      "published": "2026-11-20T06:40:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-20T08:12:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-20T00:23:31+00:00"
+  "last_checked": "2026-11-20T08:12:19+00:00"
 }
