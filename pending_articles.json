@@ -24855,7 +24855,67 @@
       "parser": "default",
       "discovered": "2026-11-20T16:09:20+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/new-us-sony-deals-today-fx3-400-off-a7s-iii-and-g-master-ii-lenses-discounted-at-bh/",
+      "title": "New US Sony deals today: FX3 $400 off, A7S III and G Master II lenses discounted at B&H",
+      "author": "AndreaMobile",
+      "published": "2026-11-20T16:53:23+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-20T20:09:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/20/headphones-black-friday/",
+      "title": "Save on Headphones This Black Friday With Major Deals on Beats, Sony, Soundcore, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-20T19:26:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-20T20:09:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/20/macrumors-giveaway-astropad-workbench/",
+      "title": "MacRumors Giveaway: Win a 512GB OLED iPad Mini and a Year of Astropad Workbench",
+      "author": "Juli Clover",
+      "published": "2026-11-20T19:04:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-20T20:09:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/20/ankers-black-friday-steals/",
+      "title": "Anker's Black Friday Steals: The Lowest Prices Yet on MagSafe Favorites",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-20T17:39:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-20T20:09:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/20/the-macrumors-show-next-for-iphone-duo/",
+      "title": "The MacRumors Show: What's Next for iPhone Duo?",
+      "author": "Hartley Charlton",
+      "published": "2026-11-20T17:21:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-20T20:09:19+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/20/microsoft-to-retire-to-do-apps/",
+      "title": "Microsoft to Retire 'To Do' Apps Next Year",
+      "author": "Hartley Charlton",
+      "published": "2026-11-20T16:31:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-20T20:09:19+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-20T16:09:20+00:00"
+  "last_checked": "2026-11-20T20:09:19+00:00"
 }
