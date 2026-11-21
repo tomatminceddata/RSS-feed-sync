@@ -24925,7 +24925,17 @@
       "parser": "default",
       "discovered": "2026-11-21T00:25:23+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a7-iv-open-gate-vibe-coded-firmware-is-now-downloadable/",
+      "title": "Sony A7 IV open gate vibe coded firmware is now available for download",
+      "author": "AndreaMobile",
+      "published": "2026-11-21T09:20:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-21T12:12:00+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-21T00:25:23+00:00"
+  "last_checked": "2026-11-21T12:12:00+00:00"
 }
