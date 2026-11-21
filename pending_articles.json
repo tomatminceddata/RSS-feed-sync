@@ -24915,7 +24915,17 @@
       "parser": "default",
       "discovered": "2026-11-20T20:09:19+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/20/siri-recap-hands-on/",
+      "title": "Siri Recap Hands-On: Private, But Not Very Useful",
+      "author": "Juli Clover",
+      "published": "2026-11-20T21:45:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-21T00:25:23+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-20T20:09:19+00:00"
+  "last_checked": "2026-11-21T00:25:23+00:00"
 }
