@@ -24965,7 +24965,47 @@
       "parser": "default",
       "discovered": "2026-11-21T16:09:10+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/21/apple-store-in-uk-permanently-closing-today/",
+      "title": "Apple Store in UK Permanently Closing Today",
+      "author": "Joe Rossignol",
+      "published": "2026-11-21T17:16:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-21T20:08:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
+      "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-21T17:10:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-21T20:08:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/",
+      "title": "Siri AI Settlement: Here's How Much Apple Will Pay You",
+      "author": "Joe Rossignol",
+      "published": "2026-11-21T17:08:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-21T20:08:28+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/21/rip-apple-support-community/",
+      "title": "RIP, Apple Support Community",
+      "author": "Joe Rossignol",
+      "published": "2026-11-21T16:48:03+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-21T20:08:28+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-21T16:09:10+00:00"
+  "last_checked": "2026-11-21T20:08:28+00:00"
 }
