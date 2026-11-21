@@ -24935,7 +24935,37 @@
       "parser": "default",
       "discovered": "2026-11-21T12:12:00+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-registered-another-new-camera-in-china-new-aps-c-model-coming-in-early-2027/",
+      "title": "Sony registered another new camera in China: New APS-C model coming in early 2027?",
+      "author": "AndreaMobile",
+      "published": "2026-11-21T12:47:46+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-21T16:09:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-20T17:34:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-21T16:09:10+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
+      "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
+      "author": "MacRumors Staff",
+      "published": "2026-11-21T14:00:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-21T16:09:10+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-21T12:12:00+00:00"
+  "last_checked": "2026-11-21T16:09:10+00:00"
 }
