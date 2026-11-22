@@ -25015,7 +25015,57 @@
       "parser": "default",
       "discovered": "2026-11-22T12:12:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/todays-new-black-friday-deals-save-big-on-lexar-cfexpress-card-and-albert-dros-masterclass/",
+      "title": "Today’s new Black Friday deals: Save big on Lexar CFexpress card and Albert Dros Masterclass",
+      "author": "AndreaMobile",
+      "published": "2026-11-22T12:07:45+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-22T16:09:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
+      "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-22T15:40:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-22T16:09:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/22/m6-macbook-pro-200-discount/",
+      "title": "M6 MacBook Pro Drops to $1,799 in New Black Friday Sale ($200 Off)",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-22T15:39:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-22T16:09:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/",
+      "title": "Apple Reportedly Plans to Release These Products in February or March",
+      "author": "Joe Rossignol",
+      "published": "2026-11-22T15:32:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-22T16:09:12+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/22/apple-watch-se-3-179/",
+      "title": "Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just $179",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-22T15:24:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-22T16:09:12+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-22T12:12:46+00:00"
+  "last_checked": "2026-11-22T16:09:12+00:00"
 }
