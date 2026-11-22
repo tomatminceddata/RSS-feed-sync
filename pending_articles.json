@@ -25005,7 +25005,17 @@
       "parser": "default",
       "discovered": "2026-11-21T20:08:28+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-alpha-reddit-bans-the-reporting-about-camera-hacking/",
+      "title": "Sony Alpha Reddit bans the reporting about camera hacking",
+      "author": "AndreaMobile",
+      "published": "2026-11-22T10:21:56+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-22T12:12:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-21T20:08:28+00:00"
+  "last_checked": "2026-11-22T12:12:46+00:00"
 }
