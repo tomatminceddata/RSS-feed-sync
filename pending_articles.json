@@ -25065,7 +25065,27 @@
       "parser": "default",
       "discovered": "2026-11-22T16:09:12+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
+      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
+      "author": "Hartley Charlton",
+      "published": "2026-11-22T20:38:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T00:27:50+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
+      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+      "author": "Hartley Charlton",
+      "published": "2026-11-22T20:29:51+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T00:27:50+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-22T16:09:12+00:00"
+  "last_checked": "2026-11-23T00:27:50+00:00"
 }
