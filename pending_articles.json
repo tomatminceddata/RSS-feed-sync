@@ -25255,7 +25255,127 @@
       "parser": "default",
       "discovered": "2026-11-23T16:09:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Enable-Azure-Blob-Storage-Events-Without-Compromising-Your/ba-p/5408564",
+      "title": "Enable Azure Blob Storage Events Without Compromising Your Tenant Private Links Policy",
+      "author": "GEGUIRGU",
+      "published": "2026-11-23T20:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-demand-billing-for-Fabric-Data-Warehouse-Preview/ba-p/5376329",
+      "title": "On-demand billing for Fabric Data Warehouse (Preview)",
+      "author": "Sosivara_msft",
+      "published": "2026-11-23T19:30:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-on-demand-billing-and-Zero-provisioned-F0-Capacity/ba-p/5377585",
+      "title": "Fabric on-demand billing and Zero-provisioned (F0) Capacity (Preview)",
+      "author": "MonicaBoris",
+      "published": "2026-11-23T19:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Tune-the-performance-of-your-medallion-pipeline-in-Fabric-Data/ba-p/5377545",
+      "title": "Tune the performance of your medallion pipeline in Fabric Data Warehouse",
+      "author": "Scirqueira",
+      "published": "2026-11-23T18:00:00+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/todays-new-black-friday-deals-lowest-price-ever-on-rokinon-zeiss-and-viltrox-lenses/",
+      "title": "Today’s new Black Friday deals: Lowest price ever on Rokinon, Zeiss and Viltrox lenses!",
+      "author": "AndreaMobile",
+      "published": "2026-11-23T17:23:13+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/this-is-the-perfect-christmas-gadget-new-kodak-slidetag/",
+      "title": "This is the perfect Christmas gadget: new KODAK SlideTag!",
+      "author": "AndreaMobile",
+      "published": "2026-11-23T16:03:59+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/grab-an-airtag-2-18/",
+      "title": "Grab an AirTag 2 for Just $18 at Best Buy",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-23T19:51:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/product-red-homepod-mini-airpods-max/",
+      "title": "Apple Bringing Back (PRODUCT)RED With Red HomePod Mini 2 and AirPods Max 2",
+      "author": "Juli Clover",
+      "published": "2026-11-23T19:27:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/best-black-friday-streaming-deals/",
+      "title": "Best Black Friday Streaming Deals on Apple TV, Peacock, HBO Max, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-23T18:58:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/threads-is-getting-an-ipad-app/",
+      "title": "Threads is Getting an iPad App",
+      "author": "Joe Rossignol",
+      "published": "2026-11-23T18:53:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/macbook-trackpad-turns-into-a-speaker/",
+      "title": "Developer Turns MacBook Trackpad Into a Speaker Using Haptic Motor",
+      "author": "Hartley Charlton",
+      "published": "2026-11-23T17:34:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/apple-remains-berkshires-biggest-stock-bet/",
+      "title": "A Decade Later, Apple Remains Berkshire's Biggest Stock Bet",
+      "author": "Hartley Charlton",
+      "published": "2026-11-23T17:02:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T20:08:44+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-23T16:09:31+00:00"
+  "last_checked": "2026-11-23T20:08:44+00:00"
 }
