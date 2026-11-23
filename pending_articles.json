@@ -25115,7 +25115,147 @@
       "parser": "default",
       "discovered": "2026-11-23T12:14:15+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Scalar-User-defined-functions-UDFs-in-Microsoft-Fabric-Data/ba-p/5399753",
+      "title": "Scalar User-defined functions (UDFs) in Microsoft Fabric Data Warehouse (Generally Available)",
+      "author": "SMATIN",
+      "published": "2026-11-23T15:19:07+00:00",
+      "feed": "MicrosoftFabricBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/old-camera-modern-menus-sony-a6000-gets-the-a7r-vs-menu-system/",
+      "title": "Old Camera, Modern Menus: Sony a6000 Gets the A7R V’s Menu System!",
+      "author": "AndreaMobile",
+      "published": "2026-11-23T14:08:51+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/ending-soon-preorders-on-the-new-coman-t1-mini-the-worlds-first-one-click-travel-tripod/",
+      "title": "Ending soon: Preorders on the new COMAN T1 MINI, the World’s First One-Click Travel Tripod",
+      "author": "AndreaMobile",
+      "published": "2026-11-23T13:03:44+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/black-friday-video-game-deals/",
+      "title": "Black Friday Video Game Deals Include Rare Sale on Nintendo Switch 2 Mario Kart World Bundle",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-23T16:05:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/m5-macbook-air-now-starts/",
+      "title": "M5 MacBook Air Now Starts at $989.10 for Black Friday, Get Up to $310 Off",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-23T15:51:13+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/apple-wallet-ids-coming-to-connecticut/",
+      "title": "Apple Wallet Driver's License Feature Coming to Connecticut",
+      "author": "Joe Rossignol",
+      "published": "2026-11-23T15:37:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/coalition-of-eu-businesses-challenges-apple/",
+      "title": "Coalition of 55,000 EU Businesses Challenges Apple",
+      "author": "Hartley Charlton",
+      "published": "2026-11-23T15:29:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/apple-watch-series-12-drops-to-299-on-amazon/",
+      "title": "Apple Watch Series 12 Drops to $299 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-23T15:08:57+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/apple-may-be-stuck-with-samsung-for-iphone-duo/",
+      "title": "Apple May Be Stuck With Samsung for iPhone Duo Screens",
+      "author": "Hartley Charlton",
+      "published": "2026-11-23T14:38:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/jensen-huang-reinstated-as-nvidia-ceo/",
+      "title": "Jensen Huang Reinstated as Nvidia CEO",
+      "author": "Joe Rossignol",
+      "published": "2026-11-23T14:20:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/iphone-air-2-may-not-have-smaller-dynamic-island/",
+      "title": "iPhone Air 2 May Not Feature Smaller Dynamic Island",
+      "author": "Hartley Charlton",
+      "published": "2026-11-23T13:22:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/ipad-mini-8-gets-100-off/",
+      "title": "iPad Mini 8 Gets First Major Discount for Black Friday at $100 Off",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-23T13:03:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/airpod-pro-3-plunge-100-off/",
+      "title": "AirPods Pro 3 Plunge to $149 for Black Friday ($100 Off)",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-23T12:51:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/apple-light-move-data-server-chips/",
+      "title": "Apple Explores Using Light to Move Data Between Server Chips",
+      "author": "Tim Hardwick",
+      "published": "2026-11-23T12:29:19+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T16:09:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-23T12:14:15+00:00"
+  "last_checked": "2026-11-23T16:09:31+00:00"
 }
