@@ -25085,7 +25085,37 @@
       "parser": "default",
       "discovered": "2026-11-23T00:27:50+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/a-massive-rumor-time-is-coming-in-early-2027-and-i-am-changing-everything-on-sar/",
+      "title": "A massive rumor time is coming in early 2027…and I am changing everything on SAR :)",
+      "author": "AndreaMobile",
+      "published": "2026-11-23T08:08:50+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T12:14:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/iphone-sales-ban-namedrop-feature/",
+      "title": "iPhone Sales Ban in India Sought by Startup Over NameDrop Feature",
+      "author": "Tim Hardwick",
+      "published": "2026-11-23T11:33:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T12:14:15+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/23/macbook-neo-new-colors-every-year/",
+      "title": "MacBook Neo Could Get New Colors and Upgrades Every Year",
+      "author": "Tim Hardwick",
+      "published": "2026-11-23T10:50:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-23T12:14:15+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-23T00:27:50+00:00"
+  "last_checked": "2026-11-23T12:14:15+00:00"
 }
