@@ -25445,7 +25445,127 @@
       "parser": "default",
       "discovered": "2026-11-24T12:14:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/we-will-get-many-more-e-mount-camera-sin-2027-mostly-high-end/",
+      "title": "We will get MANY more E-mount cameras in 2027…mostly high end!",
+      "author": "AndreaMobile",
+      "published": "2026-11-24T12:47:35+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/things-3-25-for-mac-gains-touch-gestures/",
+      "title": "Things 3.25 for Mac Gains Touch Gestures",
+      "author": "Hartley Charlton",
+      "published": "2026-11-24T16:00:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/amazon-airpods-pro-3-deal-back/",
+      "title": "Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-24T15:52:25+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/airtag-in-productred/",
+      "title": "AirTag in (PRODUCT)RED?",
+      "author": "Joe Rossignol",
+      "published": "2026-11-24T15:37:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/new-m6-imacs-discounts/",
+      "title": "M6 iMacs Get First Major Discounts With Up to $111 Off at Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-24T15:16:56+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/apple-soho-red-event-new-york/",
+      "title": "Apple to Celebrate 20 Years of (RED) With Special Event in New York",
+      "author": "Joe Rossignol",
+      "published": "2026-11-24T15:08:52+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/hidden-coupon-m6-macbook-pro/",
+      "title": "Hidden Coupon Deal Knocks M6 MacBook Pro to $1,779 on Amazon",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-24T14:43:45+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/apple-to-release-four-red-products/",
+      "title": "Apple to Release Four (RED) Products by Next Week",
+      "author": "Joe Rossignol",
+      "published": "2026-11-24T14:33:26+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/iphone-air-2-and-iphone-18-thicker-cameras/",
+      "title": "iPhone Air 2 and iPhone 18 Rumored to Feature Thicker Cameras",
+      "author": "Hartley Charlton",
+      "published": "2026-11-24T14:27:58+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/eu-talks-with-apple-over-rival-iphone-browsers/",
+      "title": "EU in Talks With Apple Over Barriers to Rival iPhone Browsers",
+      "author": "Hartley Charlton",
+      "published": "2026-11-24T14:18:34+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/iphone-18e-to-get-redesigned-ipad-pro-style-camera/",
+      "title": "iPhone 18e to Get Redesigned, iPad Pro-Style Camera",
+      "author": "Hartley Charlton",
+      "published": "2026-11-24T12:30:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/guide/iphone-duo-20-tips-apple-foldable/",
+      "title": "iPhone Duo: 20 Tips to Get the Most Out of Apple's Foldable",
+      "author": "Tim Hardwick",
+      "published": "2026-11-24T12:18:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T16:10:46+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-24T12:14:33+00:00"
+  "last_checked": "2026-11-24T16:10:46+00:00"
 }
