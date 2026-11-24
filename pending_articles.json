@@ -25425,7 +25425,17 @@
       "parser": "default",
       "discovered": "2026-11-24T00:23:38+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/just-announced-new-ttartisan-af-12mm-f-2-8-fe-lens/",
+      "title": "Just announced: New TTArtisan AF 12mm f/2.8 FE lens",
+      "author": "AndreaMobile",
+      "published": "2026-11-24T06:39:25+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T08:13:32+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-24T00:23:38+00:00"
+  "last_checked": "2026-11-24T08:13:32+00:00"
 }
