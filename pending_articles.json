@@ -25565,7 +25565,67 @@
       "parser": "default",
       "discovered": "2026-11-24T16:10:46+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045",
+      "title": "Paginated reports in Power BI support outbound access protection (Preview)",
+      "author": "kayu",
+      "published": "2026-11-24T18:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-24T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053",
+      "title": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
+      "author": "kayu",
+      "published": "2026-11-24T17:00:00+00:00",
+      "feed": "PowerBIBlog",
+      "parser": "wordpress",
+      "discovered": "2026-11-24T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/black-friday-storage-deals-sandisk-480gb-cfexpress-type-a-43-off-lexar-2tb-ssd-53-off/",
+      "title": "Black Friday storage deals: SanDisk 480GB CFexpress Type A 43% off, Lexar 2TB SSD 53% off",
+      "author": "AndreaMobile",
+      "published": "2026-11-24T18:55:36+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/black-friday-512-macbook-neo/",
+      "title": "Black Friday Discount Hits 512GB MacBook Neo at $699 ($100 Off)",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-24T18:44:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/disney-black-friday-deal/",
+      "title": "Disney+ Black Friday Deal is Here: Bundle With Hulu for Just $4.99/Month for a Year",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-24T18:22:40+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/signal-blocks-ai-access-to-protect-chats/",
+      "title": "Signal Now Blocks AI Screen Access to Protect Chats",
+      "author": "Hartley Charlton",
+      "published": "2026-11-24T17:04:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-24T20:08:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-24T16:10:46+00:00"
+  "last_checked": "2026-11-24T20:08:45+00:00"
 }
