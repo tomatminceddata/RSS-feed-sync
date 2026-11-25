@@ -25715,7 +25715,37 @@
       "parser": "default",
       "discovered": "2026-11-25T12:14:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/amazon-black-friday-proled-macbook-pro/",
+      "title": "Amazon Sweetens Black Friday Deals on PROLED MacBook Pro",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-25T15:26:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T16:12:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/apple-has-ipads-running-macos-internally/",
+      "title": "Apple Has iPads Running macOS Internally, Says Gurman",
+      "author": "Tim Hardwick",
+      "published": "2026-11-25T12:55:37+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T16:12:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/apple-2026-heres-whats-still-coming/",
+      "title": "Apple Is Far From Done With 2026: Here's What's Still Coming",
+      "author": "Tim Hardwick",
+      "published": "2026-11-25T12:40:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T16:12:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-25T12:14:27+00:00"
+  "last_checked": "2026-11-25T16:12:27+00:00"
 }
