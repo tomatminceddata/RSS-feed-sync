@@ -25745,7 +25745,77 @@
       "parser": "default",
       "discovered": "2026-11-25T16:12:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/these-are-the-real-black-friday-hotsellers-at-bhphoto-and-amazon-sony-a7v-and-sigma-e-mount-lenses/",
+      "title": "These are the real Black Friday hotsellers at BHphoto and Amazon: Sony A7V and Sigma E-mount lenses!",
+      "author": "AndreaMobile",
+      "published": "2026-11-25T19:42:38+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/",
+      "title": "Rumor: iOS 28 to Revamp Notifications",
+      "author": "Joe Rossignol",
+      "published": "2026-11-25T19:58:18+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/iphone-no-cost-t-mobile/",
+      "title": "How To Get an iPhone Duo or iPhone 18 Pro at No Cost Through T-Mobile for Black Friday",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-25T17:22:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/iphone-battery-cyclops-ad/",
+      "title": "iPhone 18 Pro Max Battery Exhausts a Toy Cyclops in New Apple Ad",
+      "author": "Juli Clover",
+      "published": "2026-11-25T17:16:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/smart-glasses-promise-vision-pro-style-controls/",
+      "title": "$799 Smart Glasses Promise Vision Pro-Style Controls in a 45g Frame",
+      "author": "Hartley Charlton",
+      "published": "2026-11-25T17:09:11+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/apple-has-an-iphone-notifications-problem/",
+      "title": "Apple Has an iPhone Notifications Problem",
+      "author": "Joe Rossignol",
+      "published": "2026-11-25T16:30:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T20:08:45+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/amazon-airpods-pro-3-deal-back/",
+      "title": "AirPods Pro 3 for $149 is One of The Best Black Friday Deals This Year",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-25T16:25:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T20:08:45+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-25T16:12:27+00:00"
+  "last_checked": "2026-11-25T20:08:45+00:00"
 }
