@@ -25625,7 +25625,57 @@
       "parser": "default",
       "discovered": "2026-11-24T20:08:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/",
+      "title": "Tidal Bans AI Music, While Apple Music Sticks to Labels",
+      "author": "Juli Clover",
+      "published": "2026-11-24T23:44:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T00:25:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/festivitas-for-mac-2026-update/",
+      "title": "Add Holiday Lights and Snow to Your Mac With Festivitas",
+      "author": "Juli Clover",
+      "published": "2026-11-24T23:04:43+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T00:25:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/meta-muse-instagram-dms/",
+      "title": "Meta's Muse AI Agent Comes to Instagram DMs",
+      "author": "Juli Clover",
+      "published": "2026-11-24T22:12:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T00:25:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/",
+      "title": "Google Says Apple's iOS Browser Rules Offer 'Choice on Paper, Not in Practice'",
+      "author": "Juli Clover",
+      "published": "2026-11-24T22:07:06+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T00:25:31+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/24/walmart-app-drops-apple-pay/",
+      "title": "Walmart App Rolls Back Apple Pay Support After Just Weeks",
+      "author": "Joe Rossignol",
+      "published": "2026-11-24T21:37:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T00:25:31+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-24T20:08:45+00:00"
+  "last_checked": "2026-11-25T00:25:31+00:00"
 }
