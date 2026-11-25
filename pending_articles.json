@@ -25685,7 +25685,37 @@
       "parser": "default",
       "discovered": "2026-11-25T08:13:29+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/first-unconfirmed-rumors-about-a-sony-surprise-announcement-on-december-1st/",
+      "title": "First unconfirmed rumors about a Sony surprise announcement on December 1st",
+      "author": "AndreaMobile",
+      "published": "2026-11-25T11:41:24+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T12:14:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/threads-app-for-ipad-now-available/",
+      "title": "Threads App for iPad Now Available",
+      "author": "Tim Hardwick",
+      "published": "2026-11-25T11:10:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T12:14:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+      "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
+      "author": "Tim Hardwick",
+      "published": "2026-11-25T10:27:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T12:14:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-25T08:13:29+00:00"
+  "last_checked": "2026-11-25T12:14:27+00:00"
 }
