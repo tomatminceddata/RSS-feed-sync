@@ -25675,7 +25675,17 @@
       "parser": "default",
       "discovered": "2026-11-25T00:25:31+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/lots-of-new-sony-gear-coming/",
+      "title": "Lot’s of new Sony gear coming very soon…",
+      "author": "AndreaMobile",
+      "published": "2026-11-25T04:39:17+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-25T08:13:29+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-25T00:25:31+00:00"
+  "last_checked": "2026-11-25T08:13:29+00:00"
 }
