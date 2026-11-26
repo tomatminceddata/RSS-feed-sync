@@ -25875,7 +25875,47 @@
       "parser": "default",
       "discovered": "2026-11-26T08:13:01+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx3-gets-open-gate-through-vibecoding/",
+      "title": "Sony FX3 gets Open gate through vibecoding!",
+      "author": "AndreaMobile",
+      "published": "2026-11-26T11:03:49+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T12:13:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/enhance-soft-videos-cropped-photos-reduce-high-iso-noise-with-videoproc-ai-black-friday-offer/",
+      "title": "Enhance Soft Videos & Cropped Photos, Reduce High ISO Noise with VideoProc AI — Black Friday Offer",
+      "author": "AndreaMobile",
+      "published": "2026-11-26T08:36:02+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T12:13:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/",
+      "title": "Apple Faces Korean Regulator Review Over iPhone 16 AI Advertising",
+      "author": "Tim Hardwick",
+      "published": "2026-11-26T11:19:54+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T12:13:49+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/apple-watch-ultra-4-new-price/",
+      "title": "Apple Watch Ultra 4 Hits New Best-Ever Price of $649.99 for Black Friday",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-26T11:07:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T12:13:49+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-26T08:13:01+00:00"
+  "last_checked": "2026-11-26T12:13:49+00:00"
 }
