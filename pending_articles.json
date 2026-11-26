@@ -25815,7 +25815,47 @@
       "parser": "default",
       "discovered": "2026-11-25T20:08:45+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/",
+      "title": "Redesigned OLED MacBook Air Could Launch in 2027 or 2028",
+      "author": "Juli Clover",
+      "published": "2026-11-25T23:30:14+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T00:24:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/1password-security-breach/",
+      "title": "1Password Security Breach: What Was Accessed and What Wasn't",
+      "author": "Juli Clover",
+      "published": "2026-11-25T21:32:02+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T00:24:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/whatsapp-finally-adds-scheduled-messages/",
+      "title": "WhatsApp Finally Adds Scheduled Messages",
+      "author": "Juli Clover",
+      "published": "2026-11-25T20:38:44+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T00:24:41+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/ipad-for-379-black-friday-sale/",
+      "title": "Get Apple's Cheapest iPad for $379 During Amazon's Black Friday Sale",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-25T20:22:10+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T00:24:41+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-25T20:08:45+00:00"
+  "last_checked": "2026-11-26T00:24:41+00:00"
 }
