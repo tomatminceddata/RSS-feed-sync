@@ -25915,7 +25915,87 @@
       "parser": "default",
       "discovered": "2026-11-26T12:13:49+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/arcane-lantern-aims-to-extend-open-gate-on-all-sony-alpha-and-fx-camera-and-to-remove-the-15fps-limit-on-third-party-lenses/",
+      "title": "Arcane Lantern aims to extend Open Gate on all Sony Alpha and FX camera…and to remove the 15fps limit on third party lenses!",
+      "author": "AndreaMobile",
+      "published": "2026-11-26T15:07:38+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T16:10:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/macbook-air-black-friday-deals-3/",
+      "title": "MacBook Air Black Friday Deals Now Live With Massive $399 Savings",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-26T15:31:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T16:10:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/macbook-neo-all-models-99/",
+      "title": "Amazon Discounts All MacBook Neo Models by $99 for Black Friday",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-26T15:05:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T16:10:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/kodak-launches-airtag-rival/",
+      "title": "Kodak Launches Unique AirTag Rival With E-Ink Display",
+      "author": "Hartley Charlton",
+      "published": "2026-11-26T14:00:32+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T16:10:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/heres-why-the-apple-store-is-going-down/",
+      "title": "Here's Why the Apple Store is Going Down",
+      "author": "Joe Rossignol",
+      "published": "2026-11-26T13:50:09+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T16:10:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/apple-still-working-on-giant-foldable-ipad/",
+      "title": "Apple Still Working on Giant Foldable iPad That Could Cost $5,000",
+      "author": "Hartley Charlton",
+      "published": "2026-11-26T13:08:39+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T16:10:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/iphones-dominate-china-singles-day-sales/",
+      "title": "iPhones Dominate China's Weak Singles' Day Smartphone Sales",
+      "author": "Tim Hardwick",
+      "published": "2026-11-26T12:55:48+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T16:10:42+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/iphone-20-pro-ceramic-limited-edition-model/",
+      "title": "iPhone 20 Pro Could Feature Ceramic in Limited-Edition Model",
+      "author": "Tim Hardwick",
+      "published": "2026-11-26T12:24:29+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T16:10:42+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-26T12:13:49+00:00"
+  "last_checked": "2026-11-26T16:10:42+00:00"
 }
