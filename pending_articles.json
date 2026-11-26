@@ -25855,7 +25855,27 @@
       "parser": "default",
       "discovered": "2026-11-26T00:24:41+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-a6700-hacked-gets-6k30-and-2k-opengate/",
+      "title": "Sony A6700 hacked! gets 6K30 and 2K OpenGate",
+      "author": "AndreaMobile",
+      "published": "2026-11-26T07:38:09+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T08:13:01+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/25/apple-store-kukatpally-hyderabad-india/",
+      "title": "New Apple Store Opening in India, Download the Special Wallpaper Now",
+      "author": "Joe Rossignol",
+      "published": "2026-11-26T04:17:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-26T08:13:01+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-26T00:24:41+00:00"
+  "last_checked": "2026-11-26T08:13:01+00:00"
 }
