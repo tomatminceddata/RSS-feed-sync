@@ -26025,7 +26025,17 @@
       "parser": "default",
       "discovered": "2026-11-26T20:09:07+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/26/50-best-apple-black-friday-deals/",
+      "title": "The 50+ Best Apple Black Friday Deals on AirPods, iPads, MacBooks, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-26T21:19:53+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T00:25:33+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-26T20:09:07+00:00"
+  "last_checked": "2026-11-27T00:25:33+00:00"
 }
