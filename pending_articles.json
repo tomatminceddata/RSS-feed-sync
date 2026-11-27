@@ -26215,7 +26215,37 @@
       "parser": "default",
       "discovered": "2026-11-27T16:10:27+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/m6-and-proled-macbook-pro-black-friday/",
+      "title": "Apple's M6 and PROLED MacBook Pro Reach New Low Prices for Black Friday",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-27T17:27:01+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T20:09:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/the-macrumors-show-iphone-air-2-and-18/",
+      "title": "The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming",
+      "author": "Hartley Charlton",
+      "published": "2026-11-27T17:21:07+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T20:09:04+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/apple-chermside-reopening-date/",
+      "title": "Apple Store in Brisbane Reopening Next Month With New Design",
+      "author": "Joe Rossignol",
+      "published": "2026-11-27T16:53:31+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T20:09:04+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-27T16:10:27+00:00"
+  "last_checked": "2026-11-27T20:09:04+00:00"
 }
