@@ -26085,7 +26085,137 @@
       "parser": "default",
       "discovered": "2026-11-27T12:14:18+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/big-black-friday-day-deals-new-sony-amazon-resale-deals-new-apple-gift-card-deal-and-bh-massive-deal-zone-savings-on-storage/",
+      "title": "Big Black Friday day deals: New Sony Amazon Resale deals, new Apple Gift Card deal and B&H massive Deal Zone savings on storage",
+      "author": "AndreaMobile",
+      "published": "2026-11-27T13:36:30+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/60-best-black-friday-accessory-deals/",
+      "title": "The 60+ Best Black Friday Accessory Deals on iPhone Chargers, TVs, Headphones, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-27T16:06:21+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/gta-vi-on-apple-silicon-macs/",
+      "title": "GTA VI Now (Barely) Running on Apple Silicon Macs",
+      "author": "Hartley Charlton",
+      "published": "2026-11-27T15:46:16+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-streaming/",
+      "title": "The Best Black Friday Streaming Deals on Apple TV, Disney+, and More",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-27T15:06:49+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/careme-wins-emmy/",
+      "title": "Apple TV's 'Carême' Wins International Emmy for Best Drama",
+      "author": "Hartley Charlton",
+      "published": "2026-11-27T14:30:59+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/iphone-18-production-delay/",
+      "title": "iPhone 18 Production Delay Leaves Apple Little Time Before Launch",
+      "author": "Hartley Charlton",
+      "published": "2026-11-27T13:48:42+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-airpods-deals-2026/",
+      "title": "The Best Black Friday AirPods Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-27T13:15:00+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/the-best-black-friday-deals-on-apple-home-products/",
+      "title": "The Best Black Friday Deals on Apple Home Products",
+      "author": "Juli Clover",
+      "published": "2026-11-27T13:11:23+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-iphone-deals-2026/",
+      "title": "The Best Black Friday iPhone Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-27T12:58:27+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-ipad-deals-2026/",
+      "title": "The Best Black Friday iPad Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-27T12:54:15+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-apple-watch-deals-2026/",
+      "title": "The Best Black Friday Apple Watch Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-27T12:48:33+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-airtag-deals-2026/",
+      "title": "The Best Black Friday AirTag Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-27T12:43:55+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/best-black-friday-mac-deals-2026/",
+      "title": "The Best Black Friday Mac Deals",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-27T12:39:36+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T16:10:27+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-27T12:14:18+00:00"
+  "last_checked": "2026-11-27T16:10:27+00:00"
 }
