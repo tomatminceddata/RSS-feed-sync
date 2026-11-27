@@ -26055,7 +26055,37 @@
       "parser": "default",
       "discovered": "2026-11-27T08:13:09+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-sony-big-sony-alpha-camera-announcement-event-is-happening-this-january/",
+      "title": "Confirmed: Sony big Sony Alpha Camera announcement event is happening this January!!!",
+      "author": "AndreaMobile",
+      "published": "2026-11-27T10:35:11+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T12:14:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/iphone-share-us-smartphone-market-rises/",
+      "title": "iPhone Share of US Smartphone Market Hits 57% as Rivals Slip",
+      "author": "Tim Hardwick",
+      "published": "2026-11-27T11:53:24+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T12:14:18+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/",
+      "title": "iPhone 20 Pro Rumored to Feature 3D-Printed Titanium Frame",
+      "author": "Tim Hardwick",
+      "published": "2026-11-27T10:19:12+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T12:14:18+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-27T08:13:09+00:00"
+  "last_checked": "2026-11-27T12:14:18+00:00"
 }
