@@ -26035,7 +26035,27 @@
       "parser": "default",
       "discovered": "2026-11-27T00:25:33+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/european-black-friday-deals-are-live-sony-a7-iv-at-35-off-fe-35mm-f1-8-at-41-off/",
+      "title": "European Black Friday deals are live: Sony A7 IV at 35% off, FE 35mm F1.8 at 41% off",
+      "author": "AndreaMobile",
+      "published": "2026-11-27T06:07:38+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T08:13:09+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/here-are-the-smallrig-black-friday-deals/",
+      "title": "Smallrig BFCM Deals: Sony Cages, Tripods, Batteries and More",
+      "author": "AndreaMobile",
+      "published": "2026-11-27T05:21:07+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-27T08:13:09+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-27T00:25:33+00:00"
+  "last_checked": "2026-11-27T08:13:09+00:00"
 }
