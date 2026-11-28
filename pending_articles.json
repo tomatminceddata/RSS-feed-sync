@@ -26275,7 +26275,27 @@
       "parser": "default",
       "discovered": "2026-11-28T12:12:47+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/grab-the-software-black-friday-deals-before-they-are-gone/",
+      "title": "Grab the software Black Friday deals before they are gone!",
+      "author": "AndreaMobile",
+      "published": "2026-11-28T13:55:20+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-28T16:09:02+00:00",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.macrumors.com/2026/11/28/best-apple-black-friday-leftover-deals/",
+      "title": "Here Are the Best Apple Black Friday Leftover Deals You Can Get Today",
+      "author": "Mitchel Broussard",
+      "published": "2026-11-28T15:07:22+00:00",
+      "feed": "MacRumors",
+      "parser": "default",
+      "discovered": "2026-11-28T16:09:02+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-28T12:12:47+00:00"
+  "last_checked": "2026-11-28T16:09:02+00:00"
 }
