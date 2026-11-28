@@ -26265,7 +26265,17 @@
       "parser": "default",
       "discovered": "2026-11-28T08:11:17+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/this-sony-vibecoding-project-aims-to-support-all-alpha-cameras-with-new-features/",
+      "title": "This Sony vibecoding project aims to support all Alpha cameras with new features",
+      "author": "AndreaMobile",
+      "published": "2026-11-28T11:20:29+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-28T12:12:47+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-28T08:11:17+00:00"
+  "last_checked": "2026-11-28T12:12:47+00:00"
 }
