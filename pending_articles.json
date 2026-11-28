@@ -26255,7 +26255,17 @@
       "parser": "default",
       "discovered": "2026-11-28T04:10:48+00:00",
       "status": "pending"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-fx5-is-officially-netflix-approved/",
+      "title": "Sony FX5 is officially NETFLIX approved",
+      "author": "AndreaMobile",
+      "published": "2026-11-28T06:44:41+00:00",
+      "feed": "SonyAlphaRumors",
+      "parser": "default",
+      "discovered": "2026-11-28T08:11:17+00:00",
+      "status": "pending"
     }
   ],
-  "last_checked": "2026-11-28T04:10:48+00:00"
+  "last_checked": "2026-11-28T08:11:17+00:00"
 }
